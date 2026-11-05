@@ -9,11 +9,18 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose")
 }
 
-val keystorePropertiesFile = rootProject.file("keystore.properties")
-val keystoreProperties = Properties()
-if (keystorePropertiesFile.exists()) {
-    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
-}
+//val keystorePropertiesFile = rootProject.file("keystore.properties")
+//val keystoreProperties = Properties()
+//if (keystorePropertiesFile.exists()) {
+//    keystoreProperties.load(FileInputStream(keystorePropertiesFile))
+//}
+
+val propsFile = rootProject.file("keystore.properties")
+val localProps = if (propsFile.exists()) {
+    Properties().apply { load(FileInputStream(propsFile)) }
+} else null
+
+
 
 android {
     namespace = "cn.primeessence.garden"
@@ -27,16 +34,25 @@ android {
         versionName = "1.0.0"
     }
     
+    //signingConfigs {
+    //    create("release") {
+    //         keyAlias = keystoreProperties["keyAlias"] as String?
+    //         keyPassword = keystoreProperties["keyPassword"] as String?
+    //         storePassword = keystoreProperties["storePassword"] as String?
+    //         val storeFilePath = keystoreProperties["storeFile"] as String?
+    //         storeFile = if (!storeFilePath.isNullOrBlank()) file(storeFilePath) else null
+    //    }
+    //}
+    
     signingConfigs {
         create("release") {
-             keyAlias = keystoreProperties["keyAlias"] as String?
-             keyPassword = keystoreProperties["keyPassword"] as String?
-             storePassword = keystoreProperties["storePassword"] as String?
-             val storeFilePath = keystoreProperties["storeFile"] as String?
-             storeFile = if (!storeFilePath.isNullOrBlank()) file(storeFilePath) else null
+            storeFile = file("${rootProject.projectDir}/keystore/garden_release.p12")
+            storePassword = System.getenv("KEYSTORE_PASS") ?: localProps?.getProperty("keystore.storePass")
+            keyAlias = System.getenv("KEY_ALIAS") ?: localProps?.getProperty("keystore.alias")
+            keyPassword = System.getenv("KEY_PASS") ?: localProps?.getProperty("keystore.keyPass")
         }
     }
-
+   
     buildTypes {
         release {
             isMinifyEnabled = false
