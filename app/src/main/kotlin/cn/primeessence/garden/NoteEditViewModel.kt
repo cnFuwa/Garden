@@ -12,23 +12,24 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
+// private val application: Application,
+
 @HiltViewModel
-class NoteEditViewModel @Inject constructor(
-    private val application: Application,
+class NoteEditViewModel @Inject constructor(    
     private val repo: NoteRepo
 ) : ViewModel() {
 
     private val _note = MutableStateFlow<Note?>(null)
     val note: StateFlow<Note?> = _note.asStateFlow()
 
-    fun checkFont(): Boolean{
-        val result = checkFontHasCodePoint(
-            ctx = application,
-            fontResId = R.font.mi_san,
-            codePoint = 0x21334
-        )
-        return result
-    }
+    // fun checkFont(): Boolean{
+    //     val result = checkFontHasCodePoint(
+    //         ctx = application,
+    //         fontResId = R.font.mi_san,
+    //         codePoint = 0x21334
+    //     )
+    //     return result
+    // }
 
     fun load(id: Long) {
         viewModelScope.launch {
