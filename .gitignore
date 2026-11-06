@@ -1,0 +1,16 @@
+.gradle/
+**/build/
+local.properties
+keystore.properties
+*.apk
+*.aab
+*.jks
+*.ps12
+.idea/
+.DS_Store
+Thumbs.db
+build/
+keystore/
+.git/
+.github/
+000/
