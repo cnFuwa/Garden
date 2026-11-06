@@ -24,7 +24,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 
 @Composable
-fun HomeScreen(
+fun Home(
     gotoNoteList: () -> Unit
 ) {
     val vm: HomeViewModel = hiltViewModel()
