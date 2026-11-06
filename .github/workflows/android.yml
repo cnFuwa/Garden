@@ -1,6 +1,6 @@
 name: Build Garden Release APK
 on:
-  workflow_dispatch: # 网页手动触发入口
+  workflow_dispatch:
 
 jobs:
   build:
@@ -34,9 +34,17 @@ jobs:
         run: |
           ./gradlew :app:assembleRelease 2>&1 | tee build-log.txt
           cat build-log.txt
-    
+
       - name: Upload APK artifact
         uses: actions/upload-artifact@v5
         with:
           name: garden-apk
           path: app/build/outputs/apk/release/*.apk
+          if: success() || failure()
+
+      - name: Upload build log artifact
+        uses: actions/upload-artifact@v5
+        with:
+          name: build-log
+          path: build-log.txt
+        if: success() || failure()
