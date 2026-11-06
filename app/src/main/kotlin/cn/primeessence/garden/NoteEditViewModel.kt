@@ -12,11 +12,10 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
-// private val application: Application,
-
 @HiltViewModel
-class NoteEditViewModel @Inject constructor(    
-    private val repo: NoteRepo
+class NoteEditViewModel @Inject constructor(
+    private val repo: NoteRepo,
+    private val application: Application
 ) : ViewModel() {
 
     private val _note = MutableStateFlow<Note?>(null)
@@ -37,6 +36,16 @@ class NoteEditViewModel @Inject constructor(
         }
     }
 
+    fun import(){
+        val fileNam: String = "/unihan/pinyin.txt"
+        viewModelScope.launch {
+            repo.importAssetsFile(
+                application,
+                fileName
+            )
+        }
+    }
+    
     fun reset(id: Long) {
         viewModelScope.launch {
             _note.value = repo.getById(id)

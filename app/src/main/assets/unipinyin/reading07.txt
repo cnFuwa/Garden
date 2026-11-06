@@ -1,0 +1,2000 @@
+U+3EF9	kMandarin	xuān
+U+3EFA	kCantonese	lik6
+U+3EFA	kDefinition	a kind of jade
+U+3EFA	kHanyuPinyin	21139.040:lì
+U+3EFA	kJapanese	レキ リャク
+U+3EFA	kMandarin	lì
+U+3EFB	kCantonese	deon1
+U+3EFC	kCantonese	taam4
+U+3EFD	kDefinition	(same as 璿 璇) fine jade
+U+3EFD	kHangul	선:N 수:N
+U+3EFD	kHanyuPinyin	21137.170:suì,xuán
+U+3EFD	kJapanese	スイ ズイ セン ゼン
+U+3EFD	kMandarin	suì
+U+3EFE	kDefinition	jade articles, fine stone which is little less valuable than jade
+U+3EFE	kFanqie	於容
+U+3EFE	kHanyuPinyin	21142.140:yōng
+U+3EFE	kJapanese	ヨウ
+U+3EFE	kMandarin	yōng
+U+3EFF	kCantonese	suk6
+U+3EFF	kDefinition	a kind of jade
+U+3EFF	kFanqie	市玉
+U+3EFF	kHanyuPinyin	21141.020:shǔ
+U+3EFF	kJapanese	ショク ゾク
+U+3EFF	kMandarin	shǔ
+U+3F00	kCantonese	daat6
+U+3F01	kCantonese	ji6
+U+3F02	kDefinition	(same as 璺) a crack in jade (or porcelain)
+U+3F02	kMandarin	é
+U+3F03	kCantonese	laap6
+U+3F04	kCantonese	gei1
+U+3F04	kDefinition	(same as 璣) pearls, jade, etc. which are not quite circular
+U+3F04	kHangul	기:N
+U+3F04	kJapanese	キ
+U+3F05	kCantonese	gwong2
+U+3F06	kCantonese	jing4
+U+3F06	kDefinition	used in people's names
+U+3F06	kMandarin	yíng
+U+3F06	kSMSZD2003Readings	yíng粵jing4
+U+3F07	kCantonese	king4
+U+3F07	kDefinition	(same as non-classical form of 瓗) (same as 瓊) fine jade or agate; red stone, exquisite; fine, variety of jade
+U+3F07	kJapanese	ケイ
+U+3F07	kMandarin	qióng
+U+3F08	kCantonese	lo4
+U+3F08	kDefinition	珂㼈版, collotype
+U+3F08	kHanyuPinyin	21147.010:luó
+U+3F08	kMandarin	luó
+U+3F08	kSMSZD2003Readings	luó粵lo4
+U+3F08	kXHC1983	0749.021:luó
+U+3F09	kCantonese	zam6
+U+3F09	kDefinition	green colored melons
+U+3F09	kFanqie	直禁
+U+3F09	kHanyuPinyin	42654.080:zhèn
+U+3F09	kJapanese	ジン チン
+U+3F09	kMandarin	zhèn
+U+3F0A	kCantonese	tyun4
+U+3F0A	kDefinition	a kind of melon
+U+3F0A	kHanyuPinyin	42654.050:tún
+U+3F0A	kJapanese	トン ドン
+U+3F0A	kMandarin	tún
+U+3F0B	kCantonese	gu1
+U+3F0B	kDefinition	the cucumber, dried (preserved) vegetable
+U+3F0B	kFanqie	古胡 人渚
+U+3F0B	kHanyuPinyin	42654.100:gū,rǔ
+U+3F0B	kJapanese	コ ク ジョ からすうり
+U+3F0B	kMandarin	gū
+U+3F0C	kCantonese	jyu5
+U+3F0C	kDefinition	lot of melons growing but the root is weak and feeble, wearied and worn
+U+3F0C	kFanqie	以主
+U+3F0C	kHanyuPinyin	42655.020:yǔ
+U+3F0C	kJapanese	ユ
+U+3F0C	kMandarin	yǔ
+U+3F0D	kCantonese	leoi5
+U+3F0D	kDefinition	pulp of a melon, a kind of melon
+U+3F0D	kHanyuPinyin	42655.110:lěi
+U+3F0D	kJapanese	ライ レ
+U+3F0D	kMandarin	lěi
+U+3F0E	kCantonese	bok6
+U+3F0E	kDefinition	a small melon
+U+3F0E	kFanqie	蒲角
+U+3F0E	kHanyuPinyin	42655.130:bó
+U+3F0E	kJapanese	ハク バク
+U+3F0E	kMandarin	bó
+U+3F0F	kCantonese	neoi5
+U+3F0F	kDefinition	a bruised, overripe or rotten melon (傷瓜,傷熟瓜)
+U+3F0F	kFanqie	奴罪
+U+3F0F	kHanyuPinyin	42656.030:něi
+U+3F0F	kJapanese	ダイ ネ
+U+3F0F	kMandarin	něi
+U+3F10	kCantonese	pin4
+U+3F10	kDefinition	a kind of white melon
+U+3F10	kFanqie	部田
+U+3F10	kHanyuPinyin	42656.150:pián
+U+3F10	kJapanese	ヘン ベン
+U+3F10	kMandarin	pián
+U+3F11	kCantonese	lin6
+U+3F11	kDefinition	pulp of a melon
+U+3F11	kFanqie	郎甸
+U+3F11	kHanyuPinyin	42656.110:liàn
+U+3F11	kJapanese	レン
+U+3F11	kMandarin	liàn
+U+3F12	kCantonese	tong2
+U+3F12	kDefinition	a kind of big melon, a long melon
+U+3F12	kFanqie	他朗
+U+3F12	kHanyuPinyin	42656.120:tǎng
+U+3F12	kJapanese	トウ
+U+3F12	kMandarin	tǎng
+U+3F13	kCantonese	lim4
+U+3F13	kDefinition	melon seeds, a kind of melon
+U+3F13	kJapanese	レン
+U+3F13	kMandarin	lián
+U+3F14	kDefinition	a kind of melon
+U+3F14	kFanqie	烏渾
+U+3F14	kHanyuPinyin	42656.130,42656.200:wēn
+U+3F14	kJapanese	オン
+U+3F14	kMandarin	wēn
+U+3F15	kCantonese	dong1
+U+3F15	kDefinition	pulp of a melon
+U+3F15	kFanqie	都郎
+U+3F15	kHanyuPinyin	42657.100:dāng
+U+3F15	kJapanese	トウ
+U+3F15	kMandarin	dāng
+U+3F16	kDefinition	gourd used as a ladle or dipper
+U+3F16	kHanyuPinyin	42658.050:lì
+U+3F16	kJapanese	レイ ライ リ
+U+3F16	kMandarin	lì
+U+3F17	kCantonese	ting4
+U+3F17	kDefinition	a brick
+U+3F17	kFanqie	特丁
+U+3F17	kHanyuPinyin	21421.050:tíng
+U+3F17	kJapanese	テイ ジョウ
+U+3F17	kMandarin	tíng
+U+3F18	kCantonese	ngaa5
+U+3F18	kDefinition	of mountain; high and lofty
+U+3F18	kHanyuPinyin	21422.040:wǎ
+U+3F18	kJapanese	ガ ゲ
+U+3F18	kMandarin	wǎ
+U+3F19	kDefinition	(same as ancient form of 甃) brickwork of a well, to repair a well, to lay bricks
+U+3F19	kJapanese	シュウ
+U+3F19	kMandarin	zhòu
+U+3F1A	kCantonese	gong1
+U+3F1A	kDefinition	earthware; pottery (a basin; a pot; a bowl. a cistern; a crock), (interchangeable 缸) a big earthen jar
+U+3F1A	kHanyuPinyin	21423.030:gāng
+U+3F1A	kJapanese	コウ
+U+3F1A	kMandarin	gāng
+U+3F1B	kDefinition	(same as 鈃) long necked wine vessels (bottle; pot; jar; and cups etc.)
+U+3F1B	kFanqie	戶經
+U+3F1B	kHanyuPinyin	21422.080,21424.060:xíng
+U+3F1B	kJapanese	ケイ ギョウ コウ
+U+3F1B	kMandarin	xíng
+U+3F1C	kCantonese	ong3
+U+3F1C	kDefinition	(same as 盎) a basin; pot; bowl or dish, sleek; well-favoured, abundant, a musical instrument
+U+3F1C	kJapanese	オウ ヨウ はち
+U+3F1C	kMandarin	àng
+U+3F1D	kCantonese	wun2
+U+3F1D	kDefinition	(same as 盌) (a variant of 碗) a bowl; a basin; a cup; a dish
+U+3F1D	kJapanese	ワン
+U+3F1D	kMandarin	fàn
+U+3F1E	kDefinition	jar with a small mouth, an earthen jar, a jar for the ashes of the dead
+U+3F1E	kHanyuPinyin	21423.080:pèng,bèng
+U+3F1E	kJapanese	ホウ ヒョウ ビョウ
+U+3F1E	kMandarin	pèng
+U+3F1F	kCantonese	baak6
+U+3F1F	kDefinition	a tiled house, brick wall of a well
+U+3F1F	kFanqie	博陌
+U+3F1F	kHanyuPinyin	21423.120:bó
+U+3F1F	kMandarin	bó
+U+3F20	kCantonese	to4
+U+3F20	kDefinition	a crock with narrow opening, an earthen jar
+U+3F20	kFanqie	徒河
+U+3F20	kHanyuPinyin	21424.020:tuó
+U+3F20	kJapanese	タ ダ
+U+3F20	kMandarin	tuó
+U+3F21	kCantonese	syu4
+U+3F21	kDefinition	a small jar with a small mouth, a bottle; pitcher; jug etc.
+U+3F21	kFanqie	市朱
+U+3F21	kHanyuPinyin	21424.170:shū
+U+3F21	kJapanese	シュ ジュ
+U+3F21	kMandarin	shū
+U+3F22	kDefinition	bricks (same as 瓵) an earthen jar, a jar for the ashes of the dead
+U+3F22	kFanqie	與之
+U+3F22	kHanyuPinyin	21424.100:yí
+U+3F22	kJapanese	イ
+U+3F22	kMandarin	yí
+U+3F23	kCantonese	baak3
+U+3F23	kDefinition	bricks of the well; brick wall of a well, to build a well, to construct with bricks
+U+3F23	kHanyuPinyin	21424.110:bó
+U+3F23	kJapanese	ヒャク ハク
+U+3F23	kMandarin	bó
+U+3F24	kCantonese	kit3
+U+3F24	kDefinition	earthenware (a basin; a pot; a bowl; a crock with a narrow opening)
+U+3F24	kFanqie	苦結
+U+3F24	kHanyuPinyin	21424.180:qiè
+U+3F24	kJapanese	ケツ ケチ ケイ
+U+3F24	kMandarin	qiè
+U+3F25	kCantonese	tau2
+U+3F25	kDefinition	bottle, earthenware
+U+3F25	kFanqie	苦浩
+U+3F25	kHanyuPinyin	21424.080:tǒu,kǎo
+U+3F25	kJapanese	コウ トウ ツ
+U+3F25	kMandarin	tǒu
+U+3F26	kCantonese	gung2
+U+3F26	kDefinition	earthenware; pottery (bottle; pitcher; jug; vase; crock with a narrow opening)
+U+3F26	kFanqie	居悚
+U+3F26	kHanyuPinyin	21424.090:gǒng
+U+3F26	kJapanese	キョウ
+U+3F26	kMandarin	gǒng
+U+3F27	kCantonese	tung4
+U+3F27	kDefinition	tiles in cylinder shape; used to build a palace; a temple or a shrine
+U+3F27	kFanqie	徒紅
+U+3F27	kHanyuPinyin	21426.060:tóng
+U+3F27	kJapanese	トウ ズ
+U+3F27	kMandarin	tóng
+U+3F28	kCantonese	ham4
+U+3F28	kDefinition	a water-jar with ears for carrying it
+U+3F28	kJapanese	カン ゴン
+U+3F28	kMandarin	hán
+U+3F29	kCantonese	sing4
+U+3F29	kDefinition	concave channels of tiling, a long-necked jar, utensil; instrument; implement
+U+3F29	kHanyuPinyin	21424.140:chéng,shèng
+U+3F29	kJapanese	セイ ジョウ
+U+3F29	kMandarin	chéng
+U+3F2A	kCantonese	zip3
+U+3F2A	kDefinition	fragments of a tile haven't t been kiln-dried completely, tiles overlapping
+U+3F2A	kFanqie	子協
+U+3F2A	kHanyuPinyin	21425.120:jié
+U+3F2A	kJapanese	ショウ
+U+3F2A	kMandarin	jié
+U+3F2B	kDefinition	earthenware or pottery with big opening, wine utensil (containers) with big opening
+U+3F2B	kHanyuPinyin	21426.190:huàn,huà
+U+3F2B	kJapanese	カン ガン カ ゲ
+U+3F2B	kMandarin	huàn
+U+3F2C	kCantonese	hang6
+U+3F2C	kDefinition	earthenware (a basin; a pot; a bowl; a crock etc.)
+U+3F2C	kFanqie	胡耿
+U+3F2C	kHanyuPinyin	21426.100:xìng
+U+3F2C	kJapanese	コウ ギョウ ケイ
+U+3F2C	kMandarin	xìng
+U+3F2D	kDefinition	(interchangeable 墊) to steady by putting something underneath, to shore up; to prop
+U+3F2D	kFanqie	徒念
+U+3F2D	kHanyuPinyin	21426.080:diàn
+U+3F2D	kJapanese	テン デン
+U+3F2D	kMandarin	diàn
+U+3F2E	kCantonese	caai1
+U+3F2E	kDefinition	to rub out the filth with broken tiles, brickwork of a well, to repair a well, to lay bricks
+U+3F2E	kFanqie	楚佳
+U+3F2E	kHanyuPinyin	21426.160:chāi,qì
+U+3F2E	kJapanese	サイ セ バイ メ サ シャ セイ
+U+3F2E	kMandarin	chāi
+U+3F2F	kDefinition	earthenware (jar with a small mouth)
+U+3F2F	kFanqie	多貢
+U+3F2F	kHanyuPinyin	21426.140:dòng
+U+3F2F	kJapanese	トウ ツ
+U+3F2F	kMandarin	dòng
+U+3F30	kCantonese	pei4
+U+3F30	kDefinition	an earthenware jar with a small mouth and two or four ears; used to store water for fire prevention in ancient times
+U+3F30	kFanqie	部迷
+U+3F30	kHanyuPinyin	21427.040:pí
+U+3F30	kJapanese	ヘイ ベイ ヒ ビ
+U+3F30	kMandarin	pí
+U+3F31	kDefinition	to manage or regulate the leather material, soft, hunting clothes (leather trousers)
+U+3F31	kFanqie	人朱 而兖 子峻
+U+3F31	kHanyuPinyin	21428.040:ruǎn,jùn
+U+3F31	kJapanese	シュン ゼン ネン
+U+3F31	kMandarin	ruǎn
+U+3F32	kDefinition	sound of broken tiles, thin tiles
+U+3F32	kFanqie	良涉 盧協
+U+3F32	kHanyuPinyin	21428.020:liè
+U+3F32	kJapanese	リョウ
+U+3F32	kMandarin	liè
+U+3F33	kDefinition	earthenware (a basin; a pot; a bowl; a crock etc.)
+U+3F33	kFanqie	所景
+U+3F33	kHanyuPinyin	21428.050:shěng
+U+3F33	kJapanese	セイ ショウ
+U+3F33	kMandarin	shěng
+U+3F34	kDefinition	an earthen vessel; a basin; a pot; a jar
+U+3F34	kFanqie	五口
+U+3F34	kHanyuPinyin	21428.080:ǒu
+U+3F34	kJapanese	ゴウ ゴ
+U+3F34	kMandarin	ǒu
+U+3F35	kDefinition	a small basin; a bowl. a cup; a pot; a jar
+U+3F35	kFanqie	徒禮
+U+3F35	kHanyuPinyin	21428.060:dì
+U+3F35	kJapanese	テイ ダイ
+U+3F35	kMandarin	dì
+U+3F36	kDefinition	earthenware (a basin; a pot; a bowl; a crock etc.)
+U+3F36	kFanqie	羊朱
+U+3F36	kHanyuPinyin	21429.020:yú
+U+3F36	kJapanese	ユ ユウ ウ
+U+3F36	kMandarin	yú
+U+3F37	kCantonese	zyun1
+U+3F37	kDefinition	a basin, (same as 甎) a brick; a square tile
+U+3F37	kHanyuPinyin	21428.090:chuán,zhuān
+U+3F37	kJapanese	セン
+U+3F37	kMandarin	chuán
+U+3F38	kDefinition	earthenware (a basin; a pot; a bowl; a crock etc.)
+U+3F38	kFanqie	餘封
+U+3F38	kHanyuPinyin	21430.080:róng
+U+3F38	kJapanese	ヨウ ユ
+U+3F38	kMandarin	róng
+U+3F39	kCantonese	hong1
+U+3F39	kDefinition	earthenware; pottery, a kind container; vessel
+U+3F39	kFanqie	苦江 苦岡
+U+3F39	kHanyuPinyin	21429.050:kāng,huāng
+U+3F39	kJapanese	コウ
+U+3F39	kMandarin	kāng
+U+3F3A	kCantonese	tong4
+U+3F3A	kDefinition	porcelain; porcelain ware; chinaware; china, a small bottle with ears
+U+3F3A	kFanqie	徒郎
+U+3F3A	kHanyuPinyin	21430.050:táng
+U+3F3A	kJapanese	トウ ドウ
+U+3F3A	kMandarin	táng
+U+3F3B	kCantonese	cung4
+U+3F3B	kDefinition	earthenware (a jar; a jar with a small mouth and two or four ears; a pot; a pitcher)
+U+3F3B	kFanqie	藏宗 士江
+U+3F3B	kHanyuPinyin	21431.060:cóng
+U+3F3B	kJapanese	ソウ ゾウ ズ
+U+3F3B	kMandarin	cóng
+U+3F3C	kCantonese	piu4
+U+3F3C	kDefinition	(same as 瓢) a ladle (often made of dried calabash or gourd)
+U+3F3C	kJapanese	ヒョウ
+U+3F3C	kMandarin	piáo
+U+3F3D	kDefinition	fragments of tile incompletely kiln-dried; to scrub out filth with broken tiles
+U+3F3D	kFanqie	初兩 踈兩
+U+3F3D	kHanyuPinyin	21431.020:chuǎng,shuǎng
+U+3F3D	kJapanese	ソウ ショウ
+U+3F3D	kMandarin	chuǎng
+U+3F3E	kCantonese	luk6
+U+3F3E	kDefinition	bricks
+U+3F3E	kFanqie	盧谷
+U+3F3E	kHanyuPinyin	21431.090:lù
+U+3F3E	kJapanese	ロク
+U+3F3E	kMandarin	lù
+U+3F3F	kCantonese	tung4
+U+3F3F	kDefinition	the brick wall of a well, earthenware (a jar; a jar with a small mouth and two or four ears; a pot; a pitcher)
+U+3F3F	kFanqie	徒紅 之用
+U+3F3F	kHanyuPinyin	21432.060:tóng,zhòng
+U+3F3F	kJapanese	トウ ズ ショウ シュ
+U+3F3F	kMandarin	tóng
+U+3F40	kDefinition	earthenware (a basin; a pot; a bowl; a crock etc.)
+U+3F40	kFanqie	直正
+U+3F40	kHanyuPinyin	21432.040:zhèng
+U+3F40	kJapanese	テイ ジョウ
+U+3F40	kMandarin	zhèng
+U+3F41	kCantonese	lik6
+U+3F41	kDefinition	(same as 鬲) a large earthen pot, a large iron cauldron used in old time
+U+3F41	kFanqie	郎擊
+U+3F41	kJapanese	レキ リャク かなえ
+U+3F41	kMandarin	lì
+U+3F41	kXHC1983	0697.062:lì
+U+3F42	kDefinition	a cracked container, a movement of a musical composition in Tang Dynasty
+U+3F42	kHanyuPinyin	21432.020:sà
+U+3F42	kJapanese	ソウ
+U+3F42	kMandarin	sà
+U+3F43	kCantonese	pun1
+U+3F43	kDefinition	a big piece of brick
+U+3F43	kFanqie	普官
+U+3F43	kHanyuPinyin	21432.050:pān
+U+3F43	kJapanese	ハン ボン
+U+3F43	kMandarin	pān
+U+3F44	kCantonese	si1
+U+3F44	kDefinition	an earthen jar, crack of earthen container, hoarse voice
+U+3F44	kFanqie	息移 先稽
+U+3F44	kHanyuPinyin	21431.120:sī
+U+3F44	kJapanese	シ セイ サイ
+U+3F44	kMandarin	sī
+U+3F45	kCantonese	dang1
+U+3F45	kDefinition	vessel for ceremony in ancient times
+U+3F45	kFanqie	都滕
+U+3F46	kCantonese	dong1
+U+3F46	kDefinition	earthenware; a bowl; a cup, tiles with a circular facade at one end used along the edge of palace eaves during the Han Dynasty
+U+3F46	kHanyuPinyin	21432.160:dāng
+U+3F46	kJapanese	トウ
+U+3F46	kMandarin	dāng
+U+3F47	kDefinition	unburnt tiles, earthenware
+U+3F47	kFanqie	胡谷
+U+3F47	kHanyuPinyin	21433.010:hú
+U+3F47	kJapanese	コク ゴク
+U+3F47	kMandarin	hú
+U+3F48	kDefinition	a large earthenware jar with a small mouth and two or four ears; a big pot; bottle; pitcher; jug; vase
+U+3F48	kFanqie	魚記
+U+3F48	kHanyuPinyin	21433.090:yì
+U+3F48	kJapanese	ギ
+U+3F48	kMandarin	yì
+U+3F49	kDefinition	a big jar; a big basin
+U+3F49	kFanqie	胡懺
+U+3F49	kHanyuPinyin	21433.070:xiàn
+U+3F49	kJapanese	カン ガン
+U+3F49	kMandarin	xiàn
+U+3F4A	kDefinition	cracking of tile
+U+3F4A	kHanyuPinyin	21434.080:xiè
+U+3F4A	kJapanese	ショウ
+U+3F4A	kMandarin	xiè
+U+3F4B	kCantonese	lo4
+U+3F4B	kDefinition	a kind of tile, earthenware, a cylinder shaped tile used for chimney
+U+3F4B	kHanyuPinyin	21434.180:luó
+U+3F4B	kJapanese	ラ
+U+3F4B	kMandarin	luó
+U+3F4C	kCantonese	lau6
+U+3F4C	kDefinition	the ridge of a roof
+U+3F4C	kFanqie	力救
+U+3F4C	kMandarin	liù
+U+3F4D	kCantonese	ham1
+U+3F4D	kDefinition	(same as 坩) an earthen vessel
+U+3F4D	kJapanese	カン
+U+3F4E	kCantonese	taam4
+U+3F4E	kDefinition	the profundity of the harem, the mysterious and profound of the forbidden palace, the flourishing and exuberant of the flame
+U+3F4E	kFanqie	許金 徒含
+U+3F4E	kHanyuPinyin	10026.150:tán,xīn
+U+3F4E	kJapanese	タン トン ドン キン コン
+U+3F4E	kMandarin	tán
+U+3F4F	kCantonese	gam3
+U+3F4F	kMandarin	gàn
+U+3F4F	kTGHZ2013	107.090:gàn
+U+3F4F	kXHC1983	0359.060:gàn
+U+3F50	kDefinition	(same as 馦) fragrant
+U+3F50	kFanqie	許兼
+U+3F50	kJapanese	ケン
+U+3F51	kCantonese	taam4
+U+3F51	kDefinition	delicious; tasty (same as 醰) full flavoured; rich
+U+3F51	kFanqie	徒含
+U+3F51	kHanyuPinyin	42414.170:tán
+U+3F51	kJapanese	タン ドン
+U+3F51	kMandarin	tán
+U+3F52	kCantonese	sang1
+U+3F52	kDefinition	(same as 甥) the children of a sister, a son-in-law
+U+3F52	kJapanese	セイ
+U+3F53	kCantonese	san1
+U+3F54	kCantonese	jeoi6
+U+3F55	kDefinition	new branches growing (said of trees), hollow; empty
+U+3F55	kHanyuPinyin	42530.010:yóu
+U+3F55	kJapanese	ユウ ユ
+U+3F55	kMandarin	yóu
+U+3F56	kDefinition	(same as 男) a human; a man; a boy (non-classical form of 留) to remain; to stay, to keep, to preserve
+U+3F56	kJapanese	ダン
+U+3F56	kMandarin	nán
+U+3F57	kCantonese	din6
+U+3F57	kJapanese	セ うね
+U+3F58	kDefinition	borderland; the frontier, a pit; a cave, a narrow path in the field, administrative unit for rural community of 傣族 (under the feudal system), pond; a marsh, saltpond, (same as 䴚) salt marsh
+U+3F58	kFanqie	各朗
+U+3F58	kHanyuPinyin	42534.110:gǎng
+U+3F58	kJapanese	コウ
+U+3F58	kMandarin	gǎng
+U+3F58	kXHC1983	0362.030:gǎng
+U+3F59	kCantonese	zeon3
+U+3F59	kDefinition	(same as 畯) official in charge of farmlands in ancient times; a bailiff or landlord, rustic; crude (ancient form of 允) to allow; to grant
+U+3F59	kJapanese	イン まこと
+U+3F59	kMandarin	jùn
+U+3F5A	kCantonese	cik1
+U+3F5A	kDefinition	agricultural implements; farm tools, name of a place
+U+3F5A	kFanqie	恥力
+U+3F5A	kHanyuPinyin	42533.080:chì
+U+3F5A	kJapanese	セキ シャク
+U+3F5A	kMandarin	chì
+U+3F5B	kDefinition	narrow trail of path in the fields, a name of an old county in today's Yunnan Province
+U+3F5B	kHanyuPinyin	42537.020:gōu,qú
+U+3F5B	kJapanese	コウ ク グ
+U+3F5B	kMandarin	gōu
+U+3F5C	kJapanese	エン
+U+3F5C	kMandarin	wǎn
+U+3F5D	kCantonese	lai6
+U+3F5D	kDefinition	to sink; to fall, to entrap, to crush; to capture
+U+3F5D	kHanyuPinyin	42541.030:lì
+U+3F5D	kJapanese	レイ レツ レチ
+U+3F5D	kMandarin	lì
+U+3F5E	kCantonese	lau4
+U+3F5E	kDefinition	(abbreviated form of 留) to remain; to stay, to detain, to leave behind
+U+3F5E	kJapanese	リュウ
+U+3F5E	kMandarin	liú
+U+3F5F	kCantonese	lyut3
+U+3F5F	kDefinition	to till or to plough the fields (same as 埒) an enclosure, an embankment, a dike
+U+3F5F	kHanyuPinyin	42542.170:liè
+U+3F5F	kJapanese	レツ レチ
+U+3F5F	kMandarin	liè
+U+3F60	kDefinition	connection of the ditches or waterways
+U+3F60	kHanyuPinyin	42542.130:xiá
+U+3F60	kJapanese	コウ ギョウ
+U+3F60	kMandarin	xiá
+U+3F61	kCantonese	bei1
+U+3F61	kDefinition	field, block up the water to irrigate the fields
+U+3F61	kFanqie	彼爲
+U+3F61	kHanyuPinyin	42548.060:bēi
+U+3F61	kJapanese	ヒ
+U+3F61	kMandarin	bēi
+U+3F62	kCantonese	am2
+U+3F62	kDefinition	to plough the fields
+U+3F62	kHanyuPinyin	42546.010:ǎn
+U+3F62	kJapanese	アン オン ヨウ
+U+3F62	kMandarin	ǎn
+U+3F63	kCantonese	wik6
+U+3F63	kDefinition	(ancient form of 域) a frontier; a boundary; a region; a country, to keep within bounds
+U+3F63	kJapanese	イキ
+U+3F63	kMandarin	yù
+U+3F64	kCantonese	guk1
+U+3F64	kDefinition	a small plot of land
+U+3F64	kFanqie	居六
+U+3F64	kHanyuPinyin	42548.090:jú
+U+3F64	kJapanese	キク コク
+U+3F64	kMandarin	jú
+U+3F65	kCantonese	jau4
+U+3F65	kDefinition	fertile fields; good land (during the Epoch of Spring and Autumn) name of a place in Zheng Guo (today's Henan Province LuShan Xian)
+U+3F65	kFanqie	耳由
+U+3F65	kHanyuPinyin	42550.130:róu
+U+3F65	kJapanese	ジュウ ニュ
+U+3F65	kMandarin	róu
+U+3F66	kDefinition	reclaimed land; flat and in even level
+U+3F66	kFanqie	詳遵
+U+3F66	kHanyuPinyin	42551.070:xún
+U+3F66	kJapanese	シュン ジュン ケン ゲン キン テン デン シン
+U+3F66	kMandarin	xún
+U+3F67	kCantonese	zi1
+U+3F67	kDefinition	name of a place
+U+3F67	kHanyuPinyin	42550.080:zī
+U+3F67	kJapanese	シ
+U+3F67	kMandarin	zī
+U+3F68	kDefinition	fragmented; uncultivated and desolated fields, to eliminate; remove, to clean (interchangeable 瘥) an epidemic; a plague
+U+3F68	kFanqie	昨何
+U+3F68	kHanyuPinyin	42551.060:cuó
+U+3F68	kJapanese	サ シャ
+U+3F68	kMandarin	cuó
+U+3F69	kDefinition	connected banks of earth or paths in the field
+U+3F69	kFanqie	七紺
+U+3F69	kHanyuPinyin	42552.110:càn
+U+3F69	kJapanese	サン
+U+3F69	kMandarin	càn
+U+3F6A	kCantonese	zang2
+U+3F6A	kDefinition	paddy field; rice field
+U+3F6A	kHanyuPinyin	42552.210:zěng
+U+3F6A	kJapanese	ソウ
+U+3F6A	kMandarin	zěng
+U+3F6B	kDefinition	seeds of the plant allied to the water-lily; used when ground into meal; as a coarse food, also as medicine (same as 壅) to block up, to bank up roots of plants, to impede (flow, etc.)
+U+3F6B	kHanyuPinyin	42553.110:yōng
+U+3F6B	kJapanese	ヨウ ユ
+U+3F6B	kMandarin	yōng
+U+3F6C	kCantonese	fu3
+U+3F6C	kDefinition	(same as 副) to assist, secondary (in importance), rich and dense
+U+3F6C	kFanqie	芳逼
+U+3F6C	kHanyuPinyin	42553.070:fù,pì
+U+3F6C	kJapanese	フウ フ ヒョク ヒキ
+U+3F6C	kMandarin	fù
+U+3F6D	kDefinition	vacant lot or space, soft land; land on the river side
+U+3F6D	kJapanese	ゼン
+U+3F6D	kMandarin	ruǎn
+U+3F6E	kCantonese	sing1
+U+3F6E	kDefinition	(same as 星) a point of light, stars; planets, a spark
+U+3F6E	kJapanese	セイ
+U+3F6F	kCantonese	kwai4
+U+3F6F	kJapanese	ケイ
+U+3F6F	kMandarin	xí
+U+3F70	kCantonese	so1
+U+3F70	kDefinition	(corrupted form) carved window frame on a door, the windows with scattered or dispersed frames, a wine filterer
+U+3F70	kFanqie	所葅
+U+3F70	kJapanese	ショ ソ
+U+3F70	kMandarin	shù
+U+3F71	kCantonese	gaau2
+U+3F71	kDefinition	griping colic, a swelling, a little painful; some not serious
+U+3F71	kFanqie	居求 居虯 古巧
+U+3F71	kHanyuPinyin	42659.130:jiǎo,jiū,niú
+U+3F71	kJapanese	コウ キョウ キュウ ク ジュウ ニュ
+U+3F71	kMandarin	jiǎo
+U+3F72	kDefinition	(same as 㽱) griping colic, illness; disease
+U+3F72	kFanqie	許久
+U+3F72	kHanyuPinyin	42659.040:jiǎo,xiǔ
+U+3F72	kJapanese	キュウ ク
+U+3F72	kMandarin	jiǎo
+U+3F73	kCantonese	heoi1
+U+3F73	kDefinition	illness; disease
+U+3F73	kFanqie	況于
+U+3F73	kHanyuPinyin	42660.020:xū
+U+3F73	kJapanese	ク
+U+3F73	kMandarin	xū
+U+3F73	kVietnamese	võ
+U+3F74	kCantonese	zoeng6
+U+3F74	kDefinition	illness; disease
+U+3F74	kFanqie	直兩
+U+3F74	kHanyuPinyin	42660.090:zhàng
+U+3F74	kJapanese	チョウ ジョウ
+U+3F74	kMandarin	zhàng
+U+3F75	kCantonese	zong1
+U+3F75	kDefinition	(same as non-classical form of 莊) solemn, large farmhouse
+U+3F75	kFanqie	側羊
+U+3F75	kJapanese	ソウ ショウ
+U+3F76	kCantonese	gei2
+U+3F77	kCantonese	seoi3
+U+3F77	kDefinition	dropsy; hydrophilic swelling
+U+3F77	kFanqie	釋類
+U+3F77	kHanyuPinyin	42662.060:shuì
+U+3F77	kJapanese	スイ
+U+3F77	kMandarin	shuì
+U+3F78	kDefinition	(corrupted form 瘎) diseases of the abdomen, illness, sick for the second time; get sick again
+U+3F78	kFanqie	氏任
+U+3F78	kJapanese	ジン
+U+3F78	kMandarin	chén
+U+3F79	kCantonese	faan2
+U+3F79	kDefinition	to faint, to feel nausea, abuse; vilification
+U+3F79	kFanqie	芳万
+U+3F79	kHanyuPinyin	42662.120:fǎn,fàn
+U+3F79	kJapanese	ハン ホン
+U+3F79	kMandarin	fǎn
+U+3F7A	kCantonese	gap1
+U+3F7A	kDefinition	to be weakened by disease; feeble; lean (a dialect) poor in quality
+U+3F7A	kFanqie	居立 呼合 呼盍
+U+3F7A	kHanyuPinyin	42661.030:jí
+U+3F7A	kJapanese	コウ ゴウ キュウ
+U+3F7A	kMandarin	jí
+U+3F7B	kCantonese	zi1
+U+3F7B	kDefinition	diseases; illness
+U+3F7B	kFanqie	章移
+U+3F7B	kHanyuPinyin	42661.090:zhī
+U+3F7B	kJapanese	シ
+U+3F7B	kMandarin	zhī
+U+3F7C	kCantonese	jan5
+U+3F7D	kCantonese	gu3
+U+3F7D	kDefinition	(same as 痼) chronic disease, a sore in the mouth of a child
+U+3F7D	kFanqie	古暮
+U+3F7D	kHanyuPinyin	42664.090:gù
+U+3F7D	kJapanese	コ ク
+U+3F7D	kMandarin	gù
+U+3F7E	kDefinition	a kind of woman's disease, to cut apart, to break
+U+3F7E	kFanqie	五忽
+U+3F7E	kHanyuPinyin	42669.090:wù
+U+3F7E	kJapanese	ゴツ ゴチ
+U+3F7E	kMandarin	wù
+U+3F7F	kDefinition	(same as 瘑) ulcer; sore; boil, illness; disease
+U+3F7F	kFanqie	古禾 苦禾
+U+3F7F	kJapanese	カ
+U+3F7F	kVietnamese	cùi
+U+3F80	kCantonese	hip3
+U+3F80	kDefinition	(interchangeable 怯) to be weakened by disease; weak; feeble, lean; emaciated, illness; disease; sick
+U+3F80	kFanqie	去劫
+U+3F80	kHanyuPinyin	42664.060:qiè,qǔ
+U+3F80	kJapanese	キョウ コウ キョ コ
+U+3F80	kMandarin	qiè
+U+3F81	kDefinition	walking like mad; mad
+U+3F81	kFanqie	呼骨
+U+3F81	kHanyuPinyin	42664.100:shù
+U+3F81	kJapanese	シュツ ジュチ コツ コチ チュツ チュチ キツ キチ
+U+3F81	kMandarin	shù
+U+3F82	kCantonese	hoi1
+U+3F82	kDefinition	illness; disease (a dialect) a chronic disease; never recover after a long illness
+U+3F82	kFanqie	呼來
+U+3F82	kHanyuPinyin	42670.020:hāi
+U+3F82	kJapanese	カイ
+U+3F82	kMandarin	hāi
+U+3F83	kCantonese	to4
+U+3F83	kDefinition	hump-backed
+U+3F83	kHanyuPinyin	42669.030:tuó
+U+3F83	kJapanese	タ ダ
+U+3F83	kMandarin	tuó
+U+3F84	kCantonese	duk6
+U+3F84	kDefinition	(ancient form same as 讟) to libel; to slander; complaints; grumblings, blames or curses; to blame, (same as 怞) to grieve, sorrowful, sad and weary
+U+3F84	kFanqie	徒谷
+U+3F84	kHanyuPinyin	42666.050:dú,chóu
+U+3F84	kJapanese	トク ドク
+U+3F84	kMandarin	dú
+U+3F84	kVietnamese	rù
+U+3F85	kCantonese	zi2
+U+3F85	kDefinition	defects; flaws, illness; disease
+U+3F85	kHanyuPinyin	42663.030:zǐ
+U+3F85	kJapanese	シ
+U+3F85	kMandarin	zǐ
+U+3F86	kCantonese	cim1
+U+3F86	kDefinition	(non-classical form) (said of some kinds of reptiles or insects) ecdysis; to cast off the skin; to molt
+U+3F86	kFanqie	處占 汝鹽
+U+3F86	kJapanese	セン
+U+3F86	kMandarin	rán
+U+3F87	kCantonese	muk6
+U+3F87	kDefinition	illness; disease; ailment
+U+3F87	kFanqie	莫六
+U+3F87	kHanyuPinyin	42666.010:mù
+U+3F87	kJapanese	ボク モク
+U+3F87	kMandarin	mù
+U+3F88	kCantonese	fu6
+U+3F88	kDefinition	hunchbacked; curved spine, short, dropsy
+U+3F88	kFanqie	扶雨
+U+3F88	kHanyuPinyin	42667.050:fù
+U+3F88	kJapanese	フ ブ
+U+3F88	kMandarin	fù
+U+3F89	kCantonese	ling4
+U+3F89	kDefinition	thin; lean; slim; emaciated
+U+3F89	kFanqie	郎丁
+U+3F89	kHanyuPinyin	42668.060:líng
+U+3F89	kJapanese	レイ リョウ
+U+3F89	kMandarin	líng
+U+3F8A	kDefinition	(same as 瘦 瘠) thin; lean; slim; emaciated, a kind of skin disease, a chill, a cold, malaria, (interchangeable 瘶 瘷) cough; chilly disease; catching cold
+U+3F8A	kFanqie	山責
+U+3F8A	kHanyuPinyin	42670.090:jí,cì,sè
+U+3F8A	kJapanese	セキ ジャク サク シャク ソク シ
+U+3F8A	kMandarin	jí
+U+3F8B	kDefinition	dysentery; diarrhea, a sore; a boil; an ulcer
+U+3F8B	kFanqie	許尤
+U+3F8B	kHanyuPinyin	42672.030:xiū,xiù
+U+3F8B	kJapanese	キュウ ク
+U+3F8B	kMandarin	xiū
+U+3F8C	kCantonese	sin2
+U+3F8C	kDefinition	(same as 癬) ringworm, used for various diseases of the skin
+U+3F8C	kJapanese	セン
+U+3F8C	kMandarin	xuǎn
+U+3F8D	kDefinition	diseases, sticking up or protruding of the big bottom
+U+3F8D	kFanqie	奴來
+U+3F8D	kHanyuPinyin	42670.130:nái
+U+3F8D	kJapanese	ダイ ナイ ザイ
+U+3F8D	kMandarin	nái
+U+3F8E	kDefinition	(a dialect) sickness; disease, favus (a dialect) everything is good except this particular one
+U+3F8E	kHanyuPinyin	42666.080:yā,xiā
+U+3F8E	kJapanese	オウ
+U+3F8E	kMandarin	yā
+U+3F8F	kDefinition	illness; disease; sickness, idiotic; crazy; insane; silly
+U+3F8F	kFanqie	古隘
+U+3F8F	kHanyuPinyin	42670.040:jiè,yá
+U+3F8F	kJapanese	カイ ケ ガイ ゲ ゲイ
+U+3F8F	kMandarin	jiè
+U+3F90	kCantonese	lai6
+U+3F90	kDefinition	ulcer, a sore; swelling and sores caused by varnish-poisoning; pestilence; epidemic, leprosy, (interchangeable 勵) to exhort to great effort; to urge
+U+3F90	kFanqie	力制
+U+3F90	kJapanese	レイ
+U+3F90	kMandarin	lì
+U+3F91	kCantonese	daap3
+U+3F91	kDefinition	fat; plump, a chill, a cold, malaria, a wart; a pimple, a round lump
+U+3F91	kFanqie	都合 呼合 五合
+U+3F91	kHanyuPinyin	42672.070:dá,hè,da
+U+3F91	kJapanese	トウ ゴウ
+U+3F91	kMandarin	dá
+U+3F92	kDefinition	illness; disease, could not have access to ...
+U+3F92	kHanyuPinyin	42673.070:rú,rù
+U+3F92	kJapanese	ジョ ニョ
+U+3F92	kMandarin	rú
+U+3F93	kCantonese	jyun1
+U+3F93	kDefinition	fatigue; exhaustion; weariness, ache of the joints (of bones); gout, melancholy; depressed, anger; fury, hatred; bitterness
+U+3F93	kFanqie	烏玄
+U+3F93	kHanyuPinyin	42675.050:yuān
+U+3F93	kJapanese	エン
+U+3F93	kMandarin	yuān
+U+3F94	kCantonese	leoi5
+U+3F94	kDefinition	long illness, ulcer; sore; boil
+U+3F94	kHanyuPinyin	42675.080:lǚ
+U+3F94	kJapanese	リョ ロ
+U+3F94	kMandarin	lǚ
+U+3F95	kDefinition	a chill, a cold, malaria, shivering with cold, a shudder; a shiver; tremble
+U+3F95	kFanqie	所臻 蘇本 踈錦
+U+3F95	kHanyuPinyin	42676.150:shěn
+U+3F95	kJapanese	シン ソン
+U+3F95	kMandarin	shěn
+U+3F96	kCantonese	lei5
+U+3F96	kDefinition	grieved; distressed; ill with grief and exhausted
+U+3F96	kFanqie	里之 良士
+U+3F96	kHanyuPinyin	42675.030:lǐ
+U+3F96	kJapanese	リ
+U+3F96	kMandarin	lǐ
+U+3F97	kCantonese	loeng6
+U+3F97	kDefinition	eye disease; strabismus; squint; to look askance (a dialect) bright; light; brilliant, bright eyes
+U+3F97	kHanyuPinyin	42677.010:liàng
+U+3F97	kJapanese	リョウ
+U+3F97	kMandarin	liàng
+U+3F98	kCantonese	gang2
+U+3F98	kDefinition	(same as 梗) ailment; bane; distress; (Cant.) a bruise
+U+3F98	kHanyuPinyin	42674.010:gěng
+U+3F98	kJapanese	コウ キョウ
+U+3F98	kMandarin	gěng
+U+3F99	kCantonese	jan3
+U+3F99	kDefinition	(same as 脪) Erysipelas, sloughing of an ulcer, painful; aching
+U+3F99	kFanqie	興腎 香靳
+U+3F99	kHanyuPinyin	42676.050:xìn,xì
+U+3F99	kJapanese	キン コン キ ケ
+U+3F99	kMandarin	xìn
+U+3F9A	kCantonese	se1
+U+3F9A	kDefinition	itchy; ticklish
+U+3F9A	kHanyuPinyin	42679.090:xiē
+U+3F9A	kJapanese	シャ
+U+3F9A	kMandarin	xiē
+U+3F9B	kCantonese	cam2
+U+3F9B	kDefinition	ugly; bad-looking
+U+3F9B	kFanqie	七稔
+U+3F9B	kHanyuPinyin	42677.050:qǐn
+U+3F9B	kJapanese	シン
+U+3F9B	kMandarin	qǐn
+U+3F9C	kCantonese	hip3
+U+3F9C	kDefinition	weak breath of a sick man
+U+3F9C	kFanqie	苦協
+U+3F9C	kHanyuPinyin	42674.100:qiè
+U+3F9C	kJapanese	キョウ
+U+3F9C	kMandarin	qiè
+U+3F9D	kCantonese	ce3
+U+3F9D	kDefinition	(corrupted form) to leak out; to ejaculate, to scatter; to disperse; to vent
+U+3F9D	kHanyuPinyin	42673.150:chè
+U+3F9D	kJapanese	シャ
+U+3F9D	kMandarin	chè
+U+3F9E	kDefinition	illness; disease (interchangeable 庮) stinking smell of the decayed wood
+U+3F9E	kFanqie	以周
+U+3F9E	kHanyuPinyin	42674.060:yóu
+U+3F9E	kJapanese	ユウ ユ
+U+3F9E	kMandarin	yóu
+U+3F9F	kCantonese	bou6
+U+3F9F	kDefinition	(said of illness) relapse; to relapse (a dialect) relapse of typhoid fever (typhus)
+U+3F9F	kHanyuPinyin	42675.010:bù
+U+3F9F	kJapanese	ホ ブ
+U+3F9F	kMandarin	bù
+U+3FA0	kDefinition	a fever
+U+3FA0	kHanyuPinyin	42676.110:kuáng
+U+3FA0	kJapanese	キョウ ゴウ
+U+3FA0	kMandarin	kuáng
+U+3FA1	kCantonese	koek3
+U+3FA1	kDefinition	ulcer; sore; boil
+U+3FA1	kJapanese	キャク
+U+3FA1	kMandarin	què
+U+3FA2	kCantonese	loi6
+U+3FA2	kDefinition	a malignant disease, a chronic disease
+U+3FA2	kFanqie	洛哀 落代
+U+3FA2	kHanyuPinyin	42679.020:ài
+U+3FA2	kJapanese	ライ
+U+3FA2	kMandarin	ài
+U+3FA3	kDefinition	to shiver; to shudder; to tremble because of a malaria and a very bad cold
+U+3FA3	kHanyuPinyin	42681.120:qīn
+U+3FA3	kJapanese	キン コン コウ
+U+3FA3	kMandarin	qīn
+U+3FA4	kCantonese	hong1
+U+3FA4	kDefinition	disease of the throat
+U+3FA4	kFanqie	苦江
+U+3FA4	kHanyuPinyin	42682.120:qiāng
+U+3FA4	kJapanese	コウ
+U+3FA4	kMandarin	qiāng
+U+3FA5	kCantonese	cuk1
+U+3FA5	kDefinition	bellyache
+U+3FA5	kHanyuPinyin	42679.080:chù
+U+3FA5	kJapanese	チク
+U+3FA5	kMandarin	chù
+U+3FA6	kCantonese	pui1
+U+3FA6	kDefinition	scab over a sore, scar of an ulcer, weak; feeble
+U+3FA6	kFanqie	芳杯
+U+3FA6	kHanyuPinyin	42682.060:pèi,pēi
+U+3FA6	kJapanese	ハイ ベ ヘ
+U+3FA6	kMandarin	pèi
+U+3FA6	kSMSZD2003Readings	pēi粵pui1
+U+3FA7	kCantonese	fo3
+U+3FA7	kDefinition	favus, swelling of the glands, a lump; scrofulous swellings
+U+3FA7	kFanqie	苦卧
+U+3FA7	kHanyuPinyin	42680.020:kuò,luǒ
+U+3FA7	kJapanese	カ ラ
+U+3FA7	kMandarin	kuò
+U+3FA8	kDefinition	weak; feeble, to mourn, ulcer; cancer; carbuncle, short
+U+3FA8	kFanqie	於離 墟彼
+U+3FA8	kHanyuPinyin	42678.150:yī,qǐ,ǎi
+U+3FA8	kJapanese	イ キ アイ ア
+U+3FA8	kMandarin	yī
+U+3FA9	kCantonese	gwaai1
+U+3FA9	kDefinition	malignant boils
+U+3FA9	kFanqie	古懷
+U+3FA9	kHanyuPinyin	42681.020:guāi
+U+3FA9	kJapanese	カイ ケ
+U+3FA9	kMandarin	guāi
+U+3FAA	kCantonese	saang2
+U+3FAA	kDefinition	lean; thin; slim
+U+3FAA	kFanqie	所景
+U+3FAA	kHanyuPinyin	42684.010:shěng
+U+3FAA	kJapanese	セイ ショウ
+U+3FAA	kMandarin	shěng
+U+3FAB	kCantonese	pin1
+U+3FAB	kDefinition	hemiplegia -- paralysis of half of one's body
+U+3FAB	kFanqie	芳連
+U+3FAB	kHanyuPinyin	42686.140:piān
+U+3FAB	kJapanese	ヘン ベン
+U+3FAB	kMandarin	piān
+U+3FAC	kCantonese	gaai1
+U+3FAC	kDefinition	(same as 痎) malaria
+U+3FAC	kJapanese	カイ
+U+3FAD	kCantonese	zau3
+U+3FAD	kDefinition	to shrink; to contract; to deflate; to shorten; to reduce in length
+U+3FAD	kFanqie	側敎 側救
+U+3FAD	kHanyuPinyin	42684.140:zhòu
+U+3FAD	kJapanese	シュウ シュ
+U+3FAD	kMandarin	zhòu
+U+3FAE	kCantonese	wong4
+U+3FAE	kDefinition	(same as 癀) jaundice
+U+3FAE	kHanyuPinyin	42685.040:huáng
+U+3FAE	kJapanese	コウ オウ
+U+3FAE	kMandarin	huáng
+U+3FAF	kCantonese	fui1
+U+3FAF	kDefinition	to suffer a stroke of paralysis or apoplexy, disease of the private part (of the human body)
+U+3FAF	kFanqie	呼恢
+U+3FAF	kHanyuPinyin	42684.060:huī,tuí
+U+3FAF	kJapanese	カイ エ ケ ワイ タイ デ
+U+3FAF	kMandarin	huī
+U+3FB0	kCantonese	wu4
+U+3FB0	kDefinition	choke, lump in throat; food stuck in the throat
+U+3FB0	kFanqie	戶吳
+U+3FB0	kHanyuPinyin	42683.080:hú
+U+3FB0	kJapanese	コ ゴ
+U+3FB0	kMandarin	hú
+U+3FB1	kCantonese	fai3
+U+3FB1	kDefinition	(abbreviated form 癈) incurable disease
+U+3FB1	kJapanese	ハイ かたわ すたれる
+U+3FB1	kMandarin	bèi
+U+3FB2	kCantonese	ngou4
+U+3FB3	kCantonese	zi1
+U+3FB4	kDefinition	the erythema of acne rosacea
+U+3FB4	kHanyuPinyin	42683.100:zhā
+U+3FB4	kMandarin	zhā
+U+3FB5	kCantonese	gai3
+U+3FB5	kDefinition	a dark colored birth-mark
+U+3FB5	kHanyuPinyin	42686.040:jì
+U+3FB5	kMandarin	jì
+U+3FB5	kSMSZD2003Readings	jì粵gai3
+U+3FB6	kCantonese	gwat1
+U+3FB6	kDefinition	disease of the knee
+U+3FB6	kFanqie	古忽
+U+3FB6	kHanyuPinyin	42688.130:gǔ
+U+3FB6	kJapanese	コツ クチ
+U+3FB6	kMandarin	gǔ
+U+3FB7	kCantonese	sai1
+U+3FB7	kDefinition	to ache
+U+3FB7	kFanqie	息移 先稽
+U+3FB7	kHanyuPinyin	42690.030:xī
+U+3FB7	kJapanese	セイ サイ シ
+U+3FB7	kMandarin	xī
+U+3FB8	kCantonese	gou2
+U+3FB8	kDefinition	a scabby, itching disease
+U+3FB8	kHanyuPinyin	42690.100:gǎo
+U+3FB8	kJapanese	コウ
+U+3FB8	kMandarin	gǎo
+U+3FB9	kCantonese	caai4
+U+3FB9	kDefinition	lean; thin; slim, illness; disease, an epidemic; a pestilence
+U+3FB9	kFanqie	士佳 士懈
+U+3FB9	kHanyuPinyin	42688.100:chái,zhài,chí
+U+3FB9	kJapanese	サイ ゼ シ ジ
+U+3FB9	kMandarin	chái
+U+3FB9	kXHC1983	0116.021:chái
+U+3FBA	kCantonese	maa6
+U+3FBA	kDefinition	eye disease, with noxious air on, disease of an animal, decayed sore
+U+3FBA	kFanqie	謨晏 丑晏 莫駕
+U+3FBA	kHanyuPinyin	42687.130:mà
+U+3FBA	kJapanese	バ メ バン マン ダン ナン
+U+3FBA	kMandarin	mà
+U+3FBB	kCantonese	zyu6
+U+3FBB	kDefinition	not any progressive, swelling, a mark of scar on the skin
+U+3FBB	kFanqie	直魚 遟倨 抽據
+U+3FBB	kHanyuPinyin	42687.070:zhù,chú
+U+3FBB	kJapanese	チョ ジョ
+U+3FBB	kMandarin	zhù
+U+3FBC	kCantonese	teoi2
+U+3FBC	kDefinition	to suffer a stroke of paralysis or apoplexy
+U+3FBC	kHanyuPinyin	42691.080:tuǐ
+U+3FBC	kJapanese	タイ テ
+U+3FBC	kMandarin	tuǐ
+U+3FBD	kCantonese	zeoi6
+U+3FBD	kDefinition	(same as 膇) swelling feet, disease of the private part of the human body
+U+3FBD	kHanyuPinyin	42689.120:zhuì,tuí
+U+3FBD	kJapanese	ツイ タイ テ デ
+U+3FBD	kMandarin	zhuì
+U+3FBE	kDefinition	disease of the throat, something stuck in the throat, to be stung, emaciated; illness of losing flesh
+U+3FBE	kFanqie	許兼
+U+3FBE	kHanyuPinyin	42690.010:xiān,lián
+U+3FBE	kJapanese	ケン コン レン
+U+3FBE	kMandarin	xiān
+U+3FBE	kVietnamese	hem
+U+3FBF	kCantonese	long4
+U+3FBF	kDefinition	roar of asthma or expectorate from a dying person
+U+3FBF	kHanyuPinyin	42686.120:láng
+U+3FBF	kJapanese	ロウ
+U+3FBF	kMandarin	láng
+U+3FC0	kCantonese	baan1
+U+3FC0	kDefinition	(same as 癍) unhealthy marks on the skin; blotches; pustules
+U+3FC1	kCantonese	hiu1
+U+3FC2	kCantonese	zing1
+U+3FC2	kDefinition	(abbreviated form of 癥) obstruction of the bowels
+U+3FC2	kJapanese	チ
+U+3FC3	kCantonese	zai6
+U+3FC3	kDefinition	an ox-headed boil, dysentery; diarrhea, popular name for women's peculiar diseases
+U+3FC3	kFanqie	竹例 當蓋
+U+3FC3	kHanyuPinyin	42692.110:zhì,dài
+U+3FC3	kJapanese	テイ タイ
+U+3FC3	kMandarin	zhì
+U+3FC4	kDefinition	the groans or moans from a person in a critical condition
+U+3FC4	kFanqie	於其 烏懈
+U+3FC4	kHanyuPinyin	42692.210:ài
+U+3FC4	kJapanese	アイ ア イ
+U+3FC4	kMandarin	ài
+U+3FC5	kDefinition	(same as 癬) ringworm, used for various diseases of the skin
+U+3FC5	kJapanese	セン
+U+3FC5	kMandarin	xiǎn
+U+3FC6	kCantonese	gwo1
+U+3FC6	kDefinition	damage by the pests to the rice seedling, boil; ulcer; sore
+U+3FC6	kHanyuPinyin	42693.110:guō
+U+3FC6	kJapanese	カ
+U+3FC6	kMandarin	guō
+U+3FC7	kCantonese	zaap6
+U+3FC7	kDefinition	paralysis, rheumatism, having no sense of feeling; numb
+U+3FC7	kHanyuPinyin	42695.030:xí,xì
+U+3FC7	kJapanese	シュウ
+U+3FC7	kMandarin	xí
+U+3FC8	kDefinition	(non-classical form of 癰) an ulcer; an abscess; a carbuncle; sometimes use for a cancer, loss of the sense of smell
+U+3FC8	kJapanese	ヨウ
+U+3FC9	kCantonese	teoi4
+U+3FC9	kDefinition	disease of the private part of the human body
+U+3FC9	kFanqie	杜回
+U+3FC9	kHanyuPinyin	42697.020:tuǐ
+U+3FC9	kJapanese	タイ デ
+U+3FC9	kMandarin	tuǐ
+U+3FCA	kDefinition	very painful; agonizing (same as 憯) sad; sorrowful; grieved
+U+3FCA	kFanqie	七然
+U+3FCA	kHanyuPinyin	42696.110:cǎn
+U+3FCA	kJapanese	セン シン サン
+U+3FCA	kMandarin	cǎn
+U+3FCB	kCantonese	sou3
+U+3FCB	kDefinition	(same as 瘙) a kind of skin disease (like sores from scabies)
+U+3FCB	kFanqie	蘇到
+U+3FCB	kJapanese	ソウ
+U+3FCB	kMandarin	sào
+U+3FCC	kDefinition	(interchangeable 㾾) lump in the throat, sting of a poisonous insect (scorpion)
+U+3FCC	kFanqie	虚嚴
+U+3FCC	kHanyuPinyin	42700.070:xiān
+U+3FCC	kJapanese	ケン コン
+U+3FCC	kMandarin	xiān
+U+3FCD	kCantonese	gaai3
+U+3FCD	kDefinition	(same as 疥) scabies
+U+3FCD	kJapanese	カイ
+U+3FCD	kMandarin	jiè
+U+3FCE	kDefinition	sick; depress and melancholy, swelling, heat rashes; heat spots; prickly heat
+U+3FCE	kFanqie	房吻 扶問
+U+3FCE	kHanyuPinyin	42699.050:fèn,fén
+U+3FCE	kJapanese	フン ブン
+U+3FCE	kMandarin	fèn
+U+3FCF	kCantonese	kwan4
+U+3FCF	kDefinition	paralysis of the body
+U+3FCF	kJapanese	ガン クン
+U+3FCF	kMandarin	qún
+U+3FD0	kCantonese	ceoi1
+U+3FD1	kDefinition	illness; disease; ailment
+U+3FD1	kFanqie	以灼
+U+3FD1	kHanyuPinyin	42702.090:yào
+U+3FD1	kJapanese	ヤク
+U+3FD1	kMandarin	yào
+U+3FD2	kDefinition	illness; disease; ailment, disease of the internal organs, disease of the abdomen, palpitation of the heart
+U+3FD2	kFanqie	都晧 直祐
+U+3FD2	kHanyuPinyin	42701.030:dǎo,zhòu,chóu
+U+3FD2	kJapanese	トウ チュウ ジュ
+U+3FD2	kMandarin	dǎo
+U+3FD3	kCantonese	gaap3
+U+3FD3	kDefinition	disease of the hoof
+U+3FD3	kFanqie	古洽
+U+3FD3	kHanyuPinyin	42701.090:jiá
+U+3FD3	kJapanese	コウ
+U+3FD3	kMandarin	jiá
+U+3FD4	kCantonese	leoi5
+U+3FD4	kDefinition	a wart; a pimple; a pustule on the skin
+U+3FD4	kHanyuPinyin	42702.160:lěi
+U+3FD4	kMandarin	lěi
+U+3FD5	kDefinition	ulcer; sore; boil, a wound
+U+3FD5	kFanqie	余廉
+U+3FD5	kHanyuPinyin	42703.210:yán
+U+3FD5	kJapanese	エン
+U+3FD5	kMandarin	yán
+U+3FD6	kCantonese	lou4
+U+3FD6	kDefinition	carbuncle (interchangeable 廬) used in naming of a place, a swelling of the abdomen from constipation
+U+3FD6	kFanqie	落胡 洛故
+U+3FD6	kHanyuPinyin	42703.130:lú,lù
+U+3FD6	kJapanese	ロ
+U+3FD6	kMandarin	lú
+U+3FD7	kCantonese	teoi4
+U+3FD7	kDefinition	(same as 㿉) disease of the private part of the human body
+U+3FD7	kJapanese	タイ デ
+U+3FD7	kMandarin	tuí
+U+3FD8	kDefinition	to get sick; to fall ill
+U+3FD8	kHanyuPinyin	42704.040:yíng
+U+3FD8	kJapanese	エイ ヨウ
+U+3FD8	kMandarin	yíng
+U+3FD9	kCantonese	pei3
+U+3FD9	kDefinition	full; filled, full of air or gas, a heart full of (enthusiasm, sorrow, etc.)
+U+3FD9	kFanqie	匹備
+U+3FD9	kHanyuPinyin	42704.090:pì
+U+3FD9	kJapanese	ヒ ビ
+U+3FD9	kMandarin	pì
+U+3FDA	kCantonese	lo6
+U+3FDA	kDefinition	sickness; ailment; disease
+U+3FDA	kFanqie	郎佐
+U+3FDA	kHanyuPinyin	42705.050:luò
+U+3FDA	kJapanese	ラ
+U+3FDA	kMandarin	luò
+U+3FDB	kCantonese	lai6
+U+3FDB	kDefinition	carbuncle, sallow and emaciated, scrofulous swellings
+U+3FDB	kFanqie	力智 郎計
+U+3FDB	kHanyuPinyin	42705.040:lì
+U+3FDB	kJapanese	レイ ライ リ レキ リャク
+U+3FDB	kMandarin	lì
+U+3FDC	kCantonese	bit6
+U+3FDC	kDefinition	(non-classical form of 癟) shrivelled up; empty; limp; flat; not full; sunken
+U+3FDC	kMandarin	biě
+U+3FDD	kCantonese	hoeng1
+U+3FDD	kDefinition	(ancient form of 香) sweet; fragrant, delicious, incense
+U+3FDD	kJapanese	コウ ヒュウ キュウ
+U+3FDE	kCantonese	mou6
+U+3FDE	kDefinition	(non-classical form of 耄) an old man of eighty, aged
+U+3FDE	kJapanese	ボウ
+U+3FDE	kMandarin	mào
+U+3FDF	kDefinition	(same as 白) he bright, white moon; a pure glistening white, splendid, white
+U+3FDF	kFanqie	古了
+U+3FDF	kHanyuPinyin	42648.040:bái
+U+3FDF	kJapanese	ハク キョウ ビャク しろい
+U+3FDF	kMandarin	bái
+U+3FE0	kCantonese	gwong1
+U+3FE0	kHanyuPinyin	80031.230:huàng
+U+3FE0	kMandarin	huàng
+U+3FE0	kTGHZ2013	147.070:huàng
+U+3FE1	kCantonese	dau1
+U+3FE1	kDefinition	(corrupted form of 兜) a helmet; a head-covering, a small pocket in clothes
+U+3FE1	kJapanese	トウ
+U+3FE2	kDefinition	(same as 耀) to shine; to dazzle, to show off
+U+3FE2	kJapanese	ヨウ
+U+3FE2	kMandarin	yào
+U+3FE3	kCantonese	hot3
+U+3FE3	kDefinition	white color
+U+3FE3	kFanqie	許葛
+U+3FE3	kHanyuPinyin	42650.140:hē
+U+3FE3	kJapanese	カツ カチ
+U+3FE3	kMandarin	hē
+U+3FE4	kCantonese	ceon2
+U+3FE4	kDefinition	white, clear
+U+3FE4	kHanyuPinyin	42650.100:chǔn
+U+3FE4	kJapanese	シュン
+U+3FE4	kMandarin	chǔn
+U+3FE5	kDefinition	shine; clear and pure white feather (same as 皬) white, white but not pure
+U+3FE5	kFanqie	胡沃 胡覺
+U+3FE5	kHanyuPinyin	42651.040:hé
+U+3FE5	kJapanese	コク ゴク ラク カク ガク
+U+3FE5	kMandarin	hé
+U+3FE6	kCantonese	ning6
+U+3FE6	kDefinition	to tell; to inform; to report; to accuse
+U+3FE6	kHanyuPinyin	42651.070:nìng
+U+3FE6	kJapanese	デイ ニョウ
+U+3FE6	kMandarin	nìng
+U+3FE7	kDefinition	(same as 疇) fields, a pronoun; who?, formerly; previously, a class; a rank
+U+3FE7	kHanyuPinyin	42652.130:chóu
+U+3FE7	kJapanese	チュウ ジュ シュウ
+U+3FE7	kMandarin	chóu
+U+3FE8	kCantonese	lik6
+U+3FE8	kDefinition	(same as 皪) small stones, gravel, shingle
+U+3FE8	kJapanese	レキ
+U+3FE8	kMandarin	lì
+U+3FE9	kCantonese	tong2
+U+3FE9	kDefinition	light; bright, white color
+U+3FE9	kFanqie	他朗
+U+3FE9	kHanyuPinyin	42653.130:tǎng
+U+3FE9	kJapanese	トウ
+U+3FE9	kMandarin	tǎng
+U+3FEA	kDefinition	skin disease
+U+3FEA	kFanqie	胡官
+U+3FEA	kHanyuPinyin	42754.040:huán
+U+3FEA	kJapanese	カン ガン
+U+3FEA	kMandarin	huán
+U+3FEB	kCantonese	bei3
+U+3FEB	kDefinition	to split tangled hemp
+U+3FEB	kFanqie	敷羈
+U+3FEB	kHanyuPinyin	42754.090:bì
+U+3FEB	kJapanese	ヒ
+U+3FEB	kMandarin	bì
+U+3FEC	kCantonese	baa1
+U+3FEC	kDefinition	nasal disease, (same as 疤) a scar; a birthmark (same as 巴) to hope; to wish
+U+3FEC	kFanqie	伯加
+U+3FEC	kHanyuPinyin	42754.150:bā
+U+3FEC	kJapanese	ハ ヘ
+U+3FEC	kMandarin	bā
+U+3FED	kCantonese	caak3
+U+3FED	kDefinition	cracks; creases; wrinkles; rumples on the skin; surname; (Cant.) hoarse
+U+3FED	kFanqie	丑格
+U+3FED	kHanyuPinyin	42754.230:chè,lè
+U+3FED	kJapanese	タク チャク レキ リャク
+U+3FED	kMandarin	chè
+U+3FEE	kDefinition	green; blue; black, extravasation of blood, to look pale or pallid (of the facial complexion)
+U+3FEE	kFanqie	於驚 於亮
+U+3FEE	kHanyuPinyin	42754.220:yàng
+U+3FEE	kJapanese	エイ ヨウ
+U+3FEE	kMandarin	yàng
+U+3FEF	kDefinition	wide piece of leather
+U+3FEF	kFanqie	都合
+U+3FEF	kHanyuPinyin	42755.090:dá
+U+3FEF	kJapanese	トウ
+U+3FEF	kMandarin	dá
+U+3FF0	kDefinition	durable and solid leather
+U+3FF0	kHanyuPinyin	42755.130:áo,bì
+U+3FF0	kJapanese	ゴウ ギョウ ヘキ ヒャク
+U+3FF0	kMandarin	áo
+U+3FF1	kDefinition	dry and decayed, to peel off the skin; to scrape; to pare
+U+3FF1	kFanqie	寺絕
+U+3FF1	kHanyuPinyin	42755.150:xué
+U+3FF1	kJapanese	セツ ゼチ
+U+3FF1	kMandarin	xué
+U+3FF2	kDefinition	(same as 欹) a fierce dog, an interjection of pleasure -- Bravo! Good! (interchangeable 騎) to sit astride on
+U+3FF2	kJapanese	キ
+U+3FF3	kCantonese	zi1
+U+3FF3	kHanyuPinyin	42757.060:zī
+U+3FF3	kJapanese	シ
+U+3FF3	kMandarin	zī
+U+3FF4	kCantonese	daap3
+U+3FF4	kDefinition	wide piece of leather
+U+3FF4	kFanqie	都榼
+U+3FF4	kHanyuPinyin	42757.050:dā
+U+3FF4	kJapanese	トウ
+U+3FF4	kMandarin	dā
+U+3FF5	kDefinition	soft leather
+U+3FF5	kJapanese	ゼン
+U+3FF5	kMandarin	rǎn
+U+3FF6	kCantonese	bong1
+U+3FF6	kDefinition	(same as 幫) the sides of a shoe or gutter
+U+3FF6	kHanyuPinyin	42757.190:bāng
+U+3FF6	kJapanese	ホウ
+U+3FF6	kMandarin	bāng
+U+3FF7	kCantonese	co4
+U+3FF7	kDefinition	(same as 糙) rough; coarse; inferior unpolished rice, goose flesh
+U+3FF7	kFanqie	楚愧 七到
+U+3FF7	kHanyuPinyin	42758.010:cuó,cāo
+U+3FF7	kJapanese	スイ サ ザ ソウ
+U+3FF7	kMandarin	cuó
+U+3FF8	kCantonese	maan5
+U+3FF8	kDefinition	to cast off the skin; to molt, skin
+U+3FF8	kFanqie	無遠 無販
+U+3FF8	kHanyuPinyin	42758.050:wǎn,mán
+U+3FF8	kJapanese	バン マン
+U+3FF8	kMandarin	wǎn
+U+3FF9	kCantonese	taat3
+U+3FF9	kDefinition	jutting on the epidermis or the cuticle (of plants); (Cant.) skin peeling off
+U+3FF9	kHanyuPinyin	42758.210:tà
+U+3FF9	kJapanese	タツ タチ
+U+3FF9	kMandarin	tà
+U+3FFA	kCantonese	pok1
+U+3FFA	kDefinition	jutting on the epidermis; swelling, wounded; (Cant.) courageous
+U+3FFA	kFanqie	北角
+U+3FFA	kHanyuPinyin	42759.100:báo
+U+3FFA	kJapanese	ハク
+U+3FFA	kMandarin	báo
+U+3FFB	kCantonese	gon1
+U+3FFB	kDefinition	a tray; a plate; a dish, large bowl
+U+3FFB	kFanqie	古寒
+U+3FFB	kHanyuPinyin	42557.050:gān
+U+3FFB	kJapanese	カン
+U+3FFB	kMandarin	gān
+U+3FFC	kDefinition	(a non-classical form) a bowl, a small shallow container; a small cup
+U+3FFC	kFanqie	五堅
+U+3FFC	kHanyuPinyin	42561.110:yán
+U+3FFC	kJapanese	ゲン
+U+3FFC	kMandarin	yán
+U+3FFD	kDefinition	a small bowl; a small basin
+U+3FFD	kHanyuPinyin	42558.060:xī
+U+3FFD	kJapanese	ケイ ゲイ
+U+3FFD	kMandarin	xī
+U+3FFE	kCantonese	cyu5
+U+3FFE	kDefinition	vessel; container
+U+3FFE	kJapanese	チョ ジョ
+U+3FFE	kMandarin	zhù
+U+3FFF	kCantonese	ngaa5
+U+3FFF	kDefinition	wine cups
+U+3FFF	kFanqie	五下
+U+3FFF	kHanyuPinyin	42561.050:yǎ
+U+3FFF	kJapanese	ガ ゲ
+U+3FFF	kMandarin	yǎ
+U+4000	kDefinition	cups; small cups
+U+4000	kFanqie	孚梵
+U+4000	kHanyuPinyin	42561.010:fàn
+U+4000	kJapanese	ヘン ベン ハン ホン ボン
+U+4000	kMandarin	fàn
+U+4001	kDefinition	a small bowl; a small basin, a kind of vessel to remove (or to strain out) the water
+U+4001	kFanqie	云久 于救
+U+4001	kHanyuPinyin	42562.010:yòu
+U+4001	kJapanese	ユウ ウ カイ エ
+U+4001	kMandarin	yòu
+U+4002	kCantonese	on1
+U+4002	kDefinition	a big basin
+U+4002	kFanqie	烏寒
+U+4002	kHanyuPinyin	42563.100:ān
+U+4002	kJapanese	アン
+U+4002	kMandarin	ān
+U+4003	kCantonese	teoi4
+U+4003	kDefinition	a kind of vessel; a container
+U+4003	kHanyuPinyin	42564.050:tuí
+U+4003	kJapanese	タイ デ
+U+4003	kMandarin	tuí
+U+4004	kCantonese	mung4
+U+4004	kDefinition	(same as 饛) container full of food
+U+4004	kFanqie	莫紅
+U+4004	kJapanese	ボウ モウ モ
+U+4004	kMandarin	méng
+U+4005	kDefinition	vessel; container
+U+4005	kHanyuPinyin	42565.030:shè
+U+4005	kJapanese	シャ ジャ
+U+4005	kMandarin	shè
+U+4006	kCantonese	zeon6
+U+4006	kDefinition	(standard form of 盡) to exhaust; to complete; to finish; all; totally
+U+4006	kJapanese	ジン
+U+4006	kMandarin	jìn
+U+4007	kCantonese	gu2
+U+4007	kDefinition	a pot, an earthen pot; a deep cooking pot
+U+4007	kHanyuPinyin	42569.070:gǔ
+U+4007	kJapanese	コ ク
+U+4007	kMandarin	gǔ
+U+4007	kSMSZD2003Readings	gǔ粵gu2
+U+4007	kXHC1983	0397.070:gǔ
+U+4008	kDefinition	a vessel; a container, a kind of animal with red hair looks like hedgehog
+U+4008	kFanqie	去吏 去旣 許旣
+U+4008	kHanyuPinyin	42570.040:jì
+U+4008	kJapanese	キ ケ
+U+4008	kMandarin	jì
+U+4009	kCantonese	kiu4
+U+4009	kDefinition	food containers (bowl; basin, etc.) used in ancient times
+U+4009	kFanqie	巨嬌
+U+4009	kHanyuPinyin	42571.110:qiáo
+U+4009	kJapanese	キョウ ギョウ
+U+4009	kMandarin	qiáo
+U+4009	kXHC1983	0921.061:qiáo
+U+400A	kDefinition	a kind of water containers (to keep warm in cold days); a mental hot-water bottle, to stir or scratch and make it muddy or turbid
+U+400A	kFanqie	下巧 古巧
+U+400A	kHanyuPinyin	42573.060:jiǎo
+U+400A	kJapanese	キョウ コウ ギョウ リク ロク
+U+400A	kMandarin	jiǎo
+U+400B	kCantonese	jim4
+U+400B	kDefinition	(same as 鹽) salt
+U+400B	kJapanese	エン
+U+400B	kMandarin	yán
+U+400C	kCantonese	sik1
+U+400C	kFanqie	許極
+U+400C	kMandarin	xì
+U+400C	kXHC1983	1236.060:xì
+U+400D	kCantonese	ham3
+U+400D	kDefinition	vessel; container; a box; a chest; a trunk, a small cup
+U+400D	kFanqie	徒紺
+U+400D	kHanyuPinyin	42574.050:kàn
+U+400D	kJapanese	カン コン
+U+400D	kMandarin	kàn
+U+400E	kCantonese	min5
+U+400E	kDefinition	(same as non-classical form of 眄) to look askance; to ogle
+U+400E	kJapanese	メン
+U+400E	kMandarin	miǎn
+U+400F	kDefinition	to move one's eyes (same as 眴) to express or indicate with eyes (interchangeable 眩) dizzy; giddy
+U+400F	kFanqie	胡畎 黃練
+U+400F	kHanyuPinyin	42468.090:xuàn,xún
+U+400F	kJapanese	ケン ゲン シュン
+U+400F	kMandarin	xuàn
+U+4010	kCantonese	saam1
+U+4010	kDefinition	to regard; to look up to, to look, to take a glance at
+U+4010	kFanqie	所咸 所鑑
+U+4010	kHanyuPinyin	42469.130:shān
+U+4010	kJapanese	サン
+U+4010	kMandarin	shān
+U+4011	kCantonese	waat3
+U+4011	kDefinition	to gouge out an eye or eyes (a corrupted form)
+U+4011	kHanyuPinyin	42470.050:wò
+U+4011	kMandarin	wò
+U+4012	kCantonese	cin1
+U+4012	kDefinition	gloomy; dark; obscure
+U+4012	kHanyuPinyin	42469.100:qiān
+U+4012	kJapanese	セン
+U+4012	kMandarin	qiān
+U+4013	kCantonese	wun6
+U+4013	kDefinition	to turn one's eyes to; big eyes
+U+4013	kFanqie	胡玩
+U+4013	kHanyuPinyin	42469.150:huàn
+U+4013	kJapanese	カン ガン
+U+4013	kMandarin	huàn
+U+4014	kDefinition	to look, to confuse; to dazzle
+U+4014	kHanyuPinyin	42470.030:rèn
+U+4014	kJapanese	ジン ニン
+U+4014	kMandarin	rèn
+U+4015	kDefinition	angry glances; to look angrily, eyeballs
+U+4015	kFanqie	直引
+U+4015	kHanyuPinyin	42478.010:zhèn
+U+4015	kJapanese	チン ジン
+U+4015	kMandarin	zhèn
+U+4016	kCantonese	tin1
+U+4016	kDefinition	to look up to; to respect
+U+4016	kHanyuPinyin	42470.080:tiān
+U+4016	kJapanese	テン
+U+4016	kMandarin	tiān
+U+4017	kCantonese	kyut3
+U+4017	kDefinition	to look askance at, to dislike, a kind of eye disease (tears all the times), pretty eyes, (same as 瞲) to look at in surprise
+U+4017	kFanqie	古穴
+U+4017	kHanyuPinyin	42477.140:jué,xuè
+U+4017	kJapanese	ケツ ケチ
+U+4017	kMandarin	jué
+U+4018	kDefinition	(a corrupted abbreviated form) to cover the line of vision or sight --the straight line between an object and one's eyes, to look steadily at, to look at impatiently
+U+4018	kFanqie	戶圭
+U+4018	kHanyuPinyin	42470.070:xié,jī
+U+4018	kJapanese	ケイ
+U+4018	kMandarin	xié
+U+4019	kCantonese	cai3
+U+4019	kDefinition	to look at, to examine; to observe; to survey
+U+4019	kFanqie	七計
+U+4019	kHanyuPinyin	42472.120:qì
+U+4019	kJapanese	セイ サイ
+U+4019	kMandarin	qì
+U+401A	kCantonese	ngong4
+U+401A	kDefinition	to lift up the eyes and look around
+U+401A	kHanyuPinyin	42477.040:áng
+U+401A	kJapanese	ゴウ
+U+401A	kMandarin	áng
+U+401B	kDefinition	to look far with the eyes half-closed (to narrow the eyes), to look at for a long time, daybreak; dawn, to look not straight forward, to disturb; to dizzy; dark, to look at ferocious
+U+401B	kFanqie	莫拜 莫撥
+U+401B	kHanyuPinyin	42477.010:mèi,wù,mà
+U+401B	kJapanese	バイ メ バツ マチ ブツ モチ カツ ケチ
+U+401B	kMandarin	mèi
+U+401C	kDefinition	down; (same as 䀛) to see obscurely
+U+401C	kJapanese	コツ コチ バイ
+U+401C	kMandarin	gǔ
+U+401D	kCantonese	bei2
+U+401E	kCantonese	tou1
+U+401E	kDefinition	with heavy eyelids
+U+401E	kHanyuPinyin	42477.100:tāo
+U+401E	kJapanese	トウ
+U+401E	kMandarin	tāo
+U+401F	kDefinition	sight blurred; unclear; dim
+U+401F	kFanqie	扶沸
+U+401F	kJapanese	ヒ
+U+401F	kMandarin	fán
+U+4020	kCantonese	keoi4
+U+4020	kDefinition	the timid look of a bird; nervous; surname
+U+4020	kFanqie	舉朱 九遇
+U+4020	kHanyuPinyin	42479.130:jù
+U+4020	kJapanese	ク
+U+4020	kMandarin	jù
+U+4021	kCantonese	zim1
+U+4021	kDefinition	(same as 覘) to spy on; to see; to observe; to inspect, to cast the eyes down, the insight of the debauchee, to move the eyes; to look around
+U+4021	kFanqie	丁兼 丑豔 都念
+U+4021	kHanyuPinyin	42479.120:chàn,diān,tàn
+U+4021	kJapanese	テン セン タン
+U+4021	kMandarin	chàn
+U+4021	kVietnamese	xem
+U+4022	kCantonese	seon3
+U+4022	kDefinition	(same as 瞬) to glance; to blink; wink; (interchangeable 眴 瞚), to indicate one's wish or intention by expressions of the eyes
+U+4022	kFanqie	書之 式任 舒閏
+U+4022	kHanyuPinyin	42480.070:shùn
+U+4022	kJapanese	シュン シン シ
+U+4022	kMandarin	shùn
+U+4023	kCantonese	bei3
+U+4023	kDefinition	to look steadily at, ashamed, to look at ferocious
+U+4023	kFanqie	兵媚 莫八
+U+4023	kHanyuPinyin	42482.070:bì,mà
+U+4023	kJapanese	ヒ ビツ ミチ バツ マチ
+U+4023	kMandarin	bì
+U+4024	kCantonese	mau6
+U+4024	kDefinition	insight (version) of jealousy
+U+4024	kHanyuPinyin	42481.160:mào
+U+4024	kJapanese	ボウ モ
+U+4024	kMandarin	mào
+U+4025	kCantonese	soek3
+U+4025	kDefinition	(simplified form of 䁻) beautiful eyes, to look at just for a short time
+U+4025	kMandarin	shuò
+U+4026	kCantonese	gu2
+U+4026	kDefinition	(a dialect) to stare at
+U+4026	kHanyuPinyin	42479.040:gǔ
+U+4026	kMandarin	gǔ
+U+4026	kXHC1983	0397.020:gǔ
+U+4027	kDefinition	sight blurred; obscure and dim; unclear
+U+4027	kHanyuPinyin	42484.120:hǒng
+U+4027	kJapanese	コウ ク
+U+4027	kMandarin	hǒng
+U+4027	kVietnamese	hòng
+U+4028	kDefinition	to look, an angry look; to look at some one angrily, sight blurred; obscure and dim; unclear
+U+4028	kFanqie	呼八
+U+4028	kHanyuPinyin	42485.180:huà,guā
+U+4028	kJapanese	カツ カチ
+U+4028	kMandarin	huà
+U+4029	kCantonese	lok6
+U+4029	kDefinition	to look askance, to look; to see, to hope, big eyes
+U+4029	kFanqie	離灼 盧各
+U+4029	kHanyuPinyin	42487.010:luò
+U+4029	kJapanese	ラク リャク
+U+4029	kMandarin	luò
+U+4029	kVietnamese	nhác
+U+402A	kCantonese	hong4
+U+402A	kDefinition	birds flying up and down, to look at; to regard; to inspect
+U+402A	kHanyuPinyin	42486.050:háng
+U+402A	kJapanese	コウ ゴウ
+U+402A	kMandarin	háng
+U+402B	kCantonese	gaap3
+U+402B	kDefinition	narrow and dim eye sight; having one eye smaller than the other, one-eyed, wink of the eyelashes, sleepy; drowsy; dim; vague and hazy
+U+402B	kFanqie	古洽
+U+402B	kHanyuPinyin	42486.080:jiá,tǔn
+U+402B	kJapanese	コウ トン
+U+402B	kMandarin	jiá
+U+402C	kCantonese	cyun4
+U+402C	kDefinition	to glance; to wink, having one eye smaller than the other, one eyed, gazing into distance, sight blurred; obscure and dim; unclear
+U+402C	kFanqie	疾緣 莊緣
+U+402C	kHanyuPinyin	42486.070:quán
+U+402C	kJapanese	セン ゼン
+U+402C	kMandarin	quán
+U+402D	kCantonese	goi1
+U+402D	kDefinition	with big eyes
+U+402D	kHangul	해:N
+U+402D	kHanyuPinyin	42487.090:gāi
+U+402D	kJapanese	カイ
+U+402D	kMandarin	gāi
+U+402E	kCantonese	fong1
+U+402E	kDefinition	sight blurred; obscure and dim; obscured
+U+402E	kFanqie	呼光 莫郎
+U+402E	kHanyuPinyin	42487.080:huāng
+U+402E	kJapanese	コウ ボウ モウ
+U+402E	kMandarin	huāng
+U+402F	kDefinition	to look at; to see; to observe; to examine; to consider
+U+402F	kHangul	보:N
+U+402F	kHanyuPinyin	42489.130:bǔ
+U+402F	kJapanese	フ ホ
+U+402F	kMandarin	bǔ
+U+4030	kCantonese	guk1
+U+4030	kDefinition	open eyes, big eyes, to move one's eyes
+U+4030	kFanqie	古禄
+U+4030	kHanyuPinyin	42492.050:gǔ
+U+4030	kJapanese	コク
+U+4030	kMandarin	gǔ
+U+4031	kCantonese	fung1
+U+4031	kDefinition	to examine; to observe; to survey; to study
+U+4031	kHanyuPinyin	42492.130:fēng
+U+4031	kJapanese	ホウ フ
+U+4031	kMandarin	fēng
+U+4032	kCantonese	muk6
+U+4032	kDefinition	diseases in the eyes
+U+4032	kHanyuPinyin	42491.100:mù
+U+4032	kJapanese	ボク モク
+U+4032	kMandarin	mù
+U+4033	kDefinition	(abbreviated form) not to look straight forward, the pupil of the eyes not in the right place
+U+4033	kJapanese	ラツ
+U+4033	kMandarin	ài
+U+4034	kDefinition	to look straight forward, to look, eyesight blurred; not clear
+U+4034	kFanqie	五剄 五夾
+U+4034	kHangul	영:N
+U+4034	kHanyuPinyin	42490.090:yǐng,yà,kēng
+U+4034	kJapanese	ゲイ ギョウ コウ キョウ
+U+4034	kMandarin	yǐng
+U+4035	kCantonese	seon3
+U+4035	kDefinition	(same as 瞬) to blink; wink or twinkle, by eyes (facial expressions) to indicate one's wish or intention
+U+4035	kFanqie	式其
+U+4035	kHanyuPinyin	42493.090:shùn
+U+4035	kJapanese	シ
+U+4035	kMandarin	shùn
+U+4036	kCantonese	loeng6
+U+4036	kDefinition	strabismus; squint, to look askance; to ogle, (a dialect) bright; light; brilliant, bright eyes
+U+4036	kFanqie	力讓
+U+4036	kHanyuPinyin	42493.050:liàng,lǎng
+U+4036	kJapanese	リョウ キョウ コウ ロウ
+U+4036	kMandarin	liàng
+U+4037	kCantonese	gip3
+U+4037	kDefinition	to have quick glance; look-in; to look hastily
+U+4037	kFanqie	居怯
+U+4037	kHanyuPinyin	42489.110:jié
+U+4037	kJapanese	キョウ コウ
+U+4037	kMandarin	jié
+U+4038	kDefinition	(interchangeable 䀿) to have a casual and short glance; to catch a glimpse of, pretty eyes, insight; vision, bright eyes
+U+4038	kFanqie	征例 丑例
+U+4038	kHanyuPinyin	42489.090:chì
+U+4038	kJapanese	テイ タイ セイ セツ セチ
+U+4038	kMandarin	chì
+U+4039	kCantonese	gap6
+U+4039	kDefinition	(same as 眨) to wink; (same as 睫) eyelashes, having one eye smaller than the other, joke; witticism; pleasantry; jest; fun; (Cant.) to peep at; to blink, wink
+U+4039	kFanqie	即葉
+U+4039	kHanyuPinyin	42490.020:jié,zhǎ,shè,jiá,yà
+U+4039	kJapanese	ショウ コウ ソウ ゴウ
+U+4039	kMandarin	jié
+U+403A	kCantonese	cau1
+U+403A	kDefinition	squinting eyes; prominent eyes, all blind, eyesight not clear, upper eyelid which has a double fold at the lower edge
+U+403A	kHanyuPinyin	42491.110:chōu,tāo
+U+403A	kJapanese	チュ チュウ トウ チョウ
+U+403A	kMandarin	chōu
+U+403B	kCantonese	ping3
+U+403B	kDefinition	to look; to regard; to inspect
+U+403B	kHanyuPinyin	42491.040:pìng
+U+403B	kJapanese	ヘイ ヒョウ
+U+403B	kMandarin	pìng
+U+403C	kDefinition	(non-classical form of 瞋) angry; anger, complaining; grudging, wide open the eyes, depressed; melancholy, to look at, to confuse, confused vision
+U+403C	kFanqie	而振
+U+403C	kHanyuPinyin	42489.170:chēn,rèn
+U+403C	kJapanese	シン ジン ニン
+U+403C	kMandarin	chēn
+U+403D	kDefinition	to look at each other
+U+403D	kFanqie	以然
+U+403D	kHanyuPinyin	42486.010:yán
+U+403D	kJapanese	エン セン
+U+403D	kMandarin	yán
+U+403E	kCantonese	dou2
+U+403E	kDefinition	many; much, more than; over
+U+403E	kHanyuPinyin	42490.010:dǔ
+U+403E	kJapanese	ト ツ
+U+403E	kMandarin	dǔ
+U+403F	kDefinition	(same as 䀸) to have a casual and short glance; to catch a glimpse of, pretty eyes, insight; vision, bright eyes
+U+403F	kFanqie	旨熱
+U+403F	kJapanese	セイ シ
+U+403F	kMandarin	dì
+U+4040	kCantonese	dai3
+U+4040	kJapanese	セイ
+U+4041	kCantonese	loeng6
+U+4041	kDefinition	(same as 䀶) strabismus; squint, to look askance; to ogle, (a dialect) bright; light; brilliant, bright eyes
+U+4041	kFanqie	力讓
+U+4041	kHanyuPinyin	42498.120:liàng
+U+4041	kJapanese	リョウ
+U+4041	kMandarin	liàng
+U+4042	kCantonese	haan6
+U+4042	kDefinition	big eyes
+U+4042	kFanqie	胡簡
+U+4042	kHanyuPinyin	42495.020:xiàn
+U+4042	kJapanese	カン ゲン
+U+4042	kMandarin	xiàn
+U+4043	kCantonese	biu1
+U+4043	kDefinition	to look attentively; to focus one's look at; to gaze at
+U+4043	kHanyuPinyin	42494.010:biāo
+U+4043	kJapanese	ヒョウ
+U+4043	kMandarin	biāo
+U+4044	kDefinition	to close the eyes, to die without regret or in peace
+U+4044	kHanyuPinyin	42494.060:xìng
+U+4044	kJapanese	ケイ ギョウ
+U+4044	kMandarin	xìng
+U+4045	kCantonese	maang5
+U+4045	kDefinition	rage; anger, to cast an angry look; to give the black looks
+U+4045	kFanqie	武幸 莫更
+U+4045	kHanyuPinyin	42500.070:měng,mèng
+U+4045	kJapanese	ボウ ミョウ
+U+4045	kMandarin	měng
+U+4046	kDefinition	eyes, closed eyes
+U+4046	kFanqie	於業
+U+4046	kHanyuPinyin	42495.060:yè
+U+4046	kJapanese	ヨウ エン アン オン
+U+4046	kMandarin	yè
+U+4047	kDefinition	to look for a short time, attentive vision
+U+4047	kFanqie	亡逼 莫北
+U+4047	kHanyuPinyin	42499.120:mì
+U+4047	kJapanese	ビョク ミキ ボク モク
+U+4047	kMandarin	mì
+U+4048	kDefinition	to examine; to survey; to inspect; to visit, to watch or see in secret; to spy; to peep
+U+4048	kFanqie	當古 苦計
+U+4048	kHanyuPinyin	42500.010:qì
+U+4048	kJapanese	ケイ キ ト ツ かえりみる うかがう
+U+4048	kMandarin	qì
+U+4049	kDefinition	(same as 䁈) to examine; to survey; to inspect; to visit, to watch or see in secret; to spy; to peep
+U+4049	kJapanese	キ
+U+4049	kMandarin	qì
+U+404A	kCantonese	waat3
+U+404A	kDefinition	dark and deep eyed, to look down, to block, to stuff, to cork; to seal
+U+404A	kFanqie	女利 烏括
+U+404A	kHanyuPinyin	42504.020:wò
+U+404A	kJapanese	ワツ ワチ ダツ ナチ ジ ニ
+U+404A	kMandarin	wò
+U+404B	kCantonese	hip3
+U+404B	kDefinition	with one eye closed, to close the eyes; (same as 瞸) to look askance at; (Cant.) to close the eyes
+U+404B	kFanqie	徒協 呼牒
+U+404B	kHanyuPinyin	42500.160:xiè,zhé
+U+404B	kJapanese	キョウ チョウ ジョウ ショウ
+U+404B	kMandarin	xiè
+U+404C	kDefinition	to see for a short time
+U+404C	kFanqie	王勿
+U+404C	kHanyuPinyin	42502.070:yù
+U+404C	kJapanese	ウツ ウチ
+U+404C	kMandarin	yù
+U+404D	kCantonese	hap1
+U+404D	kDefinition	blind, hollow-eyed, to look at
+U+404D	kFanqie	苦洽
+U+404D	kHanyuPinyin	42501.020:qià,kān
+U+404D	kJapanese	コウ カン コン
+U+404D	kMandarin	qià
+U+404E	kCantonese	caang4
+U+404E	kDefinition	to make a close inspection, secretion of the eye, (same as 瞠) to look straight at; to stare at
+U+404E	kFanqie	宅耕
+U+404E	kHanyuPinyin	42503.080:chéng,tíng,chēng
+U+404E	kJapanese	トウ ジョウ テイ チョウ
+U+404E	kMandarin	chéng
+U+404F	kDefinition	farsightedness (as a physical defect); hypermetropia, to look from a distance
+U+404F	kHanyuPinyin	42501.010:yǎo
+U+404F	kJapanese	ヨウ
+U+404F	kMandarin	yǎo
+U+4050	kDefinition	deep eyed, to look at; to inspect; to see
+U+4050	kHanyuPinyin	42500.120:yīng,yìng
+U+4050	kJapanese	エイ ヨウ
+U+4050	kMandarin	yīng
+U+4051	kDefinition	(same as 眻) pretty eyes, the space between eyebrows, (interchangeable 揚) to raise; to praise, to display
+U+4051	kJapanese	ヨウ
+U+4051	kMandarin	yáng
+U+4052	kDefinition	to wink, to shed tears
+U+4052	kFanqie	子入
+U+4052	kHanyuPinyin	42502.030:jí,zí
+U+4052	kJapanese	シュウ
+U+4052	kMandarin	jí
+U+4053	kCantonese	zung1
+U+4053	kDefinition	to look at; to see, to peep; to look something stealthily, angry
+U+4053	kFanqie	作孔 作弄 古拜
+U+4053	kHanyuPinyin	42503.040:zōng,zǒng,jiè
+U+4053	kJapanese	ソウ ス カイ
+U+4053	kMandarin	zōng
+U+4054	kCantonese	hyun1
+U+4054	kDefinition	big eyes (same as 睅) protuberant eyes, goggle-eye
+U+4054	kFanqie	況袁 况晚 胡管
+U+4054	kHanyuPinyin	42502.180:xuān,hàn
+U+4054	kJapanese	ケン カン ガン
+U+4054	kMandarin	xuān
+U+4055	kCantonese	man4
+U+4055	kDefinition	(same as 盿) to look at; to see, to look down; to look from above
+U+4055	kFanqie	武巾 彌鄰
+U+4055	kHanyuPinyin	42503.170:mín
+U+4055	kJapanese	ビン ミン
+U+4055	kMandarin	mín
+U+4056	kCantonese	lau1
+U+4056	kDefinition	to see; to look at; to observe
+U+4056	kMandarin	lōu
+U+4056	kTGHZ2013	231.010:lōu
+U+4056	kXHC1983	0733.100:lōu
+U+4057	kCantonese	hoi2
+U+4057	kDefinition	light; bright; brilliant, clear, to shine upon; to light or illumine
+U+4057	kHanyuPinyin	42506.120:kǎi
+U+4057	kJapanese	カイ
+U+4057	kMandarin	kǎi
+U+4058	kDefinition	to look at; to see, pretty eyes; (same as 䁏) farsightedness (as a physical defect); hypermetropia, to look from a distance
+U+4058	kFanqie	以沼
+U+4058	kHanyuPinyin	42507.070:yǎo
+U+4058	kJapanese	ヨウ
+U+4058	kMandarin	yǎo
+U+4059	kDefinition	eloquent eyes; to converse with eyes; to make sheep eyes or passes, to look at; to see, to look up to; to respect
+U+4059	kFanqie	烏澗
+U+4059	kHanyuPinyin	42506.090:yǎn
+U+4059	kJapanese	アン エン アツ エチ
+U+4059	kMandarin	yǎn
+U+405A	kCantonese	syun2
+U+405A	kDefinition	a kind of eye disease, (a non-classical form)
+U+405A	kHanyuPinyin	42506.110:sǔn,qióng
+U+405A	kJapanese	ソン ケイ
+U+405A	kMandarin	sǔn
+U+405B	kDefinition	to look; to see; to inspect
+U+405B	kFanqie	俱位
+U+405B	kHanyuPinyin	42506.190:guì
+U+405B	kJapanese	キ
+U+405B	kMandarin	guì
+U+405B	kVietnamese	coi
+U+405C	kCantonese	fong2
+U+405C	kDefinition	big eyes, a kind of eye disease
+U+405C	kFanqie	呼晃
+U+405C	kHanyuPinyin	42506.080:huàng,huǎng
+U+405C	kJapanese	コウ オウ
+U+405C	kMandarin	huàng
+U+405D	kDefinition	deluding and causing disorder (interchangeable 熒) lights shining; sparkling; twinkling; shimmering
+U+405D	kFanqie	余傾 戶扃 烏猛
+U+405D	kHanyuPinyin	42507.130:yíng,yǐng
+U+405D	kJapanese	ケイ ギョウ エイ ヨウ オウ
+U+405D	kMandarin	yíng
+U+405E	kCantonese	saang2
+U+405E	kDefinition	(same as ancient form of 省) a province, to examine; to watch, to reduce, to diminish
+U+405E	kJapanese	セイ
+U+405E	kMandarin	shěng
+U+405F	kCantonese	caa4
+U+405F	kDefinition	(interchangeable 差) wrong; mistaken; erroneous, disorderly; untidy; irregular
+U+405F	kHanyuPinyin	42507.120:chá
+U+405F	kJapanese	サ ジャ
+U+405F	kMandarin	chá
+U+4060	kCantonese	lim4
+U+4060	kDefinition	to hang down (eyes)
+U+4060	kHanyuPinyin	42506.200:lián
+U+4060	kJapanese	レン
+U+4060	kMandarin	lián
+U+4061	kCantonese	sim2
+U+4062	kCantonese	syun4
+U+4062	kDefinition	(same as 嫙) exquisite; fine
+U+4062	kFanqie	似宣
+U+4062	kHangul	선:N
+U+4062	kHanyuPinyin	42511.140:xuán
+U+4062	kJapanese	セン ゼン
+U+4062	kMandarin	xuán
+U+4063	kCantonese	syun4
+U+4063	kDefinition	to wink
+U+4063	kHanyuPinyin	42509.110:chuán
+U+4063	kJapanese	セン ゼン
+U+4063	kMandarin	chuán
+U+4064	kDefinition	moistened eyes, to stare in anger or contempt
+U+4064	kFanqie	火癸 香季
+U+4064	kHanyuPinyin	42511.120:chè,zhé,huǐ
+U+4064	kJapanese	タク チャク キ
+U+4064	kMandarin	chè
+U+4065	kCantonese	nik1
+U+4065	kDefinition	to blink; to half-close the eyes, small eyes (same as 昵) very dear; very intimate; very much in love
+U+4065	kHanyuPinyin	42508.110:nì
+U+4065	kJapanese	ジツ ニチ
+U+4065	kMandarin	nì
+U+4066	kCantonese	ceoi3
+U+4066	kDefinition	(same as 覷) to see; to look at, to steal a glance; to glance quickly, to spy on; to peep at
+U+4066	kFanqie	七慮
+U+4066	kJapanese	ショ
+U+4066	kMandarin	qù
+U+4067	kCantonese	miu4
+U+4067	kDefinition	to open wide (eyes)
+U+4067	kHanyuPinyin	42509.050:miáo
+U+4067	kJapanese	バン マン ビョウ ミョウ
+U+4067	kMandarin	miáo
+U+4068	kDefinition	to open the eyes with astonishment, (interchangeable 矐) to lose one's eyesight; to become blind; blind
+U+4068	kFanqie	虚郭
+U+4068	kHanyuPinyin	42507.090:huò
+U+4068	kJapanese	カク
+U+4068	kMandarin	huò
+U+4069	kDefinition	(same as 魚) fish, inferior horse with blind eyes
+U+4069	kFanqie	語居
+U+4069	kHanyuPinyin	42511.030:yú
+U+4069	kJapanese	ギョ ゴ
+U+4069	kMandarin	yú
+U+406A	kCantonese	zaam2
+U+406A	kDefinition	to wink
+U+406A	kHanyuPinyin	42509.100:zhǎn
+U+406A	kMandarin	zhǎn
+U+406A	kSMSZD2003Readings	zhǎn粵zaam2
+U+406B	kDefinition	muddy; dirty, eyesight obscured
+U+406B	kHanyuPinyin	42513.130:hú,méng
+U+406B	kJapanese	コツ ゴチ ボウ モ
+U+406B	kMandarin	hú
+U+406C	kCantonese	cang4
+U+406C	kDefinition	to act pretentiously (by slit-eyed), eyesight obscured
+U+406C	kFanqie	昨楞
+U+406C	kHanyuPinyin	42514.070:céng
+U+406C	kJapanese	ソウ
+U+406C	kMandarin	céng
+U+406D	kCantonese	biu1
+U+406D	kDefinition	to give an angry look, to watch; to view
+U+406D	kHanyuPinyin	42512.160:biāo
+U+406D	kJapanese	ヒョウ
+U+406D	kMandarin	biāo
+U+406E	kCantonese	cim4
+U+406E	kDefinition	sad; mournful; grieved, to worry about, to think with one's eyes closed, to close the eyes
+U+406E	kFanqie	昨鹽 漸念
+U+406E	kHanyuPinyin	42513.010:qián
+U+406E	kJapanese	セン ゼン
+U+406E	kMandarin	qián
+U+406F	kCantonese	hap1
+U+406F	kDefinition	to look at; to see; to inspect; (same as 瞸) gazing into distance, having one eye smaller than the other, to look askance at; (Cant.) to close the eyes
+U+406F	kHanyuPinyin	42514.050:xī,xié
+U+406F	kJapanese	キュウ コウ キョウ
+U+406F	kMandarin	xī
+U+4070	kDefinition	to look in an evil or wicked way; wicked vision
+U+4070	kJapanese	コウ
+U+4070	kMandarin	jiǎng
+U+4071	kDefinition	(same as 眗) hollow-eyed
+U+4071	kFanqie	烏侯 恪侯
+U+4071	kHanyuPinyin	42512.060:kōu
+U+4071	kJapanese	コウ ク オウ ヨウ キョウ
+U+4071	kMandarin	kōu
+U+4072	kCantonese	maai4
+U+4072	kDefinition	to peep; to look at something stealthily; (Cant.) to close the eyes
+U+4072	kFanqie	莫佳
+U+4072	kHanyuPinyin	42513.110:mái
+U+4072	kJapanese	バイ メ
+U+4072	kMandarin	mái
+U+4073	kCantonese	mong5
+U+4073	kDefinition	to lose one eye
+U+4073	kFanqie	模朗
+U+4073	kHanyuPinyin	42512.100:mǎng
+U+4073	kJapanese	ボウ モウ
+U+4073	kMandarin	mǎng
+U+4074	kCantonese	zin2
+U+4074	kDefinition	keep on looking, change the facial expression
+U+4074	kFanqie	旨善 式善
+U+4074	kHanyuPinyin	42518.110:zhǎn,shǎn
+U+4074	kJapanese	セン
+U+4074	kMandarin	zhǎn
+U+4075	kDefinition	newborn baby with the eyelids closed, big eyes, to close the eyes
+U+4075	kFanqie	方免
+U+4075	kHanyuPinyin	42517.120:biǎn,huán
+U+4075	kJapanese	ヘン ケン カン ゲン
+U+4075	kMandarin	biǎn
+U+4076	kCantonese	gik1
+U+4076	kDefinition	to look at something without winking, bright
+U+4076	kHanyuPinyin	42518.040:jī,jiǎo
+U+4076	kJapanese	ケキ キャク キョウ
+U+4076	kMandarin	jī
+U+4077	kCantonese	gok3
+U+4077	kDefinition	bright eyes, angry look; angry eyes (ancient form of 覺) to awaken, to wake up from sleep, to feel
+U+4077	kFanqie	烏酷 古岳
+U+4077	kHanyuPinyin	42518.030:jué,wù
+U+4077	kJapanese	カク ヨク オク
+U+4077	kMandarin	jué
+U+4078	kDefinition	eyesight obscured, angry glances
+U+4078	kFanqie	女江
+U+4078	kHanyuPinyin	42517.090:náng,nǒng
+U+4078	kJapanese	ドウ ニョウ ヌ
+U+4078	kMandarin	náng
+U+4079	kDefinition	(same as 睥) to look askance; an expression of disdain or despise
+U+4079	kJapanese	ヘイ
+U+4079	kMandarin	bì
+U+407A	kCantonese	sik1
+U+407A	kDefinition	to look at; to see; to inspect, sharp, bright-colored; bright eyes, (same as non-classical form of 睪) spy on, to lead on
+U+407A	kFanqie	施隻
+U+407A	kHanyuPinyin	42517.110:shì,yì
+U+407A	kJapanese	セキ シャク エキ ヤク
+U+407A	kMandarin	shì
+U+407B	kCantonese	soek3
+U+407B	kDefinition	pretty eyes, to have a casual and short glance
+U+407B	kFanqie	書藥
+U+407B	kHanyuPinyin	42521.030:shuò,lì
+U+407B	kJapanese	シャク レキ リャク
+U+407B	kMandarin	shuò
+U+407C	kCantonese	mak6
+U+407C	kDefinition	(literally) to look but see nothing -- absent-minded, to regard as nothing
+U+407C	kHanyuPinyin	42520.140:mò
+U+407C	kJapanese	ボク モク
+U+407C	kMandarin	mò
+U+407D	kCantonese	laap3
+U+407D	kDefinition	eyesight obscured, abnormal vision; (Cant.) to glance at, sweep the eyes over
+U+407D	kFanqie	良涉
+U+407D	kHanyuPinyin	42521.080:liè
+U+407D	kJapanese	リョウ
+U+407D	kMandarin	liè
+U+407E	kCantonese	mit6
+U+407E	kDefinition	red and swelling of the eye socket, dim-sighted; poor visioned
+U+407E	kFanqie	莫結
+U+407E	kHanyuPinyin	42519.090:miè
+U+407E	kJapanese	ベツ メチ
+U+407E	kMandarin	miè
+U+407F	kCantonese	mak6
+U+407F	kDefinition	sleepy; drowsy, to startle; to surprise; to amaze
+U+407F	kFanqie	莫北
+U+407F	kHanyuPinyin	42521.180:mò
+U+407F	kJapanese	ボク モク
+U+407F	kMandarin	mò
+U+4080	kCantonese	hei1
+U+4080	kDefinition	to wink
+U+4080	kHanyuPinyin	42522.010:xī
+U+4080	kJapanese	キ
+U+4080	kMandarin	xī
+U+4081	kDefinition	an angry look; to look at someone angrily, hollow-eyed
+U+4081	kHanyuPinyin	42522.100:chán
+U+4081	kJapanese	サン ザン
+U+4081	kMandarin	chán
+U+4082	kCantonese	keoi4
+U+4082	kDefinition	to gaze at in terror, a surname
+U+4082	kHanyuPinyin	42522.180:qú
+U+4082	kJapanese	ク グ
+U+4082	kMandarin	qú
+U+4083	kCantonese	ziu3
+U+4083	kDefinition	dark; dim; eyesight obscured, angry look; angry eyes
+U+4083	kFanqie	子肖
+U+4083	kHanyuPinyin	42522.220:jiào
+U+4083	kJapanese	ショウ シャク サク セイ
+U+4083	kMandarin	jiào
+U+4084	kDefinition	to startle; to surprise; to amaze; to look at in surprise
+U+4084	kFanqie	許縛
+U+4084	kHanyuPinyin	42523.070:huò
+U+4084	kJapanese	キャク カク
+U+4084	kMandarin	huò
+U+4085	kDefinition	to have insight or vision of a simple and honest person, silly
+U+4085	kHanyuPinyin	42523.140:xiān
+U+4085	kJapanese	カン ケン
+U+4085	kMandarin	xiān
+U+4086	kDefinition	weapons; arms (a lance; a spear)
+U+4086	kHanyuPinyin	42764.030:xù
+U+4086	kJapanese	ケキ キャク
+U+4086	kMandarin	xù
+U+4087	kDefinition	to pierce; to stab; to irritate; to hurt, a thorn
+U+4087	kFanqie	女六
+U+4087	kHanyuPinyin	42765.020:niǔ
+U+4087	kJapanese	ジュウ ニュ ジク ニク
+U+4087	kMandarin	niǔ
+U+4088	kCantonese	tung4
+U+4088	kDefinition	to pierce; to stab; to irritate; to hurt, a thorn, a lance; a spear
+U+4088	kFanqie	徒冬
+U+4088	kHanyuPinyin	42766.020:tóng
+U+4088	kJapanese	トウ ズ
+U+4088	kMandarin	tóng
+U+4089	kDefinition	weapons; arms (a lance; a spear)
+U+4089	kHanyuPinyin	42767.190:hóu
+U+4089	kJapanese	コウ ゴ
+U+4089	kMandarin	hóu
+U+408A	kDefinition	weapons; arms (a lance; a spear)
+U+408A	kHanyuPinyin	42768.180:yù
+U+408A	kJapanese	ヨ
+U+408A	kMandarin	yù
+U+408B	kCantonese	jau5
+U+408C	kCantonese	cung1
+U+408C	kDefinition	a short weapon (daggers; swords; knives)
+U+408C	kFanqie	尺容
+U+408C	kHanyuPinyin	42768.190:chōng
+U+408C	kJapanese	ショウ シュ
+U+408C	kMandarin	chōng
+U+408D	kCantonese	bok6
+U+408D	kDefinition	a kind of weapon carried by the honor guard before the Emperor in ancient times
+U+408D	kHanyuPinyin	42769.040:bó
+U+408D	kJapanese	ハク バク
+U+408D	kMandarin	bó
+U+408E	kCantonese	zyun2
+U+408E	kDefinition	a short spear; a lance with two points, a halberd, to pierce; to stab; to irritate, to catch a spear from away
+U+408E	kFanqie	作管 子筭 七亂 七丸
+U+408E	kHanyuPinyin	42769.100:zuǎn,cuān
+U+408E	kJapanese	サン
+U+408E	kMandarin	zuǎn
+U+408F	kCantonese	diu1
+U+408F	kDefinition	short, dog with short tail
+U+408F	kFanqie	都聊
+U+408F	kHanyuPinyin	42583.100:diāo
+U+408F	kJapanese	チョウ
+U+408F	kMandarin	diāo
+U+4090	kDefinition	short (ancient form of 拙) stupid; crude; poor; slow and clumsy
+U+4090	kFanqie	竹律 職悅
+U+4090	kHanyuPinyin	42583.090:zhuō
+U+4090	kJapanese	セツ セチ
+U+4090	kMandarin	zhuō
+U+4091	kCantonese	zai1
+U+4091	kDefinition	short; (Cant.) intensifier
+U+4091	kFanqie	祖稽
+U+4091	kHanyuPinyin	42583.160:jī
+U+4091	kJapanese	セイ サイ シ
+U+4091	kMandarin	jī
+U+4092	kDefinition	short (dialect) to curry favor; to toady; to flatter; to try hard to please
+U+4092	kFanqie	恪八
+U+4092	kHanyuPinyin	42583.110:qià
+U+4092	kJapanese	カツ カチ
+U+4092	kMandarin	qià
+U+4093	kCantonese	kwai1
+U+4093	kDefinition	(standard form of 規) regulations; laws; rules; customs or usages, a pair of compasses
+U+4093	kJapanese	キ

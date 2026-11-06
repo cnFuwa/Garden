@@ -1,0 +1,2000 @@
+U+35FF	kFanqie	虚我 許下 呼訝
+U+35FF	kHangul	하:N
+U+35FF	kHanyuPinyin	10695.010:hé,xià,xiā
+U+35FF	kJapanese	カ ケ
+U+35FF	kMandarin	hé
+U+3600	kCantonese	zok3
+U+3600	kDefinition	to sound, a sound, the cry of a bird or animal
+U+3600	kFanqie	則落 祖郭
+U+3600	kHanyuPinyin	10692.100:zuò
+U+3600	kJapanese	サク
+U+3600	kMandarin	zuò
+U+3601	kDefinition	to call; to scream; to whistle, name of a stream
+U+3601	kFanqie	羊益
+U+3601	kHanyuPinyin	10691.120:yì
+U+3601	kJapanese	エキ ヤク
+U+3601	kMandarin	yì
+U+3602	kCantonese	ci4
+U+3602	kDefinition	ashamed; bashful
+U+3602	kHanyuPinyin	10694.060:cí
+U+3602	kJapanese	シ ジ
+U+3602	kMandarin	cí
+U+3603	kCantonese	je5
+U+3604	kCantonese	lang1
+U+3604	kMandarin	lēng
+U+3604	kXHC1983	0687.080:lēng
+U+3605	kCantonese	haam4
+U+3605	kDefinition	(same as 銜 啣) to hold in the mouth
+U+3605	kJapanese	カン
+U+3605	kMandarin	xián
+U+3606	kDefinition	to laugh at; to deride; to jeer at, to snore
+U+3606	kFanqie	他亥
+U+3606	kHanyuPinyin	10695.080:tǎi
+U+3606	kJapanese	タイ ダイ
+U+3606	kMandarin	tǎi
+U+3606	kXHC1983	1110.022:tǎi
+U+3607	kCantonese	wing4
+U+3607	kHanyuPinyin	10697.090:róng
+U+3607	kJapanese	エイ ヨウ
+U+3607	kMandarin	róng
+U+3607	kVietnamese	vang
+U+3608	kDefinition	able to take a correct view of things; to response correctly (said of small children), sound; echo
+U+3608	kFanqie	魚記 魚力
+U+3608	kHanyuPinyin	10696.230:yì,nǐ
+U+3608	kJapanese	ギョク ゴキ ギ
+U+3608	kMandarin	yì
+U+3609	kCantonese	zik1
+U+3609	kDefinition	to make sound; to speak; (Cant.) to tickle, squeeze
+U+3609	kFanqie	阻瑟
+U+3609	kHanyuPinyin	10692.070:zhì
+U+3609	kJapanese	シツ シチ
+U+3609	kMandarin	zhì
+U+360A	kDefinition	the abrupt and hasty sound of the crowd
+U+360A	kHanyuPinyin	10699.120:xī,yì
+U+360A	kJapanese	ユウ キュウ コウ
+U+360A	kMandarin	xī
+U+360B	kDefinition	sound; echo, difficult; troublesome
+U+360B	kFanqie	下珍 胡田
+U+360B	kHanyuPinyin	10699.060:xián
+U+360B	kJapanese	ケン ゲン
+U+360B	kMandarin	xián
+U+360B	kVietnamese	hờn
+U+360C	kDefinition	(non-classical form of 噱) to laugh without stopping, loud laughter
+U+360C	kFanqie	奇逆
+U+360C	kHanyuPinyin	10699.150:jù
+U+360C	kJapanese	ケキ ギャク
+U+360C	kMandarin	jù
+U+360D	kDefinition	sound of rat; sound of insects
+U+360D	kFanqie	資悉
+U+360D	kHanyuPinyin	10699.160:jí
+U+360D	kJapanese	シツ シチ
+U+360D	kMandarin	jí
+U+360E	kCantonese	haam3
+U+360E	kDefinition	(simplified form) the roars of a tiger
+U+360E	kMandarin	hǎn
+U+360E	kTGHZ2013	130.150:hǎn
+U+360E	kXHC1983	0439.080:hǎn
+U+360F	kCantonese	dou6
+U+3610	kDefinition	loud; to roar
+U+3610	kHanyuPinyin	10701.090:pào
+U+3610	kJapanese	ホウ ヒョウ
+U+3610	kMandarin	pào
+U+3611	kCantonese	lai6
+U+3611	kDefinition	to curse, to swear and oath, incantations
+U+3611	kHanyuPinyin	10701.100:lì
+U+3611	kJapanese	レイ ライ
+U+3611	kMandarin	lì
+U+3612	kCantonese	zung2
+U+3613	kCantonese	laan4
+U+3613	kDefinition	prolix speech, (same as 讕) to make a false charge; to lay a false accusation
+U+3613	kFanqie	落干
+U+3613	kHanyuPinyin	10705.070:lán
+U+3613	kJapanese	ラン
+U+3613	kMandarin	lán
+U+3613	kVietnamese	ran
+U+3614	kCantonese	coi3
+U+3614	kDefinition	eat, to bite, to gnaw, (a dialect) usually at the end of a sentence; tone (of one's speech)
+U+3614	kHangul	새:N
+U+3614	kHanyuPinyin	10705.040:sǎi
+U+3614	kMandarin	sǎi
+U+3615	kDefinition	(non-classical form of 喊) (standard form of 婪) to call; to halloo, covetous; avaricious
+U+3615	kHanyuPinyin	10705.140:hǎn,lán
+U+3615	kJapanese	ラン カン
+U+3615	kMandarin	hǎn
+U+3616	kDefinition	to make a disturbance; to quarrel; to wrangle
+U+3616	kHanyuPinyin	10707.010:yán
+U+3616	kJapanese	ガン ゲン
+U+3616	kMandarin	yán
+U+3617	kCantonese	keoi1
+U+3617	kDefinition	whisper; to whistle
+U+3617	kHanyuPinyin	10706.060:qū
+U+3617	kMandarin	qū
+U+3617	kXHC1983	0943.020:qū
+U+3618	kCantonese	lyun2
+U+3619	kDefinition	to groan; to moan
+U+3619	kFanqie	宜戟
+U+3619	kHanyuPinyin	10709.010:yán
+U+3619	kJapanese	ガン ゲン ゲキ ギャク
+U+3619	kMandarin	yán
+U+361A	kCantonese	haam3
+U+361A	kDefinition	angry appearance; to look furious; the roaring of a tiger
+U+361A	kHanyuPinyin	10708.100:hǎn
+U+361A	kMandarin	hǎn
+U+361A	kSMSZD2003Readings	hǎn粵haam3
+U+361B	kDefinition	(non-classical form of 嵌) a deep valley, piece of music in minority group
+U+361B	kHanyuPinyin	10709.200:kān
+U+361B	kJapanese	カン
+U+361B	kMandarin	kān
+U+361C	kDefinition	(non-classical form of 雔) a kind of silkworm, pair of birds; couple; companion; to match, corresponding, proper
+U+361C	kJapanese	シュウ
+U+361C	kMandarin	chǐ
+U+361D	kDefinition	to take in; to absorb, (non-classical form of 罱) a kind of spring fishing net; a kind of small net with a handle used to catch fishes or birds
+U+361D	kFanqie	尼立 女洽
+U+361D	kHanyuPinyin	10711.040:niè
+U+361D	kJapanese	ジュウ ノウ ドウ ニョウ
+U+361D	kMandarin	niè
+U+361E	kDefinition	sound of yelling while towing a boat; (Sanskrit) to call out
+U+361E	kHanyuPinyin	10711.030:huò
+U+361E	kJapanese	カ ワ
+U+361E	kMandarin	huò
+U+361F	kCantonese	coeng1
+U+3620	kDefinition	to close; to stop up; to obstruct
+U+3620	kFanqie	彼側
+U+3620	kHanyuPinyin	10717.140:bì
+U+3620	kJapanese	ヒョク ヒキ
+U+3620	kMandarin	bì
+U+3621	kCantonese	haap6
+U+3621	kDefinition	(same as 柙) a pen for wild beasts; a cage for prisoners
+U+3621	kJapanese	コウ
+U+3621	kMandarin	xiá
+U+3622	kCantonese	wang2
+U+3622	kDefinition	a round cave; a round hole
+U+3622	kHanyuPinyin	10718.040:wěng
+U+3622	kJapanese	オウ
+U+3622	kMandarin	wěng
+U+3623	kDefinition	compasses, (same as 圓) round; circular
+U+3623	kFanqie	火玄
+U+3623	kHanyuPinyin	10719.060:xuán,yuán
+U+3623	kJapanese	ケン セン ゼン
+U+3623	kMandarin	xuán
+U+3624	kCantonese	waan1
+U+3624	kDefinition	circle of the moving water
+U+3624	kHanyuPinyin	10726.140:wān
+U+3624	kJapanese	ワン エン
+U+3624	kMandarin	wān
+U+3625	kCantonese	jau4
+U+3625	kDefinition	to inveigle; to decoy, a decoy-bird; a go-between; a medium
+U+3625	kFanqie	以周
+U+3625	kJapanese	ユウ
+U+3625	kMandarin	yóu
+U+3625	kSMSZD2003Readings	yóu粵jau4
+U+3625	kXHC1983	1400.070:yóu
+U+3626	kCantonese	kan4
+U+3626	kDefinition	wall made of soil, used in name of places
+U+3626	kHanyuPinyin	10417.130:qín
+U+3626	kJapanese	キン ゴン
+U+3626	kMandarin	qín
+U+3627	kCantonese	zeoi6
+U+3627	kDefinition	(same as 序) precedence, order, orderly, the east and west walls of the parlor
+U+3627	kHanyuPinyin	10429.050:xù
+U+3627	kJapanese	ジョ
+U+3627	kMandarin	xù
+U+3628	kCantonese	nip6
+U+3628	kDefinition	deep; profound, empty; hollow, quiet; peaceful
+U+3628	kFanqie	奴協
+U+3628	kHanyuPinyin	10422.180:niè
+U+3628	kJapanese	カイ ケ ジョウ ニョウ
+U+3628	kMandarin	niè
+U+3628	kVietnamese	nồi
+U+3629	kCantonese	bei6
+U+3629	kDefinition	to mate; to pair
+U+3629	kHanyuPinyin	10422.070:bì
+U+3629	kJapanese	ヒ
+U+3629	kMandarin	bì
+U+362A	kCantonese	hou3
+U+362A	kDefinition	(same as 耗) to waste, to destroy, to diminish; hence it came to mean, a rat, heedless; careless; inattentive; rough and coarse
+U+362A	kHanyuPinyin	10423.040:hào
+U+362A	kJapanese	コウ
+U+362A	kMandarin	hào
+U+362B	kDefinition	(a variant of 阱) to fall into a well, a pit; a pitfall; a hole; a gully, to involve; to entrap
+U+362B	kHanyuPinyin	10421.050:jǐng
+U+362B	kJapanese	セイ ジョウ
+U+362B	kMandarin	jǐng
+U+362C	kDefinition	(same as 坳) a hollow in the ground; a cavity, (same as 物) matter; substance, all living creatures, things in general, the affairs of this world, things or matters outside oneself, others, goods, the Tibetan classical text means Buddha
+U+362C	kHanyuPinyin	10426.060:ào,wù
+U+362C	kJapanese	ブツ
+U+362C	kMandarin	ào
+U+362D	kCantonese	aau3
+U+362D	kDefinition	a hollow in the ground; a cavity, undulating
+U+362D	kJapanese	オウ
+U+362D	kMandarin	ào
+U+362D	kXHC1983	0012.131:ào
+U+362E	kCantonese	jik6
+U+362F	kCantonese	coeng4
+U+3630	kCantonese	zam1
+U+3630	kDefinition	(interchangeable 斟) name of an old country; used in name of a place
+U+3630	kFanqie	職深
+U+3630	kHanyuPinyin	10427.030:zhēn
+U+3630	kJapanese	シン
+U+3630	kMandarin	zhēn
+U+3631	kCantonese	taan1
+U+3631	kDefinition	(same as 坍) to fall into ruins; to collapse
+U+3631	kFanqie	他酣
+U+3631	kJapanese	タン
+U+3631	kMandarin	tān
+U+3631	kXHC1983	1112.061:tān
+U+3632	kCantonese	guk1
+U+3632	kDefinition	a cove; a bay, a bend or nook in the hills, the outside part of a curved bank; the curve of a bow
+U+3632	kFanqie	居六
+U+3632	kJapanese	キク コク
+U+3632	kMandarin	jú
+U+3633	kDefinition	(same as 丘) a hillock or mound
+U+3633	kJapanese	キュウ
+U+3634	kCantonese	zo6
+U+3634	kDefinition	(same as 坐) to sit, a seat
+U+3634	kJapanese	ザ すわる
+U+3634	kMandarin	zuò
+U+3635	kCantonese	bou3
+U+3635	kDefinition	name of a place; in Fujian Province
+U+3635	kHanyuPinyin	10430.040:bù
+U+3635	kMandarin	bù
+U+3635	kSMSZD2003Readings	bù粵bou3
+U+3635	kXHC1983	0096.020:bù
+U+3636	kCantonese	git6
+U+3636	kDefinition	(ancient form of 桀) a hen-roost, cruel, the last ruler of the Xia Dynasty
+U+3636	kJapanese	ケツ
+U+3636	kMandarin	jié
+U+3637	kDefinition	(same as 艾) Mugwort, artemisia or any plant which produces moxa punk, general name for plants like mint
+U+3637	kJapanese	ガイ
+U+3637	kMandarin	ài
+U+3638	kCantonese	zong3
+U+3638	kDefinition	(same as 葬) to bury, (ancient form of 坐) to sit, a seat
+U+3638	kHanyuPinyin	10438.060:zàng,zuò
+U+3638	kJapanese	ザ
+U+3638	kMandarin	zàng
+U+3639	kCantonese	ci4
+U+3639	kDefinition	(non-classical form of 垐) to spread soil on the road, pave the road with soil, (ancient form of 堲) sickness; illness; disease
+U+3639	kJapanese	シ
+U+3639	kMandarin	cí
+U+363A	kCantonese	fat6
+U+363A	kDefinition	cultivated land; to till lands, a clod of earth
+U+363A	kJapanese	ハツ
+U+363A	kMandarin	fá
+U+363B	kDefinition	to stop up; to close against; to restrain, to dam a stream and change its direction, to conceal a mound
+U+363B	kJapanese	イン
+U+363C	kCantonese	haau2
+U+363D	kCantonese	zoi1
+U+363D	kDefinition	to cultivate, plant; to care for plants
+U+363D	kHangul	재:N
+U+363E	kCantonese	jyu5
+U+363F	kDefinition	(same as 涅) to fill up, as a hole, black mud; slime, to stop up; to block; to cork
+U+363F	kHanyuPinyin	10443.180:niè
+U+363F	kJapanese	デツ ネチ
+U+363F	kMandarin	niè
+U+3640	kCantonese	lau6
+U+3640	kDefinition	a vegetable-plot, to plough; to till lands, among dikes and fields
+U+3640	kFanqie	力救
+U+3640	kHanyuPinyin	10447.040:liù,jiù
+U+3640	kJapanese	リュウ ル キュウ ク
+U+3640	kMandarin	liù
+U+3641	kDefinition	dust; dirt; a smear, (same as 牧) name of a place in old times
+U+3641	kFanqie	莫六
+U+3641	kHanyuPinyin	10445.080:méi,mù
+U+3641	kJapanese	バイ メ ボク モク
+U+3641	kMandarin	méi
+U+3642	kDefinition	wall; fence, (interchangeable with 兑) a hole
+U+3642	kHanyuPinyin	10445.160:duì,wèng
+U+3642	kJapanese	タイ
+U+3642	kMandarin	duì
+U+3643	kDefinition	a cavity; hole of a mound or an altar of earth
+U+3643	kHanyuPinyin	10445.090:bāng
+U+3643	kJapanese	ホウ
+U+3643	kMandarin	bāng
+U+3644	kCantonese	bai6
+U+3644	kDefinition	below; under; low, (same as 陛) the steps to the throne, to ascend steps
+U+3644	kFanqie	傍禮
+U+3644	kHanyuPinyin	10443.110:bì
+U+3644	kJapanese	ヘイ きざはし
+U+3644	kMandarin	bì
+U+3645	kCantonese	bou2
+U+3645	kDefinition	(same as 堡) a walled village, an earth-work; a petty military station, subdivision of a township; a ward in a city
+U+3645	kJapanese	ホウ
+U+3645	kMandarin	bǎo
+U+3646	kCantonese	wang4
+U+3647	kCantonese	cuk1
+U+3647	kDefinition	place trampled by cattle and horses
+U+3647	kFanqie	丑玉
+U+3647	kHanyuPinyin	10452.040:chù
+U+3647	kJapanese	チョク チク ジョク ニク
+U+3647	kMandarin	chù
+U+3648	kDefinition	name of a place in Shanxi province
+U+3648	kHanyuPinyin	10452.120:xià
+U+3648	kJapanese	カ ケ
+U+3648	kMandarin	xià
+U+3649	kCantonese	tin2
+U+3649	kDefinition	(same as 腆) prosperous; affluence, good; virtuous, to make strong -- as liquors
+U+3649	kJapanese	テン
+U+3649	kMandarin	tiǎn
+U+364A	kCantonese	coeng4
+U+364A	kDefinition	(same as 場) an area of level ground; an open space, a threshing floor, arena for drill, etc. a place, to pile a sand-hills
+U+364A	kFanqie	直良
+U+364A	kHanyuPinyin	10448.050:cháng,zhàng
+U+364A	kJapanese	チョウ ジョウ
+U+364A	kMandarin	cháng
+U+364B	kCantonese	gei1
+U+364C	kCantonese	suk1
+U+364D	kDefinition	name of a place in today's Guangdong Province
+U+364D	kHanyuPinyin	10459.070:duō
+U+364D	kMandarin	duō
+U+364D	kTGHZ2013	084.100:duō
+U+364E	kCantonese	wai1
+U+364E	kDefinition	breach of a tank; pond, (a dialect) to cover up; to conceal; to hide; to bury
+U+364E	kHanyuPinyin	10461.110:wēi
+U+364E	kJapanese	イ
+U+364E	kMandarin	wēi
+U+364F	kCantonese	fuk1
+U+364F	kDefinition	caverns; a grotto, a cellar, a cave-dwelling, to make a cave -- for dwelling
+U+364F	kFanqie	芳福
+U+364F	kJapanese	フク
+U+364F	kMandarin	fù
+U+3650	kCantonese	do2
+U+3650	kDefinition	to move, to hang down; to let fall, (same as 垛) a target, a battlement, to add up; to pile up
+U+3650	kHanyuPinyin	10464.010:duǒ
+U+3650	kJapanese	タ
+U+3650	kMandarin	duǒ
+U+3650	kTang	njiuɛn
+U+3651	kDefinition	(same as 宇) the canopy of heaven; space, to cover; to shelter
+U+3651	kJapanese	ウ
+U+3651	kMandarin	yǔ
+U+3652	kDefinition	(same as 野) wild; uncultivated; a wilderness, rustic, savage
+U+3652	kJapanese	ヤ の
+U+3652	kMandarin	yě
+U+3653	kCantonese	kwai4
+U+3653	kDefinition	earth; land; soil; ground; territory, opium
+U+3653	kHanyuPinyin	10459.110:kuí
+U+3653	kJapanese	キ ギ
+U+3653	kMandarin	kuí
+U+3654	kDefinition	(non-classical form of 韓) a fence, name of a star, a small feudal State, old name for Korea
+U+3654	kHanyuPinyin	10477.040:wěi,hán
+U+3654	kJapanese	カン イ
+U+3654	kMandarin	wěi
+U+3655	kCantonese	faai3
+U+3655	kDefinition	(same as 塊) a lump, a piece of, a fraction
+U+3655	kJapanese	カイ
+U+3655	kMandarin	kuài
+U+3656	kCantonese	jyu5
+U+3657	kDefinition	(same as 塊) a lump of earth; a lump, rugged; uneven
+U+3657	kHanyuPinyin	10463.060:wēi
+U+3657	kMandarin	wēi
+U+3658	kDefinition	used in naming a place
+U+3658	kHanyuPinyin	10461.070:yāo
+U+3658	kMandarin	yāo
+U+3658	kTGHZ2013	427.060:yāo
+U+3658	kXHC1983	1339.050:yāo
+U+3659	kCantonese	lung5
+U+3659	kDefinition	to smear; to daub, to erase; to blot out, mud, mire, to plaster a wall with mud
+U+3659	kFanqie	力踵
+U+3659	kHanyuPinyin	10474.060:lǒng
+U+3659	kJapanese	リョウ リュ ボウ モ モウ
+U+3659	kMandarin	lǒng
+U+365A	kCantonese	sing1
+U+365A	kDefinition	red colored hard and solid mud (soil; clay; earth)
+U+365A	kHanyuPinyin	10474.030:xīng
+U+365A	kJapanese	セイ ショウ
+U+365A	kMandarin	xīng
+U+365B	kCantonese	bou2
+U+365B	kDefinition	a person's name in old times
+U+365B	kHanyuPinyin	10471.010:bǔ
+U+365B	kJapanese	ホ フ
+U+365B	kMandarin	bǔ
+U+365C	kDefinition	(ancient and corrupted form of 臺) a lookout, a tower, a terrace, a platform, a stage
+U+365C	kMandarin	chí
+U+365D	kCantonese	hip3
+U+365D	kDefinition	a dike; a barrier; an embankment
+U+365D	kHanyuPinyin	10477.050:xié
+U+365D	kJapanese	キョウ コウ
+U+365D	kMandarin	xié
+U+365E	kDefinition	a small mountain; a hill
+U+365E	kHanyuPinyin	10472.120:niè
+U+365E	kJapanese	ギツ ゴチ
+U+365E	kMandarin	niè
+U+365F	kCantonese	long5
+U+365F	kDefinition	(a dialect) low-lying (ground) on the side of a river or lake, (a variant 塱) name of a place in Guangdong
+U+365F	kHanyuPinyin	10476.030:lǎng
+U+365F	kMandarin	lǎng
+U+365F	kXHC1983	0675.080:lǎng
+U+3660	kDefinition	dust; dirt; a smear, (same as 曀) the sun hidden by clouds, obscure
+U+3660	kFanqie	烏奚 於計
+U+3660	kHanyuPinyin	10479.080:yī,yì
+U+3660	kJapanese	エイ
+U+3660	kMandarin	yī
+U+3661	kCantonese	zung1
+U+3661	kDefinition	a kind of edible mushroom
+U+3661	kHanyuPinyin	10481.040:zōng
+U+3661	kJapanese	ショウ シュ
+U+3661	kMandarin	zōng
+U+3661	kSMSZD2003Readings	zōng粵zung1
+U+3662	kDefinition	(same as 墁 鏝) a trowel; a plaster; a trowel for plastering
+U+3662	kHanyuPinyin	10478.030:mán
+U+3662	kJapanese	バン マン ぬる
+U+3662	kMandarin	mán
+U+3663	kCantonese	zoeng3
+U+3663	kDefinition	to pile a sand-hills
+U+3663	kHanyuPinyin	10484.010:zhàng
+U+3663	kJapanese	チョウ
+U+3663	kMandarin	zhàng
+U+3664	kCantonese	laa3
+U+3664	kDefinition	(same as 罅) a crack in earthenware, a split; rip or break apart; thus -- a grudge
+U+3664	kFanqie	呼訝
+U+3664	kHanyuPinyin	10479.110:xià
+U+3664	kJapanese	カ ケ
+U+3664	kMandarin	xià
+U+3664	kVietnamese	hố
+U+3665	kDefinition	muddy
+U+3665	kHanyuPinyin	10481.130:gùn
+U+3665	kJapanese	コン
+U+3665	kMandarin	gùn
+U+3666	kCantonese	ce4
+U+3666	kMandarin	xié
+U+3666	kTGHZ2013	405.100:xié
+U+3666	kXHC1983	1275.040:xié
+U+3667	kCantonese	lau6
+U+3667	kDefinition	(same as 塯) earthenware; a kind of rice container
+U+3667	kJapanese	リュウ ル
+U+3668	kCantonese	gei1
+U+3668	kDefinition	(same as 畿) the royal domains set apart in ancient times for the emperor
+U+3668	kFanqie	渠希
+U+3668	kJapanese	キ
+U+3668	kMandarin	jì
+U+3669	kCantonese	liu4
+U+3669	kDefinition	an enclosing wall
+U+3669	kFanqie	落蕭 力照
+U+3669	kHanyuPinyin	10486.140:liáo
+U+3669	kJapanese	リョウ
+U+3669	kMandarin	liáo
+U+366A	kDefinition	dark; the sun hidden by clouds, obscure
+U+366A	kFanqie	乙兾 於計
+U+366A	kHanyuPinyin	10485.100:yì
+U+366A	kJapanese	エイ イ
+U+366A	kMandarin	yì
+U+366B	kDefinition	a fountain or spring out from the underground
+U+366B	kHanyuPinyin	10488.070:jí
+U+366B	kJapanese	シュウ
+U+366B	kMandarin	jí
+U+366C	kCantonese	ngan4
+U+366C	kDefinition	a bank; a boundary
+U+366C	kJapanese	ギン
+U+366C	kMandarin	yín
+U+366D	kCantonese	kyut3
+U+366E	kCantonese	daap3
+U+366E	kDefinition	a tower, pagoda
+U+366E	kHanyuPinyin	10488.050:dā,da
+U+366E	kMandarin	dā
+U+366E	kVietnamese	đắp
+U+366F	kDefinition	(same as 藝) skill, ability in handicraft, a craft, an art, a calling, a trade, an accomplishment
+U+366F	kHangul	예:N
+U+366F	kJapanese	ゲイ
+U+366F	kMandarin	yì
+U+3670	kDefinition	name of a place in ancient times
+U+3670	kHanyuPinyin	10492.070:xiè
+U+3670	kJapanese	カイ
+U+3670	kMandarin	xiè
+U+3671	kDefinition	earthenware used to bake cakes in Northern China
+U+3671	kFanqie	胡倒
+U+3671	kJapanese	コウ
+U+3671	kMandarin	hào
+U+3672	kCantonese	jung1
+U+3672	kDefinition	(same as 壅) to stop up; to obstruct
+U+3672	kFanqie	於用
+U+3672	kJapanese	ヨウ ふさぐ
+U+3672	kMandarin	yǒng
+U+3673	kCantonese	ham2
+U+3673	kDefinition	ruggedness of the road; difficulties of the way; bad luck, unable to reach one's aim
+U+3673	kHanyuPinyin	10491.030:kǎn,hǎn
+U+3673	kJapanese	カン
+U+3673	kMandarin	kǎn
+U+3674	kDefinition	to conceal; to hide, to shade; to darken
+U+3674	kFanqie	昌豔
+U+3674	kHanyuPinyin	10492.060:chàn
+U+3674	kJapanese	セン
+U+3674	kMandarin	chàn
+U+3674	kVietnamese	thềm
+U+3675	kCantonese	toi4
+U+3675	kDefinition	(ancient form of 臺) a lookout, a tower, a terrace, a platform; a stage
+U+3675	kJapanese	タイ
+U+3675	kMandarin	tái
+U+3676	kCantonese	tong4
+U+3676	kDefinition	(large seal type of 堂) a hall; a reception room; a meeting-place, a court of justice
+U+3676	kJapanese	ドウ
+U+3676	kMandarin	táng
+U+3677	kDefinition	low-lying area, to accumulate soil; to store up soil
+U+3677	kFanqie	直立 直葉
+U+3677	kHanyuPinyin	10496.060:zhí,zhé
+U+3677	kJapanese	チョウ チュウ
+U+3677	kMandarin	zhí
+U+3678	kDefinition	(non-classical form 墣) a clod of earth; a lump of earth; a lump
+U+3678	kJapanese	ハク
+U+3678	kMandarin	bào
+U+3679	kDefinition	a damp; a marsh, (interchangeable 夢)
+U+3679	kHanyuPinyin	10495.040:méng
+U+3679	kJapanese	ボウ モウ
+U+3679	kMandarin	méng
+U+367A	kDefinition	(same as 逵 馗) cross-road; a thorough-fare; a center from which nine roads lead out, to accumulate soil, to store up soil
+U+367A	kHanyuPinyin	10495.120:kuí,guì
+U+367A	kJapanese	キ
+U+367A	kMandarin	kuí
+U+367B	kCantonese	cin4
+U+367B	kDefinition	(non-classical form of 廛) living space for one family in ancient times, ground allotted to a retainer, a shop; a market place
+U+367B	kFanqie	直連
+U+367B	kJapanese	テン
+U+367B	kMandarin	chán
+U+367C	kCantonese	leoi5
+U+367C	kDefinition	(same as 壘) a military wall, a rampart, to pile up, a pile
+U+367C	kJapanese	ルイ
+U+367C	kMandarin	lěi
+U+367D	kCantonese	sik1
+U+367E	kCantonese	hok6
+U+367E	kDefinition	(same as 嶨) hills with lots of big rocks
+U+367E	kJapanese	カク
+U+367E	kMandarin	xì
+U+367F	kCantonese	hei1
+U+3680	kCantonese	hei1
+U+3680	kDefinition	lofty, dangerous; critical, (same as 虧) to destroy; to injure; to damage
+U+3680	kFanqie	許羈
+U+3680	kHanyuPinyin	10501.050:xī
+U+3680	kJapanese	キ
+U+3680	kMandarin	xī
+U+3681	kCantonese	kiu3
+U+3681	kDefinition	the long tail feathers which curl up; to elevate; to raise the head; warped; outstanding
+U+3681	kFanqie	丘召
+U+3681	kHanyuPinyin	10502.230:qiào
+U+3681	kJapanese	キョウ
+U+3681	kMandarin	qiào
+U+3681	kXHC1983	0922.052:qiào
+U+3682	kDefinition	dust; dirt, a cellar, a caverns
+U+3682	kFanqie	奴浪
+U+3682	kHanyuPinyin	10503.020:nàng
+U+3682	kJapanese	ドウ ノウ
+U+3682	kMandarin	nàng
+U+3683	kCantonese	wan1
+U+3683	kDefinition	to take a hint; a group of Chinese characters the construction of which suggests the meaning, the fate; good luck or bad are in the pot; don't expose; or leak out
+U+3683	kFanqie	於云
+U+3683	kHanyuPinyin	10468.030:yūn
+U+3683	kJapanese	ウン イン エツ エチ
+U+3683	kMandarin	yūn
+U+3684	kCantonese	zi3
+U+3685	kCantonese	lung4
+U+3685	kDefinition	to worship of God, to praise; many; much
+U+3685	kFanqie	力中
+U+3685	kHanyuPinyin	20869.050:lóng
+U+3685	kJapanese	リュ リュウ
+U+3685	kMandarin	lóng
+U+3686	kCantonese	fuk6
+U+3686	kDefinition	to do something in an old way; use the old method; to go to the old road
+U+3686	kJapanese	フク ブク かえる
+U+3686	kMandarin	fù
+U+3687	kCantonese	zung1
+U+3687	kDefinition	draw the feet up; to refuse to advance, to summarize; to gather; to collect, name of an old country, (same as 鍐) a headstall; ornament on a bridle; (Cant.) to jump up
+U+3687	kFanqie	子紅 作弄
+U+3687	kHanyuPinyin	20869.070:zōng
+U+3687	kJapanese	ソウ ス
+U+3687	kMandarin	zōng
+U+3688	kCantonese	ngoi6
+U+3688	kJapanese	ショウ ます
+U+3689	kCantonese	gu2
+U+3689	kDefinition	(corrupted form) to make a profit on sell and buy; the profit in business, (interchangeable 嬴) an overplus; gain; profit; abundance
+U+3689	kJapanese	コ ク もうかる
+U+3689	kMandarin	gǔ
+U+368A	kCantonese	hoi1
+U+368A	kDefinition	much; many; numerous, great; big; vast
+U+368A	kFanqie	苦哀
+U+368A	kHanyuPinyin	20864.160:kāi
+U+368A	kJapanese	カイ
+U+368A	kMandarin	kāi
+U+368B	kCantonese	diu1
+U+368B	kDefinition	much; many; numerous, great; big; vast
+U+368B	kFanqie	都聊
+U+368B	kHanyuPinyin	20866.070:diāo
+U+368B	kJapanese	チョウ
+U+368B	kMandarin	diāo
+U+368C	kCantonese	fo2
+U+368C	kDefinition	(same as 夥) a band; a company; a partner; an assistant
+U+368C	kJapanese	カ
+U+368C	kMandarin	huà
+U+368D	kDefinition	much; many; numerous, to get more profit, to estimate more
+U+368D	kFanqie	口猥
+U+368D	kHanyuPinyin	20867.070:kuǐ,kuì
+U+368D	kJapanese	カイ ケ
+U+368D	kMandarin	kuǐ
+U+368E	kCantonese	heoi3
+U+368F	kCantonese	gou2
+U+368F	kDefinition	(corrupted form) to scatter; to disperse, to give the reins to; to allow to run wild; unstable; light; featherbrained
+U+368F	kMandarin	gǎo
+U+3690	kCantonese	tou3
+U+3690	kDefinition	(same as 套) a case; a wrapper; a covering; a snare, to encase; to slip over
+U+3690	kJapanese	トウ
+U+3690	kMandarin	tào
+U+3691	kCantonese	ling4
+U+3691	kJapanese	レイ リョウ みたま たま くし
+U+3692	kCantonese	sim2
+U+3692	kDefinition	concealed the stolen goods in one's dress
+U+3692	kFanqie	失冉 施隻
+U+3692	kHanyuPinyin	10530.010:shǎn
+U+3692	kJapanese	セン セキ シャク
+U+3692	kMandarin	shǎn
+U+3693	kCantonese	loi4
+U+3693	kDefinition	tie-beams of a small boat
+U+3693	kHanyuPinyin	10529.070:lǎi
+U+3693	kJapanese	ライ
+U+3693	kMandarin	lǎi
+U+3694	kCantonese	nip6
+U+3694	kDefinition	instrument of torture used in ancient times, loud, an evil doer all the times, (same as 幸) to rejoice, fortunate; prosperous
+U+3694	kFanqie	胡耿 尼輒
+U+3694	kHanyuPinyin	10536.030:niè,xìng
+U+3694	kJapanese	ジョウ ニョウ ニュウ コウ
+U+3694	kMandarin	niè
+U+3695	kDefinition	great; big; vast, (same as 弼) to aid; to assist; as in the government, (interchangeable 佛) Buddha
+U+3695	kHanyuPinyin	10536.050:fú
+U+3695	kJapanese	ヒツ ビチ フツ ブチ
+U+3695	kMandarin	fú
+U+3696	kCantonese	gou2
+U+3696	kDefinition	(said of truth) to come out to the open; to be known by all, (ancient form 澤) glossy; shining
+U+3696	kFanqie	古老 昌石
+U+3696	kHanyuPinyin	10535.060:gǎo,zé
+U+3696	kJapanese	コウ タク セキ シャク ジャク
+U+3696	kMandarin	gǎo
+U+3697	kCantonese	ce4
+U+3697	kDefinition	with a big mouth, great; big; vast
+U+3697	kFanqie	才邪
+U+3697	kHanyuPinyin	10534.020:qié
+U+3697	kJapanese	シャ ジャ
+U+3697	kMandarin	qié
+U+3698	kCantonese	bun6
+U+3698	kDefinition	(interchangeable 伴) a partner; a companion, (same as 赫) bright; luminous, glorious (same as 扶) to support; to prop up; to help
+U+3698	kFanqie	蒲旱
+U+3698	kHanyuPinyin	10532.010:bàn,hè,fú
+U+3698	kJapanese	ハン バン
+U+3698	kMandarin	bàn
+U+3699	kCantonese	gaa1
+U+3699	kHanyuPinyin	10536.080:jiā
+U+3699	kJapanese	カ
+U+3699	kMandarin	jiā
+U+369A	kCantonese	kwang1
+U+369A	kDefinition	big; great; vast, very, liberal, bark (as a dog)
+U+369A	kHanyuPinyin	10539.090:kōng,kuāng
+U+369A	kJapanese	コウ
+U+369A	kMandarin	kōng
+U+369B	kCantonese	hai3
+U+369B	kDefinition	corpulent, abundant; flourishing; plenteous
+U+369B	kFanqie	呼計 虎結
+U+369B	kHanyuPinyin	10539.080:xì
+U+369B	kMandarin	xì
+U+369C	kCantonese	wik6
+U+369C	kDefinition	with great power; vigorous; very strong; with great force, (same as 域) a frontier; a boundary; region, great; big; vast
+U+369C	kFanqie	雨逼
+U+369C	kHanyuPinyin	10543.020:yù,xù
+U+369C	kJapanese	ヨク オキ キョク ケキ
+U+369C	kMandarin	yù
+U+369D	kDefinition	(same as 奎) the stride made by a man, name of a star, a kind of tree
+U+369D	kHanyuPinyin	10543.120:zhuī
+U+369D	kJapanese	ケイ ケ
+U+369D	kMandarin	zhuī
+U+369E	kCantonese	sam2
+U+369E	kDefinition	terror; horror; fear
+U+369E	kHanyuPinyin	10543.010:shěn
+U+369E	kJapanese	シン
+U+369E	kMandarin	shěn
+U+369F	kCantonese	coek3
+U+369F	kDefinition	(non-classical form) a kind of animal; with head looks like rabbit and feet deer, small rabbit
+U+369F	kMandarin	chuò
+U+36A0	kCantonese	hiu1
+U+36A0	kDefinition	full grown; fat; plump, fertile; rich, big and clumsy
+U+36A0	kFanqie	許幺 去遙
+U+36A0	kHanyuPinyin	10547.060:xiāo
+U+36A0	kJapanese	キョウ
+U+36A0	kMandarin	xiāo
+U+36A1	kCantonese	gei2
+U+36A1	kDefinition	standing without a straight back
+U+36A1	kHanyuPinyin	10549.120:jǐ
+U+36A1	kJapanese	キ
+U+36A1	kMandarin	jǐ
+U+36A2	kCantonese	nou4
+U+36A2	kDefinition	(ancient form of 奴) a slave; a servant, term of depreciation, (ancient form of 侮) to insult; to ridicule
+U+36A2	kFanqie	乃都
+U+36A2	kHanyuPinyin	21024.020:nú,wǔ
+U+36A2	kJapanese	ド
+U+36A2	kMandarin	nú
+U+36A2	kXHC1983	0840.080:nú
+U+36A3	kCantonese	gaau2
+U+36A3	kDefinition	(ancient form of 姣 嬌) handsome; pretty, cunning, meretricious allurements, to insult; to disgrace, licentious; profligate; lewd; (Cant.) amorous, in love with
+U+36A3	kJapanese	コウ
+U+36A3	kMandarin	xiáo
+U+36A4	kDefinition	a lady officer of the monarch's palace in old times
+U+36A4	kFanqie	與職
+U+36A4	kHanyuPinyin	21025.080:yì
+U+36A4	kJapanese	ヨク ヨキ
+U+36A4	kMandarin	yì
+U+36A5	kDefinition	to become associated with each other in good manners and politeness
+U+36A5	kHanyuPinyin	21025.020:yú
+U+36A5	kJapanese	ウ
+U+36A5	kMandarin	yú
+U+36A6	kCantonese	gei1
+U+36A6	kDefinition	(ancient form of 姬) a charming girl, a charming concubine; a monarch's wife
+U+36A6	kJapanese	キ
+U+36A6	kMandarin	yí
+U+36A7	kDefinition	(same as 嬐) agile; adroit fast; quick; prompt, neat; tidy; orderly, to raise the head; to look up
+U+36A7	kHanyuPinyin	21027.080:yǎn
+U+36A7	kJapanese	ゲン
+U+36A7	kMandarin	yǎn
+U+36A8	kCantonese	san1
+U+36A8	kDefinition	used in girl's name
+U+36A8	kHanyuPinyin	21029.010:shěn
+U+36A8	kMandarin	shěn
+U+36A9	kCantonese	jim5
+U+36A9	kDefinition	with a charming, sprightly appearance (said of a woman)
+U+36A9	kHanyuPinyin	21031.010:rǎn
+U+36A9	kJapanese	ゼン ネン デン
+U+36A9	kMandarin	rǎn
+U+36AA	kCantonese	hou3
+U+36AA	kDefinition	to make a deceptive show of power, not really strict
+U+36AA	kJapanese	コウ
+U+36AA	kMandarin	hào
+U+36AB	kCantonese	saap3
+U+36AB	kDefinition	used in girl's name, a woman's countenance; features
+U+36AB	kFanqie	蘇合
+U+36AB	kHanyuPinyin	21027.050:sà
+U+36AB	kJapanese	ソウ
+U+36AB	kMandarin	sà
+U+36AC	kCantonese	gwan1
+U+36AC	kDefinition	a lady start to doll up
+U+36AC	kHanyuPinyin	21033.010:jūn
+U+36AC	kJapanese	キン
+U+36AC	kMandarin	jūn
+U+36AD	kDefinition	used in girl's name
+U+36AD	kHanyuPinyin	21030.030:yóu
+U+36AD	kJapanese	ユウ ウ
+U+36AD	kMandarin	yóu
+U+36AE	kCantonese	daam1
+U+36AE	kDefinition	(non-classical form 妉,媅) happy; pleased, to laugh
+U+36AE	kJapanese	タン
+U+36AF	kCantonese	cam4
+U+36AF	kDefinition	(simplified form) last name
+U+36AF	kMandarin	xín
+U+36B0	kCantonese	pui1
+U+36B0	kDefinition	(same as 胚) an embryo; a foetus a month old
+U+36B0	kHanyuPinyin	21035.080:pēi,bǐ
+U+36B0	kJapanese	ハイ ヒ
+U+36B0	kMandarin	pēi
+U+36B1	kDefinition	used in girl's name
+U+36B1	kHanyuPinyin	21039.020:qiū
+U+36B1	kJapanese	キュウ ク
+U+36B1	kMandarin	qiū
+U+36B2	kDefinition	small and weak, used in girl's name, a woman's feature; lady's face
+U+36B2	kFanqie	處占 叱涉
+U+36B2	kHanyuPinyin	21036.040:chān,diǎn,diàn
+U+36B2	kJapanese	セン ショウ テン
+U+36B2	kMandarin	chān
+U+36B3	kDefinition	a lady teacher to teach the proper rules of female behavior in ancient times
+U+36B3	kJapanese	カ
+U+36B4	kDefinition	a pretty girl; a beauty; a belle, handsome; female beauty
+U+36B4	kHanyuPinyin	21035.090:bù
+U+36B4	kJapanese	ホ フ
+U+36B4	kMandarin	bù
+U+36B5	kCantonese	dung1
+U+36B5	kDefinition	used in girl's name
+U+36B5	kHanyuPinyin	21040.030:dōng
+U+36B5	kJapanese	トウ ツ
+U+36B5	kMandarin	dōng
+U+36B6	kCantonese	ci5
+U+36B6	kDefinition	(same as 姒) wife of one's husband's elder brother; (in ancient China) the elder of twins; a Chinese family name, (same as 姬) a handsome girl; a charming girl; a concubine; a Chinese family name
+U+36B6	kHanyuPinyin	21037.080:sì,yí
+U+36B6	kJapanese	ジ
+U+36B6	kMandarin	sì
+U+36B7	kDefinition	(same as 嬭) the breasts of a woman; milk; a term of respect for women; grandma, one's elder sister or sisters, used for a girl's name
+U+36B7	kFanqie	奴蟹
+U+36B7	kJapanese	デイ
+U+36B7	kMandarin	ěr
+U+36B8	kCantonese	si1
+U+36B8	kDefinition	used in girl's name
+U+36B8	kJapanese	シ
+U+36B9	kDefinition	(same as 媌) pretty; charming girl, (same as 懰) exquisite; fine
+U+36B9	kHanyuPinyin	21040.020:mǎo,liǔ
+U+36B9	kJapanese	ボウ ミョウ
+U+36B9	kMandarin	mǎo
+U+36BA	kDefinition	(non-classical form of 孕) to be pregnant; to conceive
+U+36BA	kJapanese	ヨウ
+U+36BA	kMandarin	yùn
+U+36BB	kDefinition	sodomy; to bugger
+U+36BB	kHanyuPinyin	21037.020:jī
+U+36BB	kJapanese	キ
+U+36BB	kMandarin	jī
+U+36BB	kXHC1983	0520.120:jī
+U+36BC	kDefinition	(non-classical form of 妞) a girl; a little girl
+U+36BC	kJapanese	コウ
+U+36BD	kCantonese	haau2
+U+36BD	kDefinition	used in girl's name
+U+36BD	kHanyuPinyin	21034.080:qiǎo
+U+36BD	kJapanese	コウ キョウ
+U+36BD	kMandarin	qiǎo
+U+36BE	kCantonese	hing1
+U+36BE	kDefinition	to have fun; to sport; to play; to frolic
+U+36BE	kHanyuPinyin	21037.060:xiōng
+U+36BE	kJapanese	ケイ キョウ
+U+36BE	kMandarin	xiōng
+U+36BF	kDefinition	a goddess's name in legend; the sister and successor of Fu Xi 伏羲, (interchangeable 庖), last name
+U+36BF	kHanyuPinyin	21040.060:páo
+U+36BF	kJapanese	ホウ
+U+36BF	kMandarin	páo
+U+36C0	kCantonese	co4
+U+36C0	kMandarin	chú
+U+36C1	kDefinition	quick; urgent; anxious, loyal sincere and respectful
+U+36C1	kFanqie	普耕
+U+36C1	kHanyuPinyin	21036.010:pēng
+U+36C1	kJapanese	ホウ ヒョウ
+U+36C1	kMandarin	pēng
+U+36C2	kCantonese	no4
+U+36C2	kDefinition	weak and small
+U+36C2	kFanqie	五果 奴果
+U+36C2	kHanyuPinyin	21045.170:nuǒ
+U+36C2	kJapanese	ガ ダ ナ
+U+36C2	kMandarin	nuǒ
+U+36C3	kCantonese	git3
+U+36C3	kDefinition	clean; pure; clear, usually used for names
+U+36C3	kHangul	결:N
+U+36C3	kHanyuPinyin	21042.020:jié
+U+36C3	kJapanese	ケツ ケチ
+U+36C3	kMandarin	jié
+U+36C3	kSMSZD2003Readings	jié粵git3
+U+36C3	kTGHZ2013	173.040:jié
+U+36C3	kXHC1983	0576.050:jié
+U+36C4	kDefinition	used in girl's name
+U+36C4	kFanqie	於希
+U+36C4	kHangul	의:N
+U+36C4	kHanyuPinyin	21047.070:yī
+U+36C4	kJapanese	エ イ
+U+36C4	kMandarin	yī
+U+36C5	kCantonese	nei6
+U+36C5	kDefinition	used in girl's name
+U+36C5	kFanqie	仍吏
+U+36C5	kHangul	이:N
+U+36C5	kHanyuPinyin	21042.120:èr
+U+36C5	kJapanese	ジ ニ
+U+36C5	kMandarin	èr
+U+36C6	kDefinition	to speculate; to conjecture; to assume; to make an intelligent guess; to fathom, (of a woman) beautiful, used in girl's name
+U+36C6	kFanqie	都唾
+U+36C6	kHanyuPinyin	21048.090:duò,duǒ
+U+36C6	kJapanese	タ
+U+36C6	kMandarin	duò
+U+36C7	kCantonese	zong1
+U+36C8	kCantonese	haau2
+U+36C9	kCantonese	jiu3
+U+36CA	kDefinition	to speculate; to conjecture; to assume; to make an intelligent guess; to fathom, (of a woman) beautiful, used in girl's name
+U+36CA	kMandarin	duǒ
+U+36CB	kCantonese	nei5
+U+36CC	kCantonese	mau4
+U+36CD	kDefinition	to have one's ambition fulfilled; to be successful in one's career; (same as 愜) pleasing; satisfying; to gratify or be gratified, undignified; improper
+U+36CD	kFanqie	虚檢 苦協 呼牒
+U+36CD	kHanyuPinyin	21050.120:qiè,xiǎn,xiá
+U+36CD	kJapanese	キョウ ショウ
+U+36CD	kMandarin	qiè
+U+36CE	kCantonese	leoi5
+U+36CE	kDefinition	an ugly woman
+U+36CE	kHanyuPinyin	21052.050:lǚ
+U+36CE	kJapanese	リョ ロ
+U+36CE	kMandarin	lǚ
+U+36CF	kCantonese	kau4
+U+36CF	kDefinition	used in girl's name
+U+36CF	kHanyuPinyin	21050.010:qiú
+U+36CF	kJapanese	キュウ グ
+U+36CF	kMandarin	qiú
+U+36D0	kCantonese	sou2
+U+36D0	kDefinition	(non-classical form of 嫂) wife of one's elder's brother
+U+36D0	kFanqie	蘇老
+U+36D0	kJapanese	ソウ あによめ
+U+36D0	kMandarin	sǒu
+U+36D1	kCantonese	caan3
+U+36D1	kDefinition	three women, beautiful things
+U+36D1	kFanqie	蒼案
+U+36D1	kJapanese	サン
+U+36D1	kMandarin	càn
+U+36D2	kDefinition	can not speak
+U+36D2	kFanqie	田候
+U+36D2	kHanyuPinyin	21050.060:dòu
+U+36D2	kJapanese	トウ ツ
+U+36D2	kMandarin	dòu
+U+36D3	kCantonese	hei1
+U+36D3	kDefinition	used in girl's name
+U+36D3	kHanyuPinyin	21053.030:xī
+U+36D3	kJapanese	チ キ ケ
+U+36D3	kMandarin	xī
+U+36D4	kCantonese	fung1
+U+36D4	kDefinition	(same as 妦) exquisite; fine; (said of a woman's figure) very full and voluptuous; buxom, used in girl's name
+U+36D4	kHanyuPinyin	21053.100:fēng,péng
+U+36D4	kJapanese	ホウ
+U+36D4	kMandarin	fēng
+U+36D5	kDefinition	womanly, (same as 姶 ancient form) exquisite; fine, used in girl's name, clever; bright; nimble, cute; lovable
+U+36D5	kHanyuPinyin	21052.040:yì,è
+U+36D5	kJapanese	オウ
+U+36D5	kMandarin	yì
+U+36D6	kCantonese	so1
+U+36D6	kDefinition	used in girl's name
+U+36D6	kHanyuPinyin	21055.010:suō
+U+36D6	kJapanese	サ
+U+36D6	kMandarin	suō
+U+36D7	kDefinition	frivolous; flippant; disrespectful; irreverent; to insult, young, used in girl's name
+U+36D7	kFanqie	蘇禾 醋伽
+U+36D7	kHanyuPinyin	21053.050:qiē,zuō,suō
+U+36D7	kJapanese	サ
+U+36D7	kMandarin	qiē
+U+36D8	kDefinition	used in girl's name, a fat woman
+U+36D8	kFanqie	普没
+U+36D8	kHanyuPinyin	21050.020:pò
+U+36D8	kJapanese	ホツ ホチ
+U+36D8	kMandarin	pò
+U+36D9	kCantonese	san1
+U+36D9	kDefinition	used in girl's name, (same as 妾) a concubine, (in old China) a polite term used by a woman to refer to herself when speaking to her husband
+U+36D9	kHanyuPinyin	21053.120:xīn,qiè
+U+36D9	kJapanese	シン
+U+36D9	kMandarin	xīn
+U+36DA	kCantonese	tung2
+U+36DA	kDefinition	equal; uniform, used in girl's name
+U+36DA	kHanyuPinyin	21054.130:tǒng,yǒng
+U+36DA	kJapanese	トウ ツ ヨウ ユ
+U+36DA	kMandarin	tǒng
+U+36DA	kTGHZ2013	370.160:tǒng
+U+36DB	kCantonese	san1
+U+36DB	kDefinition	(same as 娠) pregnant, to let develop; to nourish; to foster; to nurture, slave girls
+U+36DB	kJapanese	シン
+U+36DB	kMandarin	xìn
+U+36DC	kDefinition	used in girl's name
+U+36DC	kHanyuPinyin	21052.130:yóu
+U+36DC	kJapanese	ユウ ニ
+U+36DC	kMandarin	yóu
+U+36DD	kCantonese	bui3
+U+36DD	kDefinition	used in girl's name
+U+36DD	kHanyuPinyin	21051.060:bèi
+U+36DD	kJapanese	ハイ
+U+36DD	kMandarin	bèi
+U+36DE	kCantonese	lung6
+U+36DE	kDefinition	used in girl's name
+U+36DE	kHanyuPinyin	21049.070:lòng
+U+36DE	kJapanese	ロウ ル
+U+36DE	kMandarin	lòng
+U+36DF	kCantonese	wun6
+U+36E0	kCantonese	haan5
+U+36E1	kCantonese	wan6
+U+36E2	kCantonese	sau3
+U+36E3	kCantonese	wan4
+U+36E3	kDefinition	(the large seal type 妘) last name, used in girl's name
+U+36E3	kMandarin	yún
+U+36E4	kCantonese	lei4
+U+36E4	kMandarin	lí
+U+36E5	kDefinition	to prostrate; to make obeisance, to concede or submit willingly
+U+36E5	kFanqie	他合
+U+36E5	kHanyuPinyin	21059.030:tà
+U+36E5	kJapanese	トウ
+U+36E5	kMandarin	tà
+U+36E6	kCantonese	lam5
+U+36E6	kDefinition	good; nice; fine; excellent
+U+36E6	kHangul	람:N
+U+36E6	kHanyuPinyin	21056.070:lǎn
+U+36E6	kJapanese	ラン
+U+36E6	kMandarin	lǎn
+U+36E7	kDefinition	name of a county in today's Shanxi province
+U+36E7	kFanqie	謨敢
+U+36E7	kHanyuPinyin	21059.010:mǎn
+U+36E7	kJapanese	バン マン
+U+36E7	kMandarin	mǎn
+U+36E8	kDefinition	(corrupted form) chaos; anarchy; distractions; confusion
+U+36E8	kHanyuPinyin	21061.060:qiǎng
+U+36E8	kJapanese	キョウ コウ
+U+36E8	kMandarin	qiǎng
+U+36E9	kCantonese	zuk6
+U+36E9	kDefinition	(same as 妯) sisters-in-law (a reference among wives of brothers)
+U+36E9	kHanyuPinyin	21061.050:zhóu
+U+36E9	kJapanese	チク
+U+36E9	kMandarin	zhóu
+U+36EA	kDefinition	to slander; to libel, a maidservant, used in girl's name, womanly
+U+36EA	kFanqie	於劔
+U+36EA	kHanyuPinyin	21057.030:yàn,yān
+U+36EA	kJapanese	エン
+U+36EA	kMandarin	yàn
+U+36EA	kVietnamese	em
+U+36EB	kDefinition	used in girl's name
+U+36EB	kHanyuPinyin	21058.020:xī
+U+36EB	kJapanese	セキ シャク
+U+36EB	kMandarin	xī
+U+36EC	kCantonese	luk6
+U+36EC	kDefinition	used in girl's name
+U+36EC	kHanyuPinyin	21055.050:lù
+U+36EC	kJapanese	リク ロク
+U+36EC	kMandarin	lù
+U+36ED	kCantonese	sik1
+U+36ED	kDefinition	used in girl's name
+U+36ED	kHanyuPinyin	21056.020:xī
+U+36ED	kJapanese	セキ シャク
+U+36ED	kMandarin	xī
+U+36EE	kCantonese	sou2
+U+36EE	kDefinition	(same as 嫂) wife of one's elder brother
+U+36EE	kFanqie	蘇老
+U+36EE	kJapanese	ソウ あによめ
+U+36EE	kMandarin	sǎo
+U+36EF	kDefinition	(same as 嬔) to soar; to fly; to roam (same as 娩) complaisant; agreeable, a pair; a couple; persons or things that come in pairs
+U+36EF	kHanyuPinyin	21068.050:fàn,miǎn,zhuàn
+U+36EF	kJapanese	テン ベン
+U+36EF	kMandarin	fàn
+U+36F0	kCantonese	fan1
+U+36F0	kDefinition	(same as 婚) to marry a wife; a bride-groom
+U+36F0	kJapanese	コン
+U+36F1	kCantonese	wui2
+U+36F1	kDefinition	exquisite; fine, used in girl's name
+U+36F1	kFanqie	烏賄
+U+36F1	kHanyuPinyin	21066.010:wěi,wēi
+U+36F1	kJapanese	ワイ エ
+U+36F1	kMandarin	wěi
+U+36F2	kCantonese	faat3
+U+36F2	kDefinition	(same as 髮) the hair on the human head, hairbreadth; hair's-breadth
+U+36F2	kMandarin	fà
+U+36F3	kDefinition	an abnormal unborn baby
+U+36F3	kFanqie	餘制
+U+36F3	kHanyuPinyin	21068.140:yì
+U+36F3	kJapanese	エイ セイ
+U+36F3	kMandarin	yì
+U+36F4	kCantonese	nou5
+U+36F4	kDefinition	(same as 惱) to anger to annoy; to irritate
+U+36F4	kFanqie	奴晧
+U+36F4	kJapanese	ドウ ノウ
+U+36F4	kMandarin	nǎo
+U+36F5	kCantonese	cing1
+U+36F5	kDefinition	used in girl's name
+U+36F5	kHanyuPinyin	21067.040:chēng
+U+36F5	kJapanese	ショウ
+U+36F5	kMandarin	chēng
+U+36F6	kCantonese	taan3
+U+36F6	kDefinition	do not care about appearance and deportment
+U+36F6	kFanqie	他旦
+U+36F6	kHanyuPinyin	21066.050:tàn
+U+36F6	kJapanese	タン
+U+36F6	kMandarin	tàn
+U+36F7	kCantonese	gai1
+U+36F7	kDefinition	used in girl's name
+U+36F7	kHanyuPinyin	21066.090:jī
+U+36F7	kJapanese	ケイ
+U+36F7	kMandarin	jī
+U+36F8	kCantonese	syu6
+U+36F8	kDefinition	(corrupted form) used in girl's name
+U+36F8	kJapanese	シュ
+U+36F8	kMandarin	shù
+U+36F9	kCantonese	pin4
+U+36F9	kDefinition	pretty; exquisite; fine
+U+36F9	kFanqie	房連
+U+36F9	kHanyuPinyin	21066.150:pián
+U+36F9	kJapanese	ヘン ベン
+U+36F9	kMandarin	pián
+U+36F9	kSMSZD2003Readings	pián粵pin4
+U+36F9	kTGHZ2013	283.010:pián
+U+36FA	kDefinition	not clean; impure
+U+36FA	kHanyuPinyin	21068.120:ān
+U+36FA	kJapanese	アン オン
+U+36FA	kMandarin	ān
+U+36FB	kDefinition	womanly; feminine
+U+36FB	kHanyuPinyin	21064.160:kuā
+U+36FB	kJapanese	カイ ケ
+U+36FB	kMandarin	kuā
+U+36FC	kDefinition	to interrupt; to put in a word, lacking in courage; cowardly, nervous; socially timid, womanly; feminine
+U+36FC	kFanqie	楚洽
+U+36FC	kHanyuPinyin	21066.110:chā,shà
+U+36FC	kJapanese	チョウ ソウ
+U+36FC	kMandarin	chā
+U+36FD	kCantonese	saan1
+U+36FD	kDefinition	(ancient form of 璈) to walk slowly like a woman, to ridicule; to laugh at
+U+36FD	kJapanese	サン
+U+36FE	kCantonese	haam4
+U+36FE	kDefinition	(said of a woman) not clean; impure
+U+36FE	kHanyuPinyin	21064.110:xián
+U+36FE	kJapanese	カン ガン
+U+36FE	kMandarin	xián
+U+36FF	kCantonese	daai3
+U+36FF	kDefinition	cunning; wicked, spoiled; coddled
+U+36FF	kMandarin	zhì
+U+3700	kCantonese	soeng1
+U+3701	kCantonese	caa4
+U+3702	kCantonese	fung1
+U+3702	kDefinition	used in girl's name
+U+3702	kFanqie	府容
+U+3702	kHanyuPinyin	21063.080:fēng
+U+3702	kJapanese	ホウ フ
+U+3702	kMandarin	fēng
+U+3703	kCantonese	lyun2
+U+3703	kDefinition	from; by; whence, to undertake; to manage, to follow
+U+3703	kHanyuPinyin	21066.210:liàn
+U+3703	kJapanese	レン
+U+3703	kMandarin	liàn
+U+3704	kCantonese	cam4
+U+3704	kDefinition	last name (refer to 千家姓)
+U+3704	kHanyuPinyin	21068.010:xún
+U+3704	kJapanese	シン ジン
+U+3704	kMandarin	xún
+U+3705	kCantonese	huk1
+U+3705	kDefinition	to fawn on; to flatter, to love, attractive, jealous; envy; jealousy
+U+3705	kFanqie	許竹
+U+3705	kHanyuPinyin	21073.040:xù
+U+3705	kJapanese	チク キク
+U+3705	kMandarin	xù
+U+3706	kDefinition	commonly known as mother in Wu
+U+3706	kHanyuPinyin	21073.070:mì
+U+3706	kJapanese	ベイ メイ
+U+3706	kMandarin	mì
+U+3707	kDefinition	unhappy, girlish
+U+3707	kFanqie	於避
+U+3707	kHanyuPinyin	21070.110:huì,yè
+U+3707	kJapanese	スイ ズイ ヨウ イ いかる
+U+3707	kMandarin	huì
+U+3708	kCantonese	muk6
+U+3708	kDefinition	a beautiful face (of a woman); pretty
+U+3708	kHanyuPinyin	21074.110:mù
+U+3708	kJapanese	ボク モク
+U+3708	kMandarin	mù
+U+3709	kDefinition	womanly, used in girl's name
+U+3709	kHanyuPinyin	21074.160:yōng
+U+3709	kJapanese	ヨウ ユ
+U+3709	kMandarin	yōng
+U+370A	kCantonese	zin2
+U+370A	kDefinition	exquisite; fine
+U+370A	kFanqie	知演
+U+370A	kHanyuPinyin	21074.060:zhǎn
+U+370A	kJapanese	テン
+U+370A	kMandarin	zhǎn
+U+370B	kDefinition	used in girl's name
+U+370B	kHanyuPinyin	21072.110:yì
+U+370B	kJapanese	エキ ヤク
+U+370B	kMandarin	yì
+U+370C	kDefinition	a different name for breasts, to breast-feed; to feed a baby with milk, stingy; niggardly; miserly
+U+370C	kFanqie	苦候
+U+370C	kHanyuPinyin	32161.100:nǒu,gòu,kòu
+U+370C	kJapanese	ドウ ヌ コウ ク
+U+370C	kMandarin	nǒu
+U+370D	kCantonese	tong4
+U+370D	kDefinition	used in girl's name
+U+370D	kHanyuPinyin	21073.020:táng
+U+370D	kJapanese	トウ ドウ
+U+370D	kMandarin	táng
+U+370E	kDefinition	slave girls, lacking in courage; nervous, a jealous woman
+U+370E	kFanqie	胡雞
+U+370E	kHanyuPinyin	21072.090:xī,xì
+U+370E	kJapanese	ケイ ゲイ
+U+370E	kMandarin	xī
+U+370F	kCantonese	wan4
+U+370F	kDefinition	(the large seal type 妘) last name, used in girl's name
+U+370F	kJapanese	ウン
+U+370F	kMandarin	yún
+U+3710	kCantonese	syu6
+U+3710	kDefinition	used in girl's name
+U+3710	kHanyuPinyin	21071.200:shù
+U+3710	kJapanese	シュ ジュ
+U+3710	kMandarin	shù
+U+3711	kCantonese	po4
+U+3711	kDefinition	(same as 婆) an older woman, mother of one's husband, one's grandmother
+U+3711	kJapanese	バ
+U+3711	kMandarin	fú
+U+3712	kDefinition	maternal grandmother, a midwife, an old woman
+U+3712	kHanyuPinyin	21066.160:yì
+U+3712	kJapanese	ゲイ
+U+3712	kMandarin	yì
+U+3713	kCantonese	daap3
+U+3713	kDefinition	womanly
+U+3713	kFanqie	都合
+U+3713	kHanyuPinyin	21071.030:dá
+U+3713	kJapanese	トウ
+U+3713	kMandarin	dá
+U+3714	kCantonese	ging2
+U+3715	kCantonese	lin4
+U+3715	kDefinition	(same as 連) relatives through marriage
+U+3715	kHanyuPinyin	21071.070:lián
+U+3715	kMandarin	lián
+U+3716	kCantonese	cou4
+U+3716	kDefinition	exquisite; fine
+U+3716	kHanyuPinyin	21075.120:cáo
+U+3716	kJapanese	ソウ ゾウ
+U+3716	kMandarin	cáo
+U+3717	kDefinition	covetousness; greed; cupidity; avarice, licentious; obscene; to seduce
+U+3717	kFanqie	倉含 七感 七合
+U+3717	kHanyuPinyin	21078.170:cān,sēn
+U+3717	kJapanese	サン ソウ シン
+U+3717	kMandarin	cān
+U+3718	kDefinition	delicate; lovely; beautiful, spoiled, jealous; to envy; jealousy, used in girl's name
+U+3718	kFanqie	子邪
+U+3718	kHanyuPinyin	21076.130:jù,qù,chá
+U+3718	kJapanese	ショ シュ サ ジャ
+U+3718	kMandarin	jù
+U+3719	kCantonese	luk6
+U+3719	kDefinition	used in girl's name
+U+3719	kHanyuPinyin	21077.180:lù
+U+3719	kJapanese	ロク
+U+3719	kMandarin	lù
+U+371A	kCantonese	suk1
+U+371A	kDefinition	a local government post in ancient times
+U+371A	kHanyuPinyin	21078.090:sù
+U+371A	kJapanese	シュク
+U+371A	kMandarin	sù
+U+371B	kDefinition	(non-classical form of 媆) soft; gentle, attractive (same as 嫩) soft and tender, delicate, weak
+U+371B	kJapanese	ナン
+U+371B	kMandarin	nèn
+U+371C	kCantonese	ngou6
+U+371C	kDefinition	(ancient form of 傲) proud; haughty; overbearing rude
+U+371C	kJapanese	ゴウ
+U+371C	kMandarin	ào
+U+371D	kDefinition	to cherish anger, hard to understand, pretty, dignified; solemn, to make sheep eyes or passes; to converse with eyes
+U+371D	kFanqie	五感
+U+371D	kHanyuPinyin	21077.150:ǎn,yǎn
+U+371D	kJapanese	ガン ゴン アン オン カン ゲン エン
+U+371D	kMandarin	ǎn
+U+371E	kCantonese	cim3
+U+371E	kDefinition	beautiful; pretty, used in girl's name
+U+371E	kHanyuPinyin	21075.130:qiàn,cán
+U+371E	kJapanese	サン ザ セン
+U+371E	kMandarin	qiàn
+U+371F	kCantonese	haam3
+U+3720	kCantonese	ceoi1
+U+3720	kDefinition	used in girl's name
+U+3720	kHanyuPinyin	21077.090:cuī
+U+3720	kJapanese	サイ セ
+U+3720	kMandarin	cuī
+U+3721	kDefinition	used in girl's name
+U+3721	kHanyuPinyin	21077.120:cōng
+U+3721	kJapanese	ショウ シュ
+U+3721	kMandarin	cōng
+U+3722	kCantonese	leoi5
+U+3722	kDefinition	a bad term by which one addresses a woman
+U+3722	kFanqie	力主
+U+3722	kJapanese	リュ ル ロウ
+U+3723	kDefinition	a last name, carriage; deportment; bearing; poise (of a woman)
+U+3723	kFanqie	如延 式善 奴甸
+U+3723	kHangul	연:N
+U+3723	kHanyuPinyin	21082.080:rán,rǎn
+U+3723	kJapanese	セン ゼン ネン デン
+U+3723	kMandarin	rán
+U+3724	kDefinition	fooling around, weak, (said of a woman's figure) slender; thin and long, used in girl's name
+U+3724	kFanqie	式任 乃玷
+U+3724	kHanyuPinyin	21080.020:niǎn,tiǎn,tán
+U+3724	kJapanese	デン ネン シン タン ドン テン
+U+3724	kMandarin	niǎn
+U+3725	kCantonese	maai4
+U+3725	kDefinition	crafty; artful
+U+3725	kHanyuPinyin	21080.180:mái
+U+3725	kJapanese	バイ メ
+U+3725	kMandarin	mái
+U+3726	kCantonese	cam4
+U+3726	kDefinition	used in girl's name
+U+3726	kHanyuPinyin	21082.160:xín
+U+3726	kJapanese	シン ジン
+U+3726	kMandarin	xín
+U+3727	kDefinition	plump, womanly
+U+3727	kJapanese	ケツ
+U+3727	kMandarin	yuè
+U+3728	kCantonese	naai4
+U+3728	kDefinition	beautiful; pretty
+U+3728	kHanyuPinyin	21083.010:nái
+U+3728	kMandarin	nái
+U+3729	kCantonese	ou3
+U+3729	kDefinition	jealous; to envy; jealously
+U+3729	kHanyuPinyin	21084.100:ào
+U+3729	kJapanese	オウ
+U+3729	kMandarin	ào
+U+372A	kDefinition	(same as 嫀) name of a family or a clan, name of country (in ancient times)
+U+372A	kFanqie	所臻
+U+372A	kHanyuPinyin	21085.030:shēn
+U+372A	kJapanese	シン
+U+372A	kMandarin	shēn
+U+372B	kCantonese	mei5
+U+372B	kDefinition	(same as 媄) pretty; beautiful
+U+372B	kJapanese	ビ
+U+372B	kMandarin	mà
+U+372C	kCantonese	daam1
+U+372D	kCantonese	dong1
+U+372E	kCantonese	laam6
+U+372E	kDefinition	to go beyond normal limit; excessive; out of control, to covet; greedy, to be impolite, used in girl's name
+U+372E	kFanqie	盧𣊟
+U+372E	kHanyuPinyin	21086.040:làn,lán
+U+372E	kJapanese	ラン
+U+372E	kMandarin	làn
+U+372F	kCantonese	hei1
+U+372F	kDefinition	a word to designate woman, a word of revile used to call a woman
+U+372F	kHangul	희:N
+U+372F	kHanyuPinyin	21086.010:xī
+U+372F	kJapanese	キ
+U+372F	kMandarin	xī
+U+3730	kDefinition	exquisite; fine
+U+3730	kFanqie	以灼 書藥
+U+3730	kHanyuPinyin	21089.050:yuè
+U+3730	kJapanese	ヤク シャク
+U+3730	kMandarin	yuè
+U+3731	kCantonese	zat1
+U+3731	kDefinition	used in girl's name, soft and tender
+U+3731	kHanyuPinyin	21088.190:zhì
+U+3731	kJapanese	シツ シチ
+U+3731	kMandarin	zhì
+U+3732	kDefinition	(non-classical form of 嬴) to have surplus; full; an overplus, to open out; to produce, a family name
+U+3732	kFanqie	以成
+U+3732	kJapanese	エイ ヨウ
+U+3732	kMandarin	wěng
+U+3733	kDefinition	peaceful; joyful
+U+3733	kFanqie	戶乖
+U+3733	kHanyuPinyin	21089.180:huái
+U+3733	kJapanese	カイ エ
+U+3733	kMandarin	huái
+U+3734	kDefinition	(non-classical from of 瞢) dark and obscure, obscure; not bright, used in girl's name, good; fine
+U+3734	kHanyuPinyin	21089.060:mèng
+U+3734	kJapanese	ボウ モウ
+U+3734	kMandarin	mèng
+U+3735	kCantonese	niu5
+U+3735	kDefinition	(said of a woman) with a charming sprightly carriage; slim; delicate and beautiful
+U+3735	kFanqie	奴鳥
+U+3735	kJapanese	ジョウ ニョウ
+U+3735	kMandarin	niǎo
+U+3736	kDefinition	a (married) couple
+U+3736	kJapanese	ハン
+U+3736	kMandarin	wǎn
+U+3737	kDefinition	milk, the breasts of a woman, to suckle, word of respect for women, (for Qi's people) mother, used in girl's name
+U+3737	kFanqie	武移
+U+3737	kHanyuPinyin	21090.150:mí,xiǎn
+U+3737	kJapanese	ビ ミ ベイ メイ セン
+U+3737	kMandarin	mí
+U+3738	kDefinition	(non-classical form of 孽) sin; evil; retribution, the son of a concubine
+U+3738	kFanqie	魚列
+U+3738	kJapanese	セツ ゲツ
+U+3738	kMandarin	niè
+U+3739	kCantonese	keoi4
+U+3739	kDefinition	name of a folk song in ancient times, used in girl's name
+U+3739	kHanyuPinyin	21090.200:qú
+U+3739	kJapanese	ク グ オウ オ
+U+3739	kMandarin	qú
+U+373A	kCantonese	zaan2
+U+373A	kDefinition	white color; no respect; imprudent; (Cant.) interesting, good
+U+373A	kFanqie	則旰 徂賛
+U+373A	kHangul	찬:N
+U+373A	kHanyuPinyin	21091.070:zàn
+U+373A	kJapanese	サン
+U+373A	kMandarin	zàn
+U+373B	kCantonese	lyun2
+U+373B	kDefinition	(non-classical form of 孌) (interchangeable 戀) to admire; to remember (old days, etc.), exquisite; fine, to obey; obedient; to comply, (same as 奱) to bind; binding, used in girl's name
+U+373B	kJapanese	レン
+U+373B	kMandarin	liàn
+U+373C	kDefinition	(same as 姪) children of one's brother -- nephews or nieces, I; me (when speaking to a family friend of father's generation)
+U+373C	kJapanese	テツ
+U+373C	kMandarin	zhí
+U+373D	kCantonese	zi2
+U+373D	kDefinition	(ancient form of 子) child, seed, 1st terrestrial branch
+U+373D	kFanqie	即里
+U+373D	kJapanese	シ こ
+U+373D	kMandarin	zǐ
+U+373E	kCantonese	haai4
+U+373E	kDefinition	(same as 孩) a child; an infant, young; small
+U+373E	kJapanese	ガイ
+U+373E	kMandarin	hái
+U+373F	kCantonese	zeoi6
+U+373F	kDefinition	name of a legendary fish; spawn; roe
+U+373F	kHanyuPinyin	21012.090:xù
+U+373F	kMandarin	xù
+U+3740	kDefinition	(same as 好) to like; to love; to be fond of
+U+3740	kHanyuPinyin	21015.030:hào
+U+3740	kJapanese	コウ
+U+3740	kMandarin	hào
+U+3741	kDefinition	(same as 嬛) lonely; solitary, exquisite; fine, to worship with reverence
+U+3741	kHanyuPinyin	21015.090:xuān,qióng
+U+3741	kJapanese	ケン
+U+3741	kMandarin	xuān
+U+3742	kDefinition	locust, larva of Chilo simplex; a kind of moth
+U+3742	kFanqie	征例
+U+3742	kHanyuPinyin	21016.020:zhì,zhè
+U+3742	kJapanese	セツ セチ セイ
+U+3742	kMandarin	zhì
+U+3743	kCantonese	min5
+U+3743	kDefinition	(same as 娩) to bear a son; to give birth
+U+3743	kFanqie	無遠 亡辨
+U+3743	kHanyuPinyin	21016.040:miǎn
+U+3743	kJapanese	ブン モン ハン ホン ベン メン バン マン
+U+3743	kMandarin	miǎn
+U+3743	kXHC1983	0786.051:miǎn
+U+3744	kCantonese	seon4
+U+3744	kDefinition	(ancient form of 純) pure, sincere; honest; faithful
+U+3744	kJapanese	ジュン
+U+3744	kMandarin	chún
+U+3745	kCantonese	gau3
+U+3745	kDefinition	to give suck to, infant; baby, ignorant; stupid, prudent; cautious
+U+3745	kFanqie	乃后 古候
+U+3745	kHanyuPinyin	32161.080:gòu
+U+3745	kJapanese	コウ ドウ ク ヌ
+U+3745	kMandarin	gòu
+U+3746	kCantonese	hei2
+U+3747	kCantonese	seon4
+U+3747	kDefinition	(same as 鶉) quail
+U+3747	kJapanese	ジュン
+U+3747	kMandarin	chún
+U+3748	kCantonese	lyun4
+U+3748	kDefinition	(same as 孿) twin
+U+3748	kFanqie	生患 所眷
+U+3748	kJapanese	サン セン
+U+3748	kMandarin	luán
+U+3749	kCantonese	cyu5
+U+3749	kDefinition	(same as 宁) space between the throne and the retiring room behind it, to store up; to save up, peaceful, used as a term of comparison
+U+3749	kMandarin	zhù
+U+374A	kCantonese	sau2
+U+374A	kDefinition	(same as 守) to guide; to watch, to wait, to keep
+U+374A	kJapanese	シュ
+U+374A	kMandarin	shǒu
+U+374B	kHanyuPinyin	20911.030:liǎo
+U+374B	kJapanese	リョウ
+U+374B	kMandarin	liǎo
+U+374C	kCantonese	gau3
+U+374C	kDefinition	(same as 疚) prolonged illness, mental discomfort, to stay in one place for a long period
+U+374C	kFanqie	與久
+U+374C	kHanyuPinyin	20913.050:jiù
+U+374C	kJapanese	キュウ ク ユウ ユ
+U+374C	kMandarin	jiù
+U+374D	kCantonese	se2
+U+374D	kDefinition	(simplified form of 寫) to write; to draw
+U+374D	kJapanese	シャ うつす
+U+374D	kMandarin	xiě
+U+374E	kCantonese	ding6
+U+374E	kDefinition	(same as 定) to decide; to fix; to settle
+U+374E	kJapanese	テイ
+U+374E	kMandarin	dìng
+U+374F	kCantonese	gaai3
+U+374F	kDefinition	(same as 介) alone; solitary, to live alone
+U+374F	kFanqie	古拜
+U+374F	kHanyuPinyin	20916.090:jiè
+U+374F	kJapanese	カイ
+U+374F	kMandarin	jiè
+U+3750	kDefinition	(ancient form of 容) face; expression, to contain; to hold; to pardon
+U+3750	kFanqie	餘封
+U+3750	kJapanese	ヨウ
+U+3750	kMandarin	róng
+U+3751	kCantonese	pong4
+U+3751	kDefinition	(ancient form of 旁) side, by the side of; nearby
+U+3751	kJapanese	ボウ
+U+3751	kMandarin	máng
+U+3752	kCantonese	geoi1
+U+3752	kDefinition	(ancient form of 居) to dwell; to occupy to inhabit, a Chinese family name
+U+3752	kJapanese	キョ
+U+3753	kDefinition	corresponding; equivalent, considerable; to a great extent, appropriate, (same as 凹) a hollow, concave
+U+3753	kHanyuPinyin	20927.070:kè
+U+3753	kJapanese	コウ
+U+3753	kMandarin	kè
+U+3754	kCantonese	jiu2
+U+3754	kDefinition	deep bottom; the southeast corner of a house
+U+3754	kHanyuPinyin	20928.030:yǎo
+U+3754	kJapanese	ヨウ
+U+3754	kMandarin	yǎo
+U+3755	kCantonese	ning4
+U+3755	kDefinition	(same as 寍 寧) peace; serenity, used as a term of comparison: -- rather; it is better, would that
+U+3755	kJapanese	ネイ
+U+3755	kMandarin	níng
+U+3756	kDefinition	(corrupted form) right; fitting; proper; good, should; ought to; had better
+U+3756	kFanqie	魚羈
+U+3756	kJapanese	ギ
+U+3756	kMandarin	yí
+U+3757	kDefinition	spaciously rooms, expansive; vast and boundless
+U+3757	kFanqie	魯當 盧黨
+U+3757	kHanyuPinyin	20935.080:láng,lǎng
+U+3757	kJapanese	ロウ
+U+3757	kMandarin	láng
+U+3758	kDefinition	(non-classical form) harmony; peace, pleasant; agreeable; delightful
+U+3758	kHanyuPinyin	20935.040:yóng
+U+3758	kJapanese	ゴウ グ
+U+3758	kMandarin	yóng
+U+3759	kDefinition	(ancient form of 寅) the third of the twelve terrestrial branches; a fellow officer
+U+3759	kJapanese	イン
+U+3759	kMandarin	yín
+U+375A	kCantonese	jin4
+U+375A	kHanyuPinyin	20927.040:yán
+U+375A	kJapanese	エン
+U+375A	kMandarin	yán
+U+375B	kCantonese	suk1
+U+375B	kDefinition	(ancient form of 宿) a halting place; to lodge for the night, to keep over night, to cherish, asleep and perching
+U+375B	kJapanese	シュク やど
+U+375B	kMandarin	sù
+U+375C	kCantonese	sik1
+U+375C	kDefinition	night; dark; darkness, of death, to mourn, to lose; to deprived of
+U+375C	kJapanese	セキ シャク
+U+375D	kCantonese	lam4
+U+375D	kDefinition	deep, profound, far, extremely
+U+375D	kHanyuPinyin	20936.140:lín
+U+375D	kJapanese	リン
+U+375D	kMandarin	lín
+U+375E	kCantonese	aa1
+U+375E	kDefinition	pretend to be delicate and beautiful, to hang or be hanged, to be in suspension; unfounded
+U+375E	kFanqie	於加
+U+375E	kHanyuPinyin	20936.100:yā,yà
+U+375E	kJapanese	ア
+U+375E	kMandarin	yā
+U+375F	kCantonese	mou6
+U+375F	kDefinition	(corrupted form) in contravention of; to offend (same as 冒) incautious, to risk, to put forth
+U+375F	kJapanese	ホウ つきすすむ ふれる おかす
+U+375F	kMandarin	máo
+U+3760	kCantonese	ming4
+U+3760	kDefinition	(same as 冥) dark; obscure; dim, stupidity, far and high, deep; profound, night
+U+3760	kJapanese	メイ くらい
+U+3760	kMandarin	míng
+U+3761	kCantonese	zeoi3
+U+3761	kDefinition	(a variant of 最) very; exceedingly; most, superior
+U+3761	kJapanese	サイ
+U+3761	kMandarin	zuì
+U+3761	kXHC1983	1548.030:zuì
+U+3762	kDefinition	(same as 宇) a house; a roof, look; appearance, space
+U+3762	kFanqie	王矩
+U+3762	kHangul	우:N
+U+3762	kJapanese	ウ のき
+U+3762	kMandarin	yǔ
+U+3763	kCantonese	ai3
+U+3763	kDefinition	still; calm; silent, peaceful; harmonious; serene, quite
+U+3763	kFanqie	於計 烏結
+U+3763	kHanyuPinyin	20943.020:yì
+U+3763	kJapanese	エイ ケツ ケチ エツ エチ
+U+3763	kMandarin	yì
+U+3764	kCantonese	gau3
+U+3764	kDefinition	night, the dark part of a room
+U+3764	kFanqie	古候
+U+3764	kHanyuPinyin	20945.050:gòu
+U+3764	kJapanese	コウ ク
+U+3764	kMandarin	gòu
+U+3765	kDefinition	have a nightmare, sound sleep
+U+3765	kJapanese	ベイ メイ ビ ミ
+U+3765	kMandarin	mǐ
+U+3766	kCantonese	zeon3
+U+3766	kDefinition	to accumulate; to amass; to store up, superior, handsome, refined, eminent
+U+3766	kJapanese	シュン
+U+3766	kMandarin	jùn
+U+3767	kCantonese	wan2
+U+3767	kDefinition	(non-classical form of 穩) stable; steady; firm, sure; secure
+U+3767	kJapanese	オン
+U+3767	kMandarin	wěn
+U+3768	kCantonese	jyun4
+U+3769	kCantonese	hoi1
+U+3769	kDefinition	spaciously rooms, emptiness
+U+3769	kFanqie	苦岡 苦朗
+U+3769	kHanyuPinyin	20949.010:kāng
+U+3769	kJapanese	コウ
+U+3769	kMandarin	kāng
+U+376A	kCantonese	dim3
+U+376A	kDefinition	a slanting house, nightmare
+U+376A	kFanqie	都念 丁愜
+U+376A	kHanyuPinyin	20946.170:diàn
+U+376A	kJapanese	テン チョウ
+U+376A	kMandarin	diàn
+U+376B	kCantonese	lung4
+U+376B	kDefinition	shape of the sky
+U+376B	kHanyuPinyin	20951.020:lóng
+U+376B	kJapanese	リュウ
+U+376B	kMandarin	lóng
+U+376C	kCantonese	wu4
+U+376C	kJapanese	コ
+U+376D	kCantonese	sing2
+U+376D	kDefinition	(non-classical form) to awake (from errors, illusions, etc.), to come to one's sense, (interchangeable 惺) clever; wise, wavering; indecisive
+U+376D	kHanyuPinyin	20955.020:xǐng
+U+376D	kJapanese	セイ ショウ
+U+376D	kMandarin	xǐng
+U+376E	kCantonese	ceoi3
+U+376E	kDefinition	to exile; to banish, beyond the borders
+U+376E	kHanyuPinyin	20955.080:cuì
+U+376E	kJapanese	サイ セ
+U+376E	kMandarin	cuì
+U+376F	kCantonese	kiu4
+U+376F	kDefinition	to sojourn; sojourn, a sojourner; a visitor
+U+376F	kFanqie	巨嬌
+U+376F	kJapanese	キョウ ギョウ
+U+376F	kMandarin	qiáo
+U+3770	kCantonese	min4
+U+3770	kDefinition	unable to meet, empty room
+U+3770	kFanqie	莫賢
+U+3770	kHanyuPinyin	20957.030:mián
+U+3770	kJapanese	ベン メン
+U+3770	kMandarin	mián
+U+3771	kCantonese	mung6
+U+3771	kDefinition	(standard form) a dream; to dream, visionary, stupid
+U+3771	kFanqie	莫鳳
+U+3771	kJapanese	ム ゆめ
+U+3771	kMandarin	mèng
+U+3772	kCantonese	cam2
+U+3772	kDefinition	(same as 寢) to sleep; to rest, a tomb, a residence
+U+3772	kJapanese	シン
+U+3772	kMandarin	qǐn
+U+3773	kCantonese	sam1
+U+3774	kDefinition	(same as 刓) a round off; to trim
+U+3774	kJapanese	ガン けずる
+U+3774	kMandarin	wán
+U+3775	kCantonese	dak1
+U+3775	kDefinition	(ancient form of 得) to get, complacent, (same as 礙) to obstruct, to hinder, to stop progress, to injure, to offend, to concern, hindrance, restraint
+U+3775	kHanyuPinyin	21488.050:dé,ài
+U+3775	kJapanese	ガイ トク
+U+3775	kMandarin	dé
+U+3776	kCantonese	dak1
+U+3776	kDefinition	(ancient form of 得) to get, complacent
+U+3776	kJapanese	トク
+U+3776	kMandarin	ài
+U+3777	kCantonese	cam4
+U+3778	kCantonese	bin6
+U+3778	kDefinition	(same as 弁) a conical cap worn on ceremonious occasions in ancient times, low-ranking military officers, a Chinese family name
+U+3778	kHanyuPinyin	10564.140:biàn
+U+3778	kJapanese	ヘン ベン かんむり
+U+3778	kMandarin	biàn
+U+3779	kCantonese	nau4
+U+3779	kDefinition	(corrupted form) a hare, a small rabbit, a family name
+U+3779	kMandarin	nóu
+U+377A	kCantonese	lim4
+U+377A	kDefinition	small; little, humble, to owe, deficient; lacking
+U+377A	kHanyuPinyin	10566.010:lián
+U+377A	kJapanese	レン
+U+377A	kMandarin	lián
+U+377B	kCantonese	gan2
+U+377B	kDefinition	(same as 僅) barely enough; scarcely; almost
+U+377B	kFanqie	渠遴
+U+377B	kJapanese	キン ギン
+U+377B	kMandarin	jǐn
+U+377C	kDefinition	crooked; winding, to circle; to hover around
+U+377C	kFanqie	憶俱
+U+377C	kHanyuPinyin	10552.060:yū
+U+377C	kJapanese	ウ
+U+377C	kMandarin	yū
+U+377D	kDefinition	short, small; little
+U+377D	kMandarin	chuí
+U+377E	kCantonese	zo2
+U+377E	kDefinition	can not walk normally
+U+377E	kFanqie	臧可 則箇
+U+377E	kHanyuPinyin	10553.140:zuǒ
+U+377E	kJapanese	サ
+U+377E	kMandarin	zuǒ
+U+377F	kCantonese	bo2
+U+377F	kDefinition	(non-classical form of 跛) lame; crippled
+U+377F	kFanqie	布火
+U+377F	kJapanese	ハ あしなえ
+U+377F	kMandarin	bǒ
+U+377F	kXHC1983	0085.010:bǒ
+U+3780	kCantonese	fui1
+U+3780	kDefinition	to bump, to strike
+U+3780	kHanyuPinyin	10554.010:huī
+U+3780	kJapanese	カイ ケ
+U+3780	kMandarin	huī
+U+3781	kDefinition	can not walk normally, swollen feet
+U+3781	kFanqie	弋照
+U+3781	kHanyuPinyin	10554.020:yào
+U+3781	kJapanese	ヨウ ビュウ ミュウ
+U+3781	kMandarin	yào
+U+3782	kCantonese	teoi2
+U+3782	kDefinition	ulcers, swollen feet, a kind of disease
+U+3782	kFanqie	吐猥
+U+3782	kHanyuPinyin	10554.180:tuǐ,tuì
+U+3782	kJapanese	タイ テ
+U+3782	kMandarin	tuǐ
+U+3783	kDefinition	tired; weary
+U+3783	kHanyuPinyin	10555.010:jì
+U+3783	kJapanese	ケキ ギャク
+U+3783	kMandarin	jì
+U+3784	kCantonese	am1
+U+3784	kDefinition	lame; crippled; feeble
+U+3784	kFanqie	烏含 烏感
+U+3784	kHanyuPinyin	10554.200:ān
+U+3784	kJapanese	アン オン オウ
+U+3784	kMandarin	ān
+U+3785	kDefinition	not straight, improper
+U+3785	kHanyuPinyin	10554.220:luò
+U+3785	kJapanese	ラ
+U+3785	kMandarin	luò
+U+3786	kDefinition	(same as 踦) one-legged, crippled; halt, a defect, tired, the shin
+U+3786	kFanqie	居綺 卿義
+U+3786	kHanyuPinyin	10554.190:jǐ
+U+3786	kJapanese	キ イ
+U+3786	kMandarin	jǐ
+U+3787	kDefinition	ulcers, swollen feet, a kind of disease (abnormal in walking)
+U+3787	kFanqie	烏賄
+U+3787	kHanyuPinyin	10555.070:wěi
+U+3787	kJapanese	ワイ エ
+U+3787	kMandarin	wěi
+U+3788	kDefinition	big foot, walking
+U+3788	kHanyuPinyin	10556.020:bō
+U+3788	kJapanese	ハチ ハツ
+U+3788	kMandarin	bō
+U+3789	kCantonese	zaat3
+U+3789	kDefinition	big foot
+U+3789	kHanyuPinyin	10556.110:zā
+U+3789	kJapanese	サツ サチ
+U+3789	kMandarin	zā
+U+378A	kCantonese	seot1
+U+378A	kDefinition	unable to walk
+U+378A	kHanyuPinyin	10556.130:xù
+U+378A	kJapanese	シュツ
+U+378A	kMandarin	xù
+U+378B	kCantonese	nin2
+U+378B	kDefinition	soft and meek, weak, to arrange, to regulate
+U+378B	kFanqie	而兖
+U+378B	kHanyuPinyin	20965.080:niǎn,jí
+U+378B	kJapanese	ショク シキ デン ネン
+U+378B	kMandarin	niǎn
+U+378C	kDefinition	(same as 孕) to be pregnant; to conceive
+U+378C	kJapanese	ヨウ
+U+378C	kMandarin	yùn
+U+378D	kCantonese	jyun4
+U+378D	kJapanese	コウ しり
+U+378E	kCantonese	baa2
+U+378E	kDefinition	(baby talk) body waste, (a dialect) weight measurement
+U+378E	kHanyuPinyin	20967.060:bǎ,pā
+U+378E	kMandarin	bǎ
+U+378E	kXHC1983	0018.020:bǎ
+U+378F	kDefinition	small; to store up or pile in order, to follow; to trace, a short step
+U+378F	kFanqie	直立
+U+378F	kHanyuPinyin	20967.020:zhé,jié
+U+378F	kJapanese	チュウ ジュウ キョウ ギョウ
+U+378F	kMandarin	zhé
+U+3790	kCantonese	geoi1
+U+3790	kDefinition	(an ancient form of 居), to dwell; to remain, to be in (various states and conditions), to occupy, the course of one's life
+U+3790	kJapanese	キョ
+U+3790	kMandarin	jū
+U+3791	kCantonese	mei5
+U+3791	kDefinition	(standard form of 尾) the tail; the rear, last; final
+U+3791	kJapanese	ビ
+U+3791	kMandarin	wěi
+U+3792	kCantonese	aai3
+U+3792	kDefinition	(standard form) lusty; strong; gigantic strength, heavy sleep with snoring
+U+3792	kFanqie	許介
+U+3792	kHanyuPinyin	20972.040:xiè,xì
+U+3792	kJapanese	カイ ケ キ
+U+3792	kMandarin	xiè
+U+3793	kCantonese	hei3
+U+3793	kDefinition	the buttocks; the rump; the sacrum, to set sideways, the male organ; (Cant.) vulgar term for the female sex organ
+U+3793	kFanqie	詰利
+U+3793	kHanyuPinyin	20972.070:qì,jī
+U+3793	kJapanese	キ ケイ
+U+3793	kMandarin	qì
+U+3794	kCantonese	ji4
+U+3794	kDefinition	(corrupted form) the upright bar for fastening a door
+U+3794	kMandarin	yí
+U+3795	kCantonese	sit3
+U+3795	kDefinition	(same as 屑) chips; crumbs; bits trifles, to care; to mind
+U+3795	kFanqie	蘇骨
+U+3795	kJapanese	セツ
+U+3795	kMandarin	xiè
+U+3796	kCantonese	ci1
+U+3796	kDefinition	this, here, if so; in this case, reluctant to go forward
+U+3796	kHanyuPinyin	20971.080:cí,cì
+U+3796	kJapanese	シ
+U+3796	kMandarin	cí
+U+3797	kCantonese	kau4
+U+3797	kDefinition	the male organ, obscene language; vulgar expression
+U+3797	kHanyuPinyin	20975.010:qiú
+U+3797	kJapanese	キュウ グ
+U+3797	kMandarin	qiú
+U+3797	kXHC1983	0941.040:qiú
+U+3798	kCantonese	duk1
+U+3798	kDefinition	(non-classical form of 豚) a small pig; (Cant.) end, bottom, rump
+U+3798	kHanyuPinyin	20977.050:dū
+U+3798	kJapanese	トク
+U+3798	kMandarin	dū
+U+3798	kSMSZD2003Readings	dū粵duk1
+U+3798	kXHC1983	0265.090:dū
+U+3799	kCantonese	niu6
+U+3799	kDefinition	(same as 尿) urine; to urinate
+U+3799	kFanqie	奴弔
+U+3799	kJapanese	ニョウ
+U+3799	kMandarin	niào
+U+379A	kDefinition	to pile up layer by layer, wedge, gatepost
+U+379A	kFanqie	初戢 側洽 所甲
+U+379A	kHanyuPinyin	20978.110:qì,zhǎ
+U+379A	kJapanese	ショウ ソウ
+U+379A	kMandarin	qì
+U+379B	kCantonese	gei2
+U+379B	kDefinition	red slippers, (corrupted form of 履) shoes
+U+379B	kFanqie	居履
+U+379B	kHanyuPinyin	20978.160:jǐ
+U+379B	kJapanese	キ
+U+379B	kMandarin	jǐ
+U+379C	kCantonese	teoi1
+U+379C	kDefinition	hempen sandals, boots
+U+379C	kFanqie	他回
+U+379C	kHanyuPinyin	20979.190:tuī
+U+379C	kJapanese	タイ テ サイ セ カ ゲ タ
+U+379C	kMandarin	tuī
+U+379D	kCantonese	cik1
+U+379E	kCantonese	sung4
+U+379E	kDefinition	semen
+U+379E	kHanyuPinyin	80018.010:sóng
+U+379E	kMandarin	sóng
+U+379E	kXHC1983	1092.071:sóng
+U+379F	kCantonese	din6
+U+379F	kDefinition	savings and (or) reserves; (same as 奠) to settle; to lay; (same as 墊) to advance (money), to cushion, to sink into; (said of manner) dignified; stately; graceful
+U+379F	kFanqie	都挺 堂練
+U+379F	kHanyuPinyin	20980.070:diàn,dǐng
+U+379F	kJapanese	テン テイ チョウ
+U+379F	kMandarin	diàn
+U+37A0	kCantonese	liu4
+U+37A0	kDefinition	male organ
+U+37A0	kMandarin	láo
+U+37A1	kCantonese	zin2
+U+37A1	kDefinition	(same as 展) to open, to stretch, to unfold, to expand
+U+37A1	kFanqie	知演
+U+37A1	kJapanese	テン
+U+37A1	kMandarin	zhǎn
+U+37A2	kCantonese	zi1
+U+37A2	kDefinition	(ancient form of 之) to arrive at; to go to
+U+37A2	kFanqie	止而
+U+37A2	kJapanese	シ
+U+37A3	kCantonese	fan1
+U+37A3	kDefinition	(same as 芬) fragrance; aroma; sweet smell; perfume
+U+37A3	kFanqie	符分 撫文
+U+37A3	kJapanese	フン ブン
+U+37A4	kDefinition	to help; to aid; to assist (ancient form of 岑) a relatively high, pointed hill, silent; still; quiet
+U+37A4	kHanyuPinyin	10760.080:yín,cén
+U+37A4	kJapanese	ギン ゴン
+U+37A4	kMandarin	yín
+U+37A5	kDefinition	deep in the mountain
+U+37A5	kFanqie	鋤針
+U+37A5	kHanyuPinyin	10760.090:cén
+U+37A5	kJapanese	シン ジン
+U+37A5	kMandarin	cén
+U+37A6	kCantonese	gei2
+U+37A6	kDefinition	name of a mountain
+U+37A6	kFanqie	居履
+U+37A6	kHanyuPinyin	10760.110:jǐ
+U+37A6	kJapanese	キ
+U+37A6	kMandarin	jǐ
+U+37A7	kCantonese	wui6
+U+37A7	kDefinition	(ancient form of 會) to meet, to gather, to be able, to understand
+U+37A7	kJapanese	カイ
+U+37A7	kMandarin	huì
+U+37A8	kCantonese	zi2
+U+37A8	kDefinition	(corrupted form) name of a mountain (the location is unknown)
+U+37A8	kHanyuPinyin	10762.030:zǐ
+U+37A8	kJapanese	シ
+U+37A8	kMandarin	zǐ
+U+37A9	kCantonese	laam4
+U+37A9	kDefinition	(same as 嵐) mountain vapor; mist
+U+37A9	kJapanese	ラン
+U+37A9	kMandarin	lán
+U+37AA	kDefinition	the appearance of the mountain is flat and smooth, (corrupted form of 峱) name of a mountain in Shandong province
+U+37AA	kHanyuPinyin	10761.210:náo
+U+37AA	kJapanese	ドウ ノウ
+U+37AA	kMandarin	náo
+U+37AB	kCantonese	zau2
+U+37AB	kDefinition	(non-classical form of 走) to walk, to run, to leave
+U+37AB	kJapanese	ソウ
+U+37AB	kMandarin	jù
+U+37AC	kCantonese	jan2
+U+37AC	kDefinition	close or near
+U+37AC	kHanyuPinyin	10761.020:qìn
+U+37AC	kJapanese	キン
+U+37AC	kMandarin	qìn
+U+37AD	kCantonese	daai6
+U+37AD	kDefinition	name of an island
+U+37AD	kHanyuPinyin	10761.030:dài
+U+37AD	kJapanese	タイ
+U+37AD	kMandarin	dài
+U+37AE	kDefinition	(non-standard Japanese variant of 出), to go out, send out; to stand; to produce
+U+37AE	kJapanese	シュツ スイ デ シュチ でる だす
+U+37AE	kJapaneseKun	DERU DASU
+U+37AE	kJapaneseOn	SHUTSU SUI
+U+37AF	kDefinition	(same as 岊) the turning area of a mountain, mountain top; summit, a high mountain, a bare (of bald) mountain or hill
+U+37AF	kJapanese	キ
+U+37AF	kMandarin	jié
+U+37B0	kCantonese	heoi2
+U+37B0	kDefinition	name of a mountain
+U+37B0	kHanyuPinyin	10763.110:xǔ
+U+37B0	kJapanese	キョ
+U+37B0	kMandarin	xǔ
+U+37B1	kDefinition	dusk; twilight
+U+37B1	kHanyuPinyin	10763.050:cōng
+U+37B1	kJapanese	ショウ シュ
+U+37B1	kMandarin	cōng
+U+37B2	kDefinition	name of a mountain, the plain between mountains
+U+37B2	kHanyuPinyin	10763.060:yòng
+U+37B2	kJapanese	ギュウ グ
+U+37B2	kMandarin	yòng
+U+37B3	kCantonese	dau2
+U+37B3	kDefinition	name of a mountain
+U+37B3	kHanyuPinyin	10765.070:dǒu
+U+37B3	kJapanese	トウ ツ
+U+37B3	kMandarin	dǒu
+U+37B4	kCantonese	ci4
+U+37B4	kDefinition	name of a mountain, (non-classical form of 岷) the Min River (in Sichuan), Mt. Min (in Sichuan), name of a county (in old China)
+U+37B4	kHanyuPinyin	10764.090:chí,mín
+U+37B4	kJapanese	チ ジ
+U+37B4	kMandarin	chí
+U+37B5	kCantonese	tou1
+U+37B5	kDefinition	(corrupted form) frivolous; flippant; capricious; playful; sportive, cunning
+U+37B6	kCantonese	man4
+U+37B6	kDefinition	(same as 岷) the Min River (in Sichuan), Mt. Min (in Sichuan), name of a county (in old China)
+U+37B6	kJapanese	ビン
+U+37B6	kMandarin	mǐn
+U+37B7	kCantonese	wong4
+U+37B7	kDefinition	luxuriant; lush; flourishing
+U+37B7	kFanqie	巨王
+U+37B7	kHanyuPinyin	21022.020:huáng
+U+37B7	kMandarin	huáng
+U+37B8	kCantonese	seoi3
+U+37B8	kDefinition	(same as 呡) (simplified form of 歲) a year; age (of a person), harvest
+U+37B8	kMandarin	suì
+U+37B9	kCantonese	ho2
+U+37B9	kDefinition	(same as 岢) name of a mountain in Shanxi province
+U+37B9	kJapanese	カ
+U+37B9	kMandarin	kě
+U+37BA	kCantonese	zuk6
+U+37BA	kDefinition	(ancient form of 族) a tribe; a clan; relatives, race (of people), a class; a family (of animals)
+U+37BA	kJapanese	ゾク
+U+37BA	kMandarin	zú
+U+37BB	kCantonese	hou6
+U+37BB	kDefinition	name of a mountain
+U+37BB	kHanyuPinyin	10767.020:hào
+U+37BB	kJapanese	コウ ゴウ
+U+37BB	kMandarin	hào
+U+37BC	kCantonese	sing4
+U+37BC	kDefinition	(same as 丞) to respectfully receive, to flatter; to pay court to
+U+37BC	kHangul	승:N
+U+37BC	kJapanese	ショウ ジョウ
+U+37BC	kMandarin	chéng
+U+37BD	kCantonese	hyut3
+U+37BD	kDefinition	mountain; hill
+U+37BD	kFanqie	許月
+U+37BD	kHanyuPinyin	10766.100:xuè
+U+37BD	kJapanese	ケツ カチ
+U+37BD	kMandarin	xuè
+U+37BE	kCantonese	nei4
+U+37BE	kDefinition	(same as 尼) a nun, the mountains after which Confucius was named
+U+37BE	kJapanese	ジ ニ
+U+37BE	kMandarin	ní
+U+37BF	kCantonese	kei4
+U+37BF	kDefinition	(same as 岐) name of a mountain in Shanxi province, name of a political district in ancient China, name of a river in Shanxi province, to diverge; to branch
+U+37BF	kJapanese	キ
+U+37BF	kMandarin	chì
+U+37C0	kCantonese	lin4
+U+37C0	kDefinition	name of a mountain
+U+37C0	kHanyuPinyin	10767.110:lián
+U+37C0	kJapanese	レン
+U+37C0	kMandarin	lián
+U+37C1	kCantonese	ngon6
+U+37C1	kDefinition	(a variant of 岸) shore; bank; beach; coast
+U+37C1	kJapanese	ガン きし
+U+37C1	kMandarin	àn
+U+37C2	kCantonese	mou5
+U+37C2	kDefinition	name of cape in Shandong Province
+U+37C2	kHanyuPinyin	10769.090:mǔ
+U+37C2	kMandarin	mǔ
+U+37C2	kXHC1983	0806.030:mǔ
+U+37C3	kCantonese	si1
+U+37C3	kDefinition	(corrupted form of 司) to have charge of; to preside over, a (governmental) department
+U+37C3	kHanyuPinyin	80016.060:sī
+U+37C3	kJapanese	シ
+U+37C3	kMandarin	sī
+U+37C3	kTGHZ2013	346.030:sī
+U+37C4	kCantonese	coeng4
+U+37C4	kDefinition	name of a mountain
+U+37C4	kHanyuPinyin	10771.170:xiáng
+U+37C4	kJapanese	ショウ ゾウ
+U+37C4	kMandarin	xiáng
+U+37C5	kDefinition	lofty; high; steep
+U+37C5	kFanqie	盧紅 五東 五江
+U+37C5	kHanyuPinyin	10771.050:yáng
+U+37C5	kJapanese	ゴウ グ
+U+37C5	kMandarin	yáng
+U+37C6	kCantonese	waa4
+U+37C6	kDefinition	name of a mountain
+U+37C6	kMandarin	huá
+U+37C7	kDefinition	a land-slide, name of mountain
+U+37C7	kHanyuPinyin	10775.100:cuò,cuó
+U+37C7	kJapanese	サ ザ
+U+37C7	kMandarin	cuò
+U+37C8	kCantonese	kau4
+U+37C8	kDefinition	name of a mountain
+U+37C8	kHanyuPinyin	10772.220:qiú
+U+37C8	kJapanese	キュウ グ
+U+37C8	kMandarin	qiú
+U+37C9	kCantonese	lou4
+U+37C9	kDefinition	name of pavilion (garden) in ancient China, name of a mountain
+U+37C9	kFanqie	魯刀
+U+37C9	kHanyuPinyin	10776.060:láo
+U+37C9	kJapanese	ロウ
+U+37C9	kMandarin	láo
+U+37CA	kDefinition	name of a mountain
+U+37CA	kHanyuPinyin	10775.010:fú
+U+37CA	kJapanese	フウ ブ
+U+37CA	kMandarin	fú
+U+37CB	kDefinition	deep and level ground gully at the foot of a hill
+U+37CB	kFanqie	杜外
+U+37CB	kHanyuPinyin	10775.080:duì

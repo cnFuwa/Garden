@@ -1,0 +1,2000 @@
+U+43E9	kJapanese	キュウ オウ
+U+43E9	kMandarin	xī
+U+43EA	kCantonese	nei6
+U+43EA	kDefinition	tendon (of meat animals); sinews; muscles
+U+43EA	kFanqie	仍吏
+U+43EA	kHangul	이:N
+U+43EA	kHanyuPinyin	32066.060:èr
+U+43EA	kJapanese	ジ ニ
+U+43EA	kMandarin	èr
+U+43EB	kDefinition	in between of the abdomen and the spine; the spinal column
+U+43EB	kHanyuPinyin	32068.040:xiū
+U+43EB	kJapanese	キュウ ク
+U+43EB	kMandarin	xiū
+U+43EC	kDefinition	the spine; the spinal column, the ridge
+U+43EC	kHanyuPinyin	32075.010:móu
+U+43EC	kJapanese	ボウ ム ひとみ
+U+43EC	kMandarin	móu
+U+43ED	kCantonese	zyu1
+U+43ED	kDefinition	the cheeks; the jaw
+U+43ED	kJapanese	シュ
+U+43EE	kCantonese	hip3
+U+43EE	kDefinition	(abbreviated form of 脇=脅) the sides of the trunk from armpits to ribs; the flank
+U+43EE	kJapanese	キョウ コウ
+U+43EE	kMandarin	xí
+U+43EF	kCantonese	zi3
+U+43EF	kDefinition	(same as 痣) moles; birthmarks
+U+43EF	kJapanese	シ
+U+43EF	kMandarin	zhì
+U+43F0	kDefinition	a kind of insects; earthworm, durable; strong and soft; pliable yet tough
+U+43F0	kFanqie	如順
+U+43F0	kHanyuPinyin	32082.070:rùn
+U+43F0	kJapanese	ジン ニン ジュン ニュン
+U+43F0	kMandarin	rùn
+U+43F1	kCantonese	guk1
+U+43F1	kDefinition	body, fat; plump
+U+43F1	kHanyuPinyin	32082.050:jú
+U+43F1	kJapanese	キク コク
+U+43F1	kMandarin	jú
+U+43F2	kCantonese	dit6
+U+43F2	kDefinition	protruded bones; swelling, a crooked nose
+U+43F2	kHanyuPinyin	32082.010:dié,tī
+U+43F2	kJapanese	テツ デチ テイ タイ
+U+43F2	kMandarin	tī dié
+U+43F2	kSMSZD2003Readings	tī粵tai1
+U+43F2	kTGHZ2013	363.100:tī
+U+43F3	kCantonese	zit3
+U+43F3	kDefinition	(in chemistry) olein, oil and grease; fats (esp. animal), the ribs and skin
+U+43F3	kFanqie	旨熱
+U+43F3	kHanyuPinyin	32075.050:zhè
+U+43F3	kJapanese	セツ セチ
+U+43F3	kMandarin	zhè
+U+43F4	kDefinition	dim; ambiguous; unclear eyesight, sharp ends of something
+U+43F4	kHanyuPinyin	32077.100:shào
+U+43F4	kJapanese	ソウ ショウ
+U+43F4	kMandarin	shào
+U+43F4	kVietnamese	teo
+U+43F5	kDefinition	plump, rich and full, plentiful, swelling, a plump trunk (body)
+U+43F5	kFanqie	莫湩
+U+43F5	kHanyuPinyin	32077.050:měng,mǎng,máng
+U+43F5	kJapanese	ボウ モウ モ
+U+43F5	kMandarin	měng
+U+43F6	kDefinition	the stomach; gizzard (of birds and fowls), (same as 髀) buttocks, thigh
+U+43F6	kHanyuPinyin	32077.080:bì
+U+43F6	kJapanese	ヒ ビ
+U+43F6	kMandarin	bì
+U+43F7	kCantonese	hon6
+U+43F7	kDefinition	medicine for a sore; a boil (injure by a sword or a knife)
+U+43F7	kFanqie	侯旰
+U+43F7	kHanyuPinyin	32077.110:hàn
+U+43F7	kJapanese	カン ガン
+U+43F7	kMandarin	hàn
+U+43F8	kDefinition	fish, eyes of the fishes
+U+43F8	kJapanese	ギョ
+U+43F8	kMandarin	yú
+U+43F9	kDefinition	to watch stealthily
+U+43F9	kHanyuPinyin	32078.010:xiàn,chēn
+U+43F9	kJapanese	ケン
+U+43F9	kMandarin	xiàn
+U+43FA	kCantonese	pong1
+U+43FA	kDefinition	to swell; swelling
+U+43FA	kHanyuPinyin	32079.120:pāng
+U+43FA	kMandarin	pāng
+U+43FB	kCantonese	nang4
+U+43FB	kDefinition	(same as 能) can; to be able to, capability; talent, energy
+U+43FB	kJapanese	ドウ
+U+43FB	kMandarin	néng
+U+43FC	kCantonese	caan4
+U+43FC	kDefinition	what is left over of the food (of birds and animals), a big belly
+U+43FC	kFanqie	昨干 徂賛
+U+43FC	kHanyuPinyin	32086.160:cán,zhàn
+U+43FC	kJapanese	サン ザン ゼン
+U+43FC	kMandarin	cán
+U+43FD	kDefinition	meat pulp; mashed meat cooked with soybean sauce, last name
+U+43FD	kFanqie	薄侯 蒲口 蒲候
+U+43FD	kHanyuPinyin	32090.090:bù,péi
+U+43FD	kJapanese	ホウ ブ ハイ ベ
+U+43FD	kMandarin	bù
+U+43FE	kDefinition	(non-classical form of 䏺) to swell; swelling
+U+43FE	kJapanese	ホウ
+U+43FE	kVietnamese	bọng
+U+43FF	kCantonese	kai2
+U+43FF	kDefinition	the calf of the legs
+U+43FF	kFanqie	康禮 苦計
+U+43FF	kHanyuPinyin	32092.070:qǐ
+U+43FF	kJapanese	ケイ
+U+43FF	kMandarin	qǐ
+U+43FF	kSMSZD2003Readings	qǐ粵kai2
+U+43FF	kXHC1983	0899.020:qǐ
+U+4400	kCantonese	gei3
+U+4400	kDefinition	to dismember body of the livestock
+U+4400	kFanqie	居義
+U+4400	kHanyuPinyin	32086.080:jì
+U+4400	kJapanese	キ
+U+4400	kMandarin	jì
+U+4401	kCantonese	duk1
+U+4401	kDefinition	the buttocks; the rump, fat; plump, one of the seven constellations; name of a star, the anus
+U+4401	kFanqie	丁木 竹角
+U+4401	kHanyuPinyin	32086.130:zhuó,dū
+U+4401	kJapanese	タク チョク トク
+U+4401	kMandarin	zhuó
+U+4402	kCantonese	luk6
+U+4402	kDefinition	fat of animals or plants, fat; plump; obese
+U+4402	kHanyuPinyin	32093.080:lù
+U+4402	kJapanese	リョク ロク
+U+4402	kMandarin	lù
+U+4403	kDefinition	fat in the abdomen or intestine, protuberances of the muscle, a fetus inside the belly
+U+4403	kFanqie	渠殞
+U+4403	kHanyuPinyin	32088.030:jùn,zhūn
+U+4403	kJapanese	キン ゴン シュン
+U+4403	kMandarin	jùn
+U+4403	kTGHZ2013	190.190:jùn
+U+4404	kCantonese	haam6
+U+4404	kDefinition	hunger for meat, to cook meat
+U+4404	kFanqie	胡紺 下瞰 戶韽
+U+4404	kHanyuPinyin	32090.010:xiàn,hàn
+U+4404	kJapanese	カン ゲン コン ゴン ガン
+U+4404	kMandarin	xiàn
+U+4405	kDefinition	the buttocks; the bottom; the rump, to groan; to moan
+U+4405	kFanqie	喜夷
+U+4405	kHanyuPinyin	32092.130:xī
+U+4405	kJapanese	キ
+U+4405	kMandarin	xī
+U+4406	kDefinition	big belly, swollen of the belly
+U+4406	kFanqie	倉代
+U+4406	kHanyuPinyin	32089.110:cǎi
+U+4406	kJapanese	サ サイ
+U+4406	kMandarin	cǎi
+U+4407	kCantonese	man5
+U+4407	kDefinition	clear; bright, (same as 吻) to agree; match, (same as 唇) the lips; the labia
+U+4407	kFanqie	武盡
+U+4407	kHanyuPinyin	32090.020:wěn,chún
+U+4407	kJapanese	シュン ジュン ビン ミン ブン モン フン くちさき
+U+4407	kMandarin	wěn
+U+4408	kCantonese	zik1
+U+4408	kDefinition	a piece of one foot two inches dried seasoned meat, to paste up; to attach to; to stick up; to glue, (same as 殖) rotten fat; grease, lard, etc., bowels, fat
+U+4408	kFanqie	之翼 除力
+U+4408	kHanyuPinyin	32085.010:zhí
+U+4408	kJapanese	ショク シキ チョク チキ
+U+4408	kMandarin	zhí
+U+4409	kCantonese	zi3
+U+4409	kDefinition	fat; the head
+U+4409	kHanyuPinyin	32093.100:zì,nǎo
+U+4409	kJapanese	シ
+U+4409	kMandarin	zì
+U+440A	kDefinition	(same as 䖵) insects, (same as 餛) cakes; biscuits; pastry, an ellipse
+U+440A	kHanyuPinyin	32087.040:kūn,hún,hùn
+U+440A	kJapanese	コン ゴン
+U+440A	kMandarin	kūn
+U+440B	kCantonese	cung1
+U+440B	kDefinition	sick; illness; disease, red
+U+440B	kHanyuPinyin	32089.140:cōng
+U+440B	kJapanese	ソウ ス
+U+440B	kMandarin	cōng
+U+440C	kCantonese	tin2
+U+440C	kDefinition	(ancient form of 腆) luxuriant; abundant; rich; plentiful of food, brazen-faced; shameless, good; virtuous, protruding, as belly, etc., to go to excess
+U+440C	kJapanese	テン
+U+440C	kMandarin	tiǎn
+U+440D	kDefinition	(same as 䐢) excellent food; delicacies, to wrinkle; to contract, beautiful; elegant, dried and seasoned meat
+U+440D	kHanyuPinyin	32093.140:chù
+U+440D	kJapanese	ス
+U+440D	kMandarin	chù
+U+440E	kDefinition	fat; greasy
+U+440E	kFanqie	都奚 杜奚
+U+440E	kHanyuPinyin	32095.080:dī
+U+440E	kJapanese	テイ タイ
+U+440E	kMandarin	dī
+U+440F	kCantonese	ceon2
+U+440F	kDefinition	fat; plump
+U+440F	kFanqie	尺尹
+U+440F	kHanyuPinyin	32093.130:chǔn,shǔn
+U+440F	kJapanese	シュン
+U+440F	kMandarin	chǔn
+U+4410	kCantonese	cau1
+U+4410	kDefinition	curved part of the knee, between the thigh and calf
+U+4410	kHanyuPinyin	32096.140:qiū
+U+4410	kJapanese	シュウ シュ
+U+4410	kMandarin	qiū
+U+4411	kCantonese	zip3
+U+4411	kDefinition	thin cut of the sliced meat
+U+4411	kFanqie	直葉
+U+4411	kHanyuPinyin	32093.210:zhé
+U+4411	kJapanese	チョウ ジョウ ショウ
+U+4411	kMandarin	zhé
+U+4412	kCantonese	zaa1
+U+4412	kDefinition	not fine; coarse, to stick up; to paste up; to attach to; to glue, scar
+U+4412	kFanqie	陟加 陟駕
+U+4412	kHanyuPinyin	32095.020:zhā
+U+4412	kJapanese	タ
+U+4412	kMandarin	zhā
+U+4413	kDefinition	soft, (same as 脜) gentle; mild; temperate facial expression
+U+4413	kFanqie	耳由
+U+4413	kHanyuPinyin	32094.100:róu
+U+4413	kJapanese	ジュウ ニュ
+U+4413	kMandarin	róu
+U+4414	kDefinition	muscle of the calf (of the leg), tendon (of meat animals), stopping and rising of the pulse like a plaited ropes
+U+4414	kHanyuPinyin	32099.110:bǐn,biàn
+U+4414	kJapanese	ヒン ヘン ベン
+U+4414	kMandarin	bǐn
+U+4415	kDefinition	oil and grease; fats, the bursting of a wound
+U+4415	kHanyuPinyin	32095.100:jí
+U+4415	kJapanese	シュウ
+U+4415	kMandarin	jí
+U+4416	kDefinition	(same as 㕧) to laugh heartily; to roar with laughter; to groan; to moan
+U+4416	kHanyuPinyin	32099.160:xī
+U+4416	kJapanese	キ
+U+4416	kMandarin	xī
+U+4417	kCantonese	zyu1
+U+4417	kDefinition	(same as 豬) a pig, (same as 肚) the belly; the abdomen
+U+4417	kHanyuPinyin	32083.050:zhū,dǔ
+U+4417	kJapanese	チョ
+U+4417	kMandarin	zhū
+U+4418	kCantonese	koek6
+U+4418	kDefinition	to laugh heartily; to roar with laughter, tongue of the cow
+U+4418	kFanqie	其虐
+U+4418	kHanyuPinyin	32098.010:jué
+U+4418	kJapanese	キャク ガク
+U+4418	kMandarin	jué
+U+4419	kCantonese	gaak3
+U+4419	kDefinition	(same as 膈) the diaphragm
+U+4419	kJapanese	カク キャク
+U+4419	kMandarin	gé
+U+441A	kCantonese	zik1
+U+441A	kDefinition	good graces; great favors, luster
+U+441A	kFanqie	子力
+U+441A	kHanyuPinyin	32097.040:jī
+U+441A	kJapanese	ショク シキ セキ シャク
+U+441A	kMandarin	jī
+U+441B	kDefinition	to loosen; to widen skin
+U+441B	kJapanese	トウ
+U+441B	kMandarin	dā
+U+441B	kXHC1983	0189.020:dā
+U+441C	kCantonese	can1
+U+441C	kDefinition	a swollen belly; dropsical, edematous; to swell; inflated
+U+441C	kFanqie	昌眞
+U+441C	kHanyuPinyin	32101.010:chēn
+U+441C	kJapanese	シン シ
+U+441C	kMandarin	chēn
+U+441D	kDefinition	thick; heavy fat of animals or plants
+U+441D	kFanqie	先臥
+U+441D	kHanyuPinyin	32102.010:suò
+U+441D	kJapanese	サ
+U+441D	kMandarin	suò
+U+441E	kDefinition	the thin membrane between skin and flesh that protects internal organs or tissues in the human body, weak; fragile; delicate, flesh, meat
+U+441E	kFanqie	而灼
+U+441E	kHanyuPinyin	32105.120:ruò
+U+441E	kJapanese	ジャク ニャク
+U+441E	kMandarin	ruò
+U+441F	kDefinition	fat; plump, bent; curved feet
+U+441F	kHanyuPinyin	32100.090:xiǎng,gōu
+U+441F	kJapanese	コウ ク
+U+441F	kMandarin	xiǎng
+U+4420	kCantonese	fong1
+U+4420	kDefinition	between the flesh, name of state in southern China (of minority group), dim moon
+U+4420	kFanqie	呼郎
+U+4420	kJapanese	コウ
+U+4420	kMandarin	huǎng
+U+4421	kCantonese	ci4
+U+4421	kDefinition	(same as 臍) the navel; the umbilicus, the underside of a crab
+U+4421	kJapanese	セイ
+U+4421	kMandarin	qí
+U+4422	kCantonese	zo3
+U+4422	kDefinition	to wrinkle; to contract, beautiful; elegant, dried and seasoned meat, excellent food; delicacies
+U+4422	kFanqie	芻注 側救
+U+4422	kHanyuPinyin	32103.060:zhù,zhòu,chù
+U+4422	kJapanese	シュウ シュ ソウ ス
+U+4422	kMandarin	zhù
+U+4423	kDefinition	soup made of cut meat mixed with blood
+U+4423	kFanqie	蘇本
+U+4423	kHanyuPinyin	32102.020:sǔn
+U+4423	kJapanese	ソン
+U+4423	kMandarin	sǔn
+U+4424	kDefinition	dried and seasoned meat, sound of the abdomen
+U+4424	kFanqie	楚佳 初加
+U+4424	kHanyuPinyin	32104.070:chāi,cuó
+U+4424	kJapanese	サイ セ サ シ ザ
+U+4424	kMandarin	chāi
+U+4425	kCantonese	ung3
+U+4425	kDefinition	stinky; offensive-smelling; odorous, fat; plump
+U+4425	kFanqie	烏孔
+U+4425	kHanyuPinyin	32103.040:wěng
+U+4425	kJapanese	オウ オ
+U+4425	kMandarin	wěng
+U+4425	kVietnamese	ỏng
+U+4426	kDefinition	sleepy
+U+4426	kHanyuPinyin	32100.110:kē
+U+4426	kJapanese	コウ
+U+4426	kMandarin	kē
+U+4427	kCantonese	hou3
+U+4427	kDefinition	(same as 犒) to reward or cheer troops with food, money, gifts, etc., (same as 臛) meat broth
+U+4427	kHanyuPinyin	32103.070:kào,hè
+U+4427	kJapanese	コウ
+U+4427	kMandarin	kào
+U+4428	kCantonese	guk1
+U+4428	kDefinition	back of the foot, the back feet of the animal, covering; shell, to strike; heat from the top
+U+4428	kFanqie	古禄
+U+4428	kHanyuPinyin	32163.050:gǔ,què
+U+4428	kJapanese	コク トク ドク カク
+U+4428	kMandarin	gǔ
+U+4429	kCantonese	goi1
+U+4429	kDefinition	fat; plump, the fetus of livestock, delicious meat
+U+4429	kFanqie	公回 古哀 苦亥
+U+4429	kHanyuPinyin	32102.050:gāi,guī,kǎi
+U+4429	kJapanese	カイ ガイ ケ
+U+4429	kMandarin	gāi
+U+442A	kCantonese	zeon3
+U+442A	kDefinition	(same as standard form 臇) fat; rich, a stew of fish
+U+442A	kMandarin	fàn
+U+442B	kDefinition	obesity, fat; plump
+U+442B	kFanqie	七恭
+U+442B	kHanyuPinyin	32108.070:cōng
+U+442B	kJapanese	ショウ シュ
+U+442B	kMandarin	cōng
+U+442C	kCantonese	cou4
+U+442C	kDefinition	crisp, brittle, light, sound from the abdomen
+U+442C	kFanqie	昨勞
+U+442C	kHanyuPinyin	32106.130:cáo
+U+442C	kJapanese	ソウ ゾウ
+U+442C	kMandarin	cáo
+U+442D	kCantonese	zai6
+U+442D	kDefinition	a discharge or flux, diarrhoea and dysentery
+U+442D	kHanyuPinyin	32106.090:zhì,dì
+U+442D	kJapanese	テイ タイ
+U+442D	kMandarin	zhì
+U+442D	kVietnamese	giái
+U+442E	kDefinition	skin
+U+442E	kFanqie	初限
+U+442E	kHanyuPinyin	32108.140:chǎn
+U+442E	kJapanese	サン セン
+U+442E	kMandarin	chǎn
+U+442F	kDefinition	ugly appearance of a person, dry meat; preserved meat
+U+442F	kFanqie	力懷
+U+442F	kHanyuPinyin	32107.080:léi,lěi
+U+442F	kJapanese	ライ レ ルイ
+U+442F	kMandarin	léi
+U+4430	kCantonese	sau1
+U+4430	kDefinition	(same as 羞) to offer food as tribute; delicacies, savoury food
+U+4430	kHanyuPinyin	32102.090:xiū
+U+4430	kJapanese	シュウ
+U+4430	kMandarin	xiū
+U+4431	kDefinition	to pick the meat in between of bones
+U+4431	kHanyuPinyin	32108.170:zhài
+U+4431	kJapanese	タ セキ シャク タク チャク タイ テ
+U+4431	kMandarin	zhài
+U+4432	kCantonese	zaap6
+U+4432	kDefinition	half-raw meat; not well cooked meat, the light or grow of fire, raw meat, offensive smell, especially of fish or blood, thin sliced meat
+U+4432	kFanqie	直立
+U+4432	kHanyuPinyin	32109.050:zhé
+U+4432	kJapanese	チョウ ジョウ チュウ ジュウ
+U+4432	kMandarin	zhé
+U+4433	kDefinition	(same as 魚) fish
+U+4433	kJapanese	ギョ
+U+4433	kMandarin	yú
+U+4434	kCantonese	gui3
+U+4434	kDefinition	lumbago
+U+4434	kFanqie	古外 古對
+U+4434	kHanyuPinyin	32108.050:guì
+U+4434	kJapanese	カイ ケ
+U+4434	kMandarin	guì
+U+4435	kDefinition	fat; obese, swelling
+U+4435	kHanyuPinyin	32110.080:gōng,huáng
+U+4435	kJapanese	コウ オウ
+U+4435	kMandarin	gōng
+U+4436	kCantonese	zaam1
+U+4436	kDefinition	to cook; to boil; to decoct, diseases of the lips; hare-lip, pieces of meat
+U+4436	kFanqie	作含 子朕
+U+4436	kHanyuPinyin	32111.100:zān,jǐn,qián
+U+4436	kJapanese	サン シン セン ゼン
+U+4436	kMandarin	zān
+U+4437	kCantonese	daan1
+U+4437	kDefinition	paunchy; a large belly
+U+4437	kFanqie	都寒
+U+4437	kHanyuPinyin	32111.140:dān
+U+4437	kJapanese	タン
+U+4437	kMandarin	dān
+U+4438	kDefinition	(non-classical form of 膕) the back of the knee, crooked feet
+U+4438	kFanqie	呼麥
+U+4438	kHanyuPinyin	32114.050:huò,guó
+U+4438	kJapanese	カク
+U+4438	kMandarin	huò
+U+4439	kCantonese	sau1
+U+4439	kDefinition	preserved and dried meat, (a dialect) fried; cooked small pieces of meat, meat broth
+U+4439	kFanqie	所鳩 蘇弔
+U+4439	kHanyuPinyin	32119.050:sōu,sào,xiào
+U+4439	kJapanese	シュ ショウ シュウ
+U+4439	kMandarin	sōu
+U+443A	kDefinition	delicious; tasty food, (same as 醰) of a fine flavour
+U+443A	kFanqie	他紺
+U+443A	kHanyuPinyin	32111.010:tàn,tán
+U+443A	kJapanese	タン トン ドン
+U+443A	kMandarin	tàn
+U+443B	kCantonese	gu1
+U+443B	kDefinition	big pieces of dried meat
+U+443B	kFanqie	古胡
+U+443B	kHanyuPinyin	32110.120:gū
+U+443B	kJapanese	コ
+U+443B	kMandarin	gū
+U+443C	kCantonese	hai6
+U+443C	kDefinition	thin membrane of the throat; bullet
+U+443C	kFanqie	胡計 胡結
+U+443C	kHanyuPinyin	32112.020:xì
+U+443C	kJapanese	ケツ ゲチ ケイ ゲイ
+U+443C	kMandarin	xì
+U+443D	kCantonese	mun4
+U+443D	kHanyuPinyin	32106.080:mán
+U+443D	kJapanese	ボン
+U+443D	kMandarin	mán
+U+443E	kCantonese	dok6
+U+443E	kDefinition	fat; plump
+U+443E	kFanqie	徒落
+U+443E	kHanyuPinyin	32116.110:duó
+U+443E	kJapanese	タク ダク
+U+443E	kMandarin	duó
+U+443F	kCantonese	ou3
+U+443F	kDefinition	gizzard, to store up meat, the five lowest pieces of bone of the spinal column
+U+443F	kFanqie	烏晧 烏到 於六
+U+443F	kHanyuPinyin	32117.020:ào,ǎo
+U+443F	kJapanese	イク オウ
+U+443F	kMandarin	ào
+U+4440	kCantonese	pik1
+U+4440	kDefinition	the navel, the bowels; the entrails; the viscera, (same as 癖) chronic swelling of the spleen
+U+4440	kHanyuPinyin	32119.070:pì,pǐ
+U+4440	kJapanese	ヘキ ビャク
+U+4440	kMandarin	pì
+U+4441	kCantonese	uk1
+U+4441	kDefinition	fatty; greasy, ointment
+U+4441	kFanqie	烏谷 烏酷
+U+4441	kHanyuPinyin	32116.160:wù
+U+4441	kJapanese	オク アク
+U+4441	kMandarin	wù
+U+4442	kCantonese	jaai5
+U+4442	kDefinition	fat; plump
+U+4442	kFanqie	與改
+U+4442	kHanyuPinyin	32116.150:ǎi
+U+4442	kJapanese	アイ ヨ
+U+4442	kMandarin	ǎi
+U+4443	kCantonese	mung4
+U+4443	kDefinition	dim moon, dark; obscure, stupid; ignorant, to cheat; to hide the truth, to cover up; to hide, plump; fleshy
+U+4443	kJapanese	ボウ モ モウ
+U+4443	kMandarin	méng
+U+4443	kVietnamese	mông
+U+4444	kCantonese	bei6
+U+4444	kDefinition	rich; abundant; big and strong; vigorous, husky, (same as 瘜) (nasal) polypus
+U+4444	kFanqie	匹備 平祕 毗至
+U+4444	kHanyuPinyin	32120.150:pì,yì
+U+4444	kJapanese	ヒ ギ
+U+4444	kMandarin	pì
+U+4445	kDefinition	(non-classical form) dizzy and sleepy; slumberous
+U+4445	kJapanese	ロク
+U+4445	kMandarin	méng
+U+4446	kDefinition	feel like vomiting
+U+4446	kHanyuPinyin	32123.020:yǎng
+U+4446	kJapanese	ヨウ
+U+4446	kMandarin	yǎng
+U+4447	kCantonese	zat1
+U+4447	kDefinition	medicine for a sore; a boil (injure by a sword or a knife)
+U+4447	kFanqie	之日
+U+4447	kHanyuPinyin	32122.120:zhì
+U+4447	kJapanese	シツ シチ
+U+4447	kMandarin	zhì
+U+4448	kCantonese	bok1
+U+4448	kDefinition	meat to offer for worship
+U+4448	kFanqie	北角
+U+4448	kHanyuPinyin	32122.110:bó
+U+4448	kJapanese	ハク
+U+4448	kMandarin	bó
+U+4449	kDefinition	excrement, shit; night soil
+U+4449	kHanyuPinyin	32125.030:yíng
+U+4449	kJapanese	エイ ヨウ
+U+4449	kMandarin	yíng
+U+444A	kCantonese	wai4
+U+444A	kDefinition	fat; plump, physical disease; carnal
+U+444A	kHanyuPinyin	32124.060:wéi,wèi
+U+444A	kJapanese	イ
+U+444A	kMandarin	wéi
+U+444B	kDefinition	fat; obese
+U+444B	kFanqie	如兩
+U+444B	kHanyuPinyin	32126.080:rǎng
+U+444B	kJapanese	ジョウ ニョウ
+U+444B	kMandarin	rǎng
+U+444C	kCantonese	laan4
+U+444C	kDefinition	what is left over of the food (of birds and animals); (same as 爛) overripe; rotten, cooked soft; well cooked
+U+444C	kHanyuPinyin	32127.060:lán,làn
+U+444C	kJapanese	ラン
+U+444C	kMandarin	lán
+U+444D	kDefinition	(same as 咽) to swallow; the throat, (same as 癭) a reddish swelling on the neck, gnarl
+U+444D	kHanyuPinyin	32126.050:yān,yàn,yǐng
+U+444D	kJapanese	エイ ヨウ
+U+444D	kMandarin	yān
+U+444E	kCantonese	caam2
+U+444E	kDefinition	soup of pig's intestines, meat soup; meat broth
+U+444E	kFanqie	七廉 初減
+U+444E	kHanyuPinyin	32126.070:chǎn
+U+444E	kJapanese	セン サン
+U+444E	kMandarin	chǎn
+U+444F	kCantonese	kyun4
+U+444F	kDefinition	ugly, a legendary animal
+U+444F	kFanqie	巨員
+U+444F	kHanyuPinyin	32127.080:quán,huān
+U+444F	kJapanese	ケン ゲン カン
+U+444F	kMandarin	quán
+U+4450	kDefinition	bright; light, clear, (same as 瞇) to close the eyes; to narrow the eyes
+U+4450	kHangul	진:N
+U+4450	kJapanese	シン
+U+4450	kMandarin	zhěn
+U+4451	kCantonese	buk6
+U+4451	kDefinition	(ancient form of 僕) a servant, a modest term referring to oneself
+U+4451	kFanqie	蒲木 蒲沃
+U+4451	kJapanese	ボク しもべ
+U+4451	kMandarin	pú
+U+4452	kCantonese	dou3
+U+4452	kDefinition	a kind of farm tool used in ancient times
+U+4453	kCantonese	toi4
+U+4453	kDefinition	(same as 臺) a lookout, a tower, a terrace, a platform, a stage
+U+4453	kJapanese	ダイ うてな
+U+4453	kMandarin	tái
+U+4454	kCantonese	fai3
+U+4454	kDefinition	to pound (grain) in order to remove the husk
+U+4454	kFanqie	方廢 房越
+U+4454	kHanyuPinyin	53038.090:fèi
+U+4454	kJapanese	ハツ ボチ ハイ ヘ
+U+4454	kMandarin	fèi
+U+4455	kCantonese	syu2
+U+4455	kDefinition	(a non-classical abbreviated form of 鼠) a rat, a mouse, squirrels, moles, etc., Kangxi radical 208
+U+4455	kJapanese	ソ
+U+4455	kMandarin	shǔ
+U+4456	kCantonese	zit3
+U+4457	kCantonese	tong4
+U+4457	kDefinition	to pound (grain) in order to remove the husk
+U+4457	kFanqie	徒朗
+U+4457	kHanyuPinyin	53043.010:dàng
+U+4457	kJapanese	トウ ドウ
+U+4457	kMandarin	dàng
+U+4458	kCantonese	co4
+U+4458	kDefinition	to pound; to ram down, to polish; to grind barley or wheat
+U+4458	kFanqie	昨何
+U+4458	kHanyuPinyin	53043.120:cuó
+U+4458	kJapanese	サ ザ シ
+U+4458	kMandarin	cuó
+U+4459	kCantonese	daam1
+U+4459	kDefinition	put out the tongue; (same as 㐁) to lick; to taste
+U+4459	kHanyuPinyin	52942.050:tān,rán,tiàn
+U+4459	kJapanese	タン テン ゼン ネン
+U+4459	kMandarin	tān
+U+445A	kCantonese	tim4
+U+445A	kDefinition	(non-classical form of 甜) sweet; agreeable; pleasant
+U+445A	kJapanese	テン
+U+445A	kMandarin	tián
+U+445B	kCantonese	saai5
+U+445B	kDefinition	(standard form of 舐) to lick
+U+445B	kJapanese	シ ジ
+U+445B	kMandarin	chǐ
+U+445C	kCantonese	taap3
+U+445C	kDefinition	to eat heavily, cooked rice, a meal, to drink, to swallow, to lick, the uvula, the ligule
+U+445C	kFanqie	他協
+U+445C	kHanyuPinyin	52945.050:tà,tiè
+U+445C	kJapanese	トウ チョウ
+U+445C	kMandarin	tà
+U+445D	kCantonese	gaa2
+U+445D	kDefinition	(non-classical form of 斝) a small cup with ears, used in ancient times for libations
+U+445D	kJapanese	カ
+U+445D	kMandarin	jiǎ
+U+445E	kCantonese	seon3
+U+445E	kDefinition	(same as 舜) Shun, name of a legendary Chinese ruler, said to have ruled from 2255-2205 B.C., wise; good
+U+445E	kFanqie	舒閏
+U+445E	kJapanese	シュン
+U+445E	kMandarin	shùn
+U+445F	kCantonese	wong4
+U+445F	kDefinition	(same as 葟) luxuriant; exuberant; flourishing (said of grass and tress; vegetation; flora)
+U+445F	kJapanese	コウ
+U+445F	kMandarin	huáng
+U+4460	kCantonese	liu5
+U+4460	kDefinition	long and narrow boat, a small boat
+U+4460	kFanqie	盧鳥
+U+4460	kHanyuPinyin	53055.070:liǎo
+U+4460	kJapanese	リョウ
+U+4460	kMandarin	liǎo
+U+4461	kCantonese	caa1
+U+4461	kDefinition	(same as 艖) small boat (short and deep)
+U+4461	kFanqie	初加
+U+4461	kJapanese	サ シャ サイ セ
+U+4462	kDefinition	(non-classical form) (same as 舠) a knife shaped small boat
+U+4462	kFanqie	五忽
+U+4462	kJapanese	ゴツ ゴチ
+U+4463	kCantonese	cam1
+U+4463	kDefinition	a sailing boat
+U+4463	kFanqie	丑林
+U+4463	kHanyuPinyin	53056.070:chēn
+U+4463	kJapanese	チン
+U+4463	kMandarin	chēn
+U+4464	kCantonese	gam6
+U+4464	kDefinition	a boat; a ship; vessel
+U+4464	kHanyuPinyin	53057.050:jìn
+U+4464	kJapanese	キン ゴン
+U+4464	kMandarin	jìn
+U+4465	kCantonese	ngap6
+U+4465	kDefinition	a moving boat; a sailing boat, tools used on a boat, a speedy boat
+U+4465	kFanqie	五合
+U+4465	kHanyuPinyin	53056.080:è,sà
+U+4465	kJapanese	ゴウ
+U+4465	kMandarin	è
+U+4466	kDefinition	a boat; a ship; vessel
+U+4466	kFanqie	古侯
+U+4466	kHanyuPinyin	53060.020:gōu
+U+4466	kJapanese	コウ ク
+U+4466	kMandarin	gōu
+U+4467	kCantonese	fu1
+U+4467	kDefinition	a short, deep and small boat
+U+4467	kJapanese	フ
+U+4467	kMandarin	fú
+U+4468	kCantonese	to4
+U+4468	kDefinition	(same as 舵) rudder; helm
+U+4468	kJapanese	タ かじ
+U+4468	kMandarin	duò
+U+4469	kCantonese	gu2
+U+4469	kDefinition	a kind of inland rivers warship used in Qing Dynasty
+U+446A	kCantonese	ngap6
+U+446A	kDefinition	a sailing; moving boat
+U+446A	kHanyuPinyin	53061.080:è
+U+446A	kJapanese	ゴウ
+U+446A	kMandarin	è
+U+446B	kCantonese	bang1
+U+446B	kDefinition	tools for boat, name of a boat
+U+446B	kFanqie	北萌
+U+446B	kHanyuPinyin	53061.040:bēng
+U+446B	kJapanese	ホウ ヒョウ
+U+446B	kMandarin	bēng
+U+446C	kDefinition	boat, large boat, to dispel; to remove; to move, to stir up
+U+446C	kHanyuPinyin	53061.090:tāo,yào,tiāo
+U+446C	kJapanese	トウ ヨウ
+U+446C	kMandarin	tāo
+U+446D	kCantonese	dai3
+U+446D	kDefinition	war vessel; man-of-war; warship
+U+446D	kJapanese	テイ
+U+446D	kMandarin	dì
+U+446E	kCantonese	do2
+U+446F	kDefinition	a boat; a ship; vessel
+U+446F	kFanqie	徒禮
+U+446F	kHanyuPinyin	53062.070:dì
+U+446F	kJapanese	テイ ダイ
+U+446F	kMandarin	dì
+U+4470	kCantonese	bou6
+U+4470	kDefinition	small boat
+U+4470	kJapanese	ホ ブ
+U+4470	kMandarin	bù
+U+4471	kDefinition	a boat; a ship; vessel
+U+4471	kHanyuPinyin	53063.100:wǎn
+U+4471	kJapanese	エン オン
+U+4471	kMandarin	wǎn
+U+4472	kDefinition	(same as 棹 櫂) to row a boat, an oar, a scull, a boat
+U+4472	kHanyuPinyin	53062.170:zhào
+U+4472	kJapanese	トウ ジョウ
+U+4472	kMandarin	zhào
+U+4472	kXHC1983	1460.062:zhào
+U+4473	kCantonese	leon4
+U+4473	kDefinition	a horizontal bar in front of a boat, a boat
+U+4473	kFanqie	力迍
+U+4473	kHanyuPinyin	53063.020:lún
+U+4473	kJapanese	ロン リン ケン
+U+4473	kMandarin	lún
+U+4474	kCantonese	kei4
+U+4474	kDefinition	a boat; a ship; vessel
+U+4474	kFanqie	渠之
+U+4474	kHanyuPinyin	53062.140:qí
+U+4474	kJapanese	キ ギ
+U+4474	kMandarin	qí
+U+4475	kCantonese	muk6
+U+4475	kDefinition	(corrupted form of 艒) a small boat
+U+4475	kMandarin	mù
+U+4476	kDefinition	sprightly boat; light boat
+U+4476	kFanqie	倉甸
+U+4476	kHanyuPinyin	53062.130:qiàn
+U+4476	kJapanese	セン
+U+4476	kMandarin	qiàn
+U+4477	kCantonese	gin1
+U+4478	kCantonese	zung1
+U+4478	kDefinition	a group of boats, boat; warship
+U+4478	kHanyuPinyin	53063.080:zōng
+U+4478	kMandarin	zōng
+U+4479	kCantonese	sau1
+U+4479	kDefinition	(same as 艘) a numerary adjunct for ships, groove of a boat
+U+4479	kFanqie	蘇遭
+U+4479	kHanyuPinyin	53065.080:sōu,sāo
+U+4479	kJapanese	ソウ
+U+4479	kMandarin	sōu
+U+447A	kDefinition	(same as 帆) a sail (of a boat)
+U+447A	kJapanese	ハン
+U+447B	kDefinition	covering; curtain, or screen of a boat, to sail a boat
+U+447B	kHanyuPinyin	53065.030:yóu
+U+447B	kJapanese	ユウ ユ
+U+447B	kMandarin	yóu
+U+447C	kDefinition	ocean-going liner, steamer, a boat; a ship; vessel
+U+447C	kFanqie	側鳩
+U+447C	kHanyuPinyin	53066.050:zhōu
+U+447C	kJapanese	シュウ シュ ス
+U+447C	kMandarin	zhōu
+U+447D	kDefinition	a large boat
+U+447D	kHanyuPinyin	53065.180:tà
+U+447D	kJapanese	トウ
+U+447D	kMandarin	tà
+U+447D	kXHC1983	1107.150:tà
+U+447E	kCantonese	zek3
+U+447F	kCantonese	suk1
+U+447F	kDefinition	small boat
+U+447F	kFanqie	息逐
+U+447F	kHanyuPinyin	53067.070:sù
+U+447F	kJapanese	シュク
+U+447F	kMandarin	sù
+U+4480	kDefinition	short and deep boat
+U+4480	kFanqie	芳無 薄故
+U+4480	kHanyuPinyin	53066.200:bù
+U+4480	kJapanese	ホ ブ フ
+U+4480	kMandarin	bù
+U+4481	kCantonese	zaap6
+U+4481	kDefinition	a small boat connected to the back of a big boat; used to load the passengers, cargo or goods, warship, a kind of tools used to capsize
+U+4481	kFanqie	似入
+U+4481	kHanyuPinyin	53067.100:xí
+U+4481	kJapanese	シュウ ジュウ
+U+4481	kMandarin	xí
+U+4482	kCantonese	zoeng2
+U+4482	kDefinition	an oar
+U+4482	kJapanese	ショウ
+U+4482	kMandarin	jiǎng
+U+4483	kCantonese	zou6
+U+4483	kDefinition	(same as 造) to build; to make; to do, to arrive at; to go to
+U+4483	kJapanese	ゾウ
+U+4483	kMandarin	cào
+U+4484	kCantonese	fu3
+U+4484	kDefinition	fully laden of a boat, name of a ship
+U+4484	kHanyuPinyin	53067.080:fù
+U+4484	kJapanese	フウ フ
+U+4484	kMandarin	fù
+U+4485	kCantonese	tang4
+U+4485	kDefinition	beautiful eyes, (dialect) a pair; two
+U+4485	kHanyuPinyin	53067.010:téng
+U+4485	kJapanese	ヨウ トウ ドウ
+U+4485	kMandarin	téng
+U+4486	kCantonese	cit3
+U+4486	kDefinition	name of a ship, a sailing boat
+U+4486	kFanqie	丑列
+U+4486	kHanyuPinyin	53068.050:chè
+U+4486	kJapanese	テツ テチ セツ セチ
+U+4486	kMandarin	chè
+U+4487	kCantonese	fu3
+U+4487	kDefinition	name of a ship, fully load of a boat
+U+4487	kHanyuPinyin	53068.060:fù
+U+4487	kMandarin	fù
+U+4488	kCantonese	fei6
+U+4488	kDefinition	(same as 橨) side beam of a boat
+U+4488	kFanqie	浮鬼
+U+4488	kHanyuPinyin	53068.110:fèi
+U+4488	kJapanese	ヒ
+U+4488	kMandarin	fèi
+U+4489	kCantonese	mou5
+U+4489	kDefinition	a long, narrow boat
+U+4489	kFanqie	文甫
+U+4489	kHanyuPinyin	53069.090:wǔ
+U+4489	kJapanese	ブ ム
+U+4489	kMandarin	wǔ
+U+448A	kDefinition	a patient (of jaundice; icterus) facial complexion
+U+448A	kFanqie	呼雞
+U+448A	kHanyuPinyin	53071.040:xī
+U+448A	kJapanese	ケイ
+U+448A	kMandarin	xī
+U+448B	kCantonese	joeng2
+U+448B	kDefinition	air current; atmospheric current
+U+448B	kHanyuPinyin	53072.020:yǎng
+U+448B	kJapanese	ヨウ オウ
+U+448B	kMandarin	yǎng
+U+448C	kCantonese	ming6
+U+448C	kDefinition	dark blue color, without color, to close the eyes
+U+448C	kFanqie	莫定
+U+448C	kHanyuPinyin	53072.250:mìng
+U+448C	kJapanese	ベイ ミョウ メイ
+U+448C	kMandarin	mìng
+U+448D	kCantonese	pong2
+U+448D	kDefinition	without color, clear and lucid
+U+448D	kFanqie	匹朗
+U+448D	kHanyuPinyin	53072.230:pǎng
+U+448D	kJapanese	ホウ
+U+448D	kMandarin	pǎng
+U+448E	kCantonese	mong5
+U+448E	kDefinition	without color, clear and lucid
+U+448E	kFanqie	模朗
+U+448E	kHanyuPinyin	53072.260:mǎng
+U+448E	kJapanese	ボウ モウ
+U+448E	kMandarin	mǎng
+U+448F	kCantonese	zang2
+U+448F	kDefinition	disturbed in mind, not in good health, a fierce or ferocious appearance
+U+448F	kFanqie	蘇增
+U+448F	kHanyuPinyin	53073.010:sēng
+U+448F	kJapanese	ソウ
+U+448F	kMandarin	sēng
+U+4490	kDefinition	disturbed in mind, not in good health, a fierce or ferocious appearance, a bad look
+U+4490	kFanqie	武登
+U+4490	kHanyuPinyin	53073.060:méng,mèng
+U+4490	kJapanese	ボウ モウ
+U+4490	kMandarin	méng
+U+4491	kDefinition	(non-classical form of 艸) grass; straw; herbs; weeds
+U+4491	kJapanese	ソウ
+U+4491	kMandarin	cǎo
+U+4492	kCantonese	tiu4
+U+4492	kDefinition	(same as 芀) name of a plant (much used for making brooms); a reed
+U+4492	kFanqie	都聊
+U+4492	kJapanese	チョウ
+U+4492	kMandarin	tiáo
+U+4493	kCantonese	kaai2
+U+4493	kDefinition	to do violence, perverse; rebellious, calamities; tribulations; miseries; crime; sin
+U+4493	kFanqie	苦蟹
+U+4493	kHanyuPinyin	53172.070:kǎi
+U+4493	kJapanese	カイ ケ
+U+4493	kMandarin	kǎi
+U+4494	kCantonese	baai3
+U+4494	kDefinition	name of a variety of grass
+U+4494	kHanyuPinyin	53173.010:bài
+U+4494	kJapanese	ハイ
+U+4494	kMandarin	bài
+U+4495	kCantonese	siu2
+U+4495	kDefinition	a kind of herb medicine, luxuriant; flourishing of grass and trees
+U+4495	kFanqie	私兆
+U+4495	kHanyuPinyin	53175.020:xiǎo
+U+4495	kJapanese	ショウ
+U+4495	kMandarin	xiǎo
+U+4496	kCantonese	seon3
+U+4496	kDefinition	a kind of herb medicine (plants of the mugwort or artemisia family)
+U+4496	kHanyuPinyin	53176.060:xìn
+U+4496	kJapanese	シン
+U+4496	kMandarin	xìn
+U+4497	kDefinition	(same as 芞) fragrant herb, vanilla
+U+4497	kFanqie	許迄 去迄
+U+4497	kJapanese	キツ
+U+4497	kMandarin	qì
+U+4498	kCantonese	seoi1
+U+4498	kDefinition	(same as 荾) parsley, (same as 葰) ginger, pistil
+U+4498	kFanqie	息遺
+U+4498	kJapanese	スイ
+U+4499	kCantonese	cong4
+U+449A	kCantonese	siu2
+U+449A	kDefinition	name of a variety of grass
+U+449A	kFanqie	書沼
+U+449A	kHanyuPinyin	53180.050:shǎo
+U+449A	kJapanese	ショウ
+U+449A	kMandarin	shǎo
+U+449B	kCantonese	waan6
+U+449B	kDefinition	name of a variety of grass
+U+449B	kHanyuPinyin	53185.110:huàn
+U+449B	kJapanese	カン ゲン
+U+449B	kMandarin	huàn
+U+449C	kDefinition	name of a variety of grass, a kind of herb
+U+449C	kHanyuPinyin	53181.010:niú
+U+449C	kJapanese	ギュウ ゴ
+U+449C	kMandarin	niú
+U+449C	kVietnamese	ngâu
+U+449D	kCantonese	haau4
+U+449D	kDefinition	root of the thatch, straw or couch grass; a herb medicine to quench thirst
+U+449D	kJapanese	コウ
+U+449D	kMandarin	xiáo
+U+449E	kCantonese	cam4
+U+449E	kDefinition	name of a variety of grass, hot
+U+449E	kFanqie	直深 餘針 都敢
+U+449E	kHanyuPinyin	53184.090:chén,yín
+U+449E	kJapanese	タン トン チン ジン イン
+U+449E	kMandarin	chén
+U+449F	kCantonese	daan1
+U+449F	kDefinition	name of a variety of grass
+U+449F	kHanyuPinyin	53183.100:dān
+U+449F	kJapanese	タン
+U+449F	kMandarin	dān
+U+44A0	kCantonese	fung1
+U+44A0	kDefinition	(same as 丰) luxuriant; exuberant of the grass and trees, young shoots of the rape-turnip--Brassica rapa
+U+44A0	kHanyuPinyin	53177.080:fēng,xiá
+U+44A0	kJapanese	ホウ フ カツ ゲチ
+U+44A0	kMandarin	fēng
+U+44A1	kDefinition	name of a variety of grass
+U+44A1	kHanyuPinyin	53185.040:yǐn
+U+44A1	kJapanese	イン
+U+44A1	kMandarin	yǐn
+U+44A2	kCantonese	ngong4
+U+44A2	kDefinition	sweet flag; the calamus; its leaves are hung on the door lintels on the 5th of the 5th lunar month, to avert evil influences
+U+44A2	kFanqie	五岡 魚兩
+U+44A2	kHanyuPinyin	53183.110:áng
+U+44A2	kJapanese	ゴウ ギョウ
+U+44A2	kMandarin	áng
+U+44A3	kDefinition	(same as 苒) (of flowers and grass) lush or delicate
+U+44A3	kJapanese	ゼン
+U+44A3	kMandarin	rǎn
+U+44A3	kXHC1983	0955.021:rǎn
+U+44A4	kDefinition	name of a variety of grass
+U+44A4	kHanyuPinyin	53180.060:rì
+U+44A4	kJapanese	ジツ ニチ
+U+44A4	kMandarin	rì
+U+44A5	kCantonese	mun4
+U+44A5	kDefinition	corresponding; equivalent, considerable; to a great extent, appropriate
+U+44A5	kHanyuPinyin	53178.070:mán
+U+44A5	kJapanese	バン マン
+U+44A5	kMandarin	mán
+U+44A6	kCantonese	faan3
+U+44A6	kDefinition	grass floats on water
+U+44A6	kFanqie	匹凡 孚梵
+U+44A6	kHanyuPinyin	53183.030:fàn
+U+44A6	kJapanese	ハン ホン
+U+44A6	kMandarin	fàn
+U+44A7	kDefinition	a vessel or utensil made of straw, grass or weeds, a kind of grass
+U+44A7	kFanqie	去魚 丘倨
+U+44A7	kHanyuPinyin	53185.160:qū,qù
+U+44A7	kJapanese	キョ コ
+U+44A7	kMandarin	qū
+U+44A8	kDefinition	a kind of vegetable, plants of the mugwort or artemisia family
+U+44A8	kFanqie	徐姊
+U+44A8	kHanyuPinyin	53193.050:shǐ,sì
+U+44A8	kJapanese	シ ジ
+U+44A8	kMandarin	shǐ
+U+44A9	kCantonese	wo4
+U+44A9	kDefinition	name of a variety of grass, (same as 莫) not
+U+44A9	kFanqie	戶戈
+U+44A9	kHanyuPinyin	53193.070:hé
+U+44A9	kJapanese	カ
+U+44A9	kMandarin	hé
+U+44AA	kCantonese	bin6
+U+44AA	kDefinition	name of a variety of grass
+U+44AA	kFanqie	皮變
+U+44AA	kHanyuPinyin	53198.060:biàn
+U+44AA	kJapanese	ヘン ベン キュウ
+U+44AA	kMandarin	biàn
+U+44AB	kCantonese	doi6
+U+44AB	kDefinition	grassy
+U+44AB	kHanyuPinyin	53193.130:dài
+U+44AB	kJapanese	タイ ダイ
+U+44AB	kMandarin	dài
+U+44AC	kCantonese	mok6
+U+44AC	kDefinition	(ancient form of 莫) not, (standard form of 暮) sunset; dusk
+U+44AC	kJapanese	バク
+U+44AC	kMandarin	mò
+U+44AD	kCantonese	dang2
+U+44AD	kDefinition	(same as 等) rank; grade, same; equal, to wait, and so on; etc.
+U+44AD	kJapanese	トウ
+U+44AD	kMandarin	děng
+U+44AE	kCantonese	gong1
+U+44AF	kCantonese	jyun4
+U+44B0	kDefinition	to follow; to trace, to submit; to accord with, to accompany, a kind of grass
+U+44B0	kFanqie	去王
+U+44B0	kHanyuPinyin	53199.040:kuāng
+U+44B0	kJapanese	キョウ コウ
+U+44B0	kMandarin	kuāng
+U+44B1	kCantonese	zing1
+U+44B1	kDefinition	(same as 蒸) twigs of hemp used for fuel; to rise, as steam, steam
+U+44B1	kFanqie	煑仍
+U+44B1	kJapanese	ジョウ むす あつい すすむ
+U+44B2	kCantonese	zaa3
+U+44B2	kDefinition	another name for 黃岑 (Scutellaria baicalensis)
+U+44B2	kFanqie	陟駕
+U+44B2	kHanyuPinyin	53212.010:chà
+U+44B2	kJapanese	タ
+U+44B2	kMandarin	chà
+U+44B3	kDefinition	(same as 朵) a flower; a cluster of flowers; a bud, lobe of the ear
+U+44B3	kJapanese	タ
+U+44B3	kMandarin	duǒ
+U+44B4	kDefinition	name of a variety of grass
+U+44B4	kFanqie	云久
+U+44B4	kHanyuPinyin	53201.030:yǒu
+U+44B4	kJapanese	ウ ユウ
+U+44B4	kMandarin	yǒu
+U+44B5	kDefinition	name of a variety of grass
+U+44B5	kHanyuPinyin	53212.020:hào
+U+44B5	kJapanese	コウ
+U+44B5	kMandarin	hào
+U+44B6	kCantonese	tin1
+U+44B6	kDefinition	(ancient form of 天) the sky; the heaven, Nature; God, day
+U+44B6	kFanqie	他前
+U+44B6	kJapanese	テン
+U+44B7	kCantonese	gwaa1
+U+44B7	kDefinition	a kind of plant, a kind of herb; Chinese trichosanthes (Trichosanthes kirilowii); bryonia
+U+44B7	kFanqie	古活
+U+44B7	kHanyuPinyin	53205.050:guā
+U+44B7	kJapanese	カツ カチ セツ ゼチ
+U+44B7	kMandarin	guā
+U+44B7	kXHC1983	0402.100:guā
+U+44B8	kCantonese	hyut3
+U+44B8	kDefinition	grass
+U+44B8	kFanqie	呼決
+U+44B8	kHanyuPinyin	53206.080:xuè
+U+44B8	kJapanese	ケツ ケチ ケキ キャク
+U+44B8	kMandarin	xuè
+U+44B9	kCantonese	loi6
+U+44B9	kDefinition	grassy, fruitful
+U+44B9	kFanqie	盧對
+U+44B9	kHanyuPinyin	53205.010:lèi
+U+44B9	kJapanese	リ ライ ルイ レ あかざ
+U+44B9	kMandarin	lèi
+U+44BA	kCantonese	gan2
+U+44BA	kDefinition	(ancient form of 堇) clay
+U+44BA	kJapanese	キン
+U+44BA	kMandarin	jǐn
+U+44BB	kCantonese	hei2
+U+44BB	kDefinition	a medical herb; acrid taste; poisonless; harmless
+U+44BB	kHanyuPinyin	53204.070:qǐ
+U+44BB	kJapanese	キ
+U+44BB	kMandarin	qǐ
+U+44BC	kCantonese	kuk1
+U+44BC	kDefinition	(same as 曲) a bamboo tray for raising silkworms
+U+44BC	kFanqie	丘玉
+U+44BC	kHanyuPinyin	53204.010:qū
+U+44BC	kJapanese	キョク コク
+U+44BC	kMandarin	qū
+U+44BD	kCantonese	mong5
+U+44BD	kDefinition	Illicium anisatum, and kind of poisonous shrub
+U+44BD	kHanyuPinyin	53204.090:wǎng
+U+44BD	kJapanese	ボウ モウ
+U+44BD	kMandarin	wǎng
+U+44BE	kHanyuPinyin	53209.010:yī
+U+44BE	kJapanese	イ
+U+44BE	kMandarin	yī
+U+44BF	kCantonese	liu4
+U+44BF	kMandarin	liáo
+U+44BF	kXHC1983	0710.090:liáo
+U+44C0	kCantonese	gat1
+U+44C1	kCantonese	dang2
+U+44C1	kJapanese	タイ トウ しな ともがら など まつ ら ひとしい
+U+44C2	kDefinition	name of a variety of grass, last name
+U+44C2	kFanqie	語軒
+U+44C2	kHanyuPinyin	53223.150:yán
+U+44C2	kJapanese	ゲン ゴン
+U+44C2	kMandarin	yán
+U+44C3	kDefinition	melancholy and sad, withered (said of grass and trees)
+U+44C3	kFanqie	於汲
+U+44C3	kHanyuPinyin	53219.080:yì
+U+44C3	kJapanese	ユウ オウ
+U+44C3	kMandarin	yì
+U+44C4	kCantonese	ngan4
+U+44C4	kDefinition	grassy, name of a variety of grass
+U+44C4	kFanqie	語巾 語斤
+U+44C4	kHanyuPinyin	53223.110:yín
+U+44C4	kJapanese	ギン ゴン ギ
+U+44C4	kMandarin	yín
+U+44C5	kCantonese	kan4
+U+44C5	kDefinition	(same as 芹) celery; a kind of water plant
+U+44C5	kHanyuPinyin	53224.110:qí
+U+44C5	kJapanese	キ ギ
+U+44C5	kMandarin	qí
+U+44C6	kCantonese	zit3
+U+44C6	kDefinition	to cut the; to sever grass
+U+44C6	kHanyuPinyin	53214.080:zhé
+U+44C6	kJapanese	セツ セチ
+U+44C6	kMandarin	zhé
+U+44C7	kDefinition	luxuriant; lush of grass and trees, (same as 赫) bright; glowing, brilliant; glorious, (same as 嚇) angry, fear; dread; fright; scare
+U+44C7	kHanyuPinyin	53214.070:xì,hè,kè
+U+44C7	kJapanese	ケキ キャク カク
+U+44C7	kMandarin	xì
+U+44C8	kDefinition	a kind of plant; chicken-head; Euryale ferox
+U+44C8	kFanqie	羊捶 營隻
+U+44C8	kHanyuPinyin	53221.100:yì
+U+44C8	kJapanese	イ エキ ヤク
+U+44C8	kMandarin	yì
+U+44C9	kDefinition	name of a variety of grass, a kind of vegetable, (same as 椰) coconut; coconut palm; coconut tree
+U+44C9	kFanqie	以遮
+U+44C9	kHanyuPinyin	53202.080:yé,yē
+U+44C9	kJapanese	ヤ シャ ジャ
+U+44C9	kMandarin	yé
+U+44CA	kCantonese	ng4
+U+44CA	kDefinition	name of a variety of grass, (as moxa) (Perilla ocimoides)
+U+44CA	kFanqie	五乎
+U+44CA	kHanyuPinyin	53215.100:wú,yú
+U+44CA	kJapanese	ゴ ギョ
+U+44CA	kMandarin	wú
+U+44CB	kCantonese	zi1
+U+44CB	kDefinition	elm-seeds -- used as food
+U+44CB	kHanyuPinyin	53225.010:zhī
+U+44CB	kJapanese	シ
+U+44CB	kMandarin	zhī
+U+44CC	kCantonese	zi3
+U+44CC	kDefinition	polygala (a medical herb)
+U+44CC	kFanqie	職吏
+U+44CC	kHanyuPinyin	53214.130:zhì
+U+44CC	kJapanese	シ
+U+44CC	kMandarin	zhì
+U+44CD	kCantonese	hon2
+U+44CD	kDefinition	cruciferous flowers; with acrid seeds; used as medicine
+U+44CD	kFanqie	胡笴
+U+44CD	kJapanese	カン ガン
+U+44CD	kMandarin	hǎn
+U+44CE	kCantonese	cuk1
+U+44CE	kDefinition	name of a variety of grass
+U+44CE	kHanyuPinyin	53224.030:chuò
+U+44CE	kJapanese	サク
+U+44CE	kMandarin	chuò
+U+44CF	kCantonese	fu1
+U+44CF	kDefinition	flourishing; luxuriant; a lush growth of flowers
+U+44CF	kFanqie	芳無
+U+44CF	kHanyuPinyin	53216.040:fū
+U+44CF	kJapanese	フ
+U+44CF	kMandarin	fū
+U+44D0	kCantonese	seon4
+U+44D0	kDefinition	name of a variety of grass
+U+44D0	kHanyuPinyin	53216.100:chún
+U+44D0	kJapanese	シュン ジュン
+U+44D0	kMandarin	chún
+U+44D1	kCantonese	ping4
+U+44D1	kDefinition	(same as 荓) name of a variety of grass (same as 萍) duckweeds
+U+44D1	kHanyuPinyin	53224.050:píng
+U+44D1	kJapanese	ヘイ
+U+44D1	kMandarin	píng
+U+44D2	kCantonese	gwaai2
+U+44D2	kDefinition	(same as 蒯) Scirpus cyperinus var, concolor, a rush, from which many things are woven
+U+44D2	kJapanese	カイ
+U+44D2	kMandarin	kuǎi
+U+44D3	kCantonese	cau4
+U+44D3	kDefinition	(simplified form of 薵) name of a variety of grass, (same as 葤) use grass to wrap things, to cover; to put a cover over something
+U+44D3	kJapanese	ゼン
+U+44D3	kMandarin	chóu
+U+44D4	kCantonese	haau3
+U+44D4	kJapanese	こも
+U+44D5	kCantonese	jyun5
+U+44D5	kDefinition	polygala (a medical herb)
+U+44D5	kMandarin	tuǒ
+U+44D6	kCantonese	kung4
+U+44D6	kDefinition	Cnidium officinale, a kind of medicinal herb
+U+44D6	kMandarin	qióng
+U+44D6	kTGHZ2013	305.060:qióng
+U+44D6	kXHC1983	0938.010:qióng
+U+44D7	kCantonese	cung1
+U+44D7	kDefinition	(same as 葱 蔥) scallions; leeks; onions
+U+44D7	kHanyuPinyin	53237.020:cōng
+U+44D7	kJapanese	ソウ
+U+44D7	kMandarin	cōng
+U+44D8	kDefinition	a kind of plant, name of a variety of grass
+U+44D8	kFanqie	古勞
+U+44D8	kHanyuPinyin	53237.150:gāo,jiù
+U+44D8	kJapanese	コウ キュウ グ
+U+44D8	kMandarin	gāo
+U+44D9	kDefinition	slanting; inclined; sloping
+U+44D9	kFanqie	苦緺
+U+44D9	kHanyuPinyin	53234.190:kuā,guāi
+U+44D9	kJapanese	カイ ケ
+U+44D9	kMandarin	kuā
+U+44DA	kDefinition	a kind of vegetable, a water-plant; the bulbs of which art used as food -- Sagittaria sagittifolia
+U+44DA	kHanyuPinyin	53236.040:qū,cú
+U+44DA	kJapanese	ショ ジョ ソ
+U+44DA	kMandarin	qū
+U+44DB	kDefinition	molecular formula (C18H12), to brush
+U+44DB	kFanqie	古忽
+U+44DB	kHanyuPinyin	53241.130:qū
+U+44DB	kJapanese	コツ クチ クツ
+U+44DB	kMandarin	qū
+U+44DB	kTGHZ2013	307.150:qū
+U+44DC	kCantonese	zi1
+U+44DC	kDefinition	salted or pickled vegetables
+U+44DC	kFanqie	旨夷
+U+44DC	kHanyuPinyin	53240.020:zhī
+U+44DC	kJapanese	シ ジ チ
+U+44DC	kMandarin	zhī
+U+44DD	kDefinition	Chinese pennisetum (Pennisetum alopecuroides)
+U+44DD	kHanyuPinyin	53242.010:mèng
+U+44DD	kJapanese	ボウ ミョウ モウ
+U+44DD	kMandarin	mèng
+U+44DE	kCantonese	leoi6
+U+44DE	kDefinition	a kind of plant used as dyestuff, material for making paper and coir raincoats, edible, Chinese pennisetum (Pennisetum alopecuroides)
+U+44DE	kFanqie	郎計
+U+44DE	kHanyuPinyin	53241.010:lì
+U+44DE	kJapanese	レイ ライ レツ レチ
+U+44DE	kMandarin	lì
+U+44DF	kCantonese	zau1
+U+44DF	kDefinition	name of a variety of grass, (same as 茢) a broom
+U+44DF	kHanyuPinyin	53237.070:zhōu,liè
+U+44DF	kJapanese	シュウ シュ レツ レチ
+U+44DF	kMandarin	zhōu
+U+44E0	kDefinition	the water plantain, the lotus floating on the water
+U+44E0	kFanqie	他合 都榼
+U+44E0	kHanyuPinyin	53234.110:tà
+U+44E0	kJapanese	トウ
+U+44E0	kMandarin	tà
+U+44E1	kCantonese	zi1
+U+44E1	kDefinition	a medical herb (知母)
+U+44E1	kHanyuPinyin	53234.170:zhī
+U+44E1	kJapanese	チ
+U+44E1	kMandarin	zhī
+U+44E2	kCantonese	gu3
+U+44E2	kDefinition	name of a variety of grass
+U+44E2	kHanyuPinyin	53234.030:gù
+U+44E2	kJapanese	コ ク
+U+44E2	kMandarin	gù
+U+44E3	kCantonese	loeng5
+U+44E3	kDefinition	name of a variety of grass
+U+44E3	kFanqie	良㢡
+U+44E3	kHanyuPinyin	53231.070:liǎng
+U+44E3	kJapanese	リョウ
+U+44E3	kMandarin	liǎng
+U+44E4	kCantonese	fat1
+U+44E4	kDefinition	vegetation
+U+44E4	kHanyuPinyin	53237.140:hū
+U+44E4	kJapanese	コツ コチ
+U+44E4	kMandarin	hū
+U+44E5	kCantonese	laat6
+U+44E5	kDefinition	sound of the wriggled insects on the grass
+U+44E5	kHanyuPinyin	10198.100:là
+U+44E5	kJapanese	ラツ ラチ
+U+44E5	kMandarin	là
+U+44E6	kCantonese	din2
+U+44E6	kDefinition	(same as 典) a rule; a law, a tale or story, pawn; to mortgage, to take charge of
+U+44E6	kJapanese	テン のり
+U+44E6	kMandarin	diǎn
+U+44E7	kCantonese	gik1
+U+44E7	kDefinition	(same as 亟) urgent; pressing
+U+44E7	kJapanese	キョク
+U+44E7	kMandarin	cì
+U+44E8	kCantonese	aang1
+U+44E8	kDefinition	(simplified form of 罃) long-necked bottle; an earthenware jar with a small mouth and two or four ears
+U+44E8	kMandarin	yīng
+U+44E8	kTGHZ2013	439.010:yīng
+U+44E8	kXHC1983	1385.030:yīng
+U+44E9	kCantonese	zi1
+U+44EA	kJapanese	さきくさ
+U+44EB	kCantonese	kei4
+U+44EB	kDefinition	name of a mountain in Taiwan
+U+44EB	kHanyuPinyin	53231.120:qí
+U+44EB	kMandarin	qí
+U+44EB	kSMSZD2003Readings	qí粵kei4
+U+44EB	kTGHZ2013	291.180:qí
+U+44EC	kCantonese	coek3
+U+44EC	kMandarin	zhuó
+U+44EC	kTGHZ2013	490.050:zhuó
+U+44ED	kDefinition	weed or grass with narrow thick glades (as bamboo); water-pepper group
+U+44ED	kFanqie	初鎋
+U+44ED	kHanyuPinyin	53236.080:chà
+U+44ED	kJapanese	サツ セチ
+U+44ED	kMandarin	chà
+U+44EE	kCantonese	mau6
+U+44EE	kDefinition	lush growth; dense growth of silky grass; fine grass
+U+44EE	kFanqie	武道 莫候
+U+44EE	kHanyuPinyin	53259.030:mào
+U+44EE	kJapanese	ボウ モ モウ
+U+44EE	kMandarin	mào
+U+44EF	kCantonese	duk6
+U+44EF	kDefinition	water-pepper
+U+44EF	kJapanese	トク
+U+44EF	kMandarin	dú
+U+44F0	kDefinition	absinthin, Artemisia capillaris, a kind of medicinal herb
+U+44F0	kHanyuPinyin	53245.050:yīn
+U+44F0	kJapanese	イン
+U+44F0	kMandarin	yīn
+U+44F1	kCantonese	caai4
+U+44F1	kDefinition	a kind of herb medicine; Bupleurum
+U+44F1	kHanyuPinyin	53263.050:chái,zuī
+U+44F1	kJapanese	サイ シ
+U+44F1	kMandarin	chái
+U+44F2	kDefinition	fine; silky; new growth of grass
+U+44F2	kFanqie	以芮 弋雪
+U+44F2	kHanyuPinyin	53251.010:ruì
+U+44F2	kJapanese	エイ エツ エチ
+U+44F2	kMandarin	ruì
+U+44F3	kDefinition	name of a variety of grass
+U+44F3	kFanqie	戶皆
+U+44F3	kHanyuPinyin	53252.050:hěn,xié
+U+44F3	kJapanese	コン カイ ガイ
+U+44F3	kMandarin	hěn
+U+44F4	kDefinition	edible fungus from trees
+U+44F4	kFanqie	而兖
+U+44F4	kHanyuPinyin	53245.110:ruǎn
+U+44F4	kJapanese	ゼン ネン
+U+44F4	kMandarin	ruǎn
+U+44F5	kCantonese	fu1
+U+44F5	kDefinition	to blossom; to flower
+U+44F5	kFanqie	芳無
+U+44F5	kHanyuPinyin	53249.050:fū
+U+44F5	kJapanese	フ
+U+44F5	kMandarin	fū
+U+44F6	kCantonese	laai6
+U+44F6	kDefinition	(same as 藾) a kind of plant; a kind of herb
+U+44F6	kFanqie	落蓋 盧達
+U+44F6	kJapanese	ラツ ラチ ライ
+U+44F6	kMandarin	lài
+U+44F7	kCantonese	hang6
+U+44F7	kDefinition	(same as 莕 荇) Nymphoides peltalum; a kind of water plant, name of a variety of grass
+U+44F7	kJapanese	コウ
+U+44F7	kMandarin	xìng
+U+44F8	kDefinition	weed
+U+44F8	kHanyuPinyin	53258.090:jiān
+U+44F8	kJapanese	カン
+U+44F8	kMandarin	jiān
+U+44F9	kDefinition	(same as 饐) to stuff full and to gulp down, cooked food which has become mouldy, sour
+U+44F9	kJapanese	イ
+U+44F9	kMandarin	yì
+U+44FA	kCantonese	mei5
+U+44FA	kDefinition	name of a variety of grass
+U+44FA	kHanyuPinyin	53254.110:měi
+U+44FA	kJapanese	ビ
+U+44FA	kMandarin	měi
+U+44FB	kCantonese	kau3
+U+44FC	kCantonese	mong4
+U+44FC	kDefinition	name of a variety of grass, grunting of hogs
+U+44FC	kHanyuPinyin	53273.070:máng,hè
+U+44FC	kJapanese	ボウ モウ カク ガク
+U+44FC	kMandarin	máng
+U+44FD	kCantonese	gei3
+U+44FD	kDefinition	name of a variety of grass
+U+44FD	kHanyuPinyin	53267.130:jì
+U+44FD	kJapanese	キ
+U+44FD	kMandarin	jì
+U+44FE	kCantonese	so1
+U+44FE	kDefinition	lush; luxuriant of grass and trees
+U+44FE	kFanqie	素何
+U+44FE	kHanyuPinyin	53270.030:suō
+U+44FE	kJapanese	サ
+U+44FE	kMandarin	suō
+U+44FF	kCantonese	ham6
+U+44FF	kDefinition	a lotus flower
+U+44FF	kHanyuPinyin	53274.050:hàn
+U+44FF	kJapanese	カン
+U+44FF	kMandarin	hàn
+U+4500	kCantonese	seoi1
+U+4500	kDefinition	(same as 荽 葰) parsley
+U+4500	kJapanese	ズイ ニ
+U+4501	kCantonese	leot6
+U+4501	kDefinition	name of a variety of grass
+U+4501	kFanqie	力質
+U+4501	kHanyuPinyin	53262.040:lì
+U+4501	kJapanese	リツ リチ
+U+4501	kMandarin	lì
+U+4502	kDefinition	vegetable soup, a kind of vegetable
+U+4502	kFanqie	阻史
+U+4502	kHanyuPinyin	53271.030:zǐ,zǎi
+U+4502	kJapanese	シ サイ
+U+4502	kMandarin	zǐ
+U+4503	kCantonese	zou2
+U+4503	kDefinition	cordate houttuynia (Houttuynia cordata)
+U+4503	kFanqie	則古
+U+4503	kHanyuPinyin	53260.010:zǔ
+U+4503	kJapanese	ソ
+U+4503	kMandarin	zǔ
+U+4504	kDefinition	name of a variety of grass; rushes, dodder
+U+4504	kFanqie	餘昭 弋照
+U+4504	kHanyuPinyin	53267.100:yáo,yào
+U+4504	kJapanese	ヨウ
+U+4504	kMandarin	yáo
+U+4505	kCantonese	go1
+U+4505	kDefinition	name of a variety of trees, name of a variety of grass, fruit of the tree
+U+4505	kHanyuPinyin	53262.020:gē
+U+4505	kJapanese	カ
+U+4505	kMandarin	gē
+U+4506	kCantonese	lei4
+U+4506	kDefinition	a kind of bean; edible
+U+4506	kHanyuPinyin	53267.060:lí
+U+4506	kJapanese	リ
+U+4506	kMandarin	lí
+U+4507	kCantonese	hei2
+U+4507	kDefinition	a kind of plant, the root is used for food
+U+4507	kFanqie	袪狶 胡對
+U+4507	kHanyuPinyin	53264.020:qǐ,ái
+U+4507	kJapanese	キ カイ エ ガイ
+U+4507	kMandarin	qǐ
+U+4508	kCantonese	gung3
+U+4508	kDefinition	lush growth of grass, trees and fruits
+U+4508	kHanyuPinyin	53260.050:gòng
+U+4508	kJapanese	コウ ク
+U+4508	kMandarin	gòng
+U+4509	kDefinition	scattered or dispersed of grass and trees, (non-classical form of 蒜) the garlic (belongs to meat and fish diet)
+U+4509	kHanyuPinyin	53264.120:lì,suàn
+U+4509	kJapanese	レキ リャク
+U+4509	kMandarin	lì
+U+450A	kCantonese	bang1
+U+450A	kDefinition	dense growth of grass
+U+450A	kHanyuPinyin	53259.110:bīng
+U+450A	kJapanese	ホウ ヒョウ
+U+450A	kMandarin	bīng
+U+450B	kCantonese	so1
+U+450B	kDefinition	a kind of tree; very tall and its leaves like bird's wings; edible
+U+450B	kHanyuPinyin	53274.090:suō
+U+450B	kMandarin	suō
+U+450C	kCantonese	gou1
+U+450C	kDefinition	name of a variety of grass, (Pueraria thunbergiana); the white birch
+U+450C	kFanqie	古勞
+U+450C	kJapanese	コウ
+U+450D	kCantonese	duk1
+U+450D	kJapanese	バ たつ つた
+U+450E	kDefinition	name of a variety of grass
+U+450E	kHanyuPinyin	53276.080:sù
+U+450E	kJapanese	ソク
+U+450E	kMandarin	sù
+U+450F	kDefinition	a lush; dense growth of weeds, mixed; mingled roots of the grass, (same as 簉) deputy; a deputy; an attendant, an escorting vehicle
+U+450F	kFanqie	初救
+U+450F	kHanyuPinyin	53280.070:chòu
+U+450F	kJapanese	シュウ シュ
+U+450F	kMandarin	chòu
+U+4510	kCantonese	zin1
+U+4510	kDefinition	delicate, colorful and beautiful small piece of paper
+U+4510	kHanyuPinyin	53284.080:jiān
+U+4510	kJapanese	セン
+U+4510	kMandarin	jiān
+U+4511	kCantonese	ce4
+U+4511	kDefinition	a white colored cluster grown at the tip of cogongrass, a kind of plants of the mugwort or artemisia family, an ear of grain
+U+4511	kFanqie	以遮 似嗟
+U+4511	kHanyuPinyin	53281.090:xié,yé,tú
+U+4511	kJapanese	シャ ジャ ヤ ト ズ
+U+4511	kMandarin	xié
+U+4512	kCantonese	pui5
+U+4512	kDefinition	name of a variety of grass
+U+4512	kHangul	배:N
+U+4512	kHanyuPinyin	53273.030:bèi
+U+4512	kJapanese	ハイ ベ
+U+4512	kMandarin	bèi
+U+4513	kCantonese	heoi2
+U+4513	kDefinition	herb medicine; teasel root
+U+4513	kHanyuPinyin	53282.110:xǔ
+U+4513	kJapanese	キョ コ
+U+4513	kMandarin	xǔ
+U+4514	kDefinition	name of a variety of grass
+U+4514	kHanyuPinyin	53283.130:jìng
+U+4514	kJapanese	ケイ キョウ
+U+4514	kMandarin	jìng
+U+4515	kCantonese	pou4
+U+4515	kDefinition	chicken breast
+U+4515	kFanqie	薄胡
+U+4515	kHanyuPinyin	53281.140:pú
+U+4515	kJapanese	ホ ブ
+U+4515	kMandarin	pú
+U+4516	kCantonese	ling4
+U+4516	kDefinition	(same as 菱 蔆) water caltrop
+U+4516	kFanqie	力膺
+U+4516	kJapanese	リョウ ひし
+U+4516	kMandarin	líng
+U+4517	kCantonese	coeng4
+U+4517	kDefinition	a kind of vegetable
+U+4517	kHanyuPinyin	53274.160:xiáng
+U+4517	kJapanese	ショウ ゾウ
+U+4517	kMandarin	xiáng
+U+4518	kCantonese	zou6
+U+4518	kDefinition	fish paste; fish cooked in soy sauce
+U+4518	kJapanese	ソ ゾ
+U+4518	kMandarin	zuò
+U+4519	kCantonese	diu3
+U+4519	kDefinition	name of a variety of grass
+U+4519	kHanyuPinyin	53281.080:diào
+U+4519	kJapanese	チョウ
+U+4519	kMandarin	diào
+U+451A	kCantonese	seon4
+U+451A	kDefinition	herb medicine; the water plantain
+U+451A	kFanqie	食倫
+U+451A	kHanyuPinyin	53277.030:chún
+U+451A	kJapanese	シン ジュン
+U+451A	kMandarin	chún
+U+451B	kCantonese	king2
+U+451B	kDefinition	fibrous plant of which cloth, rope, bag are made
+U+451B	kFanqie	去潁
+U+451B	kJapanese	ケイ
+U+451B	kMandarin	qǐng
+U+451B	kXHC1983	0936.042:qǐng
+U+451C	kCantonese	naam4
+U+451C	kDefinition	herb medicine; hellebore
+U+451C	kFanqie	他酣
+U+451C	kJapanese	タン
+U+451C	kMandarin	nán
+U+451D	kCantonese	zaai1
+U+451D	kDefinition	name of a variety of grass
+U+451D	kHanyuPinyin	53290.080:zhāi
+U+451D	kJapanese	サイ セ
+U+451D	kMandarin	zhāi
+U+451E	kCantonese	leot6
+U+451E	kDefinition	the beginning; to start, new growing of the grass
+U+451E	kFanqie	呂卹
+U+451E	kHanyuPinyin	53284.020:lǜ
+U+451E	kJapanese	リツ リチ
+U+451E	kMandarin	lǜ
+U+451F	kDefinition	shake and wave of the grass
+U+451F	kFanqie	弋支
+U+451F	kHanyuPinyin	53280.110:yí
+U+451F	kJapanese	イ
+U+451F	kMandarin	yí
+U+4520	kDefinition	thin root (rhizome) of the lotus, (same as 梢) the tip of a branch, (same as 槊) a long spear; a lance
+U+4520	kFanqie	山巧
+U+4520	kHanyuPinyin	53275.130:shǎo,shāo,shuò
+U+4520	kJapanese	ソウ ショウ サク
+U+4520	kMandarin	shǎo
+U+4521	kDefinition	name of a variety of grass; perilla ocimoides, whose seeds are a bird feed
+U+4521	kHanyuPinyin	53282.060:yú
+U+4521	kJapanese	ギョ ゴ
+U+4521	kMandarin	yú
+U+4522	kCantonese	waa4
+U+4522	kDefinition	(ancient form of 華) Cathay; China, splendid; gorgeous; colorful; beautiful; luxurious, a family name
+U+4522	kJapanese	カ
+U+4522	kMandarin	huá
+U+4523	kCantonese	lai4
+U+4523	kDefinition	a tribe in ancient times
+U+4523	kHanyuPinyin	53280.090:lí
+U+4523	kJapanese	レイ ライ
+U+4523	kMandarin	lí
+U+4524	kCantonese	paa1
+U+4524	kDefinition	the lush and luxuriant of the grass and flowers
+U+4524	kHanyuPinyin	53280.150:pā
+U+4524	kJapanese	ハ ヘ
+U+4524	kMandarin	pā
+U+4525	kCantonese	siu1
+U+4525	kDefinition	(non-classical form of 蕭) common variety of artemisia
+U+4525	kJapanese	シュク ショウ よもぎ
+U+4526	kCantonese	mui4
+U+4527	kDefinition	(same as 蔾) a kind of plant; the caltrop; caltrap
+U+4527	kJapanese	むぐら
+U+4527	kMandarin	lí
+U+4528	kCantonese	ung3
+U+4529	kCantonese	cik1
+U+452A	kCantonese	song2
+U+452A	kDefinition	name of a variety of grass, scattered or dispersed of the grass and trees
+U+452A	kHanyuPinyin	53277.090:shuǎng
+U+452A	kJapanese	ソウ ショウ
+U+452A	kMandarin	shuǎng
+U+452B	kCantonese	so1
+U+452C	kDefinition	hemp, marijuana (female; pistillate), herbage
+U+452C	kFanqie	羊吏
+U+452C	kHanyuPinyin	53290.190:yì
+U+452C	kJapanese	イ ヨク ヨキ
+U+452C	kMandarin	yì
+U+452D	kDefinition	name of a variety of grass; poisonous herb
+U+452D	kFanqie	乃挺
+U+452D	kHanyuPinyin	53297.080:nìng
+U+452D	kJapanese	デイ ニョウ
+U+452D	kMandarin	nìng
+U+452E	kCantonese	si1
+U+452E	kDefinition	name of a variety of grass; growing in the water with edible flowers
+U+452E	kFanqie	息移
+U+452E	kHanyuPinyin	53288.110:sī
+U+452E	kJapanese	シ
+U+452E	kMandarin	sī
+U+452F	kCantonese	fu3
+U+452F	kDefinition	salted; pickled leeks or scallions
+U+452F	kFanqie	苦故
+U+452F	kHanyuPinyin	53289.040:kù
+U+452F	kJapanese	コ ク
+U+452F	kMandarin	kù
+U+4530	kCantonese	fu3
+U+4530	kDefinition	(variant of 葍) name of a variety of grass; perennial; creeping plants
+U+4530	kFanqie	方副 芳福
+U+4530	kHanyuPinyin	53297.050:fù
+U+4530	kJapanese	フウ フ フク
+U+4530	kMandarin	fù
+U+4531	kDefinition	name of a variety of grass
+U+4531	kHanyuPinyin	53288.020:yī
+U+4531	kJapanese	ユウ
+U+4531	kMandarin	yī
+U+4532	kCantonese	dang1
+U+4532	kDefinition	name of a variety of grass, (same as 橙) the orange
+U+4532	kFanqie	都滕
+U+4532	kHanyuPinyin	53298.080:dēng,chéng
+U+4532	kJapanese	トウ ジョウ
+U+4532	kMandarin	dēng
+U+4532	kVietnamese	đắng
+U+4533	kDefinition	chickling
+U+4533	kHanyuPinyin	53294.120:rán
+U+4533	kJapanese	ゼン ネン
+U+4533	kMandarin	rán
+U+4534	kCantonese	cak1
+U+4534	kDefinition	name of a variety of grass, growing grass, to weed (in farming); to mow grass or cut weed
+U+4534	kFanqie	初力
+U+4534	kHanyuPinyin	53291.060:cè,cuì,chuà
+U+4534	kJapanese	ショク サイ セ シキ セイ
+U+4534	kMandarin	cè
+U+4535	kCantonese	gaan1
+U+4535	kDefinition	(same as 葌 蕑) fragrant thoroughwort (Eupatorium fortunei)
+U+4535	kFanqie	古顔
+U+4535	kJapanese	カン ふじばかま かや
+U+4536	kCantonese	tai4
+U+4536	kDefinition	name of a variety of grass, weed (in farming); to mow grass or cut weed
+U+4536	kHanyuPinyin	53288.010:tí,tái
+U+4536	kJapanese	テイ ダイ タイ
+U+4536	kMandarin	tí
+U+4537	kCantonese	kam4
+U+4537	kDefinition	Cyperus rotundus, a kind of medicinal herb
+U+4537	kFanqie	其矜 巨金
+U+4537	kHanyuPinyin	53287.060:qín
+U+4537	kJapanese	キン ゴン キョウ ゴウ
+U+4537	kMandarin	qín
+U+4538	kDefinition	name of a variety of grass, fragrant herb; vanilla, fragrant; delicious; balm; spice
+U+4538	kFanqie	陂矯
+U+4538	kHanyuPinyin	53289.110:biǎo,biāo
+U+4538	kJapanese	ヒョウ
+U+4538	kMandarin	biǎo
+U+4539	kCantonese	seoi6
+U+4539	kDefinition	a fungus which grows on rotten plants and is eaten when fresh
+U+4539	kHanyuPinyin	53286.010:suì
+U+4539	kJapanese	スイ ズイ タイ デ
+U+4539	kMandarin	suì
+U+453A	kCantonese	wai4
+U+453A	kDefinition	heading; earing; to flower; to blossom (of the smartweed group), Cyperus rotundus, a kind of medicinal herb, a peduncle or footstalk of a flower or fruit; a stem; a base, new growing leaves
+U+453A	kFanqie	悅吹 羊捶
+U+453A	kHanyuPinyin	53285.160:wéi,wěi
+U+453A	kJapanese	イ スイ ズイ
+U+453A	kMandarin	wéi
+U+453B	kCantonese	deon1
+U+453B	kDefinition	name of a variety of grass, luxuriant; lush of the grass
+U+453B	kHanyuPinyin	53294.150:dūn,duī
+U+453B	kJapanese	トン タイ
+U+453B	kMandarin	dūn
+U+453C	kDefinition	sound of the grass; parsley
+U+453C	kHanyuPinyin	53317.010:sè,zé
+U+453C	kJapanese	シュウ
+U+453C	kMandarin	sè
+U+453D	kCantonese	oi3
+U+453D	kDefinition	to cover; to put a cover over something, small, low, weak, pure; clean; clear
+U+453D	kFanqie	於罽 於蓋
+U+453D	kHanyuPinyin	53296.030:ài
+U+453D	kJapanese	アイ エイ
+U+453D	kMandarin	ài
+U+453E	kCantonese	hei3
+U+453E	kDefinition	a kind of fragrant herb, a kind of vegetable (growing in the water; something like the bracken)
+U+453E	kFanqie	去例 矛割
+U+453E	kHanyuPinyin	53288.030:qì,è
+U+453E	kJapanese	アツ アチ ケツ ケチ ケイ ガツ ゲチ
+U+453E	kMandarin	qì
+U+453F	kCantonese	zyun2
+U+453F	kDefinition	lush growth; dense growth of trees and grass, to huddle together; to crowd together
+U+453F	kFanqie	兹損
+U+453F	kHanyuPinyin	53295.070:zǔn
+U+453F	kJapanese	ソン
+U+453F	kMandarin	zǔn
+U+4540	kCantonese	fun2
+U+4540	kDefinition	name of a variety of grass, Compositae; chrysanthemum family, perennial herbage; to blossom in winter
+U+4540	kHanyuPinyin	53287.090:kuǎn
+U+4540	kJapanese	カン
+U+4540	kMandarin	kuǎn
+U+4541	kCantonese	fei2
+U+4541	kDefinition	suddenly, name of a variety of grass
+U+4541	kFanqie	府尾
+U+4541	kHanyuPinyin	53290.040:fěi
+U+4541	kJapanese	ヒ
+U+4541	kMandarin	fěi
+U+4542	kCantonese	jyun5
+U+4543	kDefinition	(same as 蔭) the shade of a tree, to cover up; to cover or screen
+U+4543	kJapanese	イン かげ
+U+4543	kMandarin	yìn
+U+4544	kCantonese	zing1
+U+4544	kDefinition	meat in the form of paste; salted or pickled meat
+U+4544	kFanqie	煑仍
+U+4544	kJapanese	ショウ
+U+4545	kCantonese	sou2
+U+4545	kDefinition	name of a variety of grass
+U+4545	kFanqie	蘇老
+U+4545	kJapanese	ソウ
+U+4545	kMandarin	sǎo
+U+4546	kCantonese	dau6
+U+4546	kDefinition	round straw quilt; bedding; cushion; mattress; mat for the chair, name of a variety of grass
+U+4546	kFanqie	徒口
+U+4546	kHanyuPinyin	53300.020:dòu
+U+4546	kJapanese	ズ トウ
+U+4546	kMandarin	dòu
+U+4547	kCantonese	wui6
+U+4547	kDefinition	name of a variety of grass, a kind of vegetable
+U+4547	kFanqie	公回 胡罪
+U+4547	kHanyuPinyin	53305.090:huì
+U+4547	kJapanese	カイ エ
+U+4547	kMandarin	huì
+U+4548	kDefinition	name of a variety of grass, (same as 屧) the wooden sole of a shoe
+U+4548	kFanqie	蘇協
+U+4548	kHanyuPinyin	53302.150:xiè
+U+4548	kJapanese	チョウ ジョウ ショウ
+U+4548	kMandarin	xiè
+U+4549	kDefinition	a kind of plant, Pueraria thunbergiana, a creeping, edible bean whose fibers can be made into linen-like cloth and whose roots are used in herbal medicine
+U+4549	kHanyuPinyin	53301.190:zé
+U+4549	kJapanese	タク ジャク
+U+4549	kMandarin	zé
+U+454A	kDefinition	name of a variety of grass, grass that creep and spread luxuriantly
+U+454A	kHanyuPinyin	53305.070:tán
+U+454A	kJapanese	タン ダン
+U+454A	kMandarin	tán
+U+454B	kCantonese	tong4
+U+454B	kDefinition	of elm group
+U+454B	kHanyuPinyin	53299.140:táng
+U+454B	kJapanese	トウ ドウ
+U+454B	kMandarin	táng
+U+454C	kCantonese	zi6
+U+454C	kDefinition	(same as 稚) young grain, tender; young, delicate; small
+U+454C	kHanyuPinyin	53302.110:zhì
+U+454C	kJapanese	チ ヂ おさない いとけない いとけなし
+U+454C	kMandarin	zhì
+U+454D	kDefinition	name of a variety of grass
+U+454D	kFanqie	餘制
+U+454D	kHanyuPinyin	53306.020:yì
+U+454D	kJapanese	エイ
+U+454D	kMandarin	yì
+U+454E	kCantonese	fuk1
+U+454E	kDefinition	(non-classical form) name of a variety of grass (corrupted form of 葍) perennial; creeping plants
+U+454E	kJapanese	ホク
+U+454E	kMandarin	fú
+U+454F	kCantonese	ngo4
+U+454F	kDefinition	Artemisia, a kind of plant with edible leaves
+U+454F	kJapanese	ガ
+U+454F	kMandarin	é
+U+4550	kCantonese	fuk1
+U+4551	kCantonese	seoi1
+U+4551	kDefinition	(same as 葰) parsley
+U+4551	kJapanese	スイ
+U+4551	kMandarin	jùn
+U+4552	kCantonese	gaa1
+U+4552	kDefinition	name of a variety of grass
+U+4552	kHanyuPinyin	53310.030:jiā
+U+4552	kJapanese	カ ケ
+U+4552	kMandarin	jiā
+U+4553	kCantonese	caat3
+U+4553	kDefinition	name of a variety of grass; poisonous; used to kill fishes, valueless things; insignificant things
+U+4553	kFanqie	初八
+U+4553	kHanyuPinyin	53316.110:chá,chuì
+U+4553	kJapanese	サツ セチ セイ セ
+U+4553	kMandarin	chá
+U+4554	kCantonese	haam4
+U+4554	kDefinition	name of a variety of grass, couch grass family
+U+4554	kHanyuPinyin	53314.010:xián
+U+4554	kJapanese	カン
+U+4554	kMandarin	xián
+U+4555	kCantonese	maan6
+U+4555	kDefinition	name of a variety of grass
+U+4555	kHanyuPinyin	53316.040:màn
+U+4555	kMandarin	màn
+U+4556	kCantonese	syun1
+U+4556	kDefinition	(same as 蓀) fragrant herb, vanilla
+U+4556	kJapanese	ソン
+U+4557	kCantonese	bei6
+U+4557	kDefinition	name of a variety of grass
+U+4557	kHanyuPinyin	53313.180:bì
+U+4557	kJapanese	ヒ ビ
+U+4557	kMandarin	bì
+U+4558	kCantonese	ling4
+U+4558	kDefinition	(same as 苓) a variety of fungus; tuckahoe, licorice, or liquorice, name of a variety of grass
+U+4558	kFanqie	郎丁 良郢
+U+4558	kHanyuPinyin	53314.120:líng,lǐng
+U+4558	kJapanese	レイ リョウ
+U+4558	kMandarin	líng
+U+4559	kCantonese	zit6
+U+4559	kDefinition	to set in order; to adjust and repair
+U+4559	kFanqie	昨結
+U+4559	kJapanese	セツ
+U+4559	kMandarin	jié
+U+455A	kCantonese	gwai6
+U+455A	kDefinition	(same as 蕢) a straw basket, a vegetable with red stalk
+U+455A	kJapanese	キ
+U+455A	kMandarin	kuì
+U+455B	kCantonese	gaap3
+U+455B	kDefinition	name of a variety of grass
+U+455B	kHanyuPinyin	53315.030:jiá
+U+455B	kJapanese	コウ
+U+455B	kMandarin	jiá
+U+455C	kCantonese	ceoi3
+U+455D	kCantonese	cing1
+U+455D	kDefinition	medical herb; sesame
+U+455D	kHanyuPinyin	53302.100:chēng
+U+455D	kJapanese	ショウ
+U+455D	kMandarin	chēng
+U+455D	kVietnamese	sắng
+U+455E	kCantonese	long6
+U+455E	kDefinition	Henbane, poisonous, seeds for medical use, a plant which produces a brown dye
+U+455E	kFanqie	來宕
+U+455E	kHanyuPinyin	53323.050:làng
+U+455E	kJapanese	ロウ たばこ
+U+455E	kMandarin	làng
+U+455F	kCantonese	hing1
+U+455F	kDefinition	a kind of vegetable; rape
+U+455F	kHanyuPinyin	53320.070:xīng
+U+455F	kJapanese	キョウ コウ
+U+455F	kMandarin	xīng
+U+4560	kCantonese	fai3
+U+4560	kDefinition	(non-classical form 蕟) coarse bamboo mat, a kind of ailment, probably of a rheumatic nature, which causes stiff neck and backbone
+U+4560	kJapanese	ハイ ヘ
+U+4560	kMandarin	fèi
+U+4561	kCantonese	leoi4
+U+4561	kDefinition	Compositae; chrysanthemum family; perennial herbage; herb medicine
+U+4561	kFanqie	力居
+U+4561	kHanyuPinyin	53316.160:lǘ
+U+4561	kJapanese	リョ ロ
+U+4561	kMandarin	lǘ
+U+4562	kCantonese	zaa2
+U+4562	kDefinition	weak, crude and coarse, careless; rash, bad behavior
+U+4562	kHanyuPinyin	53318.150:zhǎ
+U+4562	kJapanese	タ
+U+4562	kMandarin	zhǎ
+U+4563	kDefinition	water plant
+U+4563	kHanyuPinyin	53316.140:hé
+U+4563	kJapanese	カツ ガチ
+U+4563	kMandarin	hé
+U+4564	kCantonese	kei4
+U+4564	kDefinition	(same as 蘄) name of a county in ancient times; today's south of Anhui Province, Suxian
+U+4564	kHanyuPinyin	53313.010:jī
+U+4564	kJapanese	キ
+U+4564	kMandarin	jī
+U+4565	kCantonese	nei5
+U+4565	kDefinition	(ancient form of 苨) herb medicine; Chinese bellflower family; Platycodon grandiforus
+U+4565	kJapanese	デイ
+U+4565	kMandarin	nǐ
+U+4566	kDefinition	flower of the chrysanthemum; chrysanthemum
+U+4566	kFanqie	以成
+U+4566	kHanyuPinyin	53328.140:yíng
+U+4566	kJapanese	エイ ヨウ
+U+4566	kMandarin	yíng
+U+4567	kCantonese	gaau1
+U+4567	kDefinition	(same as 茭) Zizania latifolia, a kind of edible aquatic grass, rootstock (of the lotus), the joint of the sides of arms and the end of a bow
+U+4567	kFanqie	下巧 古巧
+U+4567	kHanyuPinyin	53325.120:xiào,jiǎo
+U+4567	kJapanese	コウ ギョウ キョウ
+U+4567	kMandarin	xiào
+U+4568	kCantonese	tang4
+U+4568	kDefinition	(same as 藤) rattan
+U+4568	kJapanese	トウ ふじ
+U+4568	kMandarin	téng
+U+4569	kCantonese	lou5
+U+4569	kDefinition	dry fruit (e.g. nuts), dried fruit
+U+4569	kFanqie	盧晧
+U+4569	kHanyuPinyin	53324.080:lǎo
+U+4569	kJapanese	ロウ
+U+4569	kMandarin	lǎo
+U+456A	kCantonese	zaak6
+U+456A	kDefinition	the water plantain
+U+456A	kFanqie	瑒伯
+U+456A	kHanyuPinyin	53329.060:zé
+U+456A	kJapanese	タク ジャク
+U+456A	kMandarin	zé
+U+456B	kCantonese	kwai4
+U+456B	kDefinition	(corrupted form of 夔) a one-legged monster; a walrus, name of a court musician in the reign of Emperor Shun (2255 B.C.)
+U+456B	kJapanese	キ
+U+456B	kMandarin	kuí
+U+456C	kCantonese	goeng1
+U+456C	kDefinition	(same as 薑) ginger
+U+456C	kJapanese	キョウ はじかみ
+U+456D	kCantonese	cam4
+U+456D	kDefinition	name of a variety of grass, a kind of vegetable, a variety of nettle, urtica
+U+456D	kFanqie	徐鹽
+U+456D	kHanyuPinyin	53324.020:xián,qián
+U+456D	kJapanese	セン ゼン
+U+456D	kMandarin	qián
+U+456D	kXHC1983	0914.042:qián
+U+456E	kCantonese	guk1
+U+456E	kDefinition	(interchangeable 菊) flower of the chrysanthemum; chrysanthemum
+U+456E	kHanyuPinyin	53324.030:jú,qū
+U+456E	kJapanese	キク
+U+456E	kMandarin	jú
+U+456F	kDefinition	duckweed
+U+456F	kJapanese	ヒョウ
+U+456F	kMandarin	piáo
+U+456F	kVietnamese	bèo
+U+4570	kCantonese	faan4
+U+4570	kDefinition	another name for 知母
+U+4570	kHanyuPinyin	53328.160:fán
+U+4570	kJapanese	ハン ボン
+U+4570	kMandarin	fán
+U+4571	kDefinition	name of a variety of grass
+U+4571	kHanyuPinyin	53324.120:tóu
+U+4571	kJapanese	トウ ズ
+U+4571	kMandarin	tóu
+U+4572	kCantonese	lam5
+U+4572	kDefinition	Artemisia, a kind of plant with edible leaves
+U+4572	kHanyuPinyin	53328.080:lǐn
+U+4572	kJapanese	リン
+U+4572	kMandarin	lǐn
+U+4573	kDefinition	name of a variety of grass
+U+4573	kHanyuPinyin	53333.080:mí
+U+4573	kJapanese	ビ ミ
+U+4573	kMandarin	mí
+U+4574	kCantonese	zuk1
+U+4574	kDefinition	a second for monkshood (附子); Chinese herb medicine
+U+4574	kJapanese	サク
+U+4574	kMandarin	zhuó
+U+4575	kCantonese	kit3
+U+4575	kDefinition	name of a variety of grass; another name for 葒草 (Polygonum orientale)
+U+4575	kHanyuPinyin	53330.060:xié
+U+4575	kJapanese	ケツ ゲチ
+U+4575	kMandarin	xié
+U+4576	kCantonese	wu6
+U+4576	kDefinition	name of a variety of grass
+U+4576	kJapanese	コ ゴ おまもり まもり まもる
+U+4576	kMandarin	hù
+U+4577	kCantonese	mei4
+U+4577	kDefinition	a kind of plant; putchuck, the root of a species of thistle found in Cashmere; roseleaf raspberry (Rubus rosaefolius var. Coronarius)
+U+4577	kHanyuPinyin	53332.110:mí
+U+4577	kJapanese	おぎ
+U+4577	kMandarin	mí
+U+4577	kXHC1983	0780.080:mí
+U+4578	kCantonese	gaai1
+U+4578	kDefinition	(same as 秸) wheat straw; the stem of hem
+U+4578	kFanqie	古諧 胡八
+U+4578	kHanyuPinyin	53334.180:jiē
+U+4578	kJapanese	カツ ゲチ カイ
+U+4578	kMandarin	jiē
+U+4579	kDefinition	a curtain; a shade; screen; blinds
+U+4579	kFanqie	徂合 在協
+U+4579	kJapanese	ソウ ゾウ ショウ ジョウ
+U+4579	kMandarin	zá
+U+457A	kCantonese	cung4
+U+457A	kDefinition	dense growth; lush growth or the grass, a tree; a numerary auxiliary for counting trees or similar things, roots that grow above ground
+U+457A	kFanqie	徂紅
+U+457A	kHanyuPinyin	53334.120:cóng
+U+457A	kJapanese	ソウ くさむら むらがる
+U+457A	kMandarin	cóng
+U+457B	kCantonese	lai6
+U+457B	kDefinition	to adhere to; to stick together
+U+457B	kFanqie	呂支 郎計
+U+457B	kHanyuPinyin	53336.030:lì
+U+457B	kJapanese	リ レイ ライ
+U+457B	kMandarin	lì
+U+457C	kDefinition	name of a variety of grass
+U+457C	kFanqie	如延
+U+457C	kHanyuPinyin	53335.200:rán
+U+457C	kJapanese	ゼン ネン
+U+457C	kMandarin	rán
+U+457D	kCantonese	zuk6
+U+457D	kDefinition	the rhododendron -- it is said to cause sheep to stagger and die, hence the name
+U+457D	kHanyuPinyin	53338.030:zhú
+U+457D	kJapanese	チョク チク
+U+457D	kMandarin	zhú
+U+457E	kDefinition	(ancient form of 荶) a kind of vegetable; something like garlic; growing in the water, name of a variety of grass
+U+457E	kHanyuPinyin	53338.040:yín,yán
+U+457E	kJapanese	ゲン ギン
+U+457E	kMandarin	yín
+U+457F	kCantonese	hon3
+U+457F	kDefinition	name of a variety of grass
+U+457F	kHanyuPinyin	53339.060:hàn
+U+457F	kJapanese	ゼン
+U+457F	kMandarin	hàn
+U+4580	kCantonese	hiu1
+U+4580	kDefinition	(same as 虈) angelica; the root of Dahurian angelica
+U+4580	kJapanese	キョウ
+U+4581	kDefinition	number, to count; to enumerate
+U+4581	kHanyuPinyin	53339.090:yì
+U+4581	kJapanese	オク
+U+4581	kMandarin	yì
+U+4582	kCantonese	lyun4
+U+4582	kDefinition	an edible water-plant; Brasenia purpurea
+U+4582	kHanyuPinyin	53339.210:luán
+U+4582	kJapanese	ラン レン
+U+4582	kMandarin	luán
+U+4583	kDefinition	the water is waving in the breeze, old and desolate; rags and rubbish
+U+4583	kFanqie	以灼
+U+4583	kHanyuPinyin	53339.170:yuè,lǎ
+U+4583	kJapanese	ヤク ラ
+U+4583	kMandarin	yuè
+U+4584	kDefinition	(ancient standard form of 然 燃) to burn; to ignite; to light
+U+4584	kMandarin	rán
+U+4585	kCantonese	ling4
+U+4585	kDefinition	name of a variety of grass; nasturtium
+U+4585	kHanyuPinyin	53340.010:líng
+U+4585	kJapanese	レイ
+U+4585	kMandarin	líng
+U+4586	kDefinition	medicinal herb; a kind of vegetable, salted vegetables
+U+4586	kFanqie	如兩 女亮
+U+4586	kHanyuPinyin	53339.240:niàng
+U+4586	kJapanese	ジョウ ニョウ
+U+4586	kMandarin	niàng
+U+4587	kCantonese	wat1
+U+4587	kDefinition	fragrant herb; fragrant plant; tulip
+U+4587	kJapanese	ウツ ウチ
+U+4587	kMandarin	yù
+U+4588	kCantonese	joek6
+U+4588	kDefinition	(same as 虐) cruel; ferocious; atrocious
+U+4588	kJapanese	ギャク
+U+4588	kMandarin	nüè
+U+4589	kCantonese	heoi1
+U+4589	kDefinition	(of tiger) to roar or howl
+U+4589	kJapanese	ク
+U+458A	kDefinition	tiger-like
+U+458A	kFanqie	魚肺
+U+458A	kHanyuPinyin	42819.070:yì
+U+458A	kJapanese	ガイ ゲ
+U+458A	kMandarin	yì
+U+458B	kDefinition	(same as 虐) cruel; ferocious; atrocious
+U+458B	kJapanese	ギャク
+U+458B	kMandarin	nüè
+U+458C	kDefinition	of tiger, to roar
+U+458C	kHanyuPinyin	42819.050:yì
+U+458C	kJapanese	ゲキ ギャク
+U+458C	kMandarin	yì
+U+458D	kCantonese	kin4
+U+458D	kDefinition	(same as 虔) to act with reverence, devout; sincere
+U+458D	kJapanese	ケン つつしむ
+U+458D	kMandarin	qián
+U+458E	kCantonese	haap6
+U+458E	kDefinition	tiger
+U+458E	kHanyuPinyin	42820.020:xiá
+U+458E	kJapanese	コウ ギョウ
+U+458E	kMandarin	xiá
+U+458F	kDefinition	(same as 處) to dwell; to abide in; to stay on; to be at rest in; to occupy, a place; an office; a department
+U+458F	kFanqie	昌據
+U+458F	kJapanese	ショ ところ
+U+458F	kMandarin	chǔ
+U+458F	kXHC1983	0160.102:chǔ 0161.112:chù
+U+4590	kCantonese	ngan4
+U+4590	kDefinition	sound of a tiger
+U+4590	kFanqie	語斤
+U+4590	kHanyuPinyin	42821.040:yín
+U+4590	kJapanese	ギン ゴン

@@ -1,0 +1,2000 @@
+U+3B52	kMandarin	sì
+U+3B53	kCantonese	bin6
+U+3B53	kDefinition	a pillar arch
+U+3B53	kHanyuPinyin	21191.050:biàn
+U+3B53	kJapanese	ヘン ベン
+U+3B53	kMandarin	biàn
+U+3B54	kCantonese	lou4
+U+3B54	kDefinition	a kind of tree
+U+3B54	kFanqie	落胡
+U+3B54	kHanyuPinyin	21186.060:lú
+U+3B54	kJapanese	ロ ト ツ コ ク
+U+3B54	kMandarin	lú
+U+3B55	kCantonese	keoi1
+U+3B55	kDefinition	a board (on the back of a donkey) for carrying things; saddle
+U+3B55	kFanqie	去魚
+U+3B55	kHanyuPinyin	21177.010:qū
+U+3B55	kJapanese	キョ コ
+U+3B55	kMandarin	qū
+U+3B55	kTGHZ2013	307.100:qū
+U+3B56	kCantonese	doi6
+U+3B57	kCantonese	ming5
+U+3B58	kDefinition	a scabbard; a sheath; a case for sword, a tree like the acacia
+U+3B58	kFanqie	侯閤 古沓 其輒 巨業
+U+3B58	kHanyuPinyin	21202.060:gé,hé
+U+3B58	kJapanese	コウ ギョウ
+U+3B58	kMandarin	gé
+U+3B59	kCantonese	zaak6
+U+3B59	kDefinition	a hammer
+U+3B59	kHanyuPinyin	21194.010:zhé
+U+3B59	kJapanese	タク チャク
+U+3B59	kMandarin	zhé
+U+3B5A	kCantonese	leoi5
+U+3B5A	kDefinition	a kind of tree, a tray for carrying sacrificial meats and wine
+U+3B5A	kFanqie	力舉
+U+3B5A	kHanyuPinyin	21200.060:lǚ
+U+3B5A	kJapanese	リョ ロ
+U+3B5A	kMandarin	lǚ
+U+3B5B	kCantonese	paai3
+U+3B5B	kDefinition	a kind of climbing plants; rattan; bark can be used to weave cloth, a component parts of a loom
+U+3B5B	kFanqie	匹卦
+U+3B5B	kHanyuPinyin	21201.100:pài,bà
+U+3B5B	kJapanese	ハイ ヘ ハ
+U+3B5B	kMandarin	pài
+U+3B5C	kDefinition	a kind of tree (like locust tree; similar to the ash; acacia)
+U+3B5C	kFanqie	如融
+U+3B5C	kHanyuPinyin	21193.040:róng
+U+3B5C	kJapanese	ジュウ ニュ
+U+3B5C	kMandarin	róng
+U+3B5D	kCantonese	kau4
+U+3B5D	kDefinition	name of a pavilion, in Xinshi, name of a place in Jingling
+U+3B5D	kFanqie	巨鳩
+U+3B5D	kHanyuPinyin	21195.050:qiú,òu
+U+3B5D	kJapanese	キュウ オウ オ グ
+U+3B5D	kMandarin	qiú
+U+3B5E	kCantonese	lyut3
+U+3B5E	kDefinition	a kind inferior wood
+U+3B5E	kHanyuPinyin	21198.030:liè
+U+3B5E	kJapanese	レツ レチ
+U+3B5E	kMandarin	liè
+U+3B5F	kCantonese	gung2
+U+3B5F	kDefinition	torture used in ancient times
+U+3B5F	kJapanese	キョウ キク コク ク
+U+3B5F	kMandarin	gǒng
+U+3B60	kCantonese	sin2
+U+3B60	kFanqie	蘇典
+U+3B60	kHanyuPinyin	21200.010:xiǎn
+U+3B60	kJapanese	セン
+U+3B60	kMandarin	xiǎn
+U+3B61	kCantonese	sai3
+U+3B61	kDefinition	name of a mountain, a component parts of a loom
+U+3B61	kHanyuPinyin	21201.080:xì,xìn
+U+3B61	kJapanese	セイ サイ シン
+U+3B61	kMandarin	xì
+U+3B62	kCantonese	hing1
+U+3B62	kDefinition	mechanics, opportunity, urgent
+U+3B62	kHanyuPinyin	21193.030:xīn
+U+3B62	kJapanese	ケイ キョウ
+U+3B62	kMandarin	xīn
+U+3B63	kCantonese	man6
+U+3B64	kCantonese	niu5
+U+3B64	kDefinition	(simplified form) (same as 蔦) the convolvulus; a kind of creeping plant, partridge; francolin, in Japan, the pole outside of a building used to post the public notice
+U+3B64	kMandarin	niǎo
+U+3B65	kCantonese	fu6
+U+3B66	kCantonese	zaak6
+U+3B67	kCantonese	zau1
+U+3B68	kCantonese	je4
+U+3B68	kDefinition	(same as 椰) the cocoa-nut palm
+U+3B68	kJapanese	ヤ やし
+U+3B68	kMandarin	xié
+U+3B69	kCantonese	lyut6
+U+3B69	kDefinition	a kind of tree can be used as dye-stuff, the mast of a boat
+U+3B69	kFanqie	郎古 郎活 力輟
+U+3B69	kHanyuPinyin	21218.070:liè
+U+3B69	kJapanese	レツ レチ ラツ ラチ
+U+3B69	kMandarin	liè
+U+3B6A	kCantonese	fu1
+U+3B6A	kDefinition	a shrub (plant); dense growth of trees
+U+3B6A	kHanyuPinyin	21210.100:fū
+U+3B6A	kJapanese	フ
+U+3B6A	kMandarin	fū
+U+3B6B	kCantonese	co4
+U+3B6B	kDefinition	a fruit tree (plum), (same as 菆) hemp stalks, a mat
+U+3B6B	kFanqie	昨禾
+U+3B6B	kHanyuPinyin	21217.050:cuó,cuán
+U+3B6B	kJapanese	サ ザ サン ザン
+U+3B6B	kMandarin	cuó
+U+3B6C	kDefinition	(corrupted form of 椓) to beat; to tap; to thrash, castration as a punishment in ancient times, a castrate man, to accuse or charge
+U+3B6C	kJapanese	チョ
+U+3B6C	kMandarin	zhuó
+U+3B6D	kCantonese	baat3
+U+3B6D	kDefinition	a kind of tree, a harrow; a drag, a written contract or agreement; a bond; a deed, handles of spears or lances used in ancient times
+U+3B6D	kFanqie	百鎋 方結
+U+3B6D	kHanyuPinyin	21214.080:bā,bèi,biē
+U+3B6D	kJapanese	ハツ ハチ ハイ ヘ
+U+3B6D	kMandarin	bā
+U+3B6E	kCantonese	zaat3
+U+3B6E	kDefinition	(corrupted form of 桚) a kind of liquor container, to squeeze; to press, an instrument of torture for squeezing the fingers of prisoners or witnesses in order to extort evidence or confession
+U+3B6E	kHanyuPinyin	21222.080:zuò,zǎn
+U+3B6E	kJapanese	サツ サチ サン
+U+3B6E	kMandarin	zuò
+U+3B6F	kDefinition	tree with small leaves; mushroom
+U+3B6F	kFanqie	陟葉
+U+3B6F	kHanyuPinyin	21210.040:zhé,dié
+U+3B6F	kJapanese	チョウ
+U+3B6F	kMandarin	zhé
+U+3B70	kDefinition	to know; to recognize, to hide; to conceal, (same as 嘴) beak (of a bird), stone probe
+U+3B70	kFanqie	姊移 遵爲 即委
+U+3B70	kHanyuPinyin	21443.140:zuī,zuǐ
+U+3B70	kJapanese	スイ シ
+U+3B70	kMandarin	zuī
+U+3B71	kCantonese	haap6
+U+3B71	kDefinition	(same as 匣) a case; a small box
+U+3B71	kJapanese	コウ
+U+3B71	kMandarin	hé
+U+3B72	kCantonese	gik6
+U+3B72	kDefinition	(same as 极) a wooden frame (on the back of a donkey) for carrying things, (simplified form of 極) to exhaust, extreme; highest; topmost
+U+3B72	kJapanese	キョウ
+U+3B72	kMandarin	jí
+U+3B72	kVietnamese	góc
+U+3B73	kCantonese	haau3
+U+3B74	kCantonese	gin1
+U+3B74	kDefinition	(simplified form) the oscines
+U+3B74	kJapanese	かし
+U+3B74	kMandarin	jiān
+U+3B75	kCantonese	din6
+U+3B76	kCantonese	fong1
+U+3B77	kCantonese	naam4
+U+3B77	kJapanese	おうこ
+U+3B78	kCantonese	tou4
+U+3B78	kDefinition	(same as 梌) the branches to spread out in all directions, the catalpa; a kind of hard wood used for making chessboard
+U+3B78	kFanqie	同都
+U+3B78	kHanyuPinyin	21242.020:tú
+U+3B78	kJapanese	ト ズ
+U+3B78	kMandarin	tú
+U+3B79	kDefinition	name of a county in today's Shandong Province, a kind of fabric produced in Donglai
+U+3B79	kHangul	현:N
+U+3B79	kJapanese	ケン ゲン
+U+3B79	kMandarin	xián
+U+3B7A	kDefinition	the cherry-apple, a kind of tree
+U+3B7A	kFanqie	衣儉
+U+3B7A	kHanyuPinyin	21228.100:yǎn,yàn,ān
+U+3B7A	kJapanese	エン アン オン
+U+3B7A	kMandarin	yǎn
+U+3B7B	kCantonese	tong4
+U+3B7B	kDefinition	(same as 棠) the crab-apple; the wild plum
+U+3B7B	kJapanese	トウ
+U+3B7B	kMandarin	táng
+U+3B7C	kDefinition	a rectangle shaped peg or short post between the beans and the roof timbers; the square peck-shaped box half-way up a Chinese flagstaff
+U+3B7C	kFanqie	徒合 他合
+U+3B7C	kHanyuPinyin	21232.090:tà
+U+3B7C	kJapanese	トウ ドウ
+U+3B7C	kMandarin	tà
+U+3B7D	kCantonese	dai2
+U+3B7D	kDefinition	(non-classical form of 柢) root; foundation; base, eaves of a house; brim
+U+3B7D	kHanyuPinyin	21236.140:dǐ
+U+3B7D	kJapanese	テイ タイ
+U+3B7D	kMandarin	dǐ
+U+3B7E	kCantonese	gwat6
+U+3B7E	kDefinition	to cut the timber apart; to cut a tree; (Cant.) to blunt
+U+3B7E	kHanyuPinyin	21240.050:jué
+U+3B7E	kJapanese	クツ グチ
+U+3B7E	kMandarin	jué
+U+3B7F	kCantonese	ngong4
+U+3B7F	kDefinition	oblique angle, a post to tie cattle and horses to
+U+3B7F	kFanqie	五岡
+U+3B7F	kHanyuPinyin	21232.050:áng
+U+3B7F	kJapanese	コウ ゴウ
+U+3B7F	kMandarin	áng
+U+3B80	kCantonese	haam4
+U+3B80	kDefinition	tool to clear out (as a drain) the water, (same as 函) a case; a small box
+U+3B80	kFanqie	胡讒
+U+3B80	kHanyuPinyin	21242.010:hán
+U+3B80	kJapanese	カン
+U+3B80	kMandarin	hán
+U+3B81	kDefinition	gardenia; a plant of which the nuts produces a yellow dye
+U+3B81	kFanqie	胡茅
+U+3B81	kHanyuPinyin	21235.040:xiáo
+U+3B81	kJapanese	コウ ギョウ
+U+3B81	kMandarin	xiáo
+U+3B82	kCantonese	guk1
+U+3B82	kDefinition	an appliance used to lift food; something like a narrow, long table, to carry; to transport
+U+3B82	kFanqie	居玉
+U+3B82	kHanyuPinyin	21231.100:jú
+U+3B82	kJapanese	キョク コク
+U+3B82	kMandarin	jú
+U+3B83	kCantonese	wai1
+U+3B83	kDefinition	farm tool, (same as 桵) a kind of tree
+U+3B83	kFanqie	於爲
+U+3B83	kHanyuPinyin	21233.050:wēi,ruí
+U+3B83	kJapanese	ズイ ニ イ
+U+3B83	kMandarin	wēi
+U+3B84	kCantonese	bong2
+U+3B84	kDefinition	(non-classical form of 榜) publicly posted roll of successful examinees
+U+3B84	kJapanese	ボウ かじ
+U+3B84	kMandarin	bǎng
+U+3B85	kCantonese	zeoi1
+U+3B85	kDefinition	a kind of tree
+U+3B85	kFanqie	職追
+U+3B85	kHanyuPinyin	21234.010:zhuī
+U+3B85	kJapanese	スイ
+U+3B85	kMandarin	zhuī
+U+3B86	kDefinition	(an ancient form) (same as 𣡌) leaves sprouting from the stump of a tree; shoots from an old stump, a large (a species of oak) from the bark of which a yellow dye is produced
+U+3B86	kJapanese	ゲツ
+U+3B86	kMandarin	niè
+U+3B87	kCantonese	tim3
+U+3B87	kDefinition	(standard form of 掭) (same as 栝) a builder's frame for measuring, juniper, a poker (for stirring fire), a cylinder part on the old style of wooden doors
+U+3B87	kFanqie	他念
+U+3B87	kHanyuPinyin	21223.040:tiàn
+U+3B87	kJapanese	テン
+U+3B87	kMandarin	tiàn
+U+3B88	kCantonese	noi6
+U+3B88	kDefinition	(non-classical form of 奈) but; how; what, a remedy; a resource, to bear, to endure
+U+3B88	kJapanese	ナ
+U+3B88	kMandarin	nài
+U+3B88	kVietnamese	nậy
+U+3B89	kCantonese	hap6
+U+3B8A	kCantonese	mau6
+U+3B8A	kJapanese	ホウ
+U+3B8B	kDefinition	(non-classical form of 栯) a kind of tree, a fruit tree
+U+3B8B	kJapanese	いた
+U+3B8B	kMandarin	yǒu
+U+3B8C	kCantonese	min4
+U+3B8C	kDefinition	(same as 棉) cotton; (Cant.) a kind of fruit
+U+3B8C	kFanqie	武延
+U+3B8C	kJapanese	メン
+U+3B8C	kMandarin	mián
+U+3B8D	kCantonese	zin1
+U+3B8D	kDefinition	(ancient form of 牋 箋) a memorandum tablet, slip of paper, fancy note-paper, a note, a document, comments
+U+3B8D	kFanqie	則前
+U+3B8D	kJapanese	サン セン
+U+3B8E	kCantonese	bui1
+U+3B8E	kDefinition	(non-classical form of 盃 杯) cup; a tumbler; a glass
+U+3B8E	kJapanese	ハイ さかずき
+U+3B8F	kCantonese	noi6
+U+3B8F	kDefinition	(same as 柰) a fruit tree; a crab-apple, for which the second from is strictly used, leaves sprouting from the stump of a tree; shoots from an old stump
+U+3B8F	kHanyuPinyin	21244.040:nài,nì,nà
+U+3B8F	kJapanese	デイ ナイ ダツ ナチ
+U+3B8F	kMandarin	nài
+U+3B90	kDefinition	a rack or a stand with three sticks to cross each other, a chopping board
+U+3B90	kFanqie	息井
+U+3B90	kHanyuPinyin	21248.020:shěng,sì
+U+3B90	kJapanese	セイ ショウ カ ケ シ
+U+3B90	kMandarin	shěng
+U+3B91	kCantonese	caap3
+U+3B91	kDefinition	sound of broken sticks; crack of a wooden stick, a forest; wooded land
+U+3B91	kHanyuPinyin	21251.040:chā,qì
+U+3B91	kJapanese	シュウ ソウ
+U+3B91	kMandarin	chā
+U+3B92	kDefinition	wood, (same as 禋) to worship with sincerity and reverence, to offer sacrifices to the Heaven
+U+3B92	kHanyuPinyin	21245.070:yān,yīn
+U+3B92	kJapanese	ゼン
+U+3B92	kMandarin	yān
+U+3B93	kCantonese	gang2
+U+3B93	kDefinition	(same as 亙 堥) an extreme limit, to fill, universal, connected, revolve
+U+3B93	kJapanese	コウ
+U+3B93	kMandarin	gèn
+U+3B94	kDefinition	vegetable, (non-classical, abbreviated from, same as 橦) a tree which grows in Yunnan, from the flowers of which a cloth is made
+U+3B94	kHanyuPinyin	21251.020:chòng,tóng
+U+3B94	kJapanese	ショウ トウ ズ
+U+3B94	kMandarin	chòng
+U+3B94	kVietnamese	tròng
+U+3B95	kDefinition	fruit, plant, (same as 檽) a fruit tree; black date
+U+3B95	kFanqie	而兖
+U+3B95	kHanyuPinyin	21246.070:ruǎn
+U+3B95	kJapanese	ジ ニ ゼン ネン
+U+3B95	kMandarin	ruǎn
+U+3B96	kDefinition	to lay; to put, drums, to rap, to quiver, to stir up
+U+3B96	kFanqie	古黠
+U+3B96	kHanyuPinyin	21243.040:jiá
+U+3B96	kJapanese	カツ ケチ
+U+3B96	kMandarin	jiá
+U+3B97	kDefinition	(same as 矜) the handle of a spear
+U+3B97	kHanyuPinyin	21258.090:qín
+U+3B97	kJapanese	キン ゴン
+U+3B97	kMandarin	qín
+U+3B98	kDefinition	a tree; winter peach
+U+3B98	kHanyuPinyin	21258.070:máo
+U+3B98	kJapanese	ボウ ム モウ
+U+3B98	kMandarin	máo
+U+3B99	kCantonese	ngok6
+U+3B99	kDefinition	a pitfall; a hole
+U+3B99	kFanqie	五各
+U+3B99	kHanyuPinyin	21250.040:è
+U+3B99	kJapanese	ガク
+U+3B99	kMandarin	è
+U+3B9A	kCantonese	leot6
+U+3B9A	kDefinition	(an ancient form of 栗) the chestnut tree, a kind of metalwork in ancient times
+U+3B9A	kFanqie	力質
+U+3B9A	kHanyuPinyin	21247.040:lì
+U+3B9A	kJapanese	リツ くり
+U+3B9A	kMandarin	lì
+U+3B9B	kCantonese	ci4
+U+3B9B	kDefinition	(same as 匙) a spoon, (same as 椸) (a dialect) a small table in front of the bed, a rack for clothes; a clothes-horse
+U+3B9B	kHanyuPinyin	21249.020:chí,yí
+U+3B9B	kJapanese	シ ジ イ
+U+3B9B	kMandarin	chí
+U+3B9C	kCantonese	zong1
+U+3B9C	kDefinition	a blocks engraved for holding things
+U+3B9C	kHanyuPinyin	21246.120:zāng
+U+3B9C	kJapanese	ソウ
+U+3B9C	kMandarin	zāng
+U+3B9D	kCantonese	hat6
+U+3B9D	kDefinition	angle steel, legs of a table
+U+3B9D	kFanqie	下革
+U+3B9D	kHanyuPinyin	21253.040:hé
+U+3B9D	kJapanese	カク ギャク
+U+3B9D	kMandarin	hé
+U+3B9E	kCantonese	zit3
+U+3B9E	kDefinition	(same as 楶) a wooden block or bracket on top of a column
+U+3B9E	kJapanese	セツ
+U+3B9E	kMandarin	jié
+U+3B9F	kDefinition	a whetstone, (a dialect) a corner; a nook; a crack; an opening; a cleft
+U+3B9F	kHanyuPinyin	21246.050:niǎn,kā
+U+3B9F	kJapanese	デン ネン
+U+3B9F	kMandarin	niǎn
+U+3BA0	kCantonese	wing4
+U+3BA1	kCantonese	gun3
+U+3BA1	kDefinition	(same as 爟) to light a fire; to set fire to
+U+3BA1	kJapanese	カン
+U+3BA1	kMandarin	guàn
+U+3BA2	kCantonese	hau4
+U+3BA2	kDefinition	fruit
+U+3BA2	kFanqie	戶鉤
+U+3BA2	kMandarin	hóu
+U+3BA3	kCantonese	koi3
+U+3BA3	kDefinition	(a variant of 概) a piece of wood used to strike off grain in a measure, thus:--all, to level, to adjust, generally, for the most part, (interchangeable 慨) emotional excitement, (interchangeable 溉) to wash; to cleanse; to rinse
+U+3BA3	kFanqie	古代
+U+3BA3	kHanyuPinyin	21257.010:gài
+U+3BA3	kMandarin	gài
+U+3BA3	kXHC1983	0352.071:gài
+U+3BA4	kCantonese	cung4
+U+3BA4	kDefinition	pine; fir, (same as 松 鬆) loose; lax; slack
+U+3BA4	kFanqie	祥容
+U+3BA4	kJapanese	ショウ
+U+3BA5	kDefinition	sails, the mat-covering of small boats, (interchangeable 軬) the covering of a carriage
+U+3BA5	kHanyuPinyin	21271.100:bèn,fàn
+U+3BA5	kJapanese	ホン ボン ハン
+U+3BA5	kMandarin	bèn
+U+3BA6	kCantonese	sok3
+U+3BA6	kDefinition	branches growing upwards, the tip of a branch or things of similar shape, (interchangeable 索) to importune
+U+3BA6	kFanqie	蘇各
+U+3BA6	kHanyuPinyin	21262.030:suǒ,sè
+U+3BA6	kJapanese	サク セキ シャク
+U+3BA6	kMandarin	suǒ
+U+3BA7	kCantonese	wu1
+U+3BA7	kDefinition	a tree, a fruit
+U+3BA7	kFanqie	哀都
+U+3BA7	kHanyuPinyin	21266.080:wū,wēn
+U+3BA7	kJapanese	オ ウ オツ オチ
+U+3BA7	kMandarin	wū
+U+3BA8	kCantonese	zik1
+U+3BA8	kDefinition	China cypress
+U+3BA8	kFanqie	子力
+U+3BA8	kHanyuPinyin	21264.010:jì
+U+3BA8	kJapanese	ショク シキ
+U+3BA8	kMandarin	jì
+U+3BA9	kCantonese	sik1
+U+3BA9	kDefinition	a tree
+U+3BA9	kFanqie	相即
+U+3BA9	kHanyuPinyin	21265.020:xī
+U+3BA9	kJapanese	ショク ソキ
+U+3BA9	kMandarin	xī
+U+3BAA	kCantonese	kung4
+U+3BAA	kDefinition	a small boat
+U+3BAA	kHanyuPinyin	21260.090:qióng
+U+3BAA	kJapanese	キョウ グ
+U+3BAA	kMandarin	qióng
+U+3BAB	kDefinition	a wooden article to be used to adjust a bow, a tiger shaped wooden article used to stop the music in ancient times
+U+3BAB	kFanqie	胡葛
+U+3BAB	kHanyuPinyin	21270.040:hé,xiá,qià
+U+3BAB	kJapanese	カツ ガチ ゲチ
+U+3BAB	kMandarin	hé
+U+3BAC	kDefinition	a fruit tree
+U+3BAC	kFanqie	烏紅
+U+3BAC	kHanyuPinyin	21266.060:wēng
+U+3BAC	kJapanese	オウ オ
+U+3BAC	kMandarin	wēng
+U+3BAD	kDefinition	(same as 椷) a casket; a box; a bowl; a cup, to allow, an envelope
+U+3BAD	kHanyuPinyin	21271.140:xián
+U+3BAD	kJapanese	カン ゴン
+U+3BAD	kMandarin	xián
+U+3BAE	kCantonese	git3
+U+3BAE	kDefinition	a well sweep
+U+3BAE	kHanyuPinyin	21259.040:jié
+U+3BAE	kJapanese	キツ ケツ
+U+3BAE	kMandarin	jié
+U+3BAF	kCantonese	wan4
+U+3BAF	kDefinition	whole (uncut, unsplit) firewood; complete, whole, undamaged, general; (same as 梡) a kind of tree
+U+3BAF	kFanqie	戶昆 胡本
+U+3BAF	kHanyuPinyin	21264.030:hún,huá
+U+3BAF	kJapanese	コン ゴン カツ カチ
+U+3BAF	kMandarin	hún
+U+3BB0	kCantonese	pei4
+U+3BB0	kDefinition	the small beam supporting the rafters at the eaves
+U+3BB0	kFanqie	房脂 蒲結
+U+3BB0	kHanyuPinyin	21265.030:pí
+U+3BB0	kJapanese	ヒ ビ ヘイ ヘツ ヘチ のき
+U+3BB0	kMandarin	pí
+U+3BB1	kCantonese	sing1
+U+3BB1	kDefinition	(said of grass, trees, vegetation and flora), (non-classical form of 森) luxuriant; exuberant; lush; flourishing
+U+3BB1	kHanyuPinyin	21261.050:shēn
+U+3BB1	kJapanese	ショウ シン
+U+3BB1	kMandarin	shēn
+U+3BB2	kDefinition	a small ring or a small piece of board attached to the muzzle of an ox; to thread through a halter
+U+3BB2	kFanqie	楚鳩
+U+3BB2	kHanyuPinyin	21267.060:chōu
+U+3BB2	kJapanese	シュ ス シュウ
+U+3BB2	kMandarin	chōu
+U+3BB3	kDefinition	a tree, (same as 栚) a piece of cross-wise board used for frame on which silkworms spin
+U+3BB3	kHanyuPinyin	21266.070:zhèn
+U+3BB3	kJapanese	チン
+U+3BB3	kMandarin	zhèn
+U+3BB4	kCantonese	sau1
+U+3BB4	kDefinition	(same as 艘) a numerary adjunct for ships
+U+3BB4	kFanqie	蘇遭
+U+3BB4	kJapanese	シュウ
+U+3BB5	kCantonese	zin1
+U+3BB5	kDefinition	common sandalwood
+U+3BB5	kHanyuPinyin	21268.090:zhān
+U+3BB5	kJapanese	セン
+U+3BB5	kMandarin	zhān
+U+3BB6	kCantonese	sok3
+U+3BB6	kDefinition	(same as 槊) a tree, a fence; a palisade; a railing
+U+3BB6	kFanqie	所角
+U+3BB6	kHanyuPinyin	21269.050:shuò
+U+3BB6	kJapanese	サク
+U+3BB6	kMandarin	shuò
+U+3BB7	kCantonese	gai1
+U+3BB7	kDefinition	a tree (as maple tree)
+U+3BB7	kFanqie	古奚
+U+3BB7	kHanyuPinyin	21263.060:jī
+U+3BB7	kJapanese	ケイ
+U+3BB7	kMandarin	jī
+U+3BB8	kCantonese	sung3
+U+3BB8	kDefinition	(corrupted form of 送) to send; to deliver; to present; to give, to send off
+U+3BB8	kJapanese	ソウ くさび
+U+3BB8	kMandarin	sòng
+U+3BB9	kCantonese	zi2
+U+3BB9	kDefinition	a tree
+U+3BB9	kHanyuPinyin	21263.080:zhǐ
+U+3BB9	kJapanese	チ
+U+3BB9	kMandarin	zhǐ
+U+3BBA	kCantonese	bun2
+U+3BBA	kDefinition	(ancient form of 本) stem; source; foundation; origin; basis, a book
+U+3BBA	kJapanese	ホン
+U+3BBA	kMandarin	běn
+U+3BBB	kCantonese	sou1
+U+3BBB	kDefinition	(same as 搔) to scratch lightly, to irritate; to annoy
+U+3BBC	kCantonese	sin3
+U+3BBD	kCantonese	pun4
+U+3BBE	kCantonese	long5
+U+3BBE	kDefinition	a place in today's Hunan Province
+U+3BBE	kHanyuPinyin	21270.090:lǎng
+U+3BBE	kMandarin	lǎng
+U+3BBE	kSMSZD2003Readings	lǎng粵long5
+U+3BBE	kTGHZ2013	210.050:lǎng
+U+3BBE	kXHC1983	0675.090:lǎng
+U+3BBF	kDefinition	a tree
+U+3BBF	kFanqie	卑吉
+U+3BBF	kHanyuPinyin	21279.060:bì
+U+3BBF	kJapanese	ヒツ ヒチ
+U+3BBF	kMandarin	bì
+U+3BC0	kDefinition	bonds and fetters for falcons and dogs used in hunting
+U+3BC0	kHanyuPinyin	21284.010:xuàn
+U+3BC0	kJapanese	セン ゼン
+U+3BC0	kMandarin	xuàn
+U+3BC1	kCantonese	pui4
+U+3BC1	kDefinition	household registers, printing plate, supporting boards used in building walls, (non-classical form 棓) to strike, a flail, a club, planks
+U+3BC1	kFanqie	扶來
+U+3BC1	kHanyuPinyin	21271.080:péi
+U+3BC1	kJapanese	ハイ バイ
+U+3BC1	kMandarin	péi
+U+3BC2	kCantonese	daai3
+U+3BC2	kDefinition	pillar or post of a frame on which silkworms spin
+U+3BC2	kFanqie	當蓋
+U+3BC2	kHanyuPinyin	21275.030:dài
+U+3BC2	kJapanese	タイ
+U+3BC2	kMandarin	dài
+U+3BC3	kCantonese	cat1
+U+3BC3	kDefinition	the varnish tree, paint, lacquer, varnish, to paint or varnish, black, sticky
+U+3BC3	kFanqie	親吉
+U+3BC3	kJapanese	シツ シチ
+U+3BC3	kMandarin	qī
+U+3BC4	kCantonese	zi1
+U+3BC4	kDefinition	(of trees) luxuriant; exuberant; lush
+U+3BC4	kFanqie	章移
+U+3BC4	kHanyuPinyin	21275.060:zhī
+U+3BC4	kJapanese	シ
+U+3BC4	kMandarin	zhī
+U+3BC5	kCantonese	pei4
+U+3BC5	kDefinition	the branches growing downwards; small trees; saplings; cuttings of trees for planting
+U+3BC5	kFanqie	符羈 符支 邊兮
+U+3BC5	kHanyuPinyin	21283.090:pí,bī
+U+3BC5	kJapanese	ヒ ビ ヘイ
+U+3BC5	kMandarin	pí
+U+3BC6	kCantonese	caan2
+U+3BC6	kDefinition	a tree, a mattress
+U+3BC6	kHanyuPinyin	21283.100:chǎn,shàn
+U+3BC6	kJapanese	サン セン
+U+3BC6	kMandarin	chǎn
+U+3BC7	kCantonese	bai6
+U+3BC7	kDefinition	(same as 梐) a stockade; a cheval de frise, a pen; a cage
+U+3BC7	kJapanese	ヘイ
+U+3BC7	kMandarin	bì
+U+3BC8	kCantonese	cuk1
+U+3BC8	kDefinition	(non-classical form) small trees; saplings
+U+3BC8	kJapanese	ソク
+U+3BC8	kMandarin	sù
+U+3BC9	kCantonese	wok6
+U+3BC9	kDefinition	(same as 檴) a tree; material for cups, a kind of birch found in Manchuria
+U+3BC9	kFanqie	丑居
+U+3BC9	kJapanese	ゲ チョ くわ
+U+3BC9	kMandarin	huò
+U+3BCA	kCantonese	han4
+U+3BCA	kDefinition	even measuring board for pecks and bushels
+U+3BCA	kFanqie	戶恩
+U+3BCA	kHanyuPinyin	21272.080:hén
+U+3BCA	kJapanese	コン ゴン
+U+3BCA	kMandarin	hén
+U+3BCB	kDefinition	a chest; a box, footstool; footrest, a tree, handle of an awl, ring of a knife or a sword, a round pillow that roused the sleeper when he moved
+U+3BCB	kFanqie	古迥
+U+3BCB	kHanyuPinyin	74369.040:jiǒng,yǐng
+U+3BCB	kJapanese	ケイ キョウ
+U+3BCB	kMandarin	jiǒng
+U+3BCC	kCantonese	cyun4
+U+3BCC	kDefinition	to operate or manage
+U+3BCC	kHanyuPinyin	21278.060:chuán
+U+3BCC	kJapanese	テン たるき
+U+3BCC	kMandarin	chuán
+U+3BCD	kDefinition	(same as 槳) an oar
+U+3BCD	kFanqie	即兩
+U+3BCD	kJapanese	ショウ
+U+3BCD	kMandarin	jiǎng
+U+3BCE	kCantonese	nyun6
+U+3BCE	kDefinition	stupid; dull, foolish; idiotic
+U+3BCE	kHanyuPinyin	21283.060:nèn
+U+3BCE	kJapanese	ドン
+U+3BCE	kMandarin	nèn
+U+3BCF	kCantonese	guk1
+U+3BCF	kDefinition	(same as 穀) grains; corns; cereals
+U+3BCF	kJapanese	ケイ
+U+3BCF	kMandarin	gǔ
+U+3BD0	kCantonese	to5
+U+3BD0	kDefinition	tubular, oval, elliptical
+U+3BD0	kJapanese	ダ
+U+3BD0	kMandarin	fǎng
+U+3BD1	kCantonese	zoeng1
+U+3BD2	kCantonese	mik6
+U+3BD3	kCantonese	taap3
+U+3BD3	kDefinition	(same as 榻) a couch; a bed, window; shutters
+U+3BD3	kFanqie	吐盍
+U+3BD3	kHanyuPinyin	21293.110:tà,dá
+U+3BD3	kJapanese	トウ
+U+3BD3	kMandarin	tà
+U+3BD4	kCantonese	ceoi3
+U+3BD4	kDefinition	to hull heavily, to pound heavily
+U+3BD4	kFanqie	此芮 楚稅
+U+3BD4	kHanyuPinyin	21292.080:cuì
+U+3BD4	kJapanese	セイ セ
+U+3BD4	kMandarin	cuì
+U+3BD5	kCantonese	sai1
+U+3BD5	kDefinition	sticks or frames; a wooden device used to torture the fingers by squeezing, the branches growing downwards; small trees; saplings; cuttings of trees for planting
+U+3BD5	kFanqie	先稽
+U+3BD5	kHanyuPinyin	21288.020:xī
+U+3BD5	kJapanese	セイ サイ シ
+U+3BD5	kMandarin	xī
+U+3BD6	kDefinition	a tree, a hammer, to beat with a hammer
+U+3BD6	kJapanese	タク
+U+3BD6	kMandarin	dé
+U+3BD7	kCantonese	haan4
+U+3BD7	kDefinition	a kind of tree
+U+3BD7	kHanyuPinyin	21296.130:xián
+U+3BD7	kJapanese	カン ゲン
+U+3BD7	kMandarin	xián
+U+3BD8	kCantonese	fun2
+U+3BD8	kDefinition	(same as 梡) a small wooden stand having four legs; it was used in sacrifice, faggots
+U+3BD8	kHanyuPinyin	21286.070:kuǎn
+U+3BD8	kJapanese	カン
+U+3BD8	kMandarin	kuǎn
+U+3BD9	kDefinition	the buckthorn or jujube (tree); dates
+U+3BD9	kFanqie	直列
+U+3BD9	kHanyuPinyin	21295.040:zhé
+U+3BD9	kJapanese	テツ デチ
+U+3BD9	kMandarin	zhé
+U+3BDA	kCantonese	daap3
+U+3BDA	kDefinition	a kind of tree (as plum)
+U+3BDA	kFanqie	都合
+U+3BDA	kHanyuPinyin	21293.020:tā
+U+3BDA	kJapanese	トウ
+U+3BDA	kMandarin	tā
+U+3BDB	kCantonese	wu4
+U+3BDB	kDefinition	gourd shaped dates
+U+3BDB	kFanqie	戶吳
+U+3BDB	kHanyuPinyin	21287.050:hú
+U+3BDB	kJapanese	コ ゴ
+U+3BDB	kMandarin	hú
+U+3BDC	kDefinition	(same as 椊) decayed wood
+U+3BDC	kFanqie	所臻
+U+3BDC	kHanyuPinyin	21288.110:cuì
+U+3BDC	kJapanese	スイ ズイ
+U+3BDC	kMandarin	cuì
+U+3BDD	kCantonese	lou6
+U+3BDD	kDefinition	paulownia
+U+3BDD	kHangul	로:N
+U+3BDD	kHanyuPinyin	21301.130:lù
+U+3BDD	kJapanese	ロ
+U+3BDD	kMandarin	lù
+U+3BDD	kVietnamese	rọ
+U+3BDE	kCantonese	gyun3
+U+3BDE	kDefinition	a kind of tree; material for making clothes
+U+3BDE	kFanqie	吉掾
+U+3BDE	kMandarin	juàn
+U+3BDF	kCantonese	luk1
+U+3BDF	kDefinition	(ancient form of 麓) foot of a hill or mountain
+U+3BDF	kFanqie	盧谷
+U+3BDF	kJapanese	ロク
+U+3BDF	kMandarin	lù
+U+3BE0	kDefinition	a cross-beam; an axle, etc.
+U+3BE0	kFanqie	苦甸
+U+3BE0	kHanyuPinyin	21284.060:qiàn
+U+3BE0	kJapanese	ケン
+U+3BE0	kMandarin	qiàn
+U+3BE1	kDefinition	to lacquer some kind of ashes on wooden articles or furniture, after drying out, smooth them and then paint, black lacquer
+U+3BE1	kFanqie	薄交
+U+3BE1	kHanyuPinyin	21294.020:pào,páo
+U+3BE1	kJapanese	ホウ ヒョウ カン ガン ビョウ
+U+3BE1	kMandarin	pào
+U+3BE2	kCantonese	zam6
+U+3BE2	kDefinition	(same as 栚 㮳) a piece of cross-wise board used for frame on which silkworms spin
+U+3BE2	kHanyuPinyin	21297.010:zhèn
+U+3BE2	kJapanese	よこぎ
+U+3BE2	kMandarin	zhèn
+U+3BE3	kCantonese	fan1
+U+3BE3	kDefinition	(same as 棻) a kind of fragrant tree used to produce perfume by burning it
+U+3BE3	kJapanese	フン
+U+3BE4	kDefinition	(same as 棘) the jujube tree, thorny brambles, a kind of date (with a sour taste)
+U+3BE4	kHanyuPinyin	21288.190:lì
+U+3BE4	kJapanese	リョク リキ
+U+3BE4	kMandarin	lì
+U+3BE5	kCantonese	cou4
+U+3BE5	kDefinition	(same as 曹) a Chinese family name, surrounded, a whole day; a revolution of the sun
+U+3BE5	kHanyuPinyin	21289.020:cáo,zāo
+U+3BE5	kJapanese	ソウ
+U+3BE5	kMandarin	cáo
+U+3BE6	kCantonese	kei4
+U+3BE6	kDefinition	(same as 棋) the game of chess, draughts and other similar games
+U+3BE6	kJapanese	キ
+U+3BE6	kMandarin	qí
+U+3BE7	kCantonese	ciu1
+U+3BE8	kCantonese	suk1
+U+3BE9	kDefinition	to put the growing up silkworms in different frames according to their sizes
+U+3BE9	kHanyuPinyin	10402.080:tì
+U+3BE9	kMandarin	tì
+U+3BEA	kCantonese	ling4
+U+3BEA	kDefinition	(same as 櫺) carved or patterned window-railings; sills, the wooden planks which join eaves with a house
+U+3BEA	kJapanese	レイ
+U+3BEA	kMandarin	líng
+U+3BEB	kCantonese	keoi4
+U+3BEB	kDefinition	a wattle or bamboo fence
+U+3BEB	kFanqie	強魚
+U+3BEB	kHanyuPinyin	21301.050:qú
+U+3BEB	kJapanese	キョ ゴ
+U+3BEB	kMandarin	qú
+U+3BEC	kCantonese	lim5
+U+3BEC	kDefinition	achievements; merit
+U+3BEC	kFanqie	良冉
+U+3BEC	kHanyuPinyin	21288.200:liǎn
+U+3BEC	kJapanese	レン いさお
+U+3BEC	kMandarin	liǎn
+U+3BED	kCantonese	lou5
+U+3BED	kDefinition	(a variant of 櫓) a lookout turret on a city wall, moveable wooden tower for archers, a scull a sweep, an oar, (in ancient warfare) a big shield; a long spear
+U+3BED	kJapanese	ロ
+U+3BED	kMandarin	lǔ
+U+3BED	kXHC1983	0737.091:lǔ
+U+3BEE	kCantonese	suk6
+U+3BEE	kDefinition	a kind of tree (as willow) with big leaves and in red color
+U+3BEE	kHanyuPinyin	21302.040:shú
+U+3BEE	kJapanese	ショク ゾク
+U+3BEE	kMandarin	shú
+U+3BEF	kCantonese	gung3
+U+3BEF	kDefinition	small cup, chest; box, a kind of container usually put on one's head to carry things
+U+3BEF	kFanqie	古送
+U+3BEF	kHanyuPinyin	21304.060:gòng,dǎn,jù
+U+3BEF	kJapanese	コウ ク タン トン グ
+U+3BEF	kMandarin	gòng
+U+3BF0	kCantonese	zik6
+U+3BF0	kDefinition	(same as 植) to plant; to set up, to erect, plants
+U+3BF0	kJapanese	チ
+U+3BF0	kMandarin	zhé
+U+3BF1	kDefinition	an enlarged bag, to wrap up, a parcel; a bundle; a package
+U+3BF1	kFanqie	普袍
+U+3BF1	kHanyuPinyin	21300.020:pāo
+U+3BF1	kJapanese	ヒョウ ビョウ ホウ ワイ エ
+U+3BF1	kMandarin	pāo
+U+3BF2	kCantonese	gam3
+U+3BF2	kDefinition	a wooden (bamboo) framework; a wooden pole; used as an obstacle to impede the door, a frame
+U+3BF2	kFanqie	居蔭
+U+3BF2	kHanyuPinyin	21299.110:jìn
+U+3BF2	kJapanese	キン コン
+U+3BF2	kMandarin	jìn
+U+3BF2	kVietnamese	cụm
+U+3BF3	kCantonese	king4
+U+3BF3	kDefinition	(same as 檠) a kind of tool to adjust bow; lamp holder, a tray with base
+U+3BF3	kFanqie	居影
+U+3BF3	kHangul	경:N
+U+3BF3	kJapanese	ケイ ゆだめ
+U+3BF3	kMandarin	qíng
+U+3BF3	kXHC1983	0935.041:qíng
+U+3BF4	kCantonese	jung4
+U+3BF5	kCantonese	dung2
+U+3BF6	kCantonese	zung1
+U+3BF6	kDefinition	the coir palm tree
+U+3BF6	kJapanese	ソウ ス シュ
+U+3BF6	kMandarin	zōng
+U+3BF7	kCantonese	buk6
+U+3BF7	kDefinition	dates, a kind of oak; Quercus dentata, (same as 樸) a shrub (plant); thicket, strong and durable, a county in ancient times
+U+3BF7	kHanyuPinyin	21309.090:pú
+U+3BF7	kJapanese	ホク ボク ハク
+U+3BF7	kMandarin	pú
+U+3BF7	kVietnamese	bục
+U+3BF8	kCantonese	zeon2
+U+3BF8	kDefinition	a basin
+U+3BF8	kFanqie	即忍
+U+3BF8	kHanyuPinyin	21311.040:jǐn
+U+3BF8	kJapanese	シン セン
+U+3BF8	kMandarin	jǐn
+U+3BF9	kCantonese	biu2
+U+3BF9	kDefinition	(corrupted form of 檦) to show; to exhibit, to manifest, a kind of supporting post
+U+3BF9	kMandarin	biǎo
+U+3BFA	kCantonese	haam6
+U+3BFA	kDefinition	a cabinet; a wardrobe; a cupboard, (same as 壏) hard ground
+U+3BFA	kFanqie	呼覽 胡懺
+U+3BFA	kHanyuPinyin	21308.010:jiàn
+U+3BFA	kJapanese	カン ガン
+U+3BFA	kMandarin	jiàn
+U+3BFB	kCantonese	gwan2
+U+3BFB	kDefinition	to bind; to tie up; a bundle; a bondage; restrictions; restraints
+U+3BFB	kHanyuPinyin	21307.110:gǔn
+U+3BFB	kJapanese	コン ゴン ケン
+U+3BFB	kMandarin	gǔn
+U+3BFC	kCantonese	goi3
+U+3BFD	kCantonese	ban1
+U+3BFD	kDefinition	the areca-nut; the betel-nut
+U+3BFD	kJapanese	ビン ヒン
+U+3BFD	kMandarin	bīn
+U+3BFE	kCantonese	zou1
+U+3BFE	kDefinition	a tree, (same as 槽) with both flowers and fruits; half and half
+U+3BFE	kHanyuPinyin	21312.110:zāo
+U+3BFE	kJapanese	ショウ ソウ
+U+3BFE	kMandarin	zāo
+U+3BFF	kCantonese	lip6
+U+3BFF	kDefinition	handle of a ladle, a plant; wistaria, or wisteria, a certain trees in Sichuan; material for candle
+U+3BFF	kFanqie	與涉 良涉
+U+3BFF	kHanyuPinyin	21316.010:liè,là
+U+3BFF	kJapanese	ヨウ リョウ ロウ
+U+3BFF	kMandarin	liè
+U+3BFF	kVietnamese	xộp
+U+3C00	kCantonese	lai4
+U+3C00	kDefinition	a kind of tree
+U+3C00	kHanyuPinyin	21314.050:lí
+U+3C00	kJapanese	レイ
+U+3C00	kMandarin	lí
+U+3C00	kTGHZ2013	215.160:lí
+U+3C01	kDefinition	a tree with slanted branches
+U+3C01	kFanqie	來可
+U+3C01	kHanyuPinyin	21313.050:luǒ
+U+3C01	kJapanese	ラ
+U+3C01	kMandarin	luǒ
+U+3C01	kVietnamese	lõi
+U+3C02	kCantonese	sam2
+U+3C02	kDefinition	a kind of tree; the juice of which is used to make wine
+U+3C02	kFanqie	式任
+U+3C02	kHanyuPinyin	21315.090:shěn
+U+3C02	kJapanese	シン
+U+3C02	kMandarin	shěn
+U+3C03	kCantonese	min4
+U+3C03	kDefinition	(same as 檰) a tree, the bark of which is used in medicine-- Eucommia ulmoides, an awning of the house
+U+3C03	kHanyuPinyin	21314.080:mián,miàn
+U+3C03	kJapanese	ベン メン
+U+3C03	kMandarin	mián
+U+3C04	kCantonese	zin1
+U+3C04	kDefinition	(non-classical form) a small chestnut tree, a kind of fruit; mountain plum
+U+3C04	kJapanese	セン
+U+3C04	kMandarin	jiàn
+U+3C05	kCantonese	dik1
+U+3C05	kDefinition	(same as 樀) eaves of a house; brim, part of a loom, the cross beams on the frame on which silkworms spin, a bookcase, to abandon or give up
+U+3C05	kHanyuPinyin	21315.070:dí,zhé
+U+3C05	kJapanese	テキ タク
+U+3C05	kMandarin	dí
+U+3C06	kDefinition	(same as 韛) an instrument to blow a fire; a bellows for forge, etc.
+U+3C06	kHanyuPinyin	21312.120:bèi
+U+3C06	kJapanese	ハイ
+U+3C06	kMandarin	bèi
+U+3C07	kDefinition	(a variant of 櫼) the square peck-shaped box half-way up a Chinese flagstaff
+U+3C08	kCantonese	lim5
+U+3C08	kDefinition	nice and pretty
+U+3C08	kFanqie	良冉
+U+3C08	kHanyuPinyin	63893.090:liǎn
+U+3C08	kMandarin	liǎn
+U+3C09	kCantonese	zeon1
+U+3C09	kDefinition	(same as 榛) the hazel nut or filbert tree, a thorny tree
+U+3C09	kJapanese	シン
+U+3C0A	kCantonese	cim4
+U+3C0A	kDefinition	a kind of tree; thin leaves
+U+3C0A	kFanqie	徐鹽
+U+3C0A	kHanyuPinyin	21316.040:xián
+U+3C0A	kJapanese	セン ゼン
+U+3C0A	kMandarin	xián
+U+3C0B	kCantonese	pan4
+U+3C0B	kDefinition	a kind of fruit tree; betel-nut; the areca-nut
+U+3C0B	kFanqie	符眞
+U+3C0B	kHanyuPinyin	21316.160:pín
+U+3C0B	kJapanese	ヒン ビン
+U+3C0B	kMandarin	pín
+U+3C0C	kCantonese	kok3
+U+3C0C	kDefinition	(non-classical form of 榷) to monopolize, to levy taxes
+U+3C0C	kJapanese	カク
+U+3C0C	kMandarin	què
+U+3C0D	kCantonese	lung4
+U+3C0D	kDefinition	a cage, a pen, a grating, bars, window; window frame
+U+3C0D	kFanqie	盧紅
+U+3C0D	kHanyuPinyin	21318.020:lóng
+U+3C0D	kJapanese	ロウ ル リョウ リュ
+U+3C0D	kMandarin	lóng
+U+3C0D	kXHC1983	0732.052:lóng
+U+3C0E	kCantonese	zeoi3
+U+3C0E	kDefinition	(same as 檇) a wooden pestle or rammer, ancient name of a place in Zhejiang province; southwest of Jiaxing, a kind of fruit
+U+3C0E	kJapanese	スイ
+U+3C0E	kMandarin	zuì
+U+3C0F	kCantonese	gou1
+U+3C0F	kDefinition	(same as 篙) a bamboo pole; a pole for punting a boat
+U+3C0F	kJapanese	コウ
+U+3C10	kCantonese	to5
+U+3C10	kDefinition	(same as 橢) oval; oblong; elliptical
+U+3C10	kJapanese	タ
+U+3C10	kMandarin	jué
+U+3C11	kDefinition	fruit tree
+U+3C11	kHanyuPinyin	21318.090:shān
+U+3C11	kJapanese	サン
+U+3C11	kMandarin	shān
+U+3C12	kCantonese	hok6
+U+3C12	kHanyuPinyin	21317.040:xué
+U+3C12	kJapanese	ガク
+U+3C12	kMandarin	xué
+U+3C13	kCantonese	laam5
+U+3C14	kDefinition	a kind of edible mushroom
+U+3C14	kHangul	섭:N
+U+3C14	kHanyuPinyin	21322.050:xiè
+U+3C14	kJapanese	ショウ
+U+3C14	kMandarin	xiè
+U+3C15	kCantonese	hei1
+U+3C15	kDefinition	a ladle (often made of dried calabash or gourd)
+U+3C15	kJapanese	キ
+U+3C16	kCantonese	laam5
+U+3C16	kDefinition	(same as 欖) the olive
+U+3C16	kJapanese	ラン
+U+3C16	kMandarin	lǎn
+U+3C17	kCantonese	cik1
+U+3C17	kDefinition	(same as 槭) a kind of maple (Acer palmatum)
+U+3C17	kHanyuPinyin	21323.040:qí
+U+3C17	kJapanese	シュク
+U+3C17	kMandarin	qí
+U+3C18	kDefinition	a kind of tree; often used to make instruments for sacrificial ceremonies in ancient times
+U+3C18	kHanyuPinyin	21323.190:yí
+U+3C18	kJapanese	イ
+U+3C18	kMandarin	yí
+U+3C19	kDefinition	weak, feeble and tender branches
+U+3C19	kHanyuPinyin	21324.030:nuó
+U+3C19	kJapanese	ダ
+U+3C19	kMandarin	nuó
+U+3C19	kVietnamese	nạng
+U+3C1A	kCantonese	lei4
+U+3C1A	kDefinition	(same as 籬) a bamboo fence; a hedge
+U+3C1A	kFanqie	呂支
+U+3C1A	kHanyuPinyin	21323.170:lí
+U+3C1A	kJapanese	リ
+U+3C1A	kMandarin	lí
+U+3C1B	kDefinition	name of a county
+U+3C1B	kHanyuPinyin	21324.060:yuè
+U+3C1B	kJapanese	ヤク
+U+3C1B	kMandarin	yuè
+U+3C1C	kCantonese	din1
+U+3C1D	kDefinition	to cough; cough
+U+3C1D	kHanyuPinyin	32134.110:yǐ
+U+3C1D	kJapanese	イ
+U+3C1D	kMandarin	yǐ
+U+3C1E	kCantonese	ci1
+U+3C1E	kDefinition	(same as 蚩 嗤) to laugh at; to make fun of; to deride; to ridicule
+U+3C1E	kHanyuPinyin	32134.050:chī
+U+3C1E	kJapanese	シ
+U+3C1E	kMandarin	chī
+U+3C1F	kDefinition	(same as 冀) hope; wish; to hope and scheme for, to stammer; to stutter; stuttering, to give
+U+3C1F	kHanyuPinyin	32135.100:jì,qì
+U+3C1F	kJapanese	キ ケ キツ コチ
+U+3C1F	kMandarin	jì
+U+3C20	kDefinition	to covet; greedy
+U+3C20	kFanqie	呼郎
+U+3C20	kHanyuPinyin	32136.080:hāng
+U+3C20	kJapanese	コウ
+U+3C20	kMandarin	hāng
+U+3C21	kDefinition	rash; impatient, very angry
+U+3C21	kJapanese	カイ ケ
+U+3C21	kMandarin	xiè
+U+3C22	kCantonese	hang1
+U+3C22	kDefinition	cough
+U+3C22	kHanyuPinyin	32135.020:kēng
+U+3C22	kJapanese	コウ キョウ
+U+3C22	kMandarin	kēng
+U+3C23	kDefinition	to vomit; to throw up; to disgorge, hiccough; shortwindedness, supposed upward motion of the spirit (in Chinese herb medicine), to sigh with grief or regret; to lament; to deplore
+U+3C23	kFanqie	即移 子智
+U+3C23	kHanyuPinyin	32138.060:zī
+U+3C23	kJapanese	シ ジ
+U+3C23	kMandarin	zī
+U+3C24	kDefinition	to laugh heartily; to roar with laughter, to breath
+U+3C24	kFanqie	虚我 呼箇 枯駕
+U+3C24	kHangul	하:N
+U+3C24	kHanyuPinyin	32136.150:hē,qiè
+U+3C24	kJapanese	カ ケ
+U+3C24	kMandarin	hē
+U+3C25	kDefinition	laugh
+U+3C25	kFanqie	呼計
+U+3C25	kHanyuPinyin	32136.140:xì,huì
+U+3C25	kJapanese	ケイ
+U+3C25	kMandarin	xì
+U+3C26	kCantonese	heoi3
+U+3C26	kDefinition	to breath with mouth open
+U+3C26	kFanqie	丘伽 丘倨
+U+3C26	kHanyuPinyin	32136.120:qù
+U+3C26	kJapanese	キョ コ カ あくび
+U+3C26	kMandarin	qù
+U+3C27	kCantonese	hoi1
+U+3C27	kDefinition	to drink, to swallow
+U+3C27	kHanyuPinyin	32137.130:hāi
+U+3C27	kJapanese	カイ
+U+3C27	kMandarin	hāi
+U+3C28	kDefinition	to take breath or rest (after strenuous exercise), hiccough; shortwindedness
+U+3C28	kFanqie	火佳
+U+3C28	kHanyuPinyin	32137.010:xiā
+U+3C28	kJapanese	キ カイ ケ
+U+3C28	kMandarin	xiā
+U+3C29	kCantonese	hoi1
+U+3C29	kDefinition	sound of laughter
+U+3C29	kFanqie	許其
+U+3C29	kHanyuPinyin	32138.090:hāi
+U+3C29	kJapanese	カイ
+U+3C29	kMandarin	hāi
+U+3C2A	kDefinition	sound, wicked; mean; vicious
+U+3C2A	kFanqie	古攜 於佳
+U+3C2A	kHanyuPinyin	32137.160:guī
+U+3C2A	kJapanese	アイ ケイ
+U+3C2A	kMandarin	guī
+U+3C2B	kCantonese	caam1
+U+3C2B	kDefinition	glad; joyful; happy, avaricious; greedy, cold
+U+3C2B	kHanyuPinyin	32138.130:chān
+U+3C2B	kJapanese	タン トン
+U+3C2B	kMandarin	chān
+U+3C2C	kCantonese	seon1
+U+3C2C	kDefinition	shortwindedness; hiccough, supposed upward motion of the spirit (in Chinese herb medicine), honesty; good faith; trust
+U+3C2C	kFanqie	相倫
+U+3C2C	kHanyuPinyin	32139.030:xún
+U+3C2C	kJapanese	シュン
+U+3C2C	kMandarin	xún
+U+3C2D	kCantonese	heoi1
+U+3C2D	kDefinition	pleasure; joy
+U+3C2D	kFanqie	況于
+U+3C2D	kHangul	후:N
+U+3C2D	kHanyuPinyin	32138.020:xū
+U+3C2D	kJapanese	ク コ
+U+3C2D	kMandarin	xū
+U+3C2E	kDefinition	to laugh at
+U+3C2E	kFanqie	時忍
+U+3C2E	kHanyuPinyin	32139.120:shèn
+U+3C2E	kJapanese	シン ジン
+U+3C2E	kMandarin	shèn
+U+3C2F	kDefinition	the way of speaking; to spit at and not agree about something, to spit (same as 否) negative, to deny, cruel; savage; wicked; coarse; rustic
+U+3C2F	kFanqie	他候 呼漏
+U+3C2F	kHanyuPinyin	32139.110:tòu,tǒu,hòu
+U+3C2F	kJapanese	トウ ヒュ ツ ク コウ ヒュウ
+U+3C2F	kMandarin	kòu
+U+3C30	kDefinition	asthmatic breathing, supposed upward motion of the spirit (in Chinese herb medicine), to long for; to covet, to hum over; to moan; to groan
+U+3C30	kFanqie	呼洽
+U+3C30	kHanyuPinyin	32139.130:xiā,qiè,hē
+U+3C30	kJapanese	コウ キョウ
+U+3C30	kMandarin	xiā
+U+3C31	kDefinition	(same as 歃) to smear the mouth with the blood of a victim when taking an oath, to taste; to try
+U+3C31	kJapanese	ソウ
+U+3C31	kMandarin	shà
+U+3C32	kDefinition	to blow off, to blow; to puff
+U+3C32	kFanqie	於六 之欲 況逼
+U+3C32	kHanyuPinyin	32142.060:yū,xù
+U+3C32	kJapanese	イク ケキ ショク ソク カク キョク
+U+3C32	kMandarin	yū
+U+3C33	kCantonese	aa3
+U+3C33	kDefinition	asses braying, shortwindedness; hiccough, asthmatic breathing, supposed upward motion of the spirit (in Chinese herb medicine), to exhaust; extreme
+U+3C33	kFanqie	衣嫁
+U+3C33	kHanyuPinyin	32142.020:yà,yā
+U+3C33	kJapanese	ア
+U+3C33	kMandarin	yà
+U+3C34	kDefinition	(of statement) to grate on the ear; earnest and faithful remonstrance
+U+3C34	kFanqie	匹候
+U+3C34	kHanyuPinyin	32144.020:pǒu
+U+3C34	kJapanese	ホウ フ
+U+3C34	kMandarin	pǒu
+U+3C35	kCantonese	zeot1
+U+3C35	kDefinition	to suck, to drink, to swallow
+U+3C35	kFanqie	子聿
+U+3C35	kHanyuPinyin	32144.010:zú
+U+3C35	kJapanese	シュツ シュチ
+U+3C35	kMandarin	zú
+U+3C36	kDefinition	to wrinkle the nose with sorrowful (when sob or weep), (same as 嘔) to vomit; to throw up
+U+3C36	kFanqie	平表
+U+3C36	kHanyuPinyin	32143.070:yǒu,ǒu
+U+3C36	kJapanese	ユウ キュウ オウ オ ヒョウ ビョウ ギョウ
+U+3C36	kMandarin	yǒu
+U+3C37	kCantonese	zi3
+U+3C37	kDefinition	resurrection; to come to life again, sick
+U+3C37	kJapanese	シ
+U+3C37	kMandarin	zì
+U+3C38	kCantonese	lim5
+U+3C38	kDefinition	(an abbreviated form of 歛 斂) to collect; to gather; to hold together, to desire
+U+3C38	kJapanese	カン ケン コン のぞむ あたえる
+U+3C38	kMandarin	liǎn
+U+3C39	kDefinition	(same as 欦) to laugh; to smile, greed; avarice, to cry, to shout, overbear; arrogant
+U+3C39	kFanqie	許咸
+U+3C39	kHanyuPinyin	32145.020:xiān,xiàn,hǎn
+U+3C39	kJapanese	カン コン ケン
+U+3C39	kMandarin	xiān
+U+3C3A	kCantonese	haa6
+U+3C3A	kDefinition	to drink; to swallow, disease of the throat; disease of the larynx
+U+3C3A	kHanyuPinyin	32147.030:xià,xiá
+U+3C3A	kJapanese	カ ゲ
+U+3C3A	kMandarin	xià
+U+3C3B	kDefinition	asses braying, to be happy suddenly, cruel; malignant; coarse, rude
+U+3C3B	kFanqie	於几
+U+3C3B	kHanyuPinyin	32144.100:yǐ,xī,hòu
+U+3C3B	kJapanese	キ イ ク コウ
+U+3C3B	kMandarin	yǐ
+U+3C3C	kDefinition	greed; avarice, to blow off
+U+3C3C	kFanqie	山輒
+U+3C3C	kHanyuPinyin	32144.090:shà,qiè
+U+3C3C	kJapanese	ショウ キョウ
+U+3C3C	kMandarin	shà
+U+3C3D	kDefinition	to exert oneself to yell; to yell loudly; to shout, overbearing; arrogant, vigorous
+U+3C3D	kFanqie	於建
+U+3C3D	kHanyuPinyin	32144.130:yàn
+U+3C3D	kJapanese	エン
+U+3C3D	kMandarin	yàn
+U+3C3E	kCantonese	giu3
+U+3C3E	kDefinition	songs of the people of 楚, a kind of music instrument in ancient times
+U+3C3E	kHanyuPinyin	32146.050:jiào
+U+3C3E	kJapanese	キョウ
+U+3C3E	kMandarin	jiào
+U+3C3F	kCantonese	hei1
+U+3C3F	kDefinition	to sigh in lamentation; to lament, to exclaim
+U+3C3F	kHanyuPinyin	32148.030:xī
+U+3C3F	kJapanese	ケイ
+U+3C3F	kMandarin	xī
+U+3C40	kCantonese	zyut3
+U+3C40	kDefinition	(same as 欼) to bite; to gnaw, (same as 嘬) to swallow a big mouthful without mastication
+U+3C40	kFanqie	初紀
+U+3C40	kJapanese	シ
+U+3C40	kMandarin	chǐ
+U+3C41	kDefinition	to ask; to inquire; to investigate, (same as 款) sincerity; article, item, etc., to entertain, slowly
+U+3C41	kHanyuPinyin	32149.040:shì,kuǎn
+U+3C41	kJapanese	スイ カン まこと
+U+3C41	kMandarin	shì
+U+3C42	kCantonese	hong1
+U+3C42	kDefinition	hungry; starving, a poor harvest of grains
+U+3C42	kFanqie	苦岡
+U+3C42	kHanyuPinyin	32150.110:kāng
+U+3C42	kJapanese	コウ
+U+3C42	kMandarin	kāng
+U+3C43	kCantonese	jam2
+U+3C43	kDefinition	(ancient form of 飲) to drink; to swallow
+U+3C43	kFanqie	於錦
+U+3C43	kJapanese	イン のむ
+U+3C43	kMandarin	yǐn
+U+3C43	kXHC1983	1379.020:yǐn
+U+3C44	kDefinition	to spit, to cough, keep quiet; to keep silence; speechless; wordless
+U+3C44	kFanqie	呼北
+U+3C44	kHanyuPinyin	32151.080:hēi,mò
+U+3C44	kJapanese	コク ボク モク
+U+3C44	kMandarin	hēi
+U+3C45	kDefinition	(ancient form of 懿) virtuous; fine; good
+U+3C45	kJapanese	イ
+U+3C45	kMandarin	yì
+U+3C46	kCantonese	hei1
+U+3C46	kDefinition	to smile at each other
+U+3C46	kHanyuPinyin	32152.060:xī
+U+3C46	kJapanese	キ
+U+3C46	kMandarin	xī
+U+3C47	kCantonese	sik1
+U+3C47	kDefinition	fear; dread; fright; scare, sad; sorrowful; mournful
+U+3C47	kFanqie	所力
+U+3C47	kHanyuPinyin	32152.030:sè,xì
+U+3C47	kJapanese	ショク シキ コキ キョク キョウ
+U+3C47	kMandarin	sè
+U+3C48	kDefinition	name of a person
+U+3C48	kHanyuPinyin	32152.020:jìn
+U+3C48	kJapanese	キン ゴン
+U+3C48	kMandarin	jìn
+U+3C49	kDefinition	moving of the mouth
+U+3C49	kJapanese	ギョウ
+U+3C49	kMandarin	yè
+U+3C4A	kDefinition	asthmatic breathing; shortwindedness; hiccough; husky voice, (same as 嗄) (of voice) hoarse
+U+3C4A	kFanqie	於求
+U+3C4A	kHanyuPinyin	32153.090:yōu
+U+3C4A	kJapanese	ユウ ウ
+U+3C4A	kMandarin	yōu
+U+3C4B	kCantonese	kok3
+U+3C4B	kDefinition	(same as 塙 確) high; lofty; noble, sure; certain; firm; real; true
+U+3C4B	kHanyuPinyin	32153.140:què
+U+3C4B	kJapanese	コウ
+U+3C4B	kMandarin	què
+U+3C4C	kDefinition	to take, to select, to get angry; to lose the temper
+U+3C4C	kHanyuPinyin	32154.060:yé,chè
+U+3C4C	kJapanese	ヨウ ショウ
+U+3C4C	kMandarin	yé
+U+3C4D	kCantonese	lyun4
+U+3C4D	kDefinition	to owe, deficient, confused; puzzled
+U+3C4D	kFanqie	落官
+U+3C4D	kHanyuPinyin	32154.090:luán
+U+3C4D	kJapanese	ラン ケン
+U+3C4D	kMandarin	luán
+U+3C4E	kDefinition	cannot be known; agnostic
+U+3C4E	kFanqie	古渾
+U+3C4E	kHanyuPinyin	32154.100,32154.110:kūn
+U+3C4E	kJapanese	コン
+U+3C4E	kMandarin	kūn
+U+3C4F	kDefinition	(ancient form of 正) the right side, proper, pure, honest and virtuous, original, exactly
+U+3C4F	kJapanese	セイ
+U+3C4F	kMandarin	zhèng
+U+3C50	kCantonese	zing3
+U+3C51	kCantonese	seoi3
+U+3C52	kCantonese	ho1
+U+3C52	kDefinition	(ancient form of 訶) to scold or blame in a loud voice
+U+3C52	kFanqie	虎何
+U+3C52	kJapanese	カ
+U+3C53	kCantonese	ling4
+U+3C54	kCantonese	se1
+U+3C54	kDefinition	(same as 些) a small quantity or number; a little; a few; some
+U+3C54	kHanyuPinyin	21442.010:xiē
+U+3C54	kMandarin	xiē
+U+3C55	kCantonese	gwai1
+U+3C55	kDefinition	(large seal type 歸) the marriage of a woman, to return to; to revert to; to go back, to belong to, to restore, to send back
+U+3C55	kFanqie	舉韋
+U+3C55	kJapanese	キ かえる
+U+3C56	kCantonese	seoi6
+U+3C56	kDefinition	to stay; to stop (at a certain stage); to desist, to detain, to prohibit; to end, to come to; to stop at, still; calm, later
+U+3C56	kFanqie	秦醉
+U+3C56	kHanyuPinyin	21443.150:cuì
+U+3C56	kJapanese	スイ ズイ
+U+3C56	kMandarin	cuì
+U+3C57	kDefinition	a breath, news; tidings, to stop; to end
+U+3C57	kHanyuPinyin	21444.090:xiū
+U+3C57	kJapanese	キュウ ク
+U+3C57	kMandarin	xiū
+U+3C58	kDefinition	(same as 魘) nightmare
+U+3C58	kJapanese	エン
+U+3C58	kMandarin	àn
+U+3C59	kDefinition	(same as 朽) rotten, decayed, useless, (same as 咼 剮) a wry mouth, to cut a criminal in pieces; to hack
+U+3C59	kFanqie	許久
+U+3C59	kHanyuPinyin	21380.020:xiǔ,guǎ
+U+3C59	kJapanese	キュウ ク くちる
+U+3C59	kMandarin	xiǔ
+U+3C5A	kDefinition	(same as 殘) to destroy; to injure; to damage; to spoil, cruel and fierce, crippled
+U+3C5A	kFanqie	昨干 五刮
+U+3C5A	kJapanese	サン ザン ガチ ガツ ハツ ハチ
+U+3C5A	kMandarin	cán
+U+3C5B	kDefinition	(non-classical form) to destroy; to injure; to damage, to exhaust, to complete; to finish, (ancient form 布) cloth; textiles
+U+3C5B	kHanyuPinyin	21381.170:chuǎn,bù
+U+3C5B	kJapanese	セン ホ
+U+3C5B	kMandarin	chuǎn
+U+3C5C	kCantonese	zaat3
+U+3C5C	kDefinition	pestilence
+U+3C5C	kFanqie	側八
+U+3C5C	kJapanese	サツ セチ
+U+3C5C	kMandarin	zhá
+U+3C5D	kCantonese	sei2
+U+3C5E	kDefinition	danger; precarious; perilous, lofty; high, to decay; to break; to snap
+U+3C5E	kFanqie	魚及
+U+3C5E	kHanyuPinyin	21384.080:yì,lā
+U+3C5E	kJapanese	ギュウ ゴウ ロウ
+U+3C5E	kMandarin	yì
+U+3C5F	kCantonese	pei1
+U+3C5F	kDefinition	to rip open the flesh, to break; to snap
+U+3C5F	kFanqie	敷羈 匹靡
+U+3C5F	kHanyuPinyin	21384.110:pī,pǐ
+U+3C5F	kJapanese	ヒ
+U+3C5F	kMandarin	pī
+U+3C60	kCantonese	fu1
+U+3C60	kDefinition	withered; dry, calamity; disaster, (ancient form 辜) sin; crime; guilt
+U+3C60	kFanqie	苦胡
+U+3C60	kHanyuPinyin	21383.090:kū,gū
+U+3C60	kJapanese	コ ク
+U+3C60	kMandarin	kū
+U+3C61	kCantonese	sing1
+U+3C61	kDefinition	the soul out of one's body; as good as dead
+U+3C61	kFanqie	山矜 色庱
+U+3C61	kHanyuPinyin	21386.010:shēng
+U+3C61	kJapanese	ショウ
+U+3C61	kMandarin	shēng
+U+3C62	kCantonese	long4
+U+3C62	kDefinition	the dead
+U+3C62	kHanyuPinyin	21388.040:láng
+U+3C62	kJapanese	ロウ
+U+3C62	kMandarin	láng
+U+3C63	kCantonese	teoi2
+U+3C63	kDefinition	uneven, weak; feeble
+U+3C63	kFanqie	吐猥
+U+3C63	kHanyuPinyin	21387.230:tuǐ
+U+3C63	kJapanese	タイ テ
+U+3C63	kMandarin	tuǐ
+U+3C64	kDefinition	to exhaust; extreme; topmost, to die
+U+3C64	kFanqie	先擊
+U+3C64	kHanyuPinyin	21388.110:xī
+U+3C64	kJapanese	セキ シャク
+U+3C64	kMandarin	xī
+U+3C65	kCantonese	ling4
+U+3C65	kDefinition	the evil spirits come out, sick and poor, stupid; rude, inattentive; absent-minded; careless
+U+3C65	kFanqie	力膺 魯鄧
+U+3C65	kHanyuPinyin	21388.060:líng,lèng
+U+3C65	kJapanese	リョウ ロウ
+U+3C65	kMandarin	líng
+U+3C66	kCantonese	kei1
+U+3C66	kDefinition	to discard, to abandon, to die; death
+U+3C66	kFanqie	去奇 居宜 居綺
+U+3C66	kHanyuPinyin	21389.020:qī
+U+3C66	kJapanese	キ
+U+3C66	kMandarin	qī
+U+3C67	kCantonese	waat3
+U+3C67	kDefinition	stinking smell, expression of a dead person
+U+3C67	kHanyuPinyin	21390.150:wò,yuǎn
+U+3C67	kJapanese	エン オン ワツ ワチ
+U+3C67	kMandarin	wò
+U+3C68	kCantonese	lim5
+U+3C68	kDefinition	(same as 殮) to prepare a body for the coffin
+U+3C68	kJapanese	レン
+U+3C68	kMandarin	liàn
+U+3C69	kCantonese	duk6
+U+3C69	kDefinition	an abortion; stillborn
+U+3C69	kMandarin	dú
+U+3C6A	kCantonese	fan1
+U+3C6A	kDefinition	(standard form of 殙) stupid and confused; muddled and delirious; unconscious; in a state of coma, to breathe one's last
+U+3C6A	kJapanese	コン ボン
+U+3C6A	kMandarin	mèn
+U+3C6B	kCantonese	laan6
+U+3C6B	kDefinition	destroyed or ruined; to rot or decay; to disintegrate or decompose
+U+3C6B	kJapanese	ラン
+U+3C6B	kMandarin	làn
+U+3C6C	kDefinition	cannot recognize people
+U+3C6C	kFanqie	烏賄
+U+3C6C	kHanyuPinyin	21391.090:wěi
+U+3C6C	kJapanese	ワイ エ
+U+3C6C	kMandarin	wěi
+U+3C6D	kCantonese	dyun6
+U+3C6D	kDefinition	(same as 毈) an infertile egg
+U+3C6D	kJapanese	タン
+U+3C6D	kMandarin	duàn
+U+3C6E	kCantonese	kui2
+U+3C6E	kDefinition	(simplified form of 殨) to open, as an ulcer or sore; bursting of an abscess; inflamed; inflammation
+U+3C6E	kMandarin	kuài
+U+3C6E	kXHC1983	0504.170:huì
+U+3C6F	kCantonese	ngoi4
+U+3C6F	kDefinition	get the unborn baby goat by killing the mother goat
+U+3C6F	kFanqie	古哀 五來
+U+3C6F	kHanyuPinyin	21392.050:ái
+U+3C6F	kJapanese	ガイ カイ
+U+3C6F	kMandarin	ái
+U+3C70	kCantonese	zoi2
+U+3C70	kDefinition	to destroy; to ruin, to put off
+U+3C70	kHanyuPinyin	21392.120:zǎi
+U+3C70	kJapanese	サイ
+U+3C70	kMandarin	zǎi
+U+3C71	kCantonese	wui6
+U+3C71	kDefinition	uneven; unconscious, to know nothing about...
+U+3C71	kFanqie	胡罪
+U+3C71	kHanyuPinyin	21392.070:huì
+U+3C71	kJapanese	カイ エ
+U+3C71	kMandarin	huì
+U+3C72	kDefinition	withered; faded; to die, a minor illness (of foot and hand)
+U+3C72	kFanqie	於賜
+U+3C72	kHanyuPinyin	21392.080:yì
+U+3C72	kJapanese	イ
+U+3C72	kMandarin	yì
+U+3C73	kCantonese	mok6
+U+3C73	kDefinition	lonely; lonesome
+U+3C73	kFanqie	莫白
+U+3C73	kHanyuPinyin	21393.020:mò
+U+3C73	kJapanese	バク マク
+U+3C73	kMandarin	mò
+U+3C74	kDefinition	sick, a dead animal, skeleton
+U+3C74	kFanqie	疾智
+U+3C74	kHanyuPinyin	21392.140:zì
+U+3C74	kJapanese	シ
+U+3C74	kMandarin	zì
+U+3C75	kCantonese	fan3
+U+3C75	kDefinition	to die, to open, as an ulcer or sore
+U+3C75	kFanqie	方問
+U+3C75	kHanyuPinyin	21394.060:fèn
+U+3C75	kJapanese	フン
+U+3C75	kMandarin	fèn
+U+3C76	kCantonese	pang4
+U+3C76	kDefinition	a swollen corpse, swell
+U+3C76	kHanyuPinyin	21394.070:péng,bēng
+U+3C76	kJapanese	ホウ ヒョウ
+U+3C76	kMandarin	péng
+U+3C77	kCantonese	zaap6
+U+3C78	kDefinition	to exhaust; extreme; highest; farthest, to die
+U+3C78	kFanqie	房益 扶歷
+U+3C78	kHanyuPinyin	21395.120:bì
+U+3C78	kJapanese	ヘキ ヒャク ビャク
+U+3C78	kMandarin	bì
+U+3C79	kCantonese	lik6
+U+3C79	kDefinition	to die from disease
+U+3C79	kHanyuPinyin	21396.050:lì
+U+3C79	kJapanese	レキ リャク
+U+3C79	kMandarin	lì
+U+3C7A	kDefinition	(interchangeable 臚) the skin; the belly
+U+3C7A	kHanyuPinyin	21396.060:lú
+U+3C7A	kJapanese	リョ ロ
+U+3C7A	kMandarin	lú
+U+3C7B	kDefinition	diseases of dumb creatures, diseases of animals, illness; disease; ailment
+U+3C7B	kFanqie	郎外 魯過
+U+3C7B	kHanyuPinyin	21396.160:luò
+U+3C7B	kJapanese	ラ ライ レ
+U+3C7B	kMandarin	luò
+U+3C7C	kCantonese	hoi1
+U+3C7C	kDefinition	a kind of ornaments, people wore in ancient time in order to avoid evil spirits or influences
+U+3C7C	kHanyuPinyin	32155.020:hāi
+U+3C7C	kJapanese	カイ アイ
+U+3C7C	kMandarin	hāi
+U+3C7D	kCantonese	dam2
+U+3C7D	kDefinition	(same as 抌) to hit or to strike heavily, to dip, to administer; to control, to govern; to treat; to cure, to punish
+U+3C7D	kFanqie	巨金 張甚
+U+3C7D	kHanyuPinyin	32155.060:zhěn,qín
+U+3C7D	kJapanese	チン キン ゴン タン トン
+U+3C7D	kMandarin	zhěn
+U+3C7E	kCantonese	goi1
+U+3C7E	kDefinition	a kind of ornaments, people wore in ancient time in order to avoid evil spirits or influences, sound of laughter
+U+3C7E	kFanqie	苦哀
+U+3C7E	kHanyuPinyin	32159.020:gāi,kāi
+U+3C7E	kJapanese	カイ ガイ
+U+3C7E	kMandarin	gāi
+U+3C7F	kCantonese	kok3
+U+3C7F	kDefinition	(interchangeable 殼) the husk, skin or shell of fruits; the shell of snakes, insects, etc., the shells of mollusks; a bag or case made of leather for weapons, (interchangeable 慤) prudent; cautious, (same as 嗀) to vomit; to throw up, strong; durable; solid; firm; stable
+U+3C7F	kHanyuPinyin	32156.020:què,hù,qiǎng
+U+3C7F	kJapanese	カク から
+U+3C7F	kMandarin	què
+U+3C80	kDefinition	to beat; to strike; to attack, to move with happiness; excited, (a corrupted form) to laugh at
+U+3C80	kFanqie	側鄰 士臻
+U+3C80	kHanyuPinyin	32159.100:zhēn,chēn
+U+3C80	kJapanese	シン
+U+3C80	kMandarin	zhēn
+U+3C81	kCantonese	hung1
+U+3C81	kDefinition	to beat; to strike; to attack, to control, to charge; to sue, to kill all
+U+3C81	kHanyuPinyin	32161.010:kōng,zhōng
+U+3C81	kJapanese	コウ ク シュウ シュ
+U+3C81	kMandarin	kōng
+U+3C82	kCantonese	cang4
+U+3C82	kDefinition	to push, unceremoniously; impudently
+U+3C82	kHanyuPinyin	32160.110:chéng
+U+3C82	kJapanese	トウ ジョウ
+U+3C82	kMandarin	chéng
+U+3C83	kDefinition	smooth and curved, to strike or beat heavily
+U+3C83	kFanqie	去秋
+U+3C83	kHanyuPinyin	32160.100:jiù
+U+3C83	kJapanese	キュウ ク ジュウ ニュ
+U+3C83	kMandarin	jiù
+U+3C84	kCantonese	huk1
+U+3C84	kDefinition	unburnt bricks or tiles
+U+3C84	kFanqie	空谷
+U+3C84	kHanyuPinyin	32161.040:kū
+U+3C84	kJapanese	フ
+U+3C84	kMandarin	jué
+U+3C84	kXHC1983	0618.121:jué
+U+3C85	kCantonese	gai3
+U+3C85	kDefinition	to bind, to exhaust; to use up; to complete; to finish, to slay
+U+3C85	kFanqie	古詣
+U+3C85	kHanyuPinyin	32164.070:jì
+U+3C85	kJapanese	ケイ カイ
+U+3C85	kMandarin	jì
+U+3C86	kCantonese	ling4
+U+3C86	kDefinition	noise
+U+3C86	kHanyuPinyin	32166.070:líng
+U+3C86	kJapanese	レイ リョウ
+U+3C86	kMandarin	líng
+U+3C87	kCantonese	dung1
+U+3C87	kDefinition	(non-classical form of 鼕) the rattle of drums
+U+3C87	kJapanese	トウ ロウ
+U+3C88	kCantonese	siu4
+U+3C88	kDefinition	(same as 韶) the name of the music of the legendary Emperor, harmonious, (large seal type 鞀 婸) hand-drum used by pedlars; it is sounded by twirling it backwards in the hand, so that two swinging knobs can strike the face of the drum
+U+3C88	kFanqie	市昭
+U+3C88	kHanyuPinyin	32166.090:sháo,táo
+U+3C88	kJapanese	ショウ ジョウ トウ ドウ ふりつづみ
+U+3C88	kMandarin	sháo
+U+3C89	kCantonese	kok3
+U+3C89	kDefinition	egg shells
+U+3C89	kFanqie	空谷 苦角
+U+3C89	kHanyuPinyin	32167.040:què
+U+3C89	kJapanese	カク コク
+U+3C89	kMandarin	què
+U+3C8A	kDefinition	(corrupted form of 叡) to understand thoroughly; quick or keen of perception, wise and clever, the profoundest; the divine sagacity of sages
+U+3C8A	kJapanese	エイ あきらか
+U+3C8A	kMandarin	ruì
+U+3C8B	kCantonese	coek3
+U+3C8B	kDefinition	a kind of animals (like rabbit, it is blue colored and much bigger)
+U+3C8B	kFanqie	丑略
+U+3C8B	kHanyuPinyin	21418.020:chuò
+U+3C8B	kJapanese	チャク
+U+3C8B	kMandarin	chuò
+U+3C8C	kCantonese	ning6
+U+3C8C	kDefinition	dog's hair
+U+3C8C	kHanyuPinyin	31995.040:nèng
+U+3C8C	kJapanese	ジョウ ニョウ
+U+3C8C	kMandarin	nèng
+U+3C8D	kCantonese	zi1
+U+3C8D	kDefinition	woolen textiles; fine cloth
+U+3C8D	kFanqie	章移
+U+3C8D	kHanyuPinyin	31995.100:zhī
+U+3C8D	kJapanese	シ
+U+3C8D	kMandarin	zhī
+U+3C8E	kDefinition	(non-classical form of 氀) woolen textiles; (non-classical form of 毹) woolen blanket, a kind of minority dress; stupid and vulgar
+U+3C8E	kJapanese	ル
+U+3C8E	kMandarin	lóu
+U+3C8F	kDefinition	flying feather, soft; light
+U+3C8F	kFanqie	普袍
+U+3C8F	kHanyuPinyin	31995.150:pāo
+U+3C8F	kJapanese	ホウ
+U+3C8F	kMandarin	pāo
+U+3C90	kCantonese	gam1
+U+3C91	kCantonese	seoi2
+U+3C92	kCantonese	bou6
+U+3C92	kDefinition	(same as 菢) to incubate; to brood; to hatch; to sit on a nest, a woolen blanket
+U+3C92	kHanyuPinyin	31996.110:bào,qú
+U+3C92	kJapanese	ホウ ボウ
+U+3C92	kMandarin	bào
+U+3C93	kCantonese	jung2
+U+3C93	kDefinition	(a variant of 絨) fine, soft fur or hair; down, felt, camel's hair
+U+3C93	kFanqie	傷遇
+U+3C93	kHanyuPinyin	31997.030:shù
+U+3C93	kJapanese	シュ
+U+3C93	kMandarin	róng
+U+3C93	kXHC1983	0969.012:róng
+U+3C94	kCantonese	sin1
+U+3C94	kDefinition	woolen textiles; fine cloth
+U+3C94	kFanqie	相然
+U+3C94	kHanyuPinyin	31999.030:xiān
+U+3C94	kJapanese	セン シン
+U+3C94	kMandarin	xiān
+U+3C95	kDefinition	variegated; woolen fabric of different colors
+U+3C95	kFanqie	郎外 力輟
+U+3C95	kHanyuPinyin	31998.170:lèi
+U+3C95	kJapanese	ライ レ レツ レチ
+U+3C95	kMandarin	lèi
+U+3C96	kCantonese	siu1
+U+3C96	kDefinition	fur; feather; soft and light
+U+3C96	kFanqie	蘇彫
+U+3C96	kHanyuPinyin	31998.110:xiāo
+U+3C96	kJapanese	ショウ シュウ シュ
+U+3C96	kMandarin	xiāo
+U+3C97	kCantonese	fu1
+U+3C97	kDefinition	to smooth the hair, woolen textiles; fine cloth
+U+3C97	kFanqie	芳無
+U+3C97	kHanyuPinyin	31998.180:fū
+U+3C97	kJapanese	フ
+U+3C97	kMandarin	fū
+U+3C98	kCantonese	keoi4
+U+3C98	kDefinition	(corrupted form of 氍) fine woolen cloth, a mat used by the emperor in worshipping
+U+3C98	kMandarin	qú
+U+3C99	kDefinition	(same as 毹) woolen blanket with decorative design or pattern, to waste; to destroy
+U+3C99	kJapanese	ショ ソ
+U+3C9A	kCantonese	saa1
+U+3C9A	kDefinition	long hair
+U+3C9A	kFanqie	所加
+U+3C9A	kHanyuPinyin	31999.060:shā
+U+3C9A	kJapanese	サ シャ
+U+3C9A	kMandarin	shā
+U+3C9A	kTang	shra
+U+3C9B	kCantonese	zi2
+U+3C9B	kDefinition	hairy animals
+U+3C9B	kHanyuPinyin	32000.030:zhǐ
+U+3C9B	kJapanese	チ
+U+3C9B	kMandarin	zhǐ
+U+3C9C	kCantonese	taan2
+U+3C9C	kDefinition	(non-classical form of 毯) rugs; carpets
+U+3C9C	kJapanese	タン
+U+3C9C	kMandarin	tán
+U+3C9D	kDefinition	(corrupt form of 氄) fine hair of birds and animals
+U+3C9D	kFanqie	莫報
+U+3C9D	kJapanese	ジョウ ニュ ジュン ニン ボウ モウ
+U+3C9D	kMandarin	rǒng
+U+3C9E	kCantonese	seot1
+U+3C9E	kDefinition	short hair, growing hair
+U+3C9E	kFanqie	蘇骨
+U+3C9E	kHanyuPinyin	32000.110:sū,zú
+U+3C9E	kJapanese	ソツ ソチ
+U+3C9E	kMandarin	sū
+U+3C9F	kDefinition	hair
+U+3C9F	kFanqie	於丙
+U+3C9F	kHanyuPinyin	32001.110:yǐng
+U+3C9F	kJapanese	エイ ヨウ
+U+3C9F	kMandarin	yǐng
+U+3CA0	kCantonese	mou4
+U+3CA0	kDefinition	(non-classical, abbreviated form of 氂) horse tail, long hair; thick hair, (variant of 膧) a wild yak
+U+3CA0	kJapanese	リ
+U+3CA0	kMandarin	máo
+U+3CA1	kCantonese	noi6
+U+3CA1	kDefinition	thick coat of fur, hairy
+U+3CA1	kFanqie	奴帶
+U+3CA1	kHanyuPinyin	32001.120:nài
+U+3CA1	kJapanese	ダイ ナイ
+U+3CA1	kMandarin	nài
+U+3CA2	kDefinition	hair knots in a mess
+U+3CA2	kFanqie	薄泫
+U+3CA2	kHanyuPinyin	32002.140:biàn
+U+3CA2	kJapanese	ヘン ベン
+U+3CA2	kMandarin	biàn
+U+3CA3	kDefinition	woolen blanket with decorative design or pattern
+U+3CA3	kJapanese	シュウ
+U+3CA4	kCantonese	seoi1
+U+3CA4	kDefinition	long hair, a few thin hair hanging down
+U+3CA4	kHanyuPinyin	32003.160:shuāi
+U+3CA4	kJapanese	スイ
+U+3CA4	kMandarin	shuāi
+U+3CA5	kCantonese	tong4
+U+3CA5	kDefinition	a kind of woolen textiles with curved pattern, a decorative ornament on an official hat
+U+3CA5	kFanqie	徒郎
+U+3CA5	kHanyuPinyin	32003.180:táng
+U+3CA5	kJapanese	トウ ドウ
+U+3CA5	kMandarin	táng
+U+3CA6	kCantonese	hon6
+U+3CA6	kDefinition	long hair; mane
+U+3CA6	kFanqie	侯旰
+U+3CA6	kHanyuPinyin	32003.020:hàn
+U+3CA6	kJapanese	カン ガン
+U+3CA6	kMandarin	hàn
+U+3CA7	kCantonese	sou3
+U+3CA7	kDefinition	hairy
+U+3CA7	kHanyuPinyin	32004.050:sào
+U+3CA7	kJapanese	ソウ
+U+3CA7	kMandarin	sào
+U+3CA8	kDefinition	a decorative fine blanket on the top of a saddle, petty; trifling
+U+3CA8	kHanyuPinyin	32002.210:róng
+U+3CA8	kJapanese	ジョウ ニュ
+U+3CA8	kMandarin	róng
+U+3CA9	kCantonese	taap3
+U+3CAA	kCantonese	dang1
+U+3CAA	kDefinition	woolen blanket with decorative design or pattern, a kind of animal
+U+3CAA	kFanqie	都滕
+U+3CAA	kHanyuPinyin	32006.110:dēng
+U+3CAA	kJapanese	トウ
+U+3CAA	kMandarin	dēng
+U+3CAB	kCantonese	buk6
+U+3CAB	kDefinition	hair knots in a mess
+U+3CAB	kFanqie	蒲木
+U+3CAB	kHanyuPinyin	32005.180:pú
+U+3CAB	kJapanese	ホク ボク
+U+3CAB	kMandarin	pú
+U+3CAC	kCantonese	ziu1
+U+3CAC	kDefinition	hair decorations on a helmet used in ancient times, weak and weary; weak from exhaustion; tired looking of a bird's feather
+U+3CAC	kFanqie	即消
+U+3CAC	kHanyuPinyin	32006.020:jiāo
+U+3CAC	kJapanese	ショウ
+U+3CAC	kMandarin	jiāo
+U+3CAD	kDefinition	(corrupted form of 毯) rug; carpet; blanket
+U+3CAD	kJapanese	タン
+U+3CAD	kMandarin	tǎn
+U+3CAE	kCantonese	taap3
+U+3CAF	kDefinition	long hairy
+U+3CAF	kHanyuPinyin	32007.160:rán
+U+3CAF	kJapanese	ゼン ネン ラン
+U+3CAF	kMandarin	rán
+U+3CB0	kCantonese	ning4
+U+3CB0	kDefinition	a hairy dog
+U+3CB0	kFanqie	乃庚
+U+3CB0	kHanyuPinyin	32007.220:níng
+U+3CB0	kJapanese	ドウ ニョウ
+U+3CB0	kMandarin	níng
+U+3CB1	kCantonese	lip6
+U+3CB1	kDefinition	(same as 鬣) long beard or whiskers, a mane; bristles, as on a hog; dorsal fins
+U+3CB1	kFanqie	良涉
+U+3CB1	kJapanese	リョウ たてがみ
+U+3CB1	kMandarin	liè
+U+3CB2	kCantonese	dip6
+U+3CB2	kDefinition	fine cotton cloth; fine woolen cloth
+U+3CB2	kFanqie	徒協
+U+3CB2	kHanyuPinyin	32008.230:dié
+U+3CB2	kMandarin	dié
+U+3CB2	kXHC1983	0251.180:dié
+U+3CB3	kCantonese	dit6
+U+3CB3	kDefinition	to touch; to ram, to pull with hands
+U+3CB3	kFanqie	陟栗
+U+3CB3	kHanyuPinyin	32132.060:dié,zhì
+U+3CB3	kJapanese	テツ デチ チツ チチ
+U+3CB3	kMandarin	dié
+U+3CB4	kCantonese	zung3
+U+3CB4	kDefinition	mind; disposition; temper
+U+3CB4	kHanyuPinyin	32010.110:zhòng
+U+3CB4	kJapanese	ソウ ス
+U+3CB4	kMandarin	zhòng
+U+3CB5	kCantonese	siu1
+U+3CB5	kDefinition	(same as 霄) the skies, night, to exhaust; to dissolve, clouds or mists
+U+3CB5	kJapanese	ショウ
+U+3CB6	kDefinition	(old translated form) chlorine (symbol Cl)
+U+3CB6	kJapanese	リョク
+U+3CB6	kMandarin	lǜ
+U+3CB7	kCantonese	daam6
+U+3CB7	kDefinition	(old translated form) nitrogen (symbol N)
+U+3CB7	kJapanese	タン
+U+3CB7	kMandarin	dàn
+U+3CB8	kCantonese	kap1
+U+3CB8	kDefinition	dried up (of waterway; the channel of a river; a pond, etc.)
+U+3CB8	kHanyuPinyin	31546.070:xī
+U+3CB8	kJapanese	キュウ コウ
+U+3CB8	kMandarin	xī
+U+3CB8	kVietnamese	ướt
+U+3CB9	kDefinition	(non-classical form of 氿) the dry soil on the river side, spring water from the hole of mountain side, a small fountain, shore; bank; beach, name of a lake in today's Jiangsu Province Yixing county
+U+3CB9	kJapanese	ハン キ ただよう
+U+3CB9	kMandarin	guǐ
+U+3CBA	kDefinition	to wash; to rinse; to clean; to spurt; to blow out
+U+3CBA	kFanqie	資悉
+U+3CBA	kHanyuPinyin	31548.030:jí
+U+3CBA	kJapanese	シツ シチ
+U+3CBA	kMandarin	jí
+U+3CBB	kCantonese	nik6
+U+3CBB	kDefinition	(ancient form of 溺) sunk; perished, drawn; infatuated
+U+3CBB	kHanyuPinyin	31546.090:nì
+U+3CBB	kJapanese	デキ ニャク ダク ナク
+U+3CBB	kMandarin	nì
+U+3CBC	kDefinition	name of a river, (same as 汊) a branching stream; branching creeks
+U+3CBC	kFanqie	魚肺
+U+3CBC	kHanyuPinyin	31549.010:yì,chà
+U+3CBC	kJapanese	ガイ ゲ
+U+3CBC	kMandarin	yì
+U+3CBD	kDefinition	name of a river in today's southwest of Shanxi Province, the wet things attach or stick up to each other, dirty and muddy
+U+3CBD	kFanqie	式羊 奴甸
+U+3CBD	kHangul	인:N
+U+3CBD	kHanyuPinyin	31556.020:niàn,rěn
+U+3CBD	kJapanese	デン ネン ショウ ジン ニン
+U+3CBD	kMandarin	niàn
+U+3CBE	kDefinition	(same as 雨) rain, to rain down; to pour down
+U+3CBE	kHangul	우:N
+U+3CBE	kJapanese	ウ
+U+3CBE	kMandarin	yǔ
+U+3CBF	kCantonese	wong2
+U+3CBF	kDefinition	extensive body of water; broad and deep of water; momentum of moving water deep and wide
+U+3CBF	kMandarin	wǎng
+U+3CC0	kCantonese	gwo3
+U+3CC0	kDefinition	a river in ancient times
+U+3CC0	kFanqie	古卧
+U+3CC0	kHanyuPinyin	31562.010:guò
+U+3CC0	kJapanese	カ
+U+3CC0	kMandarin	guò
+U+3CC1	kCantonese	zak1
+U+3CC1	kDefinition	water flow; water current; momentum of moving water
+U+3CC1	kFanqie	阻力
+U+3CC1	kHanyuPinyin	31560.040:zè
+U+3CC1	kJapanese	ショク シキ
+U+3CC1	kMandarin	zè
+U+3CC2	kCantonese	jyun4
+U+3CC2	kDefinition	to follow a course; to go along; to coast, to hand down; to continue, to conserve; along or by, as a road or a coast
+U+3CC2	kFanqie	與專
+U+3CC2	kJapanese	エン そう
+U+3CC2	kMandarin	yán
+U+3CC2	kXHC1983	1327.041:yán 1333.051:yàn
+U+3CC3	kCantonese	ceoi3
+U+3CC3	kDefinition	(non-classical of 淬) to temper iron, or steel for making swords, etc. (also used figuratively), to dip into water; to soak; to dye
+U+3CC3	kJapanese	サイ
+U+3CC3	kMandarin	cuì
+U+3CC4	kCantonese	jin4
+U+3CC4	kDefinition	(a variant of 涎) spittle, saliva
+U+3CC4	kFanqie	夕連
+U+3CC4	kJapanese	セン
+U+3CC4	kMandarin	xián
+U+3CC5	kCantonese	lau4
+U+3CC5	kDefinition	to flow, to drift, to circulate, a current, to descend, unstable; weak
+U+3CC5	kFanqie	力求
+U+3CC5	kJapanese	リュウ ながれる
+U+3CC5	kMandarin	jiǎo
+U+3CC6	kDefinition	name of a place in ancient times
+U+3CC6	kHanyuPinyin	31572.050:tǒu
+U+3CC6	kJapanese	トウ ツ
+U+3CC6	kMandarin	tǒu
+U+3CC7	kCantonese	fu6
+U+3CC7	kDefinition	name of a place in Jiāngsū province, Yíxīng county; to float; to waft; to swim
+U+3CC7	kHanyuPinyin	31568.030:fù
+U+3CC7	kMandarin	fù
+U+3CC7	kTGHZ2013	102.160:fù
+U+3CC7	kXHC1983	0342.010:fù
+U+3CC8	kCantonese	pui3
+U+3CC8	kDefinition	(standard form of 沛) a great flow of water; flowing copiously, quickly; rapidly; sudden, flourishing; luxuriant; prosperous or abundant, marsh; swamp
+U+3CC8	kJapanese	ハイ
+U+3CC8	kMandarin	pèi
+U+3CC9	kCantonese	jyut6
+U+3CC9	kVietnamese	ngoét
+U+3CCA	kDefinition	(same as 攸) the flowing of the water, name of a river
+U+3CCA	kHanyuPinyin	31567.010:yōu,zhōng
+U+3CCA	kJapanese	ユウ
+U+3CCA	kMandarin	yōu
+U+3CCB	kDefinition	a river in ancient times
+U+3CCB	kHanyuPinyin	31588.030:qiū
+U+3CCB	kJapanese	キュウ
+U+3CCB	kMandarin	qiū
+U+3CCC	kDefinition	marshy; swampy, damp; moist
+U+3CCC	kHanyuPinyin	31584.020:yā
+U+3CCC	kJapanese	オウ
+U+3CCC	kMandarin	yā
+U+3CCC	kVietnamese	nhớp
+U+3CCD	kCantonese	bou3
+U+3CCD	kDefinition	a place in ancient times
+U+3CCD	kHanyuPinyin	31582.070:bù
+U+3CCD	kJapanese	ホ フ
+U+3CCD	kMandarin	bù
+U+3CCE	kCantonese	bin6
+U+3CCE	kDefinition	guide or lead to make the water flowing smoothly
+U+3CCE	kHanyuPinyin	31599.050:biàn
+U+3CCE	kJapanese	ヘン ベン
+U+3CCE	kMandarin	biàn
+U+3CCF	kDefinition	a river in ancient times; in Henan Province
+U+3CCF	kHanyuPinyin	31586.010:shì
+U+3CCF	kJapanese	シ
+U+3CCF	kMandarin	shì
+U+3CD0	kDefinition	flowing of the water, sound of the flowing water
+U+3CD0	kFanqie	査鎋
+U+3CD0	kHanyuPinyin	31582.020:zhá
+U+3CD0	kJapanese	サツ セチ
+U+3CD0	kMandarin	zhá
+U+3CD1	kDefinition	(abbreviated form of 溢) to flow over; to brim over, excessive
+U+3CD1	kJapanese	イツ
+U+3CD1	kMandarin	yì
+U+3CD2	kCantonese	faat3
+U+3CD2	kDefinition	statutes, laws, regulations, a rule, legal standard, plan or methods, etc.
+U+3CD2	kJapanese	ホウ のり
+U+3CD2	kMandarin	biàn
+U+3CD3	kCantonese	jau6
+U+3CD4	kCantonese	deoi6
+U+3CD4	kDefinition	to soak or be soaked; to dip; to immerse
+U+3CD4	kMandarin	duì
+U+3CD5	kCantonese	laan4
+U+3CD5	kDefinition	(simplified form of 灡) water in which rice has been washed, (interchangeable 瀾) a great wave; a huge billow
+U+3CD5	kMandarin	lán
+U+3CD6	kDefinition	name of a river
+U+3CD6	kHanyuPinyin	31615.070:yī
+U+3CD6	kJapanese	イ
+U+3CD6	kMandarin	yī
+U+3CD7	kDefinition	bank of a river, (same as 汊) a branching stream
+U+3CD7	kFanqie	楚懈
+U+3CD7	kHanyuPinyin	31616.050:chài,chà
+U+3CD7	kJapanese	サイ セ
+U+3CD7	kMandarin	chài
+U+3CD8	kCantonese	cung1
+U+3CD8	kDefinition	a fountain or spring flows downwards, sound of the flowing water
+U+3CD8	kFanqie	昌終
+U+3CD8	kHanyuPinyin	31615.100:chōng
+U+3CD8	kJapanese	シュウ シュ トウ
+U+3CD8	kMandarin	chōng
+U+3CD8	kTGHZ2013	047.050:chōng
+U+3CD9	kCantonese	gyun1
+U+3CD9	kDefinition	(non-classical form of 涓) a brook, the smallest drop of water, to expel evil influences; to eliminate; rid off, to clean up, to select, a tributary (or a river), the flowing of a spring, (interchangeable 泫) to glisten; to sparkle, to weep
+U+3CD9	kFanqie	古玄
+U+3CD9	kJapanese	ケン
+U+3CD9	kMandarin	xuàn
+U+3CDA	kDefinition	flowing of the water
+U+3CDA	kHanyuPinyin	31605.040:xù
+U+3CDA	kJapanese	キツ キチ
+U+3CDA	kMandarin	xù
+U+3CDA	kTGHZ2013	413.130:xù
+U+3CDB	kDefinition	dirty; filthy, corrupt, soap, black, to unravel silk threads
+U+3CDB	kFanqie	羊朱 以周
+U+3CDB	kHanyuPinyin	31606.080:yú,yóu 80023.290:yóu,yú
+U+3CDB	kJapanese	ユ ユウ
+U+3CDB	kMandarin	yú
+U+3CDC	kDefinition	the flowing water
+U+3CDC	kHanyuPinyin	31609.030:xiū
+U+3CDC	kJapanese	キュウ ク
+U+3CDC	kMandarin	xiū
+U+3CDD	kCantonese	hong1
+U+3CDD	kDefinition	(corrupted form of 洭) a river in ancient times; a part of Huangjiang, Lianjiang and Beijiang in today's north-west of Guangdong Province
+U+3CDE	kCantonese	cung1
+U+3CDE	kDefinition	(same as 浺) deep and far; profound and abstruse (of the sea)
+U+3CDE	kJapanese	チュウ
+U+3CDF	kCantonese	hung4
+U+3CDF	kFanqie	親吉
+U+3CDF	kJapanese	キョウ ク うやうやしい
+U+3CE0	kCantonese	taat3
+U+3CE0	kDefinition	(simplified form of 澾) slippery (as a road)
+U+3CE0	kMandarin	tà
+U+3CE0	kXHC1983	1107.060:tà
+U+3CE1	kCantonese	wo1
+U+3CE1	kDefinition	(simplified form of 濄) (same as 渦) name of a river, to whirl, an eddy
+U+3CE1	kMandarin	guō
+U+3CE2	kCantonese	kiu4
+U+3CE3	kCantonese	lou5
+U+3CE4	kCantonese	suk6
+U+3CE4	kDefinition	(non-classical form of 淑) good; pure; virtuous, beautiful or charming (women), clear
+U+3CE4	kJapanese	シュク
+U+3CE5	kCantonese	lung6
+U+3CE5	kDefinition	a river in ancient times
+U+3CE5	kFanqie	盧貢
+U+3CE5	kHanyuPinyin	31618.120:lòng
+U+3CE5	kJapanese	ロウ
+U+3CE5	kMandarin	lòng
+U+3CE5	kVietnamese	lỏng
+U+3CE6	kCantonese	haai6
+U+3CE6	kDefinition	a river
+U+3CE6	kFanqie	胡介
+U+3CE6	kHanyuPinyin	31618.140:xiè
+U+3CE6	kJapanese	カイ ガイ
+U+3CE6	kMandarin	xiè
+U+3CE7	kDefinition	the water flowing from ..., the current of a stream
+U+3CE7	kFanqie	叱涉
+U+3CE7	kHanyuPinyin	31619.040:chè,rè
+U+3CE7	kJapanese	ショウ ジョウ ニョウ チョウ
+U+3CE7	kMandarin	chè
+U+3CE8	kCantonese	zaat3
+U+3CE8	kDefinition	to splash (of water)
+U+3CE8	kFanqie	姊末
+U+3CE8	kMandarin	jiǎn
+U+3CE9	kDefinition	great billows; large waves; the waves swelling up
+U+3CE9	kHanyuPinyin	31619.010:tān
+U+3CE9	kJapanese	タン
+U+3CE9	kMandarin	tān
+U+3CEA	kCantonese	pei3
+U+3CEA	kDefinition	a river
+U+3CEA	kHanyuPinyin	31620.040:pì
+U+3CEA	kJapanese	ヒ
+U+3CEA	kMandarin	pì
+U+3CEA	kVietnamese	vữa
+U+3CEB	kDefinition	(corrupted form of 沓) repeated; joined, crowded together, a family name
+U+3CEB	kHanyuPinyin	31618.080:zǎn
+U+3CEB	kMandarin	zǎn
+U+3CEC	kCantonese	syun4
+U+3CEC	kDefinition	an eddy; a whirlpool
+U+3CEC	kFanqie	似宣 辝戀
+U+3CEC	kHanyuPinyin	31626.040:xuán
+U+3CEC	kJapanese	セン
+U+3CEC	kMandarin	xuán
+U+3CED	kDefinition	(non-classical form of 涎) spittle, saliva
+U+3CED	kJapanese	セン ゼン
+U+3CED	kMandarin	xián
+U+3CEE	kDefinition	(interchangeable 尿) urine, to urinate
+U+3CEE	kJapanese	ニョウ
+U+3CEE	kMandarin	niào
+U+3CEF	kCantonese	san1
+U+3CEF	kDefinition	goddess of an ink-slab
+U+3CEF	kVietnamese	tăn
+U+3CF0	kDefinition	(same as 溝) ditch; waterway; moat, groove
+U+3CF1	kCantonese	joeng4
+U+3CF2	kCantonese	taai3
+U+3CF3	kCantonese	hak1
+U+3CF4	kCantonese	mat6
+U+3CF4	kDefinition	mud; quagmire
+U+3CF4	kHanyuPinyin	31664.010:mì
+U+3CF4	kJapanese	ビツ ミチ
+U+3CF4	kMandarin	mì
+U+3CF5	kCantonese	gwai3
+U+3CF5	kDefinition	name of a river
+U+3CF5	kHanyuPinyin	31651.080:jì
+U+3CF5	kJapanese	キ
+U+3CF5	kMandarin	jì
+U+3CF6	kDefinition	name of a river, to give suck to, (same as 醹) vintage wine, (same as 乳) milk; breasts
+U+3CF6	kFanqie	乃后
+U+3CF6	kHanyuPinyin	31653.010:nǒu,rǔ
+U+3CF6	kJapanese	ドウ ヌ ジュ ニュ
+U+3CF6	kMandarin	nǒu
+U+3CF6	kVietnamese	nhỏ
+U+3CF7	kDefinition	dark blue color, to combine; to unite, to close; to shut, the water is exhausted, to get the color away by soaking in the water
+U+3CF7	kHanyuPinyin	31657.010:hū,mǐn,wěn,tuì
+U+3CF7	kJapanese	カイ コツ コチ ケ ブン モン タイ テ
+U+3CF7	kMandarin	hū
+U+3CF8	kCantonese	faa1
+U+3CF8	kDefinition	name of a river
+U+3CF8	kHanyuPinyin	31641.090:huā
+U+3CF8	kJapanese	カ ケ
+U+3CF8	kMandarin	huā
+U+3CF9	kCantonese	wong2
+U+3CF9	kDefinition	flood; a great flood; massive water, name a river, name of a place in today's Shanxi Province east of Yin county, (same as 汪) deep and extensive (said of water)
+U+3CF9	kFanqie	烏晃
+U+3CF9	kHanyuPinyin	31642.040:wǎng,wāng
+U+3CF9	kJapanese	オウ
+U+3CF9	kMandarin	wǎng
+U+3CFA	kDefinition	(non-classical form of 游) to swim; to float, to roam; to travel
+U+3CFA	kJapanese	ユウ あそぶ
+U+3CFA	kMandarin	yóu
+U+3CFB	kCantonese	zaak3
+U+3CFB	kDefinition	a bank of earth or an embankment to block the current of the water, to stop (or block) up the flowing water
+U+3CFB	kFanqie	倉故 側伯 山責
+U+3CFB	kHanyuPinyin	31641.060:zé
+U+3CFB	kJapanese	シャク サク セキ ソ
+U+3CFB	kMandarin	zé
+U+3CFC	kCantonese	bat1
+U+3CFC	kDefinition	(same as 滭) bubbling of fountain; copious of spring (same as 淢) swift currents (interchangeable 洫) a ditch; a moat, to overflow
+U+3CFC	kHangul	필:N
+U+3CFC	kHanyuPinyin	31637.020:bì,yù
+U+3CFC	kJapanese	ヒツ ヒチ
+U+3CFC	kMandarin	bì
+U+3CFD	kCantonese	nei4
+U+3CFD	kDefinition	(non-classical abbreviated form of 瀰) a watery expanse, to be covered with, to disseminate every where, currents of the water
+U+3CFD	kJapanese	ビ
+U+3CFD	kMandarin	mǐ
+U+3CFE	kCantonese	goeng1
+U+3CFE	kDefinition	(standard form of 羌) name of a river
+U+3CFE	kHanyuPinyin	31660.040:qiāng
+U+3CFE	kJapanese	キョウ コウ
+U+3CFE	kMandarin	qiāng
+U+3CFF	kCantonese	sit3
+U+3CFF	kDefinition	(same as 渫) rolling billows, to get rid of; to scatter, muddy, to ooze
+U+3CFF	kJapanese	セツ セチ
+U+3CFF	kMandarin	xiè
+U+3D00	kDefinition	deep
+U+3D00	kHanyuPinyin	31641.100:fān
+U+3D00	kJapanese	ハン ホン ふかい
+U+3D00	kMandarin	fàn
+U+3D01	kDefinition	to add to; to increase; increase; full, plentiful; abundant, saliva
+U+3D01	kHanyuPinyin	31639.030:yì
+U+3D01	kJapanese	エキ ヤク
+U+3D01	kMandarin	yì
+U+3D02	kDefinition	great billows; great upheavals; boisterous breakers
+U+3D02	kFanqie	他酣
+U+3D02	kHanyuPinyin	31640.020:tān
+U+3D02	kJapanese	タン
+U+3D02	kMandarin	tān
+U+3D03	kCantonese	leoi6
+U+3D03	kDefinition	(same as 淚) tears
+U+3D03	kJapanese	ルイ
+U+3D03	kMandarin	lèi
+U+3D04	kDefinition	the water flowing in a turned, crooked or winding and revolving way; an eddy
+U+3D04	kHanyuPinyin	31650.150:yǒng
+U+3D04	kJapanese	オウ
+U+3D04	kMandarin	yǒng
+U+3D05	kCantonese	siu1
+U+3D05	kDefinition	(ancient form of 消) to melt; to thaw, to disperse; to dissipate, to cancel; to annul
+U+3D05	kJapanese	ショウ
+U+3D06	kCantonese	zam3
+U+3D06	kDefinition	(same as 浸) to dip; to immerse; to soak; to permeate; to percolate, gradual; gradually
+U+3D06	kJapanese	シン
+U+3D06	kMandarin	jìn
+U+3D07	kDefinition	(same as 涉) to wade, to experience, to involve; to implicate
+U+3D07	kHanyuPinyin	31637.040:shè,máng
+U+3D07	kJapanese	ショウ
+U+3D07	kMandarin	shè
+U+3D08	kDefinition	(same as 垽) sediment; dregs; precipitate; lees
+U+3D08	kJapanese	ギン ゴン
+U+3D08	kMandarin	yìn
+U+3D09	kDefinition	(ancient form of 濟) various; varied; numerous, elegant and dignified
+U+3D09	kJapanese	セイ
+U+3D09	kMandarin	jǐ
+U+3D0A	kDefinition	(same as 淵) an abyss; a gulf, to be deep
+U+3D0A	kJapanese	エン
+U+3D0B	kCantonese	suk1
+U+3D0B	kDefinition	(simplified form of 潚) deep and clear (said of water) (same as 溲) to urinate, to immerse; to soak; to drench, to wash rice (same as 瀟) rushing rain and wind; roar of gust
+U+3D0B	kMandarin	sù
+U+3D0C	kCantonese	gu1
+U+3D0D	kCantonese	sing4
+U+3D0D	kHangul	승:N
+U+3D0E	kCantonese	noi6
+U+3D0E	kHanyuPinyin	80023.190:nài
+U+3D0E	kMandarin	nài
+U+3D0F	kCantonese	wong2
+U+3D0F	kDefinition	the pond water is still
+U+3D0F	kHanyuPinyin	31687.040:wǎng
+U+3D0F	kJapanese	オウ ワ
+U+3D0F	kMandarin	wǎng
+U+3D10	kCantonese	min6
+U+3D10	kDefinition	great current, flood, flowing water
+U+3D10	kFanqie	莫甸
+U+3D10	kHanyuPinyin	31673.090:miàn,miǎn
+U+3D10	kJapanese	ベン メン
+U+3D10	kMandarin	miàn
+U+3D11	kCantonese	sou3
+U+3D11	kDefinition	(same as 泝) to trace up to a source, to go against the stream/water
+U+3D11	kJapanese	ソ さかのぼる
+U+3D11	kMandarin	sù
+U+3D12	kDefinition	water current; water flow
+U+3D12	kFanqie	羊益
+U+3D12	kHanyuPinyin	31684.010:yì
+U+3D12	kJapanese	エキ ヤク
+U+3D12	kMandarin	yì
+U+3D13	kDefinition	to wash rice

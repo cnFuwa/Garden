@@ -1,0 +1,2000 @@
+U+4C35	kDefinition	blackfish or mullet; anchovy
+U+4C35	kHanyuPinyin	74675.170:zī
+U+4C35	kJapanese	きよ
+U+4C35	kMandarin	zī
+U+4C36	kCantonese	mong1
+U+4C37	kDefinition	a fish, (same as 蚌) oyster, a kind of clam, a pretty pearl
+U+4C37	kHanyuPinyin	74678.010:bàng
+U+4C37	kJapanese	ホウ ボウ
+U+4C37	kMandarin	bàng
+U+4C38	kCantonese	gung1
+U+4C38	kDefinition	(interchangeable 魟 same as 鰩) the nautilus; the ray, a fish; looks like crab or king crab
+U+4C38	kHanyuPinyin	74678.130:gōng
+U+4C38	kJapanese	コウ ク トウ ツ
+U+4C38	kMandarin	gōng
+U+4C39	kCantonese	caak6
+U+4C39	kDefinition	(non-classical and abbreviated form of 鱡) (same as 鰂) the cuttlefish; the inkfish
+U+4C39	kJapanese	ソク
+U+4C39	kMandarin	zé
+U+4C3A	kCantonese	gaai3
+U+4C3A	kDefinition	(corrupted form of 魪) a flatfish; a sole
+U+4C3A	kJapanese	カイ かれい
+U+4C3A	kMandarin	jiè
+U+4C3B	kDefinition	(same as 漁) to catch fish, to fish, to seize
+U+4C3B	kFanqie	語居
+U+4C3B	kJapanese	ギョ
+U+4C3B	kMandarin	yú
+U+4C3C	kCantonese	cam4
+U+4C3C	kDefinition	a condiment made from minced fish salted, preserved fish; salted fish; fish cured in distiller's grains, a fish
+U+4C3C	kFanqie	昨淫 式任 徂感
+U+4C3C	kHanyuPinyin	74678.110:qín,yín,shèn
+U+4C3C	kJapanese	シン ジン サン ザン ギン ゴン キン
+U+4C3C	kMandarin	qín
+U+4C3D	kDefinition	the globefish, blowfish, puffer
+U+4C3D	kFanqie	愽蓋
+U+4C3D	kHanyuPinyin	74676.090:bèi
+U+4C3D	kJapanese	ハイ
+U+4C3D	kMandarin	bèi
+U+4C3E	kCantonese	baa1
+U+4C3E	kDefinition	a kind of fish; a bonito, (same as 鮁) shark
+U+4C3E	kHanyuPinyin	74679.140:bā,bà
+U+4C3E	kMandarin	bā
+U+4C3E	kSMSZD2003Readings	bā粵baa1
+U+4C3F	kCantonese	to4
+U+4C3F	kDefinition	(non-classical of 鮀) a kind of small fish grown in fresh water
+U+4C3F	kJapanese	タ
+U+4C3F	kMandarin	tuó
+U+4C40	kDefinition	a kind of small fish
+U+4C40	kHanyuPinyin	74681.090:yāng
+U+4C40	kJapanese	ヨウ オウ
+U+4C40	kMandarin	yāng
+U+4C41	kCantonese	kiu4
+U+4C41	kDefinition	a kind of medium sized fish grown in the sea, long and flat; with a big mouth
+U+4C41	kHanyuPinyin	74680.040:qiáo
+U+4C41	kJapanese	キョウ ギョウ
+U+4C41	kMandarin	qiáo
+U+4C42	kDefinition	a fish; common carp
+U+4C42	kFanqie	於堯 於柳
+U+4C42	kHanyuPinyin	74684.080:yǒu
+U+4C42	kJapanese	ユウ ウ イク ヨウ
+U+4C42	kMandarin	yǒu
+U+4C43	kDefinition	a fish
+U+4C43	kHanyuPinyin	74681.140:zhì
+U+4C43	kJapanese	チツ ジチ
+U+4C43	kMandarin	zhì
+U+4C44	kCantonese	gaai3
+U+4C44	kDefinition	(non-classical and corrupted form of 魪) a flatfish; a sole
+U+4C44	kMandarin	jiè
+U+4C45	kCantonese	mut6
+U+4C45	kDefinition	(same as 鱴 鮆) the mullet, a kind of fish grown in the sea; like abalone; a salted fish
+U+4C45	kFanqie	莫撥
+U+4C45	kHanyuPinyin	74679.170:mò
+U+4C45	kJapanese	バツ マチ ベツ メチ
+U+4C45	kMandarin	mò
+U+4C46	kDefinition	(same as 鱦) small fish, spawn, or roe, frog group
+U+4C46	kJapanese	ヨウ
+U+4C46	kMandarin	shéng
+U+4C47	kCantonese	sin5
+U+4C47	kDefinition	(same as 鱔) the eel
+U+4C47	kJapanese	セン
+U+4C47	kMandarin	shàn
+U+4C48	kDefinition	(ancient form of 鮨) fish pulp; mashed fish, fine-cut meat, something like the large amphibious creature; newt but very much larger, small fish, (same as 鰭) fins
+U+4C48	kJapanese	シ キ
+U+4C48	kMandarin	qí
+U+4C49	kCantonese	sin5
+U+4C49	kDefinition	(corrupted form of 䱇; same as 鱓 鱔) an eel
+U+4C49	kJapanese	ショ
+U+4C49	kMandarin	shàn
+U+4C4A	kCantonese	mai5
+U+4C4A	kDefinition	roe or spawn, a fish
+U+4C4A	kFanqie	莫禮
+U+4C4A	kHanyuPinyin	74689.070:mǐ
+U+4C4A	kJapanese	ベイ メイ
+U+4C4A	kMandarin	mǐ
+U+4C4A	kVietnamese	mè
+U+4C4B	kCantonese	gung2
+U+4C4B	kDefinition	spawn; roe, a kind of legendary fish said to be thousands of miles long, (interchangeable 魟) the nautilus; the ray
+U+4C4B	kFanqie	居悚
+U+4C4B	kHanyuPinyin	74685.030:gǒng
+U+4C4B	kJapanese	キョウ ク コウ
+U+4C4B	kMandarin	gǒng
+U+4C4C	kDefinition	globefish; blowfish; puffer
+U+4C4C	kFanqie	與之
+U+4C4C	kHanyuPinyin	74685.060:yí
+U+4C4C	kJapanese	イ
+U+4C4C	kMandarin	yí
+U+4C4D	kCantonese	gang2
+U+4C4D	kDefinition	tuna, something like sturgeon
+U+4C4D	kHanyuPinyin	74686.030:gèng
+U+4C4D	kJapanese	コウ
+U+4C4D	kMandarin	gèng
+U+4C4E	kCantonese	gang2
+U+4C4E	kDefinition	(same as 䱍) tuna, something like sturgeon
+U+4C4E	kFanqie	古鄧
+U+4C4E	kJapanese	コウ
+U+4C4E	kMandarin	gèng
+U+4C4F	kDefinition	a fish
+U+4C4F	kFanqie	天口
+U+4C4F	kHanyuPinyin	74690.110:tǒu
+U+4C4F	kJapanese	トウ ツ ズ
+U+4C4F	kMandarin	tǒu
+U+4C50	kCantonese	fu1
+U+4C50	kDefinition	globefish; blowfish; puffer
+U+4C50	kFanqie	芳無 縛謀
+U+4C50	kHanyuPinyin	74692.090:fū
+U+4C50	kJapanese	ヒュウ フ ブ フウ
+U+4C50	kMandarin	fū
+U+4C51	kDefinition	a fish; something like crab grown in the sea
+U+4C51	kHanyuPinyin	74690.010:xué
+U+4C51	kJapanese	セツ ゼチ
+U+4C51	kMandarin	xué
+U+4C52	kDefinition	salted fish, globefish; blowfish; puffer
+U+4C52	kFanqie	於業
+U+4C52	kHanyuPinyin	74691.150:yè
+U+4C52	kJapanese	ヨウ
+U+4C52	kMandarin	yè
+U+4C53	kCantonese	ting4
+U+4C53	kDefinition	a kind of fish, something like the sheatfish
+U+4C53	kHanyuPinyin	74687.030:tíng,tǐng
+U+4C53	kJapanese	テイ ジョウ チョウ
+U+4C53	kMandarin	tíng
+U+4C54	kCantonese	tiu4
+U+4C54	kDefinition	(same as 鰷) a long narrow and silver colored fish; Trichiurus armatus
+U+4C54	kFanqie	以周
+U+4C54	kHanyuPinyin	74692.030:tiáo,chóu
+U+4C54	kJapanese	ユウ チュウ チョウ ショウ
+U+4C54	kMandarin	tiáo
+U+4C55	kCantonese	mau4
+U+4C55	kDefinition	labrus, moving fish
+U+4C55	kFanqie	莫浮
+U+4C55	kHanyuPinyin	74692.020:móu,méi
+U+4C55	kJapanese	ボウ ム バイ メ
+U+4C55	kMandarin	móu
+U+4C55	kVietnamese	mòi
+U+4C56	kDefinition	(same as 鰡) shark
+U+4C56	kFanqie	力求
+U+4C56	kJapanese	リュウ ル
+U+4C56	kMandarin	liú
+U+4C57	kCantonese	caan1
+U+4C57	kDefinition	a long narrow fish Trichiurus armatus
+U+4C57	kHanyuPinyin	74691.060:cān
+U+4C57	kMandarin	cān
+U+4C58	kCantonese	lei4
+U+4C58	kJapanese	リ
+U+4C58	kMandarin	lí
+U+4C59	kCantonese	suk1
+U+4C59	kDefinition	(same as 鮛) a small kind of tuna or sturgeon
+U+4C59	kHanyuPinyin	74695.150:shū
+U+4C59	kJapanese	シュク
+U+4C59	kMandarin	shū
+U+4C5A	kCantonese	luk6
+U+4C5A	kDefinition	a kind of fish
+U+4C5A	kFanqie	力玉
+U+4C5A	kHanyuPinyin	74699.070:lù
+U+4C5A	kJapanese	リョク ロク
+U+4C5A	kMandarin	lù
+U+4C5B	kDefinition	a kind of fish; small fish; fry, a large amphibious creature, something like the newt but very much larger
+U+4C5B	kHanyuPinyin	74695.070:xù,yì
+U+4C5B	kJapanese	キョク ケキ エキ
+U+4C5B	kMandarin	huò
+U+4C5C	kCantonese	cok3
+U+4C5C	kDefinition	shark
+U+4C5C	kFanqie	七雀 倉各
+U+4C5C	kHanyuPinyin	74695.020:cuò
+U+4C5C	kJapanese	シャク サク
+U+4C5C	kMandarin	cuò
+U+4C5D	kCantonese	paai4
+U+4C5D	kDefinition	black carp
+U+4C5D	kFanqie	薄佳
+U+4C5D	kHanyuPinyin	74697.030:pái,bēi
+U+4C5D	kJapanese	ハイ バイ ヒ
+U+4C5D	kMandarin	pái
+U+4C5E	kCantonese	noi6
+U+4C5E	kDefinition	a kind of fish
+U+4C5E	kJapanese	ダイ ナイ
+U+4C5E	kMandarin	liú
+U+4C5F	kDefinition	(an ancient name) a kind of silver fish, a kind of insect
+U+4C5F	kFanqie	居御
+U+4C5F	kHanyuPinyin	74699.090:jù,jū
+U+4C5F	kJapanese	キョ コ
+U+4C5F	kMandarin	jù
+U+4C60	kCantonese	zaan6
+U+4C60	kDefinition	a kind of fish
+U+4C60	kHanyuPinyin	74695.120:zhàn
+U+4C60	kJapanese	サン ゼン
+U+4C60	kMandarin	zhàn
+U+4C61	kCantonese	guk1
+U+4C61	kDefinition	the globefish; blowfish; puffer
+U+4C61	kFanqie	居六 渠竹 丘玉
+U+4C61	kHanyuPinyin	74698.050:jú
+U+4C61	kJapanese	キク コク キョク
+U+4C61	kMandarin	jú
+U+4C62	kCantonese	zang1
+U+4C62	kDefinition	a kind of fish
+U+4C62	kFanqie	側莖
+U+4C62	kHanyuPinyin	74697.050:zhēng
+U+4C62	kJapanese	ソウ ショウ
+U+4C62	kMandarin	zhēng
+U+4C63	kCantonese	zeot1
+U+4C63	kDefinition	a long narrow fish; tuna
+U+4C63	kFanqie	子聿
+U+4C63	kHanyuPinyin	74698.100:zú
+U+4C63	kJapanese	シュツ シュチ
+U+4C63	kMandarin	zú
+U+4C64	kCantonese	haam6
+U+4C64	kDefinition	(same as 鱤)
+U+4C64	kFanqie	古念 戶韽
+U+4C64	kHanyuPinyin	74698.030:xiàn
+U+4C64	kJapanese	カン ゲン ケン
+U+4C64	kMandarin	xiàn
+U+4C65	kDefinition	a kind of fish; silver-gray color with black dots; with small mouth and no teeth
+U+4C65	kFanqie	征例
+U+4C65	kHanyuPinyin	74696.110:zhì,jì
+U+4C65	kJapanese	セイ
+U+4C65	kMandarin	zhì
+U+4C66	kCantonese	zeoi1
+U+4C66	kDefinition	the globefish; blowfish; puffer
+U+4C67	kCantonese	gyun2
+U+4C67	kDefinition	(record in an antique books) a kind of fish (same as 鱔) eels
+U+4C67	kJapanese	セン
+U+4C68	kDefinition	(same as 䱥) a kind of fish; silver-gray color with black dots; with small mouth and no teeth
+U+4C68	kJapanese	セイ
+U+4C68	kMandarin	là
+U+4C69	kCantonese	mong5
+U+4C69	kJapanese	からかこ
+U+4C6A	kCantonese	biu2
+U+4C6B	kCantonese	laat6
+U+4C6B	kDefinition	(same as 鯻) a kind of fish
+U+4C6B	kJapanese	ラツ
+U+4C6B	kMandarin	là
+U+4C6C	kCantonese	seoi1
+U+4C6C	kDefinition	a kind of fish
+U+4C6C	kFanqie	相居
+U+4C6C	kHanyuPinyin	74704.060:xū
+U+4C6C	kJapanese	ショ
+U+4C6C	kMandarin	xū
+U+4C6D	kCantonese	gang2
+U+4C6D	kDefinition	tuna
+U+4C6D	kHanyuPinyin	74703.150:gèng
+U+4C6D	kJapanese	コウ
+U+4C6D	kMandarin	gèng
+U+4C6E	kDefinition	a kind of fish; skin for making arms or weapons
+U+4C6E	kFanqie	五陌
+U+4C6E	kHanyuPinyin	74702.050:é
+U+4C6E	kJapanese	ガク ギャク
+U+4C6E	kMandarin	é
+U+4C6F	kCantonese	mou4
+U+4C6F	kDefinition	(corrupted form) a kind of fish
+U+4C6F	kHanyuPinyin	74704.130:mú
+U+4C6F	kJapanese	ボ モ
+U+4C6F	kMandarin	mú
+U+4C70	kDefinition	(same as 鮦 鯉 鱧) a kind of fish; black fish
+U+4C70	kHanyuPinyin	74702.090:zhòng
+U+4C70	kJapanese	トウ
+U+4C70	kMandarin	zhòng
+U+4C71	kCantonese	tai4
+U+4C71	kDefinition	Parasilurus asotus; small fish, fry; large carp
+U+4C71	kFanqie	杜奚
+U+4C71	kHanyuPinyin	74703.070:tí,dì
+U+4C71	kJapanese	テイ ダイ タイ
+U+4C71	kMandarin	tí
+U+4C72	kDefinition	a kind of fish
+U+4C72	kFanqie	與專
+U+4C72	kHanyuPinyin	74704.140:yuán
+U+4C72	kJapanese	エン
+U+4C72	kMandarin	yuán
+U+4C73	kCantonese	zin1
+U+4C73	kDefinition	(same as 鱣) a kind of sturgeon; Acipenser mikadoi, (interchangeable 鱔) eels
+U+4C73	kHanyuPinyin	74700.170:zhān
+U+4C73	kJapanese	テン
+U+4C73	kMandarin	zhān
+U+4C74	kDefinition	(same as 䱭) tuna
+U+4C74	kMandarin	gèng
+U+4C75	kCantonese	jung1
+U+4C75	kDefinition	stocky hawkfish (Cirrhitus pinnulatus)
+U+4C75	kFanqie	烏紅
+U+4C75	kHanyuPinyin	74707.090:wēng
+U+4C75	kJapanese	オウ オ
+U+4C75	kMandarin	wēng
+U+4C75	kSMSZD2003Readings	wēng粵jung1
+U+4C76	kCantonese	long4
+U+4C76	kDefinition	a male crab, cod oil
+U+4C76	kJapanese	ロウ
+U+4C76	kMandarin	láng
+U+4C77	kCantonese	jyu4
+U+4C77	kDefinition	(same as 魚 漁) to fish, to seize
+U+4C77	kJapanese	ギョ
+U+4C77	kMandarin	yú
+U+4C77	kXHC1983	1410.011:yú
+U+4C78	kDefinition	a family name, (same as 緧) a crupper
+U+4C78	kHanyuPinyin	74706.110:sōu,qiū
+U+4C78	kJapanese	シュウ シュ
+U+4C78	kMandarin	sōu
+U+4C79	kCantonese	zaa2
+U+4C79	kDefinition	(standard form) (same as 鮓) a condiment made from minced fish salted, preserved fish
+U+4C79	kHanyuPinyin	74703.090:zhǎ
+U+4C79	kJapanese	サ
+U+4C79	kMandarin	zhǎ
+U+4C7A	kCantonese	haai4
+U+4C7A	kDefinition	a male crab
+U+4C7A	kFanqie	戶來
+U+4C7A	kHanyuPinyin	74706.080:hái
+U+4C7A	kJapanese	カイ ガイ
+U+4C7A	kMandarin	hái
+U+4C7B	kDefinition	a kind of fish; a flashing fly-fish in legend
+U+4C7B	kFanqie	戶八
+U+4C7B	kHanyuPinyin	74702.030:huá
+U+4C7B	kJapanese	カツ ゲチ コツ コチ
+U+4C7B	kMandarin	huá
+U+4C7C	kCantonese	zin2
+U+4C7C	kDefinition	a kind of fish; seven inches long; good for soup
+U+4C7C	kHanyuPinyin	74708.080:zhǎn
+U+4C7C	kJapanese	テン セン
+U+4C7C	kMandarin	zhǎn
+U+4C7D	kCantonese	cong1
+U+4C7D	kDefinition	the silvery pomfret, Stromateoides argenteus
+U+4C7D	kJapanese	ショウ
+U+4C7D	kMandarin	chāng
+U+4C7D	kSMSZD2003Readings	cāng粵cong1
+U+4C7E	kDefinition	a carp-like savory fish
+U+4C7E	kFanqie	力朱 落侯
+U+4C7E	kHanyuPinyin	74710.070:lóu
+U+4C7E	kJapanese	ロウ ル
+U+4C7E	kMandarin	lóu
+U+4C7F	kCantonese	caam3
+U+4C7F	kDefinition	a kind of fish
+U+4C7F	kHanyuPinyin	74709.080:chàn
+U+4C7F	kJapanese	サン セン
+U+4C7F	kMandarin	chàn
+U+4C80	kCantonese	zi3
+U+4C80	kDefinition	a kind of fish
+U+4C80	kFanqie	脂利
+U+4C80	kHanyuPinyin	74708.180:zhì
+U+4C80	kJapanese	シ
+U+4C80	kMandarin	zhì
+U+4C81	kDefinition	general term of a kind of fish, a snake-like fish
+U+4C81	kFanqie	於胃
+U+4C81	kHanyuPinyin	74711.170:wèi
+U+4C81	kJapanese	イ
+U+4C81	kMandarin	wèi
+U+4C82	kCantonese	syun4
+U+4C82	kDefinition	a kind of fish
+U+4C82	kHanyuPinyin	74711.140:xuán
+U+4C82	kJapanese	セン
+U+4C82	kMandarin	xuán
+U+4C83	kCantonese	zou2
+U+4C83	kDefinition	a carp-like fish with fins resembling chicken feet
+U+4C83	kFanqie	子晧
+U+4C83	kHanyuPinyin	74712.070:zǎo,suǒ,cháo
+U+4C83	kJapanese	ソウ サ ジョウ
+U+4C83	kMandarin	zǎo
+U+4C84	kDefinition	(same as 鮸) an ocean fish with long flat body, big mouth, sharp teeth (a cod, same as 鰵)
+U+4C84	kJapanese	ビン
+U+4C84	kMandarin	mín
+U+4C85	kCantonese	kwai1
+U+4C85	kDefinition	the globefish; blowfish; puffer
+U+4C85	kHanyuPinyin	74708.160:guī
+U+4C85	kJapanese	キ
+U+4C85	kMandarin	guī
+U+4C86	kFanqie	語居
+U+4C86	kHanyuPinyin	74711.030:sū
+U+4C86	kJapanese	セン ソ
+U+4C86	kMandarin	sū
+U+4C87	kCantonese	cuk1
+U+4C88	kCantonese	maa4
+U+4C88	kJapanese	はも
+U+4C89	kCantonese	si1
+U+4C89	kDefinition	a kind of fish; tuna
+U+4C89	kHanyuPinyin	74712.160:sī
+U+4C89	kJapanese	シ
+U+4C89	kMandarin	sī
+U+4C8A	kDefinition	fry (of fish), crab, get rid of the scales of a fish
+U+4C8A	kFanqie	以水 徒果 他果
+U+4C8A	kHanyuPinyin	74712.020:duò,wěi,tuò
+U+4C8A	kJapanese	タ キ イ ユイ
+U+4C8A	kMandarin	duò
+U+4C8B	kCantonese	sam4
+U+4C8B	kDefinition	(non-classical form) a kind of fish
+U+4C8B	kJapanese	シン
+U+4C8B	kMandarin	cén
+U+4C8C	kCantonese	fun2
+U+4C8C	kDefinition	a fish, the sound of touching the fish net
+U+4C8C	kFanqie	苦管 口喚
+U+4C8C	kHanyuPinyin	74712.100:kuǎn
+U+4C8C	kJapanese	カン
+U+4C8C	kMandarin	kuǎn
+U+4C8D	kCantonese	tang4
+U+4C8D	kDefinition	(standard form of 鰧) a perch-like fish with white body and red tail
+U+4C8D	kJapanese	トウ
+U+4C8D	kMandarin	téng
+U+4C8E	kCantonese	neoi5
+U+4C8E	kDefinition	(corrupted form of 鯘; same as 鮾) to spoil, to go down, to corrupt; spoiled fish-meat
+U+4C8E	kMandarin	něi
+U+4C8F	kCantonese	lou4
+U+4C8F	kDefinition	a kind of fish
+U+4C8F	kHanyuPinyin	74715.050:láo
+U+4C8F	kJapanese	ロウ
+U+4C8F	kMandarin	láo
+U+4C90	kCantonese	lou5
+U+4C90	kDefinition	a kind of fish
+U+4C90	kFanqie	郎古
+U+4C90	kHanyuPinyin	74713.110:lǔ
+U+4C90	kJapanese	ロ ル
+U+4C90	kMandarin	lǔ
+U+4C91	kDefinition	spawn, or roe, a kind of fish
+U+4C91	kHanyuPinyin	74718.050:yí
+U+4C91	kJapanese	ギ
+U+4C91	kMandarin	yí
+U+4C92	kDefinition	(same as 蟹) crab
+U+4C92	kFanqie	胡買
+U+4C92	kJapanese	カイ ゲ
+U+4C92	kMandarin	xiè
+U+4C93	kDefinition	a kind of fish, the mouth of a fish at surface of the water; gasping for breath
+U+4C93	kFanqie	魚檢
+U+4C93	kHanyuPinyin	74717.120:yǎn,yán
+U+4C93	kJapanese	ゲン
+U+4C93	kMandarin	yǎn
+U+4C94	kCantonese	king4
+U+4C94	kDefinition	a whale, huge
+U+4C94	kFanqie	巨良 渠京
+U+4C94	kJapanese	ケイ ギョウ キョウ ゴウ
+U+4C94	kMandarin	qíng
+U+4C95	kDefinition	the Yangtze porpoise
+U+4C95	kHanyuPinyin	74718.060:pū
+U+4C95	kJapanese	フ ホ
+U+4C95	kMandarin	pū
+U+4C96	kDefinition	big fish
+U+4C96	kHanyuPinyin	74718.100:chóu
+U+4C96	kJapanese	チュウ ジュ
+U+4C96	kMandarin	chóu
+U+4C97	kCantonese	haam4
+U+4C97	kDefinition	a kind of fish; with long and flat body; small mouth and pointed lips
+U+4C97	kHanyuPinyin	74719.020:xián
+U+4C97	kJapanese	カン ガン
+U+4C97	kMandarin	xián
+U+4C98	kCantonese	gun2
+U+4C98	kDefinition	a kind of fish; with a long cylinder body
+U+4C98	kHanyuPinyin	74719.010:guǎn
+U+4C98	kMandarin	guǎn
+U+4C99	kCantonese	zit3
+U+4C99	kDefinition	a kind of fish; grown in fresh water; with flat body; orange color or blue colored pattern
+U+4C99	kFanqie	子結
+U+4C99	kHanyuPinyin	74719.170:jié
+U+4C99	kJapanese	セツ セチ
+U+4C99	kMandarin	jié
+U+4C9A	kDefinition	shad
+U+4C9A	kFanqie	落蓋 他達
+U+4C9A	kHanyuPinyin	74720.080:lài
+U+4C9A	kJapanese	タツ タチ ライ
+U+4C9A	kMandarin	lài
+U+4C9B	kDefinition	an ancient name for tuna, a kind of sturgeon
+U+4C9B	kFanqie	武亘
+U+4C9B	kHanyuPinyin	74719.110:méng
+U+4C9B	kJapanese	ボウ
+U+4C9B	kMandarin	méng
+U+4C9C	kCantonese	jip3
+U+4C9C	kDefinition	lots of fish
+U+4C9C	kFanqie	魚怯
+U+4C9C	kHanyuPinyin	74722.010:yè
+U+4C9C	kJapanese	ギョウ ゴウ
+U+4C9C	kMandarin	yè
+U+4C9D	kCantonese	cong1
+U+4C9D	kDefinition	(same as 鯧) the pomfret
+U+4C9D	kMandarin	chāng
+U+4C9E	kCantonese	lap6
+U+4C9E	kDefinition	a general name for perch, etc.
+U+4C9E	kMandarin	lì
+U+4C9F	kCantonese	jan3
+U+4C9F	kDefinition	live sharksucker (Echeneis naucrates)
+U+4C9F	kMandarin	yìn
+U+4C9F	kTGHZ2013	438.120:yìn
+U+4C9F	kXHC1983	1383.020:yìn
+U+4CA0	kCantonese	ceon1
+U+4CA0	kDefinition	Chinese mackerel, Chinese seerfish (Scomberomorus sinensis)
+U+4CA0	kMandarin	chūn
+U+4CA0	kTGHZ2013	053.180:chūn
+U+4CA0	kXHC1983	0170.040:chūn
+U+4CA1	kCantonese	cau1
+U+4CA1	kDefinition	loach
+U+4CA1	kMandarin	qiū
+U+4CA2	kCantonese	tang4
+U+4CA2	kDefinition	loach
+U+4CA2	kMandarin	téng
+U+4CA2	kTGHZ2013	363.060:téng
+U+4CA2	kXHC1983	1125.110:téng
+U+4CA3	kCantonese	jyu4
+U+4CA3	kDefinition	(simplified form) to fish; to seize
+U+4CA3	kMandarin	yú
+U+4CA4	kCantonese	zau2
+U+4CA4	kDefinition	a kind of clam
+U+4CA5	kCantonese	gau1
+U+4CA5	kDefinition	(same as 鳩) the pigeon; the turtle dove
+U+4CA5	kJapanese	キュウ ク
+U+4CA6	kCantonese	daai6
+U+4CA6	kDefinition	a legendary bird
+U+4CA6	kFanqie	徒蓋
+U+4CA6	kHanyuPinyin	74615.090:dài
+U+4CA6	kJapanese	テイ ダイ タイ
+U+4CA6	kMandarin	dài
+U+4CA7	kCantonese	dou6
+U+4CA7	kDefinition	cuckoo; goatsucker or nightjar
+U+4CA7	kHanyuPinyin	74615.080:dù
+U+4CA7	kJapanese	ト ズ
+U+4CA7	kMandarin	dù
+U+4CA8	kCantonese	hung4
+U+4CA8	kDefinition	(same as 鴻) wild swan, a wild goose, vast; profound
+U+4CA8	kHanyuPinyin	74615.070:hóng
+U+4CA8	kJapanese	コウ グ おおとり
+U+4CA8	kMandarin	hóng
+U+4CA9	kCantonese	si1
+U+4CA9	kDefinition	(same as 鳲) the cuckoo; the wood-pigeon or the turtle-dove
+U+4CA9	kJapanese	シ
+U+4CAA	kDefinition	a kind of bird
+U+4CAA	kHanyuPinyin	74615.100:xì
+U+4CAA	kJapanese	キ
+U+4CAA	kMandarin	xì
+U+4CAB	kDefinition	(corrupted form of 鳩) the pigeon; the turtle dove
+U+4CAC	kCantonese	kei4
+U+4CAC	kDefinition	chicken; pheasant; wild goose
+U+4CAC	kFanqie	巨支
+U+4CAC	kHanyuPinyin	74620.100:qí
+U+4CAC	kJapanese	キ ギ シ
+U+4CAC	kMandarin	qí
+U+4CAD	kCantonese	ci1
+U+4CAD	kDefinition	kite, owl, wine cups
+U+4CAD	kJapanese	シ ジ
+U+4CAE	kDefinition	a kind of bird
+U+4CAE	kHanyuPinyin	74617.170:yuán
+U+4CAE	kJapanese	ゲン ガン
+U+4CAE	kMandarin	yuán
+U+4CAF	kDefinition	a kind of black small bird
+U+4CAF	kFanqie	其立
+U+4CAF	kHanyuPinyin	74617.020:jí
+U+4CAF	kJapanese	キュウ ゴウ
+U+4CAF	kMandarin	jí
+U+4CB0	kCantonese	wan6
+U+4CB0	kDefinition	a name for the pigeon or the turtle dove
+U+4CB0	kFanqie	王問
+U+4CB0	kHanyuPinyin	74617.180:yùn
+U+4CB0	kJapanese	ウン
+U+4CB0	kMandarin	yùn
+U+4CB1	kCantonese	fong2
+U+4CB1	kDefinition	(same as 鶭) a kind of black bird; most of the time stay by the marsh; where water gathers
+U+4CB1	kFanqie	妃兩
+U+4CB1	kJapanese	ホウ
+U+4CB1	kMandarin	fǎng
+U+4CB2	kCantonese	gung1
+U+4CB2	kDefinition	a hawk-like bird; much smaller
+U+4CB2	kHanyuPinyin	74620.030:gōng,sōng
+U+4CB2	kJapanese	コウ ク シュウ シュ
+U+4CB2	kMandarin	gōng
+U+4CB3	kCantonese	hong4
+U+4CB3	kDefinition	birds flying up and down
+U+4CB3	kHanyuPinyin	74620.190:háng
+U+4CB3	kJapanese	コウ ゴウ
+U+4CB3	kMandarin	háng
+U+4CB4	kCantonese	zam6
+U+4CB4	kDefinition	(same as 鴆) a kind of venomous bird, poisoned wine
+U+4CB4	kJapanese	チン
+U+4CB4	kMandarin	zhèn
+U+4CB5	kCantonese	zoek3
+U+4CB5	kDefinition	(same as 雀) a general name of small birds, as sparrows, chickadees, etc.
+U+4CB5	kHanyuPinyin	74619.030:què
+U+4CB5	kJapanese	ジャク
+U+4CB5	kMandarin	què
+U+4CB6	kCantonese	jyun4
+U+4CB7	kCantonese	niu5
+U+4CB7	kJapanese	キョウ
+U+4CB8	kCantonese	gaai3
+U+4CB8	kDefinition	a kind of bird
+U+4CB8	kFanqie	古拜
+U+4CB8	kHanyuPinyin	74619.140:jiè
+U+4CB8	kJapanese	カイ
+U+4CB8	kMandarin	jiè
+U+4CB9	kCantonese	pei4
+U+4CB9	kDefinition	osprey; water hawk
+U+4CB9	kFanqie	符悲
+U+4CB9	kHanyuPinyin	74622.140:pí
+U+4CB9	kJapanese	ヒ ビ
+U+4CB9	kMandarin	pí
+U+4CBA	kCantonese	gam3
+U+4CBA	kDefinition	birds singing; chirps
+U+4CBA	kHanyuPinyin	74622.060:gàn
+U+4CBA	kJapanese	カン コン
+U+4CBA	kMandarin	gàn
+U+4CBB	kDefinition	the swallow, (same as 鳶) kite (a bird), kite (a toy)
+U+4CBB	kHanyuPinyin	74626.080:xuán,yuān
+U+4CBB	kJapanese	ケン ゲン エン
+U+4CBB	kMandarin	xuán
+U+4CBC	kCantonese	sang1
+U+4CBC	kDefinition	a kind of bird, (same as 鼪) weasel
+U+4CBC	kHanyuPinyin	74624.050:shēng
+U+4CBC	kJapanese	ソウ ショウ
+U+4CBC	kMandarin	shēng
+U+4CBD	kCantonese	sek6
+U+4CBD	kDefinition	a kind of bird; suspended rocks
+U+4CBD	kFanqie	都了 常隻
+U+4CBD	kHanyuPinyin	74622.150:shí,diǎo
+U+4CBD	kJapanese	セキ ジャク トウ チョウ
+U+4CBD	kMandarin	shí
+U+4CBE	kCantonese	haau2
+U+4CBE	kDefinition	tailor bird; wren
+U+4CBE	kFanqie	苦絞
+U+4CBE	kHanyuPinyin	74621.170:qiǎo
+U+4CBE	kJapanese	コウ キョウ
+U+4CBE	kMandarin	qiǎo
+U+4CBF	kCantonese	ci4
+U+4CBF	kDefinition	(non-classical form of 鶿) cormorant
+U+4CBF	kJapanese	ジ
+U+4CBF	kMandarin	cí
+U+4CC0	kCantonese	dit6
+U+4CC0	kDefinition	the cuckoo, a kind of pigeon, a kind of water bird
+U+4CC0	kFanqie	夷質 徒結
+U+4CC0	kHanyuPinyin	74624.060:dié,yì
+U+4CC0	kJapanese	イツ イチ テツ デチ
+U+4CC0	kMandarin	dié
+U+4CC1	kCantonese	bat6
+U+4CC1	kDefinition	a wild duck-like water bird, a pheasant like bird
+U+4CC1	kHanyuPinyin	74622.160:bó
+U+4CC1	kJapanese	ハツ バチ
+U+4CC1	kMandarin	bó
+U+4CC2	kCantonese	diu1
+U+4CC2	kDefinition	a kind of small bird, sound of birds, the feathered; birds
+U+4CC2	kHanyuPinyin	74627.070:diāo,chāo,tiáo,xiāo
+U+4CC2	kJapanese	チョウ ジョウ キョウ
+U+4CC2	kMandarin	diāo
+U+4CC2	kVietnamese	sếu
+U+4CC3	kDefinition	a kind of phoenix-like bird
+U+4CC3	kJapanese	エン オン
+U+4CC3	kMandarin	wǎn
+U+4CC4	kCantonese	ci1
+U+4CC4	kDefinition	(same as 鴜) a kind of water bird; with black color, (same as 雌) female; woman-like
+U+4CC4	kJapanese	シ
+U+4CC4	kMandarin	cí
+U+4CC5	kCantonese	zi2
+U+4CC5	kDefinition	a kind of bird which shares its nest with rats, sound of birds
+U+4CC5	kFanqie	諸氏
+U+4CC5	kHanyuPinyin	74624.020:zhǐ,zhì
+U+4CC5	kJapanese	シ キ
+U+4CC5	kMandarin	zhǐ
+U+4CC6	kCantonese	baak6
+U+4CC6	kDefinition	a kind of species of myna (or mynah); a grackle
+U+4CC6	kHanyuPinyin	74624.140:bái
+U+4CC6	kJapanese	ハク ビャク
+U+4CC6	kMandarin	bái
+U+4CC7	kCantonese	mou5
+U+4CC7	kDefinition	(same as 鵡) parrot
+U+4CC7	kFanqie	文甫 莫厚
+U+4CC7	kHanyuPinyin	74627.100:wǔ
+U+4CC7	kJapanese	ム
+U+4CC7	kMandarin	wǔ
+U+4CC8	kCantonese	bou2
+U+4CC8	kDefinition	(same as 鴇) a bird resembling the wild goose; Otis dybowskii
+U+4CC8	kJapanese	ホウ
+U+4CC8	kMandarin	bǎo
+U+4CC9	kCantonese	dung1
+U+4CC9	kDefinition	a kind of water bird, (same as 鴆) a kind of venomous bird
+U+4CC9	kFanqie	都宗
+U+4CC9	kHanyuPinyin	74625.080:dōng,dàn
+U+4CC9	kJapanese	トウ ツ タン トン
+U+4CC9	kMandarin	dàn
+U+4CCA	kDefinition	(same as 䳁) a wild duck-like water bird, a pheasant like bird
+U+4CCA	kFanqie	北末 蒲撥
+U+4CCA	kJapanese	ハツ
+U+4CCA	kMandarin	bá
+U+4CCB	kCantonese	tung4
+U+4CCB	kDefinition	a pheasant-like bird with black and body and red feet, a kind of bird, (same as 蟂) an otter-like animal
+U+4CCB	kFanqie	徒冬
+U+4CCB	kHanyuPinyin	74629.120:tóng,tōng,xiāo
+U+4CCB	kJapanese	キョウ トウ ズ チュウ ジュ
+U+4CCB	kMandarin	tóng
+U+4CCC	kCantonese	gyun1
+U+4CCC	kDefinition	(non-classical form of 鵑) the cuckoo
+U+4CCC	kJapanese	ケン
+U+4CCD	kDefinition	a kind of pheasant-like bird
+U+4CCD	kFanqie	九容
+U+4CCD	kHanyuPinyin	74628.100:gōng
+U+4CCD	kJapanese	キョウ ク
+U+4CCD	kMandarin	gōng
+U+4CCE	kDefinition	a pigeon-like bird; with a comb or crest
+U+4CCE	kFanqie	其九
+U+4CCE	kHanyuPinyin	74630.060:jiù
+U+4CCE	kJapanese	キュウ グ
+U+4CCE	kMandarin	jiù
+U+4CCF	kDefinition	cuckoo, pelican, (same as 鴃) a shrike; butcherbird
+U+4CCF	kFanqie	古惠
+U+4CCF	kHanyuPinyin	74628.020:guì,jué
+U+4CCF	kJapanese	ケイ ケ ケン キ ケツ ケチ
+U+4CCF	kMandarin	guì
+U+4CD0	kCantonese	ci3
+U+4CD0	kDefinition	an owl-like bird
+U+4CD0	kFanqie	七四
+U+4CD0	kHanyuPinyin	74632.020:cì
+U+4CD0	kJapanese	シ
+U+4CD0	kMandarin	cì
+U+4CD1	kDefinition	a pheasant-like bird
+U+4CD1	kFanqie	云久
+U+4CD1	kHanyuPinyin	74628.140:yǒu
+U+4CD1	kJapanese	ユウ イク イウ ウ
+U+4CD1	kMandarin	yǒu
+U+4CD2	kDefinition	a kind of bird, a hawk; sparrow hawk
+U+4CD2	kJapanese	エン
+U+4CD2	kMandarin	yuán
+U+4CD3	kCantonese	lou5
+U+4CD3	kDefinition	a kind of water bird, a vulture; a condor
+U+4CD3	kHanyuPinyin	74628.050:lǎo
+U+4CD3	kJapanese	ロウ
+U+4CD3	kMandarin	lǎo
+U+4CD4	kCantonese	guk1
+U+4CD4	kDefinition	a pigeon-like bird; with a comb or crest, a shrike; butcherbird
+U+4CD4	kFanqie	居六
+U+4CD4	kHanyuPinyin	74636.070:jú,jiù
+U+4CD4	kJapanese	キョク コク キュウ グ キク
+U+4CD4	kMandarin	jú
+U+4CD5	kDefinition	the pigeon, the turtle dove
+U+4CD5	kFanqie	縛謀
+U+4CD5	kHanyuPinyin	74636.140:fú
+U+4CD5	kJapanese	フウ ブ フ
+U+4CD5	kMandarin	fú
+U+4CD6	kCantonese	nip6
+U+4CD6	kDefinition	flying birds, a kind of bird
+U+4CD6	kFanqie	尼輒
+U+4CD6	kHanyuPinyin	74633.160:niè
+U+4CD6	kJapanese	ジョウ ニョウ
+U+4CD6	kMandarin	niè
+U+4CD7	kCantonese	ngo4
+U+4CD7	kDefinition	(ancient form of 鵝) goose; gander
+U+4CD7	kJapanese	ガ
+U+4CD7	kMandarin	é
+U+4CD8	kCantonese	ngo4
+U+4CD8	kDefinition	goose
+U+4CD8	kJapanese	ガ
+U+4CD8	kMandarin	é
+U+4CD8	kXHC1983	0283.012:é
+U+4CD9	kDefinition	an egret-like bird, a kind of water bird
+U+4CD9	kHanyuPinyin	74635.010:xǐng
+U+4CD9	kJapanese	ケイ キョウ
+U+4CD9	kMandarin	xǐng
+U+4CDA	kCantonese	hon2
+U+4CDA	kDefinition	a sort of nightingale which is said to sing for the dawn; also the name for a large bat with a wingspread of two feet, a sort of pheasant
+U+4CDA	kFanqie	苦蓋 苦旰 苦曷
+U+4CDA	kHanyuPinyin	74634.150:kàn,hé
+U+4CDA	kJapanese	カン カツ カチ カイ
+U+4CDA	kMandarin	kàn
+U+4CDB	kDefinition	(same as 鷃) a small brown speckled bird like the quail
+U+4CDB	kJapanese	アン エン
+U+4CDB	kMandarin	yàn
+U+4CDC	kCantonese	tou4
+U+4CDC	kDefinition	(same as 鵌) a kind of bird which shares its nest with rats
+U+4CDC	kJapanese	ヨ
+U+4CDC	kMandarin	tú
+U+4CDD	kDefinition	a kind of small birds, a kind of bird
+U+4CDD	kFanqie	普后
+U+4CDD	kHanyuPinyin	74643.070:pǒu,bù
+U+4CDD	kJapanese	ホウ フ ブ
+U+4CDD	kMandarin	pǒu
+U+4CDE	kDefinition	birds flying all directions
+U+4CDE	kHanyuPinyin	74638.090:běng
+U+4CDE	kJapanese	ホウ フ ブ
+U+4CDE	kMandarin	běng
+U+4CDF	kCantonese	ming4
+U+4CDF	kDefinition	a legendary bird, divine birds; the phoenix
+U+4CDF	kFanqie	武兵
+U+4CDF	kHangul	명:N
+U+4CDF	kHanyuPinyin	74640.120:míng
+U+4CDF	kJapanese	メイ ミョウ
+U+4CDF	kMandarin	míng
+U+4CE0	kCantonese	seoi6
+U+4CE0	kDefinition	owl, kite, hawk; sparrow hawk, stop flying (said of bird)
+U+4CE0	kHangul	수:N
+U+4CE0	kHanyuPinyin	74640.170:shuì,zhù
+U+4CE0	kJapanese	スイ ズイ チュ
+U+4CE0	kMandarin	shuì
+U+4CE1	kCantonese	aan3
+U+4CE1	kDefinition	(same as 鵻) a kind of bird in ancient books; a wood-pigeon; a hawk
+U+4CE1	kHanyuPinyin	74641.050:yàn,zhuī
+U+4CE1	kJapanese	スイ
+U+4CE1	kMandarin	yàn
+U+4CE2	kCantonese	kei4
+U+4CE2	kDefinition	(same as 鶀) small wild goose
+U+4CE2	kFanqie	渠之
+U+4CE2	kHanyuPinyin	74638.210:qí
+U+4CE2	kJapanese	キ ギ
+U+4CE2	kMandarin	qí
+U+4CE3	kDefinition	(non-classical form of 鳶) kite (bird), kite (toy), owl, to soar; to fly
+U+4CE3	kJapanese	エン
+U+4CE3	kMandarin	yuán
+U+4CE4	kCantonese	bit3
+U+4CE4	kDefinition	a legendary bird; second name for an owl
+U+4CE4	kFanqie	并列
+U+4CE4	kHanyuPinyin	74640.050:biē
+U+4CE4	kJapanese	ヘツ ヘチ
+U+4CE4	kMandarin	biē
+U+4CE5	kCantonese	ling4
+U+4CE6	kDefinition	wren; the tailorbird, a kind of small bird
+U+4CE6	kFanqie	況袁 須緣
+U+4CE6	kHanyuPinyin	74648.080:xuān
+U+4CE6	kJapanese	ケン カン セン
+U+4CE6	kMandarin	xuān
+U+4CE7	kDefinition	an eagle; a hawk
+U+4CE7	kJapanese	コウ
+U+4CE7	kMandarin	hóu
+U+4CE8	kCantonese	wong4
+U+4CE8	kDefinition	(same as 凰) the female phoenix, a legendary bird in Chinese mythology, (standard form of 皇) beautiful; brilliant, royal
+U+4CE8	kJapanese	オウ
+U+4CE8	kMandarin	huáng
+U+4CE9	kDefinition	a kind of bird; a pheasant-like bird; red body and with a long tail
+U+4CE9	kFanqie	於霄
+U+4CE9	kHanyuPinyin	74645.030:yāo
+U+4CE9	kJapanese	ヨウ
+U+4CE9	kMandarin	yāo
+U+4CEA	kDefinition	(non-classical form of 鷒) a kind of bird, a kind of stork-like bird
+U+4CEA	kJapanese	セン タン
+U+4CEA	kMandarin	juàn
+U+4CEB	kCantonese	kwai4
+U+4CEB	kDefinition	(standard form) a small pigeon
+U+4CEB	kFanqie	渠隹
+U+4CEB	kJapanese	キ ギ
+U+4CEB	kMandarin	kuí
+U+4CEC	kDefinition	(same as 鷊) a kind of bird, a kind of grass, (same as 鶃) a fabulous sea bird
+U+4CEC	kJapanese	ゲキ ギャク
+U+4CEC	kMandarin	è
+U+4CED	kCantonese	zik3
+U+4CED	kDefinition	wagtail
+U+4CED	kJapanese	セキ シャク ショク シキ
+U+4CED	kMandarin	jí
+U+4CEE	kDefinition	to look at in surprise (said of bird)
+U+4CEE	kHanyuPinyin	74647.190:mò
+U+4CEE	kJapanese	バク ミャク ベキ
+U+4CEE	kMandarin	mò
+U+4CEF	kCantonese	cung4
+U+4CEF	kDefinition	a kind of bird, small bird flying, a general name of small birds
+U+4CEF	kFanqie	直容
+U+4CEF	kHanyuPinyin	74646.140:chóng,chǒng
+U+4CEF	kJapanese	チョウ ジュ ショウ シュ
+U+4CEF	kMandarin	chóng
+U+4CF0	kCantonese	bou2
+U+4CF0	kDefinition	(same as 鴇) a bird resembling the wild goose; Otis dybowskii
+U+4CF0	kJapanese	ホウ
+U+4CF0	kMandarin	bǎo
+U+4CF1	kCantonese	mou6
+U+4CF1	kDefinition	(non-classical form of 鶩) ducks
+U+4CF1	kJapanese	ボク
+U+4CF1	kMandarin	wù
+U+4CF1	kVietnamese	vọ
+U+4CF2	kCantonese	zan3
+U+4CF2	kDefinition	a swarm of flying birds; birds soar in groups
+U+4CF2	kFanqie	章刃
+U+4CF2	kHanyuPinyin	74649.080:zhèn
+U+4CF2	kJapanese	シン
+U+4CF2	kMandarin	zhèn
+U+4CF3	kCantonese	seot1
+U+4CF3	kDefinition	a kind of small bird, strange; weird bird
+U+4CF3	kFanqie	辛聿
+U+4CF3	kHanyuPinyin	74654.080:xù
+U+4CF3	kJapanese	シュツ シュチ
+U+4CF3	kMandarin	xù
+U+4CF4	kDefinition	a kind of bird, a flying young bird
+U+4CF4	kFanqie	徒盍
+U+4CF4	kHanyuPinyin	74650.170:tà,dá
+U+4CF4	kJapanese	トウ ドウ
+U+4CF4	kMandarin	tà
+U+4CF5	kCantonese	cik1
+U+4CF5	kDefinition	a kind of water bird with colorful feather
+U+4CF5	kHanyuPinyin	74650.090:chì
+U+4CF5	kJapanese	チョク
+U+4CF5	kMandarin	chì
+U+4CF6	kDefinition	(same as 㶉) a kind of water bird, (same as 雞) chickens
+U+4CF6	kHanyuPinyin	74651.110:xī,qī,jī
+U+4CF6	kJapanese	ケイ
+U+4CF6	kMandarin	xī
+U+4CF7	kCantonese	cung4
+U+4CF7	kDefinition	chicken
+U+4CF7	kHanyuPinyin	74657.190:cóng
+U+4CF7	kJapanese	ショウ ジュ
+U+4CF7	kMandarin	cóng
+U+4CF8	kCantonese	maa4
+U+4CF8	kDefinition	the wild goose, sparrow; the house-sparrow
+U+4CF8	kHanyuPinyin	74658.060:má
+U+4CF8	kJapanese	バイ メ
+U+4CF8	kMandarin	má
+U+4CF9	kDefinition	a kind dove-like bird, (same as 鵽鳩)
+U+4CF9	kMandarin	kòu
+U+4CFA	kDefinition	(same as 鵪) the quail
+U+4CFA	kFanqie	烏含
+U+4CFA	kJapanese	アン オン
+U+4CFA	kMandarin	yàn
+U+4CFB	kCantonese	caam4
+U+4CFB	kDefinition	eagle; hawk; osprey
+U+4CFB	kFanqie	昨甘 士懺
+U+4CFB	kHanyuPinyin	74655.130:cán,zhàn
+U+4CFB	kJapanese	サン ザン
+U+4CFB	kMandarin	cán
+U+4CFC	kCantonese	au1
+U+4CFC	kDefinition	(standard form of 鷗) gull, water bird
+U+4CFC	kJapanese	オウ
+U+4CFD	kCantonese	hok6
+U+4CFD	kDefinition	(non-classical form of 鸖) (same as 鶴) crane
+U+4CFD	kJapanese	カク
+U+4CFD	kMandarin	hè
+U+4CFE	kCantonese	dang1
+U+4CFE	kDefinition	an owl, the rail (a bird)
+U+4CFE	kFanqie	都滕
+U+4CFE	kHanyuPinyin	74663.040:dēng
+U+4CFE	kJapanese	トウ
+U+4CFE	kMandarin	dēng
+U+4CFF	kDefinition	a kind of bird
+U+4CFF	kHanyuPinyin	74662.010:rán
+U+4CFF	kJapanese	ゼン ネン
+U+4CFF	kMandarin	rán
+U+4D00	kCantonese	tung4
+U+4D00	kDefinition	a kind of water bird
+U+4D00	kFanqie	徒紅
+U+4D00	kHanyuPinyin	74662.100:tóng
+U+4D00	kJapanese	トウ ズ
+U+4D00	kMandarin	tóng
+U+4D01	kDefinition	a kind of rat-like bird, a vulture or a condor-like bird
+U+4D01	kFanqie	虞俱 牛具
+U+4D01	kHanyuPinyin	74662.140:yù,yú
+U+4D01	kJapanese	グ
+U+4D01	kMandarin	yù
+U+4D02	kCantonese	zoeng6
+U+4D02	kDefinition	a kind of water bird
+U+4D02	kHanyuPinyin	74661.200:xiàng
+U+4D02	kJapanese	ショウ ゾウ
+U+4D02	kMandarin	xiàng
+U+4D03	kDefinition	wren; the tailorbird, the golden oriole
+U+4D03	kFanqie	女交
+U+4D03	kHanyuPinyin	74659.100:náo
+U+4D03	kJapanese	ドウ ニョウ
+U+4D03	kMandarin	náo
+U+4D04	kCantonese	seon3
+U+4D04	kDefinition	a kind of bird
+U+4D04	kHanyuPinyin	74661.190:shùn
+U+4D04	kJapanese	シュン
+U+4D04	kMandarin	shùn
+U+4D05	kCantonese	fan4
+U+4D05	kDefinition	a legendary bird; like magpie; with white body, red tail and six feet
+U+4D05	kFanqie	符分 博昆
+U+4D05	kHanyuPinyin	74659.110:fén
+U+4D05	kJapanese	ホン フン ブン
+U+4D05	kMandarin	fén
+U+4D06	kCantonese	buk6
+U+4D06	kDefinition	a kind of bird, a kind of bird good at casting lots or divining
+U+4D06	kFanqie	普木 蒲沃
+U+4D06	kHanyuPinyin	74660.160:pú,pū
+U+4D06	kJapanese	ホク ボク
+U+4D06	kMandarin	pú
+U+4D07	kCantonese	ling4
+U+4D07	kDefinition	crane; small swan; (non-classical form of 鴒) wagtail
+U+4D07	kFanqie	郎丁
+U+4D07	kHanyuPinyin	74664.020:líng
+U+4D07	kJapanese	レイ リョウ
+U+4D07	kMandarin	líng
+U+4D08	kCantonese	ou2
+U+4D08	kDefinition	(non-classical form) a kind of water bird
+U+4D08	kJapanese	オウ
+U+4D08	kMandarin	ǎo
+U+4D09	kCantonese	syun4
+U+4D09	kDefinition	general term for a group of bird (looks like egret), to fly in a circle
+U+4D09	kHanyuPinyin	74664.150:huán,xuán
+U+4D09	kJapanese	ケン セン ゼン カン ゲン
+U+4D09	kMandarin	huán
+U+4D0A	kDefinition	(same as 鸃) the crow-pheasant
+U+4D0A	kFanqie	魚羈
+U+4D0A	kJapanese	ギ
+U+4D0A	kMandarin	yí
+U+4D0B	kDefinition	a kind of water bird; deep eyed, general term for a group of bird
+U+4D0B	kHanyuPinyin	74664.140:huán,xuán
+U+4D0B	kJapanese	カン ゲン セン ゼン
+U+4D0B	kMandarin	huán
+U+4D0C	kCantonese	mung4
+U+4D0C	kDefinition	a kind of water bird; a big gray-white colored body with hairy tail
+U+4D0C	kJapanese	ボウ
+U+4D0C	kMandarin	méng
+U+4D0C	kVietnamese	mòng
+U+4D0D	kCantonese	ang1
+U+4D0D	kDefinition	a kind of strange and weird bird
+U+4D0D	kHanyuPinyin	74667.170:yīng
+U+4D0D	kJapanese	ヨウ オウ
+U+4D0D	kMandarin	yīng
+U+4D0E	kCantonese	leoi5
+U+4D0E	kDefinition	(same as 鸓) flying squirrel; bats
+U+4D0E	kJapanese	ルイ ライ
+U+4D0E	kMandarin	lěi
+U+4D0F	kDefinition	(same as 燕) a swallow
+U+4D0F	kJapanese	エン
+U+4D0F	kMandarin	yàn
+U+4D10	kCantonese	bou2
+U+4D10	kDefinition	a kind of bird, (same as 鴇) a bird resembling the wild goose; Otis dybowskii
+U+4D10	kHanyuPinyin	74673.040:bǎo
+U+4D10	kJapanese	ホウ
+U+4D10	kMandarin	bǎo
+U+4D11	kCantonese	dip6
+U+4D11	kDefinition	a legendary weird bird; resembling the magpie; dark red color; with two heads and four feet, (corrupted form of 鸓) flying squirrel; bats
+U+4D11	kFanqie	徒協
+U+4D11	kHanyuPinyin	74673.100:dié
+U+4D11	kJapanese	チョウ ジョウ
+U+4D11	kMandarin	dié
+U+4D12	kCantonese	ling4
+U+4D12	kDefinition	(same as 鴒) wagtail
+U+4D12	kJapanese	レイ
+U+4D12	kMandarin	líng
+U+4D13	kCantonese	si1
+U+4D13	kDefinition	general term for a group of small birds
+U+4D13	kMandarin	shī
+U+4D13	kTGHZ2013	334.060:shī
+U+4D13	kXHC1983	1033.010:shī
+U+4D14	kCantonese	gaau1
+U+4D14	kDefinition	the fishing cormorant
+U+4D14	kMandarin	jiāo
+U+4D14	kTGHZ2013	168.170:jiāo
+U+4D14	kXHC1983	0565.040:jiāo
+U+4D15	kCantonese	lit6
+U+4D15	kDefinition	a woodpecker
+U+4D15	kMandarin	liè
+U+4D15	kTGHZ2013	224.080:liè
+U+4D15	kXHC1983	0714.040:liè
+U+4D16	kCantonese	zing1
+U+4D16	kDefinition	a kind of water bird
+U+4D16	kMandarin	jīng
+U+4D16	kTGHZ2013	179.020:jīng
+U+4D16	kXHC1983	0597.040:jīng
+U+4D17	kCantonese	gwik1
+U+4D17	kDefinition	a shrike
+U+4D17	kMandarin	jú
+U+4D17	kTGHZ2013	184.150:jú
+U+4D17	kXHC1983	0611.150:jú
+U+4D18	kCantonese	tai1
+U+4D18	kDefinition	grebe
+U+4D18	kMandarin	tī
+U+4D18	kTGHZ2013	363.130:tī
+U+4D18	kXHC1983	1127.020:tī
+U+4D19	kCantonese	pik1
+U+4D19	kDefinition	little grebe, dabchick (Tachybaptus ruficollis)
+U+4D19	kMandarin	pì
+U+4D19	kTGHZ2013	282.100:pì
+U+4D19	kXHC1983	0871.010:pì
+U+4D1A	kDefinition	saltpond; salty marshes
+U+4D1A	kFanqie	各朗
+U+4D1A	kHanyuPinyin	74609.090:gǎng
+U+4D1A	kJapanese	コウ
+U+4D1A	kMandarin	gǎng
+U+4D1A	kXHC1983	0362.021:gǎng
+U+4D1B	kCantonese	siu1
+U+4D1B	kDefinition	to make decoction of salt
+U+4D1B	kFanqie	相邀
+U+4D1B	kHangul	소:N
+U+4D1B	kHanyuPinyin	74610.090:xiāo
+U+4D1B	kJapanese	ショウ
+U+4D1B	kMandarin	xiāo
+U+4D1C	kCantonese	waai1
+U+4D1C	kDefinition	salt
+U+4D1C	kFanqie	乙皆
+U+4D1C	kHanyuPinyin	74611.080:wāi
+U+4D1C	kJapanese	カイ ワイ
+U+4D1C	kMandarin	wāi
+U+4D1D	kDefinition	salt, soybean sauce; soy
+U+4D1D	kFanqie	楚夬
+U+4D1D	kHanyuPinyin	74611.160:chuài
+U+4D1D	kJapanese	サイ セ
+U+4D1D	kMandarin	chuài
+U+4D1E	kCantonese	dik6
+U+4D1E	kDefinition	salty; briny; salted
+U+4D1E	kHanyuPinyin	74611.240:dí
+U+4D1E	kJapanese	テキ ジャク
+U+4D1E	kMandarin	dí
+U+4D1F	kCantonese	wun4
+U+4D1F	kDefinition	an one-year old deer, a three-year old deer
+U+4D1F	kFanqie	胡官
+U+4D1F	kHanyuPinyin	74727.060:huán
+U+4D1F	kJapanese	カン ガン
+U+4D1F	kMandarin	huán
+U+4D20	kCantonese	ou2
+U+4D20	kDefinition	a young tailed deer
+U+4D20	kFanqie	烏晧
+U+4D20	kHanyuPinyin	74728.100:yǎo
+U+4D20	kJapanese	オウ ヨウ
+U+4D20	kMandarin	yǎo
+U+4D21	kCantonese	lai6
+U+4D21	kDefinition	(same as 麗) beautiful; elegant; fair; fine
+U+4D21	kJapanese	レイ リ うるわしい
+U+4D21	kMandarin	lì
+U+4D22	kCantonese	mei4
+U+4D22	kDefinition	(same as 麋) a kind of deer; Alces machlis
+U+4D22	kMandarin	mí
+U+4D23	kCantonese	fu1
+U+4D23	kDefinition	a kind of animal
+U+4D23	kHanyuPinyin	74729.070:hū
+U+4D23	kJapanese	コ ク
+U+4D23	kMandarin	hū
+U+4D24	kCantonese	sang1
+U+4D24	kDefinition	an animal as big as a rabbit, a two-year old deer
+U+4D24	kFanqie	所庚
+U+4D24	kHanyuPinyin	74729.040:shēng
+U+4D24	kJapanese	ソウ ショウ
+U+4D24	kMandarin	shēng
+U+4D25	kCantonese	gaa1
+U+4D25	kDefinition	(same as 麚) a stag
+U+4D25	kFanqie	古牙
+U+4D25	kJapanese	カ
+U+4D25	kMandarin	jiā
+U+4D25	kXHC1983	0541.030:jiā
+U+4D26	kDefinition	a legendary animal; a fox-like animal and with a man's eyes
+U+4D26	kFanqie	語巾 語斤
+U+4D26	kHanyuPinyin	74731.120:yín
+U+4D26	kJapanese	ギン ゴン
+U+4D26	kMandarin	yín
+U+4D27	kCantonese	wai1
+U+4D27	kDefinition	venison
+U+4D27	kFanqie	於爲
+U+4D27	kHanyuPinyin	74733.050:wēi
+U+4D27	kJapanese	イ
+U+4D27	kMandarin	wēi
+U+4D28	kCantonese	jyun4
+U+4D29	kCantonese	piu4
+U+4D29	kDefinition	a kind of deer
+U+4D29	kHanyuPinyin	74735.080:piáo
+U+4D29	kJapanese	ヒョウ ビョウ
+U+4D29	kMandarin	piáo
+U+4D2A	kCantonese	luk6
+U+4D2A	kDefinition	a fabulous creature, something like a deer, with a single horn
+U+4D2A	kHanyuPinyin	74736.010:lù
+U+4D2A	kJapanese	ロク
+U+4D2A	kMandarin	lù
+U+4D2B	kCantonese	ling4
+U+4D2B	kDefinition	(same as 羚) antelope
+U+4D2B	kJapanese	レイ
+U+4D2B	kMandarin	líng
+U+4D2C	kDefinition	crumbs of barley; bran; chaff
+U+4D2C	kFanqie	與職
+U+4D2C	kHanyuPinyin	74600.090:yì
+U+4D2C	kJapanese	ヨク ヨキ
+U+4D2C	kMandarin	yì
+U+4D2D	kCantonese	coi4
+U+4D2D	kDefinition	distiller's grains or yeast; ferment for brewing
+U+4D2D	kFanqie	昨哉
+U+4D2D	kHanyuPinyin	74600.080:cái
+U+4D2D	kJapanese	サイ ザイ
+U+4D2D	kMandarin	cái
+U+4D2E	kCantonese	saan3
+U+4D2E	kDefinition	cakes of leaven; yeast, ferment for brewing, crumbs of barley
+U+4D2E	kFanqie	所晏
+U+4D2E	kHanyuPinyin	74600.100:shàn
+U+4D2E	kJapanese	サン セン
+U+4D2E	kMandarin	shàn
+U+4D2F	kCantonese	fat1
+U+4D2F	kDefinition	a kind of cake
+U+4D2F	kHanyuPinyin	74601.170:hū
+U+4D2F	kJapanese	コツ コチ
+U+4D2F	kMandarin	hū
+U+4D30	kCantonese	suk6
+U+4D30	kDefinition	a family name, (same as 䴬) crumbs of barley; bran; chaff
+U+4D30	kFanqie	神蜀
+U+4D30	kHanyuPinyin	74601.070:shú,yì
+U+4D30	kJapanese	ショウ ゾク
+U+4D30	kMandarin	shú
+U+4D31	kDefinition	cakes and biscuits
+U+4D31	kHanyuPinyin	74602.150:tuō
+U+4D31	kJapanese	タ
+U+4D31	kMandarin	tuō
+U+4D32	kCantonese	mut6
+U+4D32	kDefinition	flour, rice flour
+U+4D32	kFanqie	莫撥
+U+4D32	kHanyuPinyin	74602.040:mò
+U+4D32	kJapanese	バツ マチ
+U+4D32	kMandarin	mò
+U+4D33	kDefinition	distiller's grains or yeast
+U+4D33	kFanqie	戶八
+U+4D33	kHanyuPinyin	74602.140:huá
+U+4D33	kJapanese	カツ ゲチ
+U+4D33	kMandarin	huá
+U+4D34	kCantonese	tip3
+U+4D34	kDefinition	a kind of cake, a kind of herb medicine, (same as 黏) to stick, glutinous; adhesive
+U+4D34	kHanyuPinyin	74602.070:tiè,nián
+U+4D34	kJapanese	チョウ デン ネン
+U+4D34	kMandarin	tiè
+U+4D35	kCantonese	bing2
+U+4D35	kDefinition	(same as 餅) cakes; biscuits; pastry
+U+4D35	kFanqie	必郢
+U+4D35	kHanyuPinyin	74603.090:bǐng
+U+4D35	kJapanese	ヘイ
+U+4D35	kMandarin	bǐng
+U+4D36	kCantonese	pung4
+U+4D36	kDefinition	(same as 麷) to boil or stew wheat, to simmer ferment for brewing
+U+4D36	kHanyuPinyin	74604.050:péng
+U+4D36	kJapanese	ホウ ブ
+U+4D36	kMandarin	péng
+U+4D37	kCantonese	wan4
+U+4D37	kDefinition	use the whole piece of barley to ferment for brewing
+U+4D37	kFanqie	戶昆 戶板
+U+4D37	kHanyuPinyin	74604.070:hún,huàn
+U+4D37	kJapanese	コン ゴン カン ゲン ガン
+U+4D37	kMandarin	hún
+U+4D38	kCantonese	fu1
+U+4D38	kDefinition	bran; refuse
+U+4D38	kJapanese	フ
+U+4D38	kMandarin	fū
+U+4D38	kXHC1983	0333.051:fū
+U+4D39	kCantonese	gwo2
+U+4D39	kDefinition	cakes; biscuits; pastry, distiller's grains or yeast, (interchangeable 稞) grains ready for grinding; healthy grains, flour, (same as 䴷) use the whole piece of barley to ferment for brewing
+U+4D39	kFanqie	古火 胡瓦
+U+4D39	kHanyuPinyin	74604.160:guǒ,luǒ,hún
+U+4D39	kJapanese	カ ゲ ラ コン ゴン
+U+4D39	kMandarin	guǒ
+U+4D3A	kDefinition	cakes; cookies; biscuits; pastries; dumplings
+U+4D3A	kFanqie	蒲口
+U+4D3A	kHanyuPinyin	74605.070:bù
+U+4D3A	kJapanese	ホウ ブ ホツ ボチ
+U+4D3A	kMandarin	bù
+U+4D3B	kCantonese	lei4
+U+4D3B	kDefinition	dry food
+U+4D3B	kFanqie	力脂
+U+4D3B	kHanyuPinyin	74604.200:lí
+U+4D3B	kJapanese	リ
+U+4D3B	kMandarin	lí
+U+4D3C	kDefinition	to extirpate; to level off; to pare barley
+U+4D3C	kFanqie	初鴈
+U+4D3C	kHanyuPinyin	74604.130:chàn
+U+4D3C	kJapanese	サン セン
+U+4D3C	kMandarin	chàn
+U+4D3D	kCantonese	pei4
+U+4D3D	kDefinition	a small round piece of distiller's grains or yeast
+U+4D3D	kFanqie	彼爲 符支
+U+4D3D	kHanyuPinyin	74604.220:pí
+U+4D3D	kJapanese	ヒ ビ
+U+4D3D	kMandarin	pí
+U+4D3E	kCantonese	co4
+U+4D3E	kDefinition	to grind barley
+U+4D3E	kFanqie	昨何
+U+4D3E	kHanyuPinyin	74606.080:cuó
+U+4D3E	kJapanese	サ ザ シ
+U+4D3E	kMandarin	cuó
+U+4D3F	kCantonese	mung4
+U+4D3F	kDefinition	grains from the distillery, crumbs of barley, crumbs of rice
+U+4D3F	kFanqie	莫紅
+U+4D3F	kHanyuPinyin	74606.090:méng
+U+4D3F	kJapanese	ボウ モ
+U+4D3F	kMandarin	méng
+U+4D40	kCantonese	so2
+U+4D40	kDefinition	coarse crumbs of barley, unrefined or unpolished wheat
+U+4D40	kFanqie	蘇果
+U+4D40	kHanyuPinyin	74606.040:suǒ,suò
+U+4D40	kJapanese	サ
+U+4D40	kMandarin	suǒ
+U+4D41	kDefinition	decayed dough; rotten noodle
+U+4D41	kHanyuPinyin	74607.030:qiàng
+U+4D41	kJapanese	ショウ ソウ
+U+4D41	kMandarin	qiàng
+U+4D42	kDefinition	to grind wheat to powder; with bran and flour mixed together
+U+4D42	kFanqie	直炙 徒歷
+U+4D42	kHanyuPinyin	74606.230:zhí
+U+4D42	kJapanese	テキ ジャク タク チャク
+U+4D42	kMandarin	zhí
+U+4D43	kCantonese	kwong3
+U+4D43	kDefinition	a kind of barley, dust of ferment for brewing; small crumbs of grains from the distillery
+U+4D43	kFanqie	古猛
+U+4D43	kHanyuPinyin	74607.070:kuàng,huáng
+U+4D43	kJapanese	コウ オウ
+U+4D43	kMandarin	kuàng
+U+4D44	kCantonese	fung1
+U+4D44	kDefinition	(same as 麷) to boil or stew wheat, to simmer ferment for brewing, (interchangeable 豐) various kinds of rush from which mats, bags, etc. are made; vines of the rushes
+U+4D44	kJapanese	フウ ホウ
+U+4D44	kMandarin	fēng
+U+4D45	kDefinition	(same as 熬) to extract by applying heat, to cook; to stew or simmer
+U+4D45	kJapanese	ゴウ
+U+4D45	kMandarin	áo
+U+4D46	kCantonese	mung4
+U+4D46	kDefinition	(same as 䴿) grains from the distillery, crumbs of barley, crumbs of rice
+U+4D46	kJapanese	ボウ
+U+4D46	kMandarin	méng
+U+4D47	kDefinition	to dislike; to reject; to hate, a house; a building
+U+4D47	kHanyuPinyin	74724.090:xiàn
+U+4D47	kJapanese	サン
+U+4D47	kMandarin	xiàn
+U+4D48	kCantonese	huk1
+U+4D48	kDefinition	unspun/raw hemp/silk
+U+4D48	kFanqie	空谷
+U+4D48	kHanyuPinyin	74725.100:kù
+U+4D48	kJapanese	コク
+U+4D48	kMandarin	kù
+U+4D49	kCantonese	tau4
+U+4D49	kDefinition	Abutilon, grassy plant with fibres from which cloth is made
+U+4D49	kJapanese	トウ
+U+4D49	kMandarin	tóu
+U+4D4A	kDefinition	(same as 䵍) yellow, used in person's name
+U+4D4A	kHanyuPinyin	74597.040:tuān
+U+4D4A	kJapanese	タン
+U+4D4A	kMandarin	tuān
+U+4D4B	kDefinition	yellow, greenish yellow
+U+4D4B	kFanqie	榮美 古對
+U+4D4B	kHanyuPinyin	74597.130:wěi
+U+4D4B	kJapanese	カイ ケ イ
+U+4D4B	kMandarin	wěi
+U+4D4C	kDefinition	reddish yellow
+U+4D4C	kFanqie	許兼
+U+4D4C	kHanyuPinyin	74598.050:xiān
+U+4D4C	kJapanese	ケン
+U+4D4C	kMandarin	xiān
+U+4D4D	kCantonese	tan1
+U+4D4D	kDefinition	yellow; used in personal names
+U+4D4D	kJapanese	トン
+U+4D4D	kSMSZD2003Readings	tūn粵tan1
+U+4D4E	kCantonese	teon1
+U+4D4E	kDefinition	dark yellow, yellow, bright; well-illuminated
+U+4D4E	kFanqie	他端
+U+4D4E	kHanyuPinyin	74598.210:tuān
+U+4D4E	kJapanese	タン
+U+4D4E	kMandarin	tuān
+U+4D4F	kDefinition	yellow; straw colored
+U+4D4F	kFanqie	盧晧
+U+4D4F	kHanyuPinyin	74599.170:lǎo
+U+4D4F	kJapanese	ロウ
+U+4D4F	kMandarin	lǎo
+U+4D50	kDefinition	yellow, (dialect) yellowish black; dark yellow
+U+4D50	kFanqie	昌善
+U+4D50	kHanyuPinyin	74599.200:chǎn
+U+4D50	kJapanese	セン
+U+4D50	kMandarin	chǎn
+U+4D51	kCantonese	nik1
+U+4D51	kDefinition	(same as 䵒) glue, a kind of cement made of hemp, lime and oil
+U+4D51	kFanqie	尼質
+U+4D51	kMandarin	nì
+U+4D52	kCantonese	nik1
+U+4D52	kDefinition	glue, a kind of cement made of hemp, lime and oil
+U+4D52	kFanqie	尼質
+U+4D52	kHanyuPinyin	74760.040:nì
+U+4D52	kJapanese	ジツ ニチ
+U+4D52	kMandarin	nì
+U+4D53	kDefinition	the mole
+U+4D53	kHanyuPinyin	74760.060:lí
+U+4D53	kJapanese	リ
+U+4D53	kMandarin	lí
+U+4D54	kCantonese	dung2
+U+4D54	kDefinition	to turn on the heel, not moving forward
+U+4D54	kFanqie	多動
+U+4D54	kHanyuPinyin	74761.110:dǒng
+U+4D54	kJapanese	トウ ツ
+U+4D54	kMandarin	dǒng
+U+4D55	kCantonese	geoi3
+U+4D55	kDefinition	a variety of millet, to stick, sticky; glutinous
+U+4D55	kHanyuPinyin	74761.160:jù
+U+4D55	kJapanese	キョ コ
+U+4D55	kMandarin	jù
+U+4D56	kDefinition	panicled millet, congee; porridge; rice gruel, ripening of paddy or rice; a harvest
+U+4D56	kFanqie	牽繭 苦甸
+U+4D56	kHanyuPinyin	74761.120:qiàn,qīn
+U+4D56	kJapanese	ケン キン
+U+4D56	kMandarin	qiàn
+U+4D57	kDefinition	to clean the withered; dried and decayed leaves of the bottom part of millets, grains, beans or peas, a variety of millet, beans and peas collectively, to paste up, to attach to, to stick up; to glue
+U+4D57	kFanqie	蒲北
+U+4D57	kHanyuPinyin	74761.180:bó,bí
+U+4D57	kJapanese	ホク ボク ヒョク ヒキ
+U+4D57	kMandarin	bó
+U+4D58	kDefinition	not sticking together, non-adherent; (same as 曬) to dry in the sun; to expose to sunlight
+U+4D58	kFanqie	所賣
+U+4D58	kHanyuPinyin	74762.020:shài
+U+4D58	kJapanese	サイ セ サ シャ
+U+4D58	kMandarin	shài
+U+4D59	kCantonese	zaa1
+U+4D59	kDefinition	sticky; to append; padding; cushioning, to paste on something
+U+4D59	kHanyuPinyin	74761.190:zhā,zhǎ
+U+4D59	kJapanese	タ
+U+4D59	kMandarin	zhā
+U+4D5A	kCantonese	tou2
+U+4D5A	kDefinition	(dialect) kaoliang; sorghum
+U+4D5A	kHanyuPinyin	74762.050:tǎo
+U+4D5A	kJapanese	トウ
+U+4D5A	kMandarin	tǎo
+U+4D5A	kSMSZD2003Readings	tǎo粵tou2
+U+4D5A	kXHC1983	1123.010:tǎo
+U+4D5B	kDefinition	(non-classical form of 䵖) panicled millet, congee; porridge; rice gruel, ripening of paddy or rice; a harvest
+U+4D5B	kHanyuPinyin	74762.090:qiàn
+U+4D5B	kJapanese	ケン
+U+4D5B	kMandarin	qiàn
+U+4D5C	kDefinition	to plough and sow, a kind of fruit
+U+4D5C	kHanyuPinyin	74762.140:nǒng
+U+4D5C	kJapanese	ドウ ヌ
+U+4D5C	kMandarin	nǒng
+U+4D5D	kDefinition	dark black, black
+U+4D5D	kFanqie	於記
+U+4D5D	kHanyuPinyin	74743.020:yì,yà
+U+4D5D	kJapanese	イ エ アイ アン エン アツ エチ
+U+4D5D	kMandarin	yì
+U+4D5E	kCantonese	king4
+U+4D5E	kDefinition	(ancient form of 黥) ancient punishment of tattooing the face
+U+4D5E	kFanqie	渠京
+U+4D5E	kJapanese	ケイ
+U+4D5E	kMandarin	jìng
+U+4D5F	kCantonese	gon2
+U+4D5F	kDefinition	(same as 皯) black, black moles or black birthmarks on the face
+U+4D5F	kHanyuPinyin	74743.080:gǎn
+U+4D5F	kJapanese	カン
+U+4D5F	kMandarin	gǎn
+U+4D60	kCantonese	dik1
+U+4D60	kDefinition	rushes used for making mats, face decorations (for women), to ornament on the face of a woman
+U+4D60	kHanyuPinyin	74744.050:dí,zhuó
+U+4D60	kJapanese	テキ チャク シャク
+U+4D60	kMandarin	dí
+U+4D61	kDefinition	(non-classical form of 䵤) to crack or chap; (cracked) black skin
+U+4D61	kJapanese	ケン
+U+4D61	kMandarin	jiǎn
+U+4D62	kCantonese	mui6
+U+4D62	kDefinition	light black, dark black
+U+4D62	kHanyuPinyin	74745.090:mèi
+U+4D62	kJapanese	メ バイ マイ
+U+4D62	kMandarin	mèi
+U+4D63	kCantonese	daat3
+U+4D63	kDefinition	white with black; black and beautiful, name of a county in ancient times
+U+4D63	kFanqie	當割
+U+4D63	kHanyuPinyin	74747.010:dá
+U+4D63	kJapanese	タツ タチ
+U+4D63	kMandarin	dá
+U+4D64	kDefinition	to crack or chap; (cracked) black skin
+U+4D64	kFanqie	多殄 胡典
+U+4D64	kHanyuPinyin	74748.030:jiǎn,xiàn
+U+4D64	kJapanese	ケン ゲン テン
+U+4D64	kMandarin	jiǎn
+U+4D65	kCantonese	wat1
+U+4D65	kDefinition	black, dark; deep
+U+4D65	kHangul	울:N
+U+4D65	kHanyuPinyin	74749.050:yù
+U+4D65	kJapanese	ウツ ウチ
+U+4D65	kMandarin	yù
+U+4D66	kDefinition	(non-classical form of 汙 污) to stain; to mess up, dirty; filthy
+U+4D66	kFanqie	徐野
+U+4D66	kHanyuPinyin	74749.060:xiè,wū
+U+4D66	kJapanese	シャ ジャ
+U+4D66	kMandarin	xiè
+U+4D67	kCantonese	zoi3
+U+4D67	kDefinition	to dye
+U+4D67	kFanqie	作代
+U+4D67	kHanyuPinyin	74748.050:zài
+U+4D67	kJapanese	サイ
+U+4D67	kMandarin	zài
+U+4D68	kCantonese	mong4
+U+4D68	kDefinition	dark; dim; obscure, personal secrets
+U+4D68	kFanqie	莫江
+U+4D68	kHanyuPinyin	74749.070:máng
+U+4D68	kJapanese	ボウ モウ
+U+4D68	kMandarin	máng
+U+4D69	kCantonese	lai4
+U+4D69	kDefinition	(non-classical form of 黧) dark yellow, black mark, light yellow; sallow
+U+4D69	kJapanese	レイ ライ
+U+4D69	kMandarin	lí
+U+4D6A	kCantonese	gwan3
+U+4D6A	kDefinition	pure black, to omit, to forget, to wonder about doing nothing
+U+4D6A	kHanyuPinyin	74751.010:gùn,hùn
+U+4D6A	kJapanese	コン
+U+4D6A	kMandarin	gùn
+U+4D6B	kCantonese	fan1
+U+4D6B	kDefinition	(same as 纁) light red (same as 黦) yellowish black
+U+4D6B	kHanyuPinyin	74752.010:xūn,yù
+U+4D6B	kJapanese	クン ウツ ウチ
+U+4D6B	kMandarin	xūn
+U+4D6C	kCantonese	daap6
+U+4D6C	kDefinition	black (corrupted form of 濌) sound of the flowing water
+U+4D6C	kFanqie	他合
+U+4D6C	kHanyuPinyin	74751.020:tà
+U+4D6C	kJapanese	トウ ドウ
+U+4D6C	kMandarin	tà
+U+4D6D	kCantonese	ze3
+U+4D6D	kDefinition	black
+U+4D6D	kHanyuPinyin	74752.050:zhè
+U+4D6D	kJapanese	シャ
+U+4D6D	kMandarin	zhè
+U+4D6E	kDefinition	red-and-black color, light green; light blue
+U+4D6E	kFanqie	式羊 餘亮
+U+4D6E	kHanyuPinyin	74753.050:yàng
+U+4D6E	kJapanese	ヨウ ショウ
+U+4D6E	kMandarin	yàng
+U+4D6F	kCantonese	teon2
+U+4D6F	kDefinition	(same as 畽) a village; a farmstead, a hamlet, the land outside a city
+U+4D6F	kJapanese	トン
+U+4D6F	kMandarin	tuǎn
+U+4D70	kCantonese	soeng1
+U+4D70	kDefinition	black color, red-and-black color
+U+4D70	kHanyuPinyin	74755.060:shāng
+U+4D70	kJapanese	ショウ ソウ
+U+4D70	kMandarin	shāng
+U+4D71	kDefinition	red-and-black color, blue-and-black color, black color
+U+4D71	kFanqie	許極
+U+4D71	kHanyuPinyin	74755.150:xì,xī
+U+4D71	kJapanese	キョク セキ コキ キ シャク
+U+4D71	kMandarin	xì
+U+4D72	kCantonese	ciu1
+U+4D72	kDefinition	raw hemp, mildewed hemp; freckles
+U+4D72	kHanyuPinyin	74756.180:qiāo
+U+4D72	kJapanese	ショウ
+U+4D72	kMandarin	qiāo
+U+4D73	kDefinition	light black
+U+4D73	kFanqie	烏外 烏快
+U+4D73	kHanyuPinyin	74756.190:wèi
+U+4D73	kJapanese	ワイ エ カイ ケ
+U+4D73	kMandarin	wèi
+U+4D74	kDefinition	black color, black specks; mottles on the face, black face, (same as 暈) to faint; giddy and dizzy
+U+4D74	kFanqie	以證
+U+4D74	kHanyuPinyin	74756.160:yìng,zèng,yùn
+U+4D74	kJapanese	ヨウ ソウ ゾウ
+U+4D74	kMandarin	yìng
+U+4D75	kDefinition	yellowish black and white, short and black, over-fatigued; weary; tired
+U+4D75	kFanqie	初刮 側劣
+U+4D75	kHanyuPinyin	74757.040:chuā,zhuó
+U+4D75	kJapanese	サツ サチ セツ セチ
+U+4D75	kMandarin	chuā
+U+4D76	kCantonese	keoi4
+U+4D76	kDefinition	a kind of frog; a kind of sea turtle; with two horns; and pattern on the tortoise shell
+U+4D76	kHanyuPinyin	74769.070:qú,gōu
+U+4D76	kJapanese	ク グ コウ
+U+4D76	kMandarin	qú
+U+4D77	kCantonese	waa1
+U+4D77	kDefinition	(same as 鼃 蛙) frog, (interchangeable 哇) retch, noise of vomiting
+U+4D77	kHanyuPinyin	74769.110:wā
+U+4D77	kJapanese	ワイ エ カイ カ ゲ アイ ワ ア
+U+4D77	kMandarin	wā
+U+4D78	kDefinition	(same as 鼀) the toad that lives in the moon
+U+4D78	kFanqie	七由
+U+4D78	kJapanese	シュウ
+U+4D79	kCantonese	zi1
+U+4D79	kDefinition	(standard form 鼅) insects that are injurious to crops, spider
+U+4D79	kFanqie	陟移
+U+4D79	kHanyuPinyin	74771.010:zhī
+U+4D79	kJapanese	チ
+U+4D79	kMandarin	zhī
+U+4D7A	kCantonese	ting5
+U+4D7A	kDefinition	(same as 圢 町) boundary between agricultural lands, (in Japan) a street; a city block, ant hill; formicary, vacant land by the side of a house; a paddock, deer trace; deer track
+U+4D7A	kHanyuPinyin	74741.040:tǐng,dǐng,tiǎn
+U+4D7A	kJapanese	テイ チョウ
+U+4D7A	kMandarin	tǐng
+U+4D7B	kDefinition	a small tripod of bronze with two ears (standard form 鏏) tripod of bronze with two ears; heavy three-legged caldron or sacrificial vessel
+U+4D7B	kHanyuPinyin	74741.090:huì
+U+4D7B	kJapanese	セイ
+U+4D7B	kMandarin	gǔ
+U+4D7C	kCantonese	soeng1
+U+4D7C	kDefinition	to boil; to cook; to stew
+U+4D7C	kFanqie	式羊
+U+4D7C	kHanyuPinyin	74741.100:shāng
+U+4D7C	kJapanese	ショウ
+U+4D7C	kMandarin	shāng
+U+4D7D	kDefinition	sound of drums, to beat the side of a drum
+U+4D7D	kFanqie	倉雜
+U+4D7D	kHanyuPinyin	74764.070:cà
+U+4D7D	kJapanese	ソウ
+U+4D7D	kMandarin	cà
+U+4D7E	kCantonese	fu4
+U+4D7E	kDefinition	sound of drums, loud noise of the military drums, (same as 拊) to pat; to touch with hand lightly or tenderly, to slap; to tap; to clap hands
+U+4D7E	kHanyuPinyin	74764.110:fú,fǔ
+U+4D7E	kJapanese	フ ブ
+U+4D7E	kMandarin	fú
+U+4D7F	kCantonese	tip3
+U+4D7F	kDefinition	a silent drum, spacious
+U+4D7F	kHanyuPinyin	74764.100:tiè
+U+4D7F	kJapanese	チョウ
+U+4D7F	kMandarin	tiè
+U+4D80	kDefinition	sound of drums; image of the sound
+U+4D80	kFanqie	他合 苦盍
+U+4D80	kHanyuPinyin	74765.040:tà
+U+4D80	kJapanese	トウ ドウ コウ
+U+4D80	kMandarin	tà
+U+4D81	kDefinition	noises; disorderly or confused sound of the drums
+U+4D81	kHanyuPinyin	74765.140:tà
+U+4D81	kJapanese	トウ
+U+4D81	kMandarin	tà
+U+4D82	kCantonese	zoek3
+U+4D82	kDefinition	a squirrel-like animal, a flying squirrel, a rat-like animal; much smaller
+U+4D82	kFanqie	北敎 之若 即略 都歷
+U+4D82	kHanyuPinyin	74772.030:zhuó,jué
+U+4D82	kJapanese	シャク ホウ ヒョウ テキ チャク
+U+4D82	kMandarin	zhuó
+U+4D83	kCantonese	ham4
+U+4D83	kDefinition	a kind of rat, lizard
+U+4D83	kFanqie	胡男 古南
+U+4D83	kHanyuPinyin	74772.140:hán
+U+4D83	kJapanese	カン ゴン コン
+U+4D83	kMandarin	hán
+U+4D84	kCantonese	ping4
+U+4D84	kDefinition	striped mottled rat; mountain rat; short and red-brown colored with spots
+U+4D84	kFanqie	薄經
+U+4D84	kHanyuPinyin	74773.100:píng
+U+4D84	kJapanese	ヘイ ビョウ
+U+4D84	kMandarin	píng
+U+4D85	kDefinition	a marmot-like rat with a big head
+U+4D85	kFanqie	盧各 下各
+U+4D85	kHanyuPinyin	74775.060:hé
+U+4D85	kJapanese	カク ラク
+U+4D85	kMandarin	hé
+U+4D86	kCantonese	zeoi1
+U+4D86	kDefinition	(dialect) a rat; a mouse
+U+4D86	kFanqie	職追
+U+4D86	kHanyuPinyin	74776.060:zhuī
+U+4D86	kJapanese	スイ
+U+4D86	kMandarin	zhuī
+U+4D87	kCantonese	zau6
+U+4D87	kDefinition	a rat
+U+4D87	kHanyuPinyin	74776.160:zhòu
+U+4D87	kMandarin	zhòu
+U+4D88	kCantonese	bok3
+U+4D88	kDefinition	a kind of rat, known together as the kangaroo
+U+4D88	kFanqie	補各
+U+4D88	kHanyuPinyin	74777.040:bó
+U+4D88	kJapanese	ハク
+U+4D88	kMandarin	bó
+U+4D89	kCantonese	lau4
+U+4D89	kDefinition	guinea pig; a kind of big rat; living in the bamboo grove
+U+4D89	kHanyuPinyin	74777.140:liú
+U+4D89	kJapanese	リュウ
+U+4D89	kMandarin	liú
+U+4D8A	kCantonese	nuk6
+U+4D8A	kDefinition	nosebleed; to be defeated
+U+4D8A	kJapanese	ジク ニク
+U+4D8A	kMandarin	nǜ
+U+4D8A	kXHC1983	0842.051:nǜ
+U+4D8B	kDefinition	sound; sound of the breath
+U+4D8B	kHanyuPinyin	74780.020:xī
+U+4D8B	kJapanese	キュウ コウ
+U+4D8B	kMandarin	xī
+U+4D8C	kCantonese	paau3
+U+4D8C	kDefinition	(same as 皰) a pustule or pimple
+U+4D8C	kJapanese	ホウ ヒョウ
+U+4D8C	kMandarin	pào
+U+4D8D	kCantonese	tai3
+U+4D8D	kDefinition	(same as 嚏) to sneeze
+U+4D8D	kJapanese	テイ
+U+4D8D	kMandarin	dì
+U+4D8E	kDefinition	sound of breath; snoring; snorting
+U+4D8E	kFanqie	呼洽
+U+4D8E	kHanyuPinyin	74780.210:hē
+U+4D8E	kJapanese	コウ
+U+4D8E	kMandarin	hē
+U+4D8F	kCantonese	tai3
+U+4D8F	kDefinition	(same as 洟) tears; snivel; nasal mucus, (same as 挮) to weep; to snivel
+U+4D8F	kHanyuPinyin	74781.030:tì,tǐ
+U+4D8F	kJapanese	テイ タイ キ
+U+4D8F	kMandarin	tì
+U+4D90	kDefinition	to take breath; snoring; snorting
+U+4D90	kFanqie	烏外 烏快
+U+4D90	kHanyuPinyin	74782.010:wài,huì
+U+4D90	kJapanese	ワイ エ カイ ケ
+U+4D90	kMandarin	wài
+U+4D91	kCantonese	tai3
+U+4D91	kDefinition	(standard form 嚏) to sneeze; a running at the nose
+U+4D91	kJapanese	テイ タイ
+U+4D91	kMandarin	tì
+U+4D92	kCantonese	cai4
+U+4D92	kDefinition	outstanding ability, exquisite; fine
+U+4D92	kFanqie	徂奚
+U+4D92	kHanyuPinyin	74786.010:qí
+U+4D92	kJapanese	セイ ザイ サイ
+U+4D92	kMandarin	qí
+U+4D93	kDefinition	ramie; linen sackcloth, to twist and join (cords); to continue, to order the arrest of; to capture
+U+4D93	kFanqie	子計
+U+4D93	kHanyuPinyin	10757.110:jì
+U+4D93	kJapanese	セイ サイ
+U+4D93	kMandarin	jì
+U+4D94	kCantonese	ci4
+U+4D94	kDefinition	prominent gums (of the teeth)
+U+4D94	kFanqie	直離
+U+4D94	kHanyuPinyin	74789.100:chí
+U+4D94	kJapanese	チ ジ
+U+4D94	kMandarin	chí
+U+4D95	kCantonese	baa6
+U+4D95	kDefinition	irregular and prominent teeth
+U+4D95	kHanyuPinyin	74790.080:bā
+U+4D95	kJapanese	ハ ヘ ベ
+U+4D95	kMandarin	bà
+U+4D95	kSMSZD2003Readings	bà粵baa6
+U+4D96	kDefinition	disease of tongue (said of an ox), to keep the mouth shut
+U+4D96	kFanqie	巨禁
+U+4D96	kJapanese	キン ゴン
+U+4D96	kMandarin	jìn
+U+4D97	kCantonese	kaa1
+U+4D97	kDefinition	to bite; use all the strength to bite; to gnaw, bones squeeze between teeth (could not be picked out)
+U+4D97	kFanqie	苦加
+U+4D97	kHanyuPinyin	74790.110:qiā,qiǎ,kè
+U+4D97	kJapanese	カ ケ
+U+4D97	kMandarin	kè
+U+4D98	kCantonese	laap6
+U+4D98	kDefinition	the sound of chewing something dry and hard, sound of gnawing or biting
+U+4D98	kFanqie	力入 盧盍
+U+4D98	kHanyuPinyin	74791.120:lì
+U+4D98	kJapanese	リュウ ロウ
+U+4D98	kMandarin	lì
+U+4D99	kCantonese	geoi6
+U+4D99	kDefinition	swelling of the gums (of the teeth)
+U+4D99	kFanqie	其吕
+U+4D99	kHanyuPinyin	74789.130:jù
+U+4D99	kJapanese	ク コ キョ ゴ
+U+4D99	kMandarin	jù
+U+4D9A	kCantonese	geoi2
+U+4D9A	kDefinition	(non-classical form of 齲) decayed tooth; carious tooth
+U+4D9A	kJapanese	ク
+U+4D9A	kMandarin	qǔ
+U+4D9B	kCantonese	laat6
+U+4D9B	kDefinition	to separate the meat from the bones with teeth, the sound of using teeth to separate the meat from the bones
+U+4D9B	kFanqie	盧達
+U+4D9B	kHanyuPinyin	74792.140:là
+U+4D9B	kJapanese	ラツ ラチ レツ レチ
+U+4D9B	kMandarin	là
+U+4D9C	kCantonese	guk1
+U+4D9C	kDefinition	the process to whiten the ivory or elephant tusk; sound of gnawing
+U+4D9C	kFanqie	胡谷 古沃
+U+4D9C	kHanyuPinyin	74795.050:gǔ
+U+4D9C	kJapanese	コク ゴク カク
+U+4D9C	kMandarin	gǔ
+U+4D9D	kDefinition	growing irregular teeth; crooked teeth, cleft tooth; sound of gnawing
+U+4D9D	kJapanese	コウ ギョウ
+U+4D9D	kMandarin	qià
+U+4D9E	kCantonese	kei4
+U+4D9E	kDefinition	to gnaw; to bite
+U+4D9E	kFanqie	渠之 去其
+U+4D9E	kHanyuPinyin	74795.200:qí
+U+4D9E	kJapanese	キ ギ
+U+4D9E	kMandarin	qí
+U+4D9F	kCantonese	haam6
+U+4D9F	kDefinition	to gnash the teeth (in anger)
+U+4D9F	kHanyuPinyin	74796.150:xiàn
+U+4D9F	kJapanese	カン ゲン
+U+4D9F	kMandarin	xiàn
+U+4DA0	kCantonese	gaam1
+U+4DA0	kDefinition	(same as 䶢) to gnaw; to bite, to hold in the mouth
+U+4DA0	kJapanese	コウ カン ゲン ガン
+U+4DA0	kMandarin	jiǎn
+U+4DA1	kDefinition	sound of biting, (same as 齰) to chew; to gnaw
+U+4DA1	kHanyuPinyin	74797.140:shí,zé
+U+4DA1	kJapanese	シツ ジチ
+U+4DA1	kMandarin	shí
+U+4DA2	kCantonese	gaam1
+U+4DA2	kDefinition	to gnaw; to bite, to hold in the mouth
+U+4DA2	kFanqie	苦洽 古洽
+U+4DA2	kHanyuPinyin	74797.110:jiān,xián
+U+4DA2	kJapanese	カン
+U+4DA2	kMandarin	jiān
+U+4DA3	kCantonese	ngoi4
+U+4DA3	kDefinition	to grind the teeth, teeth
+U+4DA3	kFanqie	古哀
+U+4DA3	kHanyuPinyin	74799.070:ái,gāi
+U+4DA3	kJapanese	ガイ カイ
+U+4DA3	kMandarin	ái
+U+4DA4	kDefinition	sound of chewing bones
+U+4DA4	kHanyuPinyin	74799.060:huá
+U+4DA4	kJapanese	カツ ゲチ
+U+4DA4	kMandarin	huá
+U+4DA5	kDefinition	(same as 齟) unevenly-fitting teeth, irregular teeth, resplendent with variegated coloration; bright and colorful
+U+4DA5	kFanqie	側魚 側加 鉏加
+U+4DA5	kHanyuPinyin	74800.140:zhā,jǔ,chǔ
+U+4DA5	kJapanese	ソ ショ
+U+4DA5	kMandarin	zhā
+U+4DA6	kDefinition	upper and lower teeth in order and corresponding each other, to gnaw; to bite
+U+4DA6	kFanqie	楚革
+U+4DA6	kHanyuPinyin	74800.080:zé
+U+4DA6	kJapanese	サク ジャク
+U+4DA6	kMandarin	zé
+U+4DA7	kCantonese	ngaau5
+U+4DA7	kDefinition	to gnaw; to bite
+U+4DA7	kJapanese	ゴウ ギョウ
+U+4DA7	kMandarin	yǎo
+U+4DA7	kXHC1983	1342.111:yǎo
+U+4DA8	kDefinition	in the manner a toothless person chewing food
+U+4DA8	kHanyuPinyin	74801.140:zhān
+U+4DA8	kJapanese	サン
+U+4DA8	kMandarin	zhān
+U+4DA9	kDefinition	to gnaw; to bite, well-arranged teeth
+U+4DA9	kHanyuPinyin	74801.200:jì
+U+4DA9	kJapanese	セイ ザイ
+U+4DA9	kMandarin	jì
+U+4DAA	kCantonese	caat3
+U+4DAA	kDefinition	sharp teeth; to break something hard like a knife, sand (in food), ugly
+U+4DAA	kHanyuPinyin	74801.180:chà
+U+4DAA	kJapanese	サツ セチ
+U+4DAA	kMandarin	chà
+U+4DAB	kDefinition	fine teeth, irregular teeth
+U+4DAB	kHanyuPinyin	74802.170:yàn,yán
+U+4DAB	kJapanese	ゲン ガン
+U+4DAB	kMandarin	yàn
+U+4DAC	kCantonese	gin1
+U+4DAC	kDefinition	hard fins on the back of a dragon
+U+4DAC	kFanqie	古賢 魚列
+U+4DAC	kHanyuPinyin	74805.090:jiān
+U+4DAC	kJapanese	ケン チョウ ゲツ ゲチ
+U+4DAC	kMandarin	jiān
+U+4DAD	kCantonese	wong1
+U+4DAE	kCantonese	jim5
+U+4DAE	kDefinition	used in personal names
+U+4DAE	kMandarin	yǎn
+U+4DAE	kTGHZ2013	423.040:yǎn
+U+4DAE	kXHC1983	1329.060:yǎn
+U+4DAF	kDefinition	used in girl's name
+U+4DAF	kJapanese	キ
+U+4DB0	kCantonese	ziu1
+U+4DB0	kDefinition	feather ornaments
+U+4DB0	kHanyuPinyin	74810.020:jiāo
+U+4DB0	kJapanese	ショウ ジョウ
+U+4DB0	kMandarin	jiāo
+U+4DB1	kCantonese	tung4
+U+4DB1	kDefinition	a kind of turtle
+U+4DB1	kFanqie	職戎 徒冬
+U+4DB1	kHanyuPinyin	74810.150:tóng
+U+4DB1	kJapanese	トウ ズ シュウ シュ
+U+4DB1	kMandarin	tóng
+U+4DB2	kDefinition	the edge; the hem or the margin of the tortoise shell
+U+4DB2	kFanqie	那含 汝鹽
+U+4DB2	kMandarin	nán
+U+4DB3	kDefinition	to lookup, to adore, to rely upon
+U+4DB3	kHanyuPinyin	74807.040:yuè
+U+4DB3	kJapanese	ヤク
+U+4DB3	kMandarin	yuè
+U+4DB4	kCantonese	ceoi1
+U+4DB4	kDefinition	(same as 吹) to blow
+U+4DB4	kFanqie	昌垂 尺僞
+U+4DB4	kJapanese	スイ
+U+4DB5	kCantonese	ci4
+U+4DB5	kDefinition	(same as 箎) a bamboo flute with seven holes
+U+4DB5	kFanqie	直離
+U+4DB5	kHanyuPinyin	74808.050:chí
+U+4DB5	kJapanese	チ ジ
+U+4DB5	kMandarin	chí
+U+4DB6	kVietnamese	đè
+U+4DB7	kMandarin	jiào
+U+4DB8	kCantonese	mo1
+U+4DB8	kXHC1983	1340.051:yāo
+U+4DB9	kCantonese	zo2
+U+4DB9	kMandarin	zuǒ
+U+4DBE	kJapanese	ユ
+U+4E00	kCantonese	jat1
+U+4E00	kDefinition	one; a, an; alone
+U+4E00	kFanqie	於悉
+U+4E00	kHangul	일:0E
+U+4E00	kHanyuPinlu	yī(32747)
+U+4E00	kHanyuPinyin	10001.010:yī
+U+4E00	kJapanese	イチ イツ ひと ひとつ
+U+4E00	kJapaneseKun	HITOTSU HITOTABI HAJIME
+U+4E00	kJapaneseOn	ICHI ITSU
+U+4E00	kKorean	IL
+U+4E00	kMandarin	yī
+U+4E00	kSMSZD2003Readings	yī粵jat1
+U+4E00	kTGHZ2013	430.150:yī
+U+4E00	kTang	*qit qit
+U+4E00	kVietnamese	nhất
+U+4E00	kXHC1983	1351.020:yī 1360.040:yí 1368.160:yì
+U+4E01	kCantonese	ding1
+U+4E01	kDefinition	male adult; robust, vigorous; 4th heavenly stem
+U+4E01	kFanqie	中莖 當經
+U+4E01	kHangul	정:0E
+U+4E01	kHanyuPinlu	dīng(16)
+U+4E01	kHanyuPinyin	10002.050:dīng,zhēng
+U+4E01	kJapanese	チョウ テイ トウ あたる ひのと よぼろ
+U+4E01	kJapaneseKun	HINOTO ATARU YOBORO
+U+4E01	kJapaneseOn	TEI CHOU TOU
+U+4E01	kKorean	CENG
+U+4E01	kMandarin	dīng
+U+4E01	kSMSZD2003Readings	dīng粵ding1 zhéng粵zang1
+U+4E01	kTGHZ2013	076.190:dīng
+U+4E01	kTang	*deng deng
+U+4E01	kVietnamese	đinh
+U+4E01	kXHC1983	0252.010:dīng 1472.010:zhēng
+U+4E02	kCantonese	haau2
+U+4E02	kDefinition	obstruction of breath (qi) as it seeks release; variant of other characters
+U+4E02	kFanqie	苦浩
+U+4E02	kHanyuPinyin	10004.010:kǎo,qiǎo,yú
+U+4E02	kJapanese	コウ
+U+4E02	kJapaneseKun	SAMATAGERARERU
+U+4E02	kJapaneseOn	KOU
+U+4E02	kKorean	KYO
+U+4E02	kMandarin	kǎo
+U+4E03	kCantonese	cat1
+U+4E03	kDefinition	seven
+U+4E03	kFanqie	親吉
+U+4E03	kHangul	칠:0E
+U+4E03	kHanyuPinlu	qī(950)
+U+4E03	kHanyuPinyin	10003.030:qī
+U+4E03	kJapanese	シチ シツ なな ななつ なの
+U+4E03	kJapaneseKun	NANATSU NANATABI
+U+4E03	kJapaneseOn	SHICHI SHITSU
+U+4E03	kKorean	CHIL
+U+4E03	kMandarin	qī
+U+4E03	kSMSZD2003Readings	qī粵cat1
+U+4E03	kTGHZ2013	290.010:qī
+U+4E03	kTang	*tsit tsit
+U+4E03	kVietnamese	thất
+U+4E03	kXHC1983	0893.050:qī 0897.070:qí
+U+4E04	kCantonese	soeng6
+U+4E04	kDefinition	above
+U+4E04	kFanqie	時掌 時亮
+U+4E04	kJapanese	ショウ
+U+4E04	kJapaneseKun	UE KAMI
+U+4E04	kJapaneseOn	SHOU
+U+4E04	kKorean	SANG
+U+4E04	kMandarin	shàng
+U+4E05	kCantonese	haa6
+U+4E05	kDefinition	under, underneath, below; down; inferior; bring down; used to transliterate the Latin letter 'T'
+U+4E05	kFanqie	胡雅
+U+4E05	kJapanese	カ
+U+4E05	kJapaneseKun	SHIMO
+U+4E05	kJapaneseOn	KA
+U+4E05	kKorean	HA
+U+4E05	kMandarin	xià
+U+4E06	kCantonese	daan1
+U+4E06	kDefinition	kwukyel
+U+4E06	kMandarin	hǎn
+U+4E07	kCantonese	maan6
+U+4E07	kDefinition	ten thousand; innumerable
+U+4E07	kFanqie	無販 莫北
+U+4E07	kHangul	만:0N
+U+4E07	kHanyuPinlu	wàn(1335)
+U+4E07	kHanyuPinyin	10009.030:wàn,mò
+U+4E07	kJapanese	マン バン ボク モク よろず
+U+4E07	kJapaneseKun	YOROZU
+U+4E07	kJapaneseOn	MAN BAN
+U+4E07	kKorean	MAN MWUK
+U+4E07	kMandarin	wàn mò
+U+4E07	kSMSZD2003Readings	mò粵mak6 wàn粵maan6
+U+4E07	kTGHZ2013	256.090:mò 379.160:wàn
+U+4E07	kVietnamese	vạn
+U+4E07	kXHC1983	0802.110:mò 1185.040:wàn
+U+4E08	kCantonese	zoeng6
+U+4E08	kDefinition	unit of length equal 3.3 meters; gentleman, man, husband
+U+4E08	kFanqie	直兩
+U+4E08	kHangul	장:0E
+U+4E08	kHanyuPinlu	zhàng(112)
+U+4E08	kHanyuPinyin	10009.020:zhàng
+U+4E08	kJapanese	ジョウ チョウ たけ だけ
+U+4E08	kJapaneseKun	TAKE DAKE
+U+4E08	kJapaneseOn	JOU CHOU
+U+4E08	kKorean	CANG
+U+4E08	kMandarin	zhàng
+U+4E08	kSMSZD2003Readings	zhàng粵zoeng6
+U+4E08	kTGHZ2013	466.150:zhàng
+U+4E08	kTang	*djhiɑ̌ng djhiɑ̌ng
+U+4E08	kVietnamese	trượng
+U+4E08	kXHC1983	1457.020:zhàng
+U+4E09	kCantonese	saam1
+U+4E09	kDefinition	three
+U+4E09	kFanqie	蘇甘 蘇暫
+U+4E09	kHangul	삼:0E
+U+4E09	kHanyuPinlu	sān(3030)
+U+4E09	kHanyuPinyin	10004.030:sān
+U+4E09	kJapanese	サン シン み みつ みっつ
+U+4E09	kJapaneseKun	MITSU MITABI
+U+4E09	kJapaneseOn	SAN
+U+4E09	kKorean	SAM
+U+4E09	kMandarin	sān
+U+4E09	kSMSZD2003Readings	sān粵saam1 sān,sàn粵saam3
+U+4E09	kTGHZ2013	320.010:sān
+U+4E09	kTang	*sɑm sɑm
+U+4E09	kVietnamese	tam
+U+4E09	kXHC1983	0982.010:sān
+U+4E0A	kCantonese	soeng6
+U+4E0A	kDefinition	top; superior, highest; go up, send up
+U+4E0A	kFanqie	時掌 時亮
+U+4E0A	kHangul	상:0E
+U+4E0A	kHanyuPinlu	shàng(12308) shang(392)
+U+4E0A	kHanyuPinyin	10005.040:shàng,shǎng
+U+4E0A	kJapanese	ジョウ ショウ うえ うわ かみ あげる あがる のぼる のぼせる のぼす たっとぶ たてまつる ほとり
+U+4E0A	kJapaneseKun	UE KAMI NOBORU
+U+4E0A	kJapaneseOn	JOU SHOU
+U+4E0A	kKorean	SANG
+U+4E0A	kMandarin	shàng
+U+4E0A	kSMSZD2003Readings	shàng粵soeng6 shàng粵soeng5 shǎng,shàng粵soeng5
+U+4E0A	kTGHZ2013	326.050:shǎng 326.090:shàng
+U+4E0A	kTang	*zhiɑ̀ng zhiɑ̀ng zhiɑ̌ng
+U+4E0A	kVietnamese	thượng
+U+4E0A	kXHC1983	1002.050:shǎng 1002.100:shàng
+U+4E0B	kCantonese	haa6
+U+4E0B	kDefinition	under, underneath, below; down; inferior; bring down
+U+4E0B	kFanqie	胡雅 胡駕
+U+4E0B	kHangul	하:0E
+U+4E0B	kHanyuPinlu	xià(6430) xia(249)
+U+4E0B	kHanyuPinyin	10007.010:xià
+U+4E0B	kJapanese	カ ゲ ア した しも もと さげる さがる くだる くだす くださる おろす おりる
+U+4E0B	kJapaneseKun	SHITA SHIMO MOTO
+U+4E0B	kJapaneseOn	KA GE
+U+4E0B	kKorean	HA
+U+4E0B	kMandarin	xià
+U+4E0B	kSMSZD2003Readings	xià粵haa6 xià粵haa5
+U+4E0B	kTGHZ2013	396.140:xià
+U+4E0B	kTang	hà hǎ
+U+4E0B	kVietnamese	hạ
+U+4E0B	kXHC1983	1239.090:xià
+U+4E0C	kCantonese	gei1
+U+4E0C	kDefinition	table
+U+4E0C	kFanqie	居之
