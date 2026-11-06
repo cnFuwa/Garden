@@ -61,7 +61,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             _importing.value = true
             try{
-                repo.importAssetsFile(
+                noteRepo.importAssetsFile(
                     application,
                     fileName
                 )
