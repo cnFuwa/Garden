@@ -29,7 +29,7 @@ class NoteRepo @Inject constructor(
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->
             BufferedReader(InputStreamReader(inputStream, Charsets.UTF_8)).use { reader ->
-                val bufferList = mutableListOf<Sring>()
+                val bufferList = mutableListOf<String>()
                 var line: String?
                 while (reader.readLine().also { line = it } != null) {
                     if (line.isNullOrBlank()) continue
