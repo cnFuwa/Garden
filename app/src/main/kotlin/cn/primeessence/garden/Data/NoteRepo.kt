@@ -13,7 +13,7 @@ import java.io.InputStreamReader
 class NoteRepo @Inject constructor(
     private val dao: NoteDao
 ) {
-    val BATCH_SIZE = 100
+    val BATCH_SIZE = 3000
 
     suspend fun getLatest(): List<Note> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
@@ -28,19 +28,22 @@ class NoteRepo @Inject constructor(
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->
-            BufferedReader(InputStreamReader(inputStream,Charsets.UTF_8)).use { reader ->
-                val bufferList = mutableListOf<Note>()
+            BufferedReader(InputStreamReader(inputStream, Charsets.UTF_8)).use { reader ->
+                val bufferList = mutableListOf<Sring>()
                 var line: String?
                 while (reader.readLine().also { line = it } != null) {
                     if (line.isNullOrBlank()) continue
-                    bufferList.add(Note(content = line))
+                    bufferList.add(line.trim())
                     if (bufferList.size >= BATCH_SIZE) {
-                        dao.insertAll(bufferList)
+                        val text: String = bufferList.joinToString("\n")
+                        dao.insert(Note(content = text))
                         bufferList.clear()
                     }
                 }
                 if (bufferList.isNotEmpty()) {
-                    dao.insertAll(bufferList)
+                        val text2: String = bufferList.joinToString("\n")
+                        dao.insert(Note(content = text2))
+                        bufferList.clear()
                 }
             }
         }
