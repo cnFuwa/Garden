@@ -21,6 +21,9 @@ jobs:
         run: |
           mkdir -p keystore
           echo "${{ secrets.KEYSTORE }}" | base64 -d > keystore/garden_release.p12
+          
+      - name: Make gradlew executable
+        run: chmod +x ./gradlew
 
       - name: Gradle build release
         env:
