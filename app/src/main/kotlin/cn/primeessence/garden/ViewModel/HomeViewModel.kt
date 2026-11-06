@@ -1,6 +1,7 @@
 // Home ViewModel
 package cn.primeessence.garden
 
+import android.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
@@ -14,11 +15,14 @@ import javax.inject.Inject
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     private val noteRepo: NoteRepo,
-    
+    private val application: Application
 ) : ViewModel() {
 
     private val _metaMap = MutableStateFlow<Map<String, Long>>(emptyMap())
     val metaMap: StateFlow<Map<String, Long>> = _metaMap.asStateFlow()
+
+    private val _importing = MutableStateFlow<Boolean>(false)
+    val importing: StateFlow<Boolean> = _importing.asStateFlow()
 
     fun load() {
         _metaMap.value = mutableMapOf(
@@ -50,4 +54,23 @@ class HomeViewModel @Inject constructor(
             }
         }
     }
+    
+    fun import(){
+        val fileName: String = "unihan/pinyin.txt"
+        if(_importing.value) return
+        viewModelScope.launch {
+            _importing.value = true
+            try{
+                repo.importAssetsFile(
+                    application,
+                    fileName
+                )
+            } catch (e: Exception) {
+            
+            } finally {
+                _importing.value = false
+            }
+        }
+    }
+
 }

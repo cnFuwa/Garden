@@ -47,7 +47,7 @@ fun NoteEdit(
     val vm: NoteEditViewModel = hiltViewModel()
 
     val note by vm.note.collectAsStateWithLifecycle()
-    val importing by vm.importing.collectAsStateWithLifecycle()
+
     val targetId: Long = maxOf(0, noteId)
 
     LaunchedEffect(targetId) {
@@ -68,17 +68,6 @@ fun NoteEdit(
             text = "Edit Note ${targetId}",
             style = MaterialTheme.typography.headlineSmall
         )
-        
-        Button(
-            onClick = {
-                vm.import()
-            },
-            enabled = !importing
-        ){
-            Text(
-                text = "import"
-            )
-        }
         
         val item = note 
         if(item != null) {

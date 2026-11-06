@@ -31,6 +31,8 @@ fun HomeScreen(
     
     val metaMap by vm.metaMap.collectAsStateWithLifecycle()
 
+    val importing by vm.importing.collectAsStateWithLifecycle()
+
     LaunchedEffect(Unit) {
         vm.load()
     }
@@ -59,6 +61,17 @@ fun HomeScreen(
             
             Text(
                 text = "NoteList"
+            )
+        }
+        
+        Button(
+            onClick = {
+                vm.import()
+            },
+            enabled = !importing
+        ){
+            Text(
+                text = "import"
             )
         }
         

@@ -19,7 +19,7 @@ fun GardenNav(
         modifier = modifier,
         entryProvider = entryProvider {
             entry<HomeRoute> {
-                HomeScreen(
+                Home(
                     gotoNoteList = { backStack.add(NoteListRoute) },
                 )
             }
