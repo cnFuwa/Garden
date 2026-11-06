@@ -21,8 +21,8 @@ class HomeViewModel @Inject constructor(
     private val _metaMap = MutableStateFlow<Map<String, Long>>(emptyMap())
     val metaMap: StateFlow<Map<String, Long>> = _metaMap.asStateFlow()
 
-    private val _importing = MutableStateFlow<Boolean>(false)
-    val importing: StateFlow<Boolean> = _importing.asStateFlow()
+    private val _loading = MutableStateFlow<Boolean>(false)
+    val loading: StateFlow<Boolean> = _loading.asStateFlow()
 
     fun load() {
         _metaMap.value = mutableMapOf(
@@ -55,22 +55,38 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun import(){
-        val fileName: String = "unihan/pinyin.txt"
-        if(_importing.value) return
+    fun loadNote(name: String){
+        val fileName: String = "unihan/$name.txt"
+        if(_loading.value) return
         viewModelScope.launch {
-            _importing.value = true
+            _loading.value = true
             try{
-                noteRepo.importAssetsFile(
+                noteRepo.loadAssetsFile(
                     application,
                     fileName
                 )
             } catch (e: Exception) {
             
             } finally {
-                _importing.value = false
+                _loading.value = false
             }
         }
+    }
+    
+    fun loadNumeric(){
+        loadNote("numeric")
+    }
+    
+    fun loadHanzi(){
+        loadNote("hanzi")
+    }
+    
+    fun loadVariant(){
+        loadNote("variant")
+    }
+    
+    fun loadReading(){
+        loadNote("reading")
     }
 
 }

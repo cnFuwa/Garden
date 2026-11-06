@@ -23,7 +23,7 @@ class NoteRepo @Inject constructor(
     suspend fun update(item: Note): Int = dao.update(item)
     suspend fun deleteById(noteId: Long): Int = dao.deleteById(noteId)
     
-    suspend fun importAssetsFile(
+    suspend fun loadAssetsFile(
          context: Context, fileName: String
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets

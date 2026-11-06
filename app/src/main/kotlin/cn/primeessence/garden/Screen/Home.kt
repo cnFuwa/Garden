@@ -31,7 +31,7 @@ fun Home(
     
     val metaMap by vm.metaMap.collectAsStateWithLifecycle()
 
-    val importing by vm.importing.collectAsStateWithLifecycle()
+    val loading by vm.loading.collectAsStateWithLifecycle()
 
     LaunchedEffect(Unit) {
         vm.load()
@@ -48,7 +48,7 @@ fun Home(
         verticalArrangement = Arrangement.spacedBy(8.dp)
     ){
         Text(
-            text = "HomeScreen"
+            text = "Home"
         )
         
         Text(
@@ -65,17 +65,6 @@ fun Home(
         }
         
         Button(
-            onClick = {
-                vm.import()
-            },
-            enabled = !importing
-        ){
-            Text(
-                text = "import"
-            )
-        }
-        
-        Button(
             onClick = { vm.createNote() }
         ){
             
@@ -83,5 +72,51 @@ fun Home(
                 text = "Create"
             )
         }
+        
+        Button(
+            onClick = {
+                vm.loadNumeric()
+            },
+            enabled = !loading
+        ){
+            Text(
+                text = "Numeric"
+            )
+        }
+        
+        Button(
+            onClick = {
+                vm.loadHanzi()
+            },
+            enabled = !loading
+        ){
+            Text(
+                text = "Hanzi"
+            )
+        }
+        
+        Button(
+            onClick = {
+                vm.loadVariant()
+            },
+            enabled = !loading
+        ){
+            Text(
+                text = "Variant"
+            )
+        }
+        
+        Button(
+            onClick = {
+                vm.loadReading()
+            },
+            enabled = !loading
+        ){
+            Text(
+                text = "Reading"
+            )
+        }
+        
+        
     }
 }
