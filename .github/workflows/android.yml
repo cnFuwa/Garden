@@ -1,5 +1,9 @@
 name: Build Garden Release APK
-on: push
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch: # 网页手动触发入口
 
 jobs:
   build:
