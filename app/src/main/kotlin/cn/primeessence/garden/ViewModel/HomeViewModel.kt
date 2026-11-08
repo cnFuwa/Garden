@@ -102,12 +102,12 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun loadNumeric(){
-        loadNote("numeric", 101L)
+    fun loadHanzi(){
+        loadNote("hanzi", 101L)
     }
     
-    fun loadHanzi(){
-        loadNote("hanzi", 102L)
+    fun loadNumeric(){
+        loadNote("numeric", 102L)
     }
     
     fun loadVariant(){
@@ -147,42 +147,47 @@ class HomeViewModel @Inject constructor(
     fun renewNumeric() {
         viewModelScope.launch {
             try {
-                val noteId: Long = 1L
-                val note: Note? = noteRepo.getById(noteId)
-                if (note == null) return@launch
-    
-                val itemList = mutableListOf<String>()
-                val noteContent = note.content.trim()
-                val lines = noteContent.split("\n").map { it.trim() }
-    
-                for (line in lines) {
-                    if (line.isEmpty()) continue
-                    val item = line.split(",").map { it.trim() }
-                    if (item.size < 3) continue
-    
-                    val code: String = item[0]
-                    val tag: String = item[1]
-                    val textContent: String = item[2]
-    
-                    val hexStr: String = code.removePrefix("U+")
-                    val codePoint: Int = getCodePoint(hexStr)
-                    val hanzi: String = getHanzi(codePoint)
-                    
-                    val newStr = buildString {
-                        append(hanzi)
-                        append("(")
-                        append(code)
-                        append("),")
-                        append(tag)
-                        append(",")
-                        append(textContent)
+                val idList = noteRepo.getIds(102L)
+                for(noteId in idList){
+                    val noteId: Long = 1L
+                    val note: Note? = noteRepo.getById(noteId)
+                    if (note == null) return@launch
+        
+                    val itemList = mutableListOf<String>()
+                    val noteContent = note.content.trim()
+                    val lines = noteContent.split("\n").map { it.trim() }
+        
+                    for (line in lines) {
+                        if (line.isEmpty()) continue
+                        val item = line.split(",").map { it.trim() }
+                        if (item.size < 3) continue
+        
+                        val code: String = item[0]
+                        val tag: String = item[1]
+                        val textContent: String = item[2]
+        
+                        val hexStr: String = code.removePrefix("U+")
+                        val codePoint: Int = getCodePoint(hexStr)
+                        val hanzi: String = getHanzi(codePoint)
+                        
+                        val newStr = buildString {
+                            append(hanzi)
+                            append("(")
+                            append(code)
+                            append(")\n")
+                            append(tag)
+                            append("\n")
+                            append(textContent)
+                        }
+                        itemList.add(newStr)
                     }
-                    itemList.add(newStr)
+                    if(itemList.isEmpty()) continue
+                    val newContent = itemList.joinToString("\n\n")
+                    itemList.clear()
+                    val updatedNote = note.copy(content = newContent)
+                    noteRepo.update(updatedNote)
                 }
-                val newContent = itemList.joinToString("\n")
-                val updatedNote = note.copy(content = newContent)
-                noteRepo.update(updatedNote)
-    
+
             } catch (e: Exception) {
                 e.printStackTrace()
             }
@@ -194,9 +199,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             _updating.value = true
             try {
-                val idList = listOf(
-                    5L,6L,7L,8L,9L,10L,11L,12L,13L,14L
-                )
+                val idList = noteRepo.getIds(103L)
                 for(noteId in idList) {
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) return@launch
@@ -252,7 +255,9 @@ class HomeViewModel @Inject constructor(
                         
                         itemList.add(newStr)
                     }
+                    if(itemList.isEmpty()) continue
                     val newContent = itemList.joinToString("\n\n")
+                    itemList.clear()
                     val updatedNote = note.copy(content = newContent)
                     noteRepo.update(updatedNote)
                     _updating.value = false
@@ -266,7 +271,52 @@ class HomeViewModel @Inject constructor(
     }
 
     fun renewReading() {
+        viewModelScope.launch {
+            try {
+                val idList = noteRepo.getIds(105L)
+                for(noteId in idList){
+                    val noteId: Long = 1L
+                    val note: Note? = noteRepo.getById(noteId)
+                    if (note == null) return@launch
         
-    }
+                    val itemList = mutableListOf<String>()
+                    val noteContent = note.content.trim()
+                    val lines = noteContent.split("\n").map { it.trim() }
+        
+                    for (line in lines) {
+                        if (line.isEmpty()) continue
+                        val item = line.split(",").map { it.trim() }
+                        if (item.size < 3) continue
+        
+                        val code: String = item[0]
+                        val tag: String = item[1]
+                        val textContent: String = item[2]
+        
+                        val hexStr: String = code.removePrefix("U+")
+                        val codePoint: Int = getCodePoint(hexStr)
+                        val hanzi: String = getHanzi(codePoint)
+                        
+                        val newStr = buildString {
+                            append(hanzi)
+                            append("(")
+                            append(code)
+                            append(")\n")
+                            append(tag)
+                            append("\n")
+                            append(textContent)
+                        }
+                        itemList.add(newStr)
+                    }
+                    if(itemList.isEmpty()) continue
+                    val newContent = itemList.joinToString("\n\n")
+                    itemList.clear()
+                    val updatedNote = note.copy(content = newContent)
+                    noteRepo.update(updatedNote)
+                }
 
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
+    }
 }
