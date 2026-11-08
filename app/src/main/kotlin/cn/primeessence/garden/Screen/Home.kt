@@ -30,6 +30,8 @@ fun Home(
     val vm: HomeViewModel = hiltViewModel()
     
     val metaMap by vm.metaMap.collectAsStateWithLifecycle()
+    
+    val noteMap by vm.noteMap.collectAsStateWithLifecycle()
 
     val loading by vm.loading.collectAsStateWithLifecycle()
 
@@ -39,6 +41,17 @@ fun Home(
     
     val scrollState = rememberScrollState()
     val noteNum = metaMap["note"] ?: 0L
+    
+    val numericCateId: Long = 101L
+    val hanziCateId: Long = 102L
+    val variantCateId: Long = 103L
+    val readingCateId: Long = 105L
+    
+    val numericNum = noteMap[numericCateId] ?: 0L
+    val hanziNum = noteMap[hanziCateId] ?: 0L
+    val variantNum = noteMap[variantCateId] ?: 0L
+    val readingNum = noteMap[readingCateId] ?: 0L
+    
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -73,50 +86,60 @@ fun Home(
             )
         }
         
-        Button(
-            onClick = {
-                vm.loadNumeric()
-            },
-            enabled = !loading
-        ){
-            Text(
-                text = "Numeric"
-            )
+        if(numericNum == 0L){
+            Button(
+                onClick = {
+                    vm.loadNumeric()
+                },
+                enabled = !loading
+            ){
+                Text(
+                    text = "Numeric"
+                )
+            }
         }
         
-        Button(
-            onClick = {
-                vm.loadHanzi()
-            },
-            enabled = !loading
-        ){
-            Text(
-                text = "Hanzi"
-            )
+        
+        if(hanziNum == 0L){
+            Button(
+                onClick = {
+                    vm.loadHanzi()
+                },
+                enabled = !loading
+            ){
+                Text(
+                    text = "Hanzi"
+                )
+            }
         }
         
-        Button(
-            onClick = {
-                vm.loadVariant()
-            },
-            enabled = !loading
-        ){
-            Text(
-                text = "Variant"
-            )
+        
+        if(variantNum == 0L){
+            Button(
+                onClick = {
+                    vm.loadVariant()
+                },
+                enabled = !loading
+            ){
+                Text(
+                    text = "Variant"
+                )
+            }
         }
         
-        Button(
-            onClick = {
-                vm.loadReading()
-            },
-            enabled = !loading
-        ){
-            Text(
-                text = "Reading"
-            )
-        }
         
+        if(readingNum == 0L){
+            Button(
+                onClick = {
+                    vm.loadReading()
+                },
+                enabled = !loading
+            ){
+                Text(
+                    text = "Reading"
+                )
+            }
+        }
         
     }
 }

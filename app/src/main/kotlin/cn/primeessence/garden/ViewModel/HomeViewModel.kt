@@ -8,7 +8,7 @@ import dagger.hilt.android.lifecycle.HiltViewModel
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.StateFlow
-//import kotlinx.coroutines.flow.update
+import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 
@@ -21,15 +21,33 @@ class HomeViewModel @Inject constructor(
     private val _metaMap = MutableStateFlow<Map<String, Long>>(emptyMap())
     val metaMap: StateFlow<Map<String, Long>> = _metaMap.asStateFlow()
 
+    private val _noteMap = MutableStateFlow<Map<Long, Long>>(emptyMap())
+    val noteMap: StateFlow<Map<Long, Long>> = _noteMap.asStateFlow()
+
     private val _loading = MutableStateFlow<Boolean>(false)
     val loading: StateFlow<Boolean> = _loading.asStateFlow()
 
     fun load() {
         _metaMap.value = mutableMapOf(
-            "note" to 128L
+            "note" to 256L
         )
     }
     
+    fun getNoteCount(cateId: Long) {
+        viewModelScope.launch {
+            try {
+                val total: Long = noteRepo.getCount(cateId)
+                _noteMap.value = _noteMap.value.toMutableMap().apply {
+                    put(cateId, total)
+                }
+            } catch (e: Exception) {
+
+            } finally {
+
+            }
+        }
+    }
+        
     fun createNote() {
         val metaMap = _metaMap.value
         val available: Long = metaMap["note"] ?: 128L
@@ -55,7 +73,7 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun loadNote(name: String){
+    fun loadNote(name: String, cateId: Long){
         val fileName: String = "unihan/$name.txt"
         if(_loading.value) return
         viewModelScope.launch {
@@ -63,8 +81,10 @@ class HomeViewModel @Inject constructor(
             try{
                 noteRepo.loadAssetsFile(
                     application,
-                    fileName
+                    fileName,
+                    cateId
                 )
+                getNoteCount(cateId)
             } catch (e: Exception) {
             
             } finally {
@@ -74,19 +94,19 @@ class HomeViewModel @Inject constructor(
     }
     
     fun loadNumeric(){
-        loadNote("numeric")
+        loadNote("numeric", 101L)
     }
     
     fun loadHanzi(){
-        loadNote("hanzi")
+        loadNote("hanzi", 102L)
     }
     
     fun loadVariant(){
-        loadNote("variant")
+        loadNote("variant", 103L)
     }
     
     fun loadReading(){
-        loadNote("reading")
+        loadNote("reading", 105L)
     }
 
 }

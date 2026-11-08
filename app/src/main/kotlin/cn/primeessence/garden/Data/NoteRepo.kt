@@ -17,6 +17,7 @@ class NoteRepo @Inject constructor(
 
     suspend fun getLatest(): List<Note> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
+    suspend fun getCount(cateId: Long): Long = dao.getCount(cateId)
     suspend fun getById(noteId: Long): Note? = dao.getById(noteId)
     suspend fun insert(item: Note): Long = dao.insert(item)
     suspend fun insertAll(items: List<Note>) = dao.insertAll(items)
@@ -24,7 +25,7 @@ class NoteRepo @Inject constructor(
     suspend fun deleteById(noteId: Long): Int = dao.deleteById(noteId)
     
     suspend fun loadAssetsFile(
-         context: Context, fileName: String
+         context: Context, fileName: String, cateId: Long
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->
@@ -36,7 +37,7 @@ class NoteRepo @Inject constructor(
                     bufferList.add(line.trim())
                     if (bufferList.size >= BATCH_SIZE) {
                         val text: String = bufferList.joinToString("\n")
-                        dao.insert(Note(content = text))
+                        dao.insert(Note(cateId = cateId, content = text))
                         bufferList.clear()
                     }
                 }

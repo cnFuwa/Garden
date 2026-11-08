@@ -16,6 +16,9 @@ interface NoteDao {
     @Query("SELECT COUNT(*) FROM note")
     suspend fun getTotal(): Long
 
+    @Query("SELECT COUNT(*) FROM note WHERE cateId = :cateId")
+    suspend fun getCount(cateId: Long): Long
+
     @Query("SELECT * FROM note WHERE id = :noteId")
     suspend fun getById(noteId: Long): Note?
     
