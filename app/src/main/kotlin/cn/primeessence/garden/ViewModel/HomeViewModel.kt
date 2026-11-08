@@ -136,20 +136,14 @@ class HomeViewModel @Inject constructor(
         }
     }
 
-    fun renew(cate: String){
-        if(cate == "numeric") {
-            renewNumeric()
-        }
-        
-        if(cate == "variant") {
-            renewNumeric()
-        }
-        
-        if(cate == "reading") {
-            renewNumeric()
+    fun renew(cate: String) {
+        when (cate) {
+            "numeric" -> renewNumeric()
+             "variant" -> renewVariant()
+             "reading" -> renewReading()
         }
     }
-
+    
     fun renewNumeric() {
         viewModelScope.launch {
             try {
@@ -196,7 +190,7 @@ class HomeViewModel @Inject constructor(
     }
         
     fun renewVariant() {
-        if(_updating.value) return
+        if(_updating.value == true) return
         viewModelScope.launch {
             _updating.value = true
             try {
