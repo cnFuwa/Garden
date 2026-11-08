@@ -23,7 +23,7 @@ interface NoteDao {
     suspend fun getById(noteId: Long): Note?
     
     @Query("SELECT id FROM note WHERE cateId = :cateId")
-    suspend fun getNoteIds(cateId: Long): List<Long>
+    suspend fun getIds(cateId: Long): List<Long>
 
     @Insert
     suspend fun insert(item: Note): Long
