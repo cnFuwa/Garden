@@ -34,6 +34,7 @@ class NoteRepo @Inject constructor(
                 var line: String?
                 while (reader.readLine().also { line = it } != null) {
                     if (line.isNullOrBlank()) continue
+                    val rep = line.replace("\t", " | ")
                     bufferList.add(line.trim())
                     if (bufferList.size >= BATCH_SIZE) {
                         val text: String = bufferList.joinToString("\n")

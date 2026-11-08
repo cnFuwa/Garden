@@ -213,7 +213,7 @@ class HomeViewModel @Inject constructor(
         
                     for (line in lines) {
                         if (line.isEmpty()) continue
-                        val item = line.split("\t").map { it.trim() }
+                        val item = line.split("|").map { it.trim() }
                         if (item.size < 3) continue
         
                         val code: String = item[0]
@@ -261,6 +261,7 @@ class HomeViewModel @Inject constructor(
                     val newContent = itemList.joinToString("\n\n")
                     val updatedNote = note.copy(content = newContent)
                     noteRepo.update(updatedNote)
+                    _updating.value = false
                 }
             } catch (e: Exception) {
                 // e.printStackTrace()
