@@ -34,6 +34,7 @@ fun Home(
     val noteMap by vm.noteMap.collectAsStateWithLifecycle()
 
     val loading by vm.loading.collectAsStateWithLifecycle()
+    val updating by vm.updating.collectAsStateWithLifecycle()
 
     LaunchedEffect(Unit) {
         vm.load()
@@ -101,7 +102,8 @@ fun Home(
         }
         
         Button(
-            onClick = { vm.renew("variant") }
+            onClick = { vm.renew("variant") },
+            enabled = !updating
         ){
             Text(
                 text = "RenewVariant"

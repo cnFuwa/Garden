@@ -12,6 +12,7 @@ import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
 import javax.inject.Inject
 import kotlin.text.buildString
+import kotlin.text.Regex
 
 @HiltViewModel
 class HomeViewModel @Inject constructor(
@@ -28,10 +29,17 @@ class HomeViewModel @Inject constructor(
     private val _loading = MutableStateFlow<Boolean>(false)
     val loading: StateFlow<Boolean> = _loading.asStateFlow()
 
+    private val _updating = MutableStateFlow<Boolean>(false)
+    val updating: StateFlow<Boolean> = _updating.asStateFlow()
+
     fun load() {
         _metaMap.value = mutableMapOf(
             "note" to 256L
         )
+        getNoteCount(101L)
+        getNoteCount(102L)
+        getNoteCount(103L)
+        getNoteCount(105L)
     }
     
     fun getNoteCount(cateId: Long) {
@@ -110,6 +118,24 @@ class HomeViewModel @Inject constructor(
         loadNote("reading", 105L)
     }
     
+    
+    fun getCodePoint(hexStr: String): Int{
+        try {
+            hexStr.toInt(16)
+        } catch(e: NumberFormatException) {
+            0
+        }
+    }
+    
+    fun getHanzi(codePoint: Int): String {
+        if (codePoint <= 0) return ""
+        try {
+            String(Character.toChars(codePoint))
+        } catch(e: IllegalArgumentException){
+            ""
+        }
+    }
+
     fun renew(cate: String){
         if(cate == "numeric") {
             renewNumeric()
@@ -144,11 +170,9 @@ class HomeViewModel @Inject constructor(
                     val tag: String = item[1]
                     val textContent: String = item[2]
     
-                    val hanzi = runCatching {
-                        val hexStr = code.removePrefix("U+")
-                        val codePoint = hexStr.toInt(16)
-                        String(Character.toChars(codePoint))
-                    }.getOrElse { code }
+                    val hexStr: String = code.removePrefix("U+")
+                    val codePoint: Int = getCodePoint(hexStr)
+                    val hanzi: String = getHanzi(codePoint)
                     
                     val newStr = buildString {
                         append(hanzi)
@@ -159,10 +183,8 @@ class HomeViewModel @Inject constructor(
                         append(",")
                         append(textContent)
                     }
-                    
                     itemList.add(newStr)
                 }
-    
                 val newContent = itemList.joinToString("\n")
                 val updatedNote = note.copy(content = newContent)
                 noteRepo.update(updatedNote)
@@ -173,11 +195,82 @@ class HomeViewModel @Inject constructor(
         }
     }
         
-    fun renewVariant(){
+    fun renewVariant() {
+        if(_updating.value) return
+        viewModelScope.launch {
+            _updating.value = true
+            try {
+                val idList = listOf(
+                    5L,6L,7L,8L,9L,10L,11L,12L,13L,14L
+                )
+                for(noteId in idList) {
+                    val note: Note? = noteRepo.getById(noteId)
+                    if (note == null) return@launch
         
+                    val itemList = mutableListOf<String>()
+                    val noteContent = note.content.trim()
+                    val lines = noteContent.split("\n").map { it.trim() }
+        
+                    for (line in lines) {
+                        if (line.isEmpty()) continue
+                        val item = line.split("\t").map { it.trim() }
+                        if (item.size < 3) continue
+        
+                        val code: String = item[0]
+                        val tag: String = item[1]
+                        val textContent: String = item[2]
+        
+                        val hexStr = code.removePrefix("U+")
+                        val codePoint: Int = getCodePoint(hexStr)
+                        val hanzi: String = getHanzi(codePoint)
+
+                        val variant: String = textContent.split(" ").map {
+                            part ->
+                                val regex = Regex("""U\+([0-9A-Fa-f]+)(?:<(.*))?""")
+                                val match = regex.matchEntire(part.trim())
+                                if (match != null) {
+                                    val variantHexStr = match.groupValues[1]
+                                    val variantSuffix = match.groupValues[2]
+                                    val variantCodePoint = getCodePoint(variantHexStr)
+                                    val variantHanzi = getHanzi(variantCodePoint)
+                                    buildString {
+                                        append(variantHanzi)
+                                        append("(")
+                                        append("U+")
+                                        append(variantHexStr)
+                                        append(") ")
+                                        append(variantSuffix)
+                                    }
+                                } else {
+                                    ""
+                                }
+                        }.joinToString("\n")
+                        
+                        val newStr = buildString {
+                            append(hanzi)
+                            append("(")
+                            append(code)
+                            append(")\n")
+                            append(tag)
+                            append("\n")
+                            append(variant)
+                        }
+                        
+                        itemList.add(newStr)
+                    }
+                    val newContent = itemList.joinToString("\n\n")
+                    val updatedNote = note.copy(content = newContent)
+                    noteRepo.update(updatedNote)
+                }
+            } catch (e: Exception) {
+                // e.printStackTrace()
+            } finally {
+                _updating.value = false
+            }
+        }
     }
-    
-    fun renewReading(){
+
+    fun renewReading() {
         
     }
 
