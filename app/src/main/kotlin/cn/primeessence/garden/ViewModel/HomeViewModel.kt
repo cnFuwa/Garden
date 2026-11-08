@@ -128,7 +128,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val noteId: Long = 1L
-                val note: Note? = noteRepo.getNoteById(noteId)
+                val note: Note? = noteRepo.getById(noteId)
                 if (note == null) return@launch
     
                 val itemList = mutableListOf<String>()
