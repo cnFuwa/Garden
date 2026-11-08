@@ -34,8 +34,8 @@ class NoteRepo @Inject constructor(
                 var line: String?
                 while (reader.readLine().also { line = it } != null) {
                     if (line.isNullOrBlank()) continue
-                    val rep = line.replace("\t", " | ")
-                    bufferList.add(line.trim())
+                    val rep = line.trim().replace("\t", " | ")
+                    bufferList.add(rep)
                     if (bufferList.size >= BATCH_SIZE) {
                         val text: String = bufferList.joinToString("\n")
                         dao.insert(Note(cateId = cateId, content = text))
