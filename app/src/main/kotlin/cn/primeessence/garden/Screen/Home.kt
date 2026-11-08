@@ -43,8 +43,8 @@ fun Home(
     val scrollState = rememberScrollState()
     val noteNum = metaMap["note"] ?: 0L
     
-    val numericCateId: Long = 101L
-    val hanziCateId: Long = 102L
+    val hanziCateId: Long = 101L
+    val numericCateId: Long = 102L
     val variantCateId: Long = 103L
     val readingCateId: Long = 105L
     

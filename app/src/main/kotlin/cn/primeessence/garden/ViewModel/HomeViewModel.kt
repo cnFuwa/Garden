@@ -149,7 +149,6 @@ class HomeViewModel @Inject constructor(
             try {
                 val idList = noteRepo.getIds(102L)
                 for(noteId in idList){
-                    val noteId: Long = 1L
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) return@launch
         
@@ -275,7 +274,6 @@ class HomeViewModel @Inject constructor(
             try {
                 val idList = noteRepo.getIds(105L)
                 for(noteId in idList){
-                    val noteId: Long = 1L
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) return@launch
         
