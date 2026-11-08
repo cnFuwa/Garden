@@ -92,6 +92,30 @@ fun Home(
             )
         }
         
+        Button(
+            onClick = { vm.renew("numeric") }
+        ){
+            Text(
+                text = "RenewNumeric"
+            )
+        }
+        
+        Button(
+            onClick = { vm.renew("variant") }
+        ){
+            Text(
+                text = "RenewVariant"
+            )
+        }
+        
+        Button(
+            onClick = { vm.renew("reading") }
+        ){
+            Text(
+                text = "RenewReading"
+            )
+        }
+        
         if(numericNum == 0L){
             Button(
                 onClick = {

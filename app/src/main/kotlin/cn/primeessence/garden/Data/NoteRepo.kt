@@ -43,7 +43,7 @@ class NoteRepo @Inject constructor(
                 }
                 if (bufferList.isNotEmpty()) {
                         val text2: String = bufferList.joinToString("\n")
-                        dao.insert(Note(content = text2))
+                        dao.insert(Note(cateId = cateId, content = text2))
                         bufferList.clear()
                 }
             }
