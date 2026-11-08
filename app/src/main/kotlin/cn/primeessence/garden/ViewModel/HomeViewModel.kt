@@ -120,7 +120,7 @@ class HomeViewModel @Inject constructor(
     
     
     fun getCodePoint(hexStr: String): Int{
-        try {
+        return try {
             hexStr.toInt(16)
         } catch(e: NumberFormatException) {
             0
@@ -129,7 +129,7 @@ class HomeViewModel @Inject constructor(
     
     fun getHanzi(codePoint: Int): String {
         if (codePoint <= 0) return ""
-        try {
+        return try {
             String(Character.toChars(codePoint))
         } catch(e: IllegalArgumentException){
             ""
