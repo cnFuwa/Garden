@@ -285,7 +285,7 @@ class HomeViewModel @Inject constructor(
         
                     for (line in lines) {
                         if (line.isEmpty()) continue
-                        val item = line.split(",").map { it.trim() }
+                        val item = line.split("|").map { it.trim() }
                         if (item.size < 3) continue
         
                         val code: String = item[0]
