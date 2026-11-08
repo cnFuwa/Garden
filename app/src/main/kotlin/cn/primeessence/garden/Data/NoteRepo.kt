@@ -18,6 +18,7 @@ class NoteRepo @Inject constructor(
     suspend fun getLatest(): List<Note> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
     suspend fun getCount(cateId: Long): Long = dao.getCount(cateId)
+    suspend fun getIds(cateId: Long): List<Long> = dao.getIds(cateId)
     suspend fun getById(noteId: Long): Note? = dao.getById(noteId)
     suspend fun insert(item: Note): Long = dao.insert(item)
     suspend fun insertAll(items: List<Note>) = dao.insertAll(items)
