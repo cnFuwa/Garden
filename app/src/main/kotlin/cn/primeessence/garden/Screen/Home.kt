@@ -65,9 +65,15 @@ fun Home(
         )
         
         Text(
-            text = "noteNum: ${noteNum}"
+            text = "noteNum: ${noteNum} "
         )
-            
+        
+        Text(
+            text = "numericNum: ${numericNum} hanziNum: ${hanziNum}"
+        )
+        Text(
+            text = "variantNum: ${variantNum} readingNum: ${readingNum}"
+        )
         Button(
             onClick = { gotoNoteList() }
         ){
