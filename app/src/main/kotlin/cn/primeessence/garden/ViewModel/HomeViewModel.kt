@@ -185,7 +185,7 @@ class HomeViewModel @Inject constructor(
                     val newContent = itemList.joinToString("\n\n")
                     itemList.clear()
                     val updatedNote = note.copy(
-                        title = "numeric $idx [$noteId]"
+                        title = "numeric $idx [$noteId]",
                         content = newContent
                     )
                     noteRepo.update(updatedNote)
@@ -265,7 +265,7 @@ class HomeViewModel @Inject constructor(
                     val newContent = itemList.joinToString("\n\n")
                     itemList.clear()
                     val updatedNote = note.copy(
-                        title = "variant $idx [$noteId]"
+                        title = "variant $idx [$noteId]",
                         content = newContent
                     )
                     noteRepo.update(updatedNote)
@@ -324,7 +324,7 @@ class HomeViewModel @Inject constructor(
                     val newContent = itemList.joinToString("\n")
                     itemList.clear()
                     val updatedNote = note.copy(
-                        title = "reading $idx [$noteId]"
+                        title = "reading $idx [$noteId]",
                         content = newContent
                     )
                     noteRepo.update(updatedNote)
