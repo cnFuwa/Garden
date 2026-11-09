@@ -25,6 +25,8 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.graphics.Color
+
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 
@@ -114,7 +116,12 @@ fun NoteList(
                 ) {
                     Text(
                         text = "${item.id} [${item.cateId}]${item.title}",
-                        style = MaterialTheme.typography.titleSmall
+                        style = MaterialTheme.typography.titleSmall,
+                        color = if (targetId == item.id) {
+                            Color(0xFF2196F3)
+                        } else {
+                            Color.Unspecified
+                        }
                     )
                 }
             }
