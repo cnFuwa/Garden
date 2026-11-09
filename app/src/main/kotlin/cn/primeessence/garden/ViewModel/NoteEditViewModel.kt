@@ -68,14 +68,13 @@ class NoteEditViewModel @Inject constructor(
         enabled: Int,
         isDeleted: Int
     ) {
-
         viewModelScope.launch {
             try {
                 _note.update { old ->
                     old?.copy(
                         cateId = cateId,
                         title = title,
-                        content = content,
+                        content = content.trim(),
                         enabled = enabled,
                         isDeleted = isDeleted
                     )

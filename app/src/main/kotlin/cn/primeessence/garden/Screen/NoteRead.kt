@@ -23,7 +23,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-//import androidx.compose.ui.unit.sp
+import androidx.compose.ui.unit.sp
 
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
@@ -77,8 +77,9 @@ fun NoteRead(
             )
 
             Text(
-                text = "content: ${item.content}",
-                fontFamily = misanHan
+                text = "content:\n ${item.content}",
+                fontFamily = misanHan,
+                lineHeight = 24.sp
             )
             
             Text(

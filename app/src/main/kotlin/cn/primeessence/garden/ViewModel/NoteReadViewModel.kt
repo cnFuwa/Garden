@@ -20,9 +20,7 @@ class NoteReadViewModel @Inject constructor(
     val note: StateFlow<Note?> = _note.asStateFlow()
 
     fun load(noteId: Long) {
-        viewModelScope.launch {
-            _note.value = repo.getById(noteId)
-        }
+        getById(noteId)
     }
     
     fun getById(id: Long) {
