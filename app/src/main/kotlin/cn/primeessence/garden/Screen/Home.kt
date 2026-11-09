@@ -70,7 +70,7 @@ fun Home(
         )
         
         Text(
-            text = "numericNum: ${numericNum} hanziNum: ${hanziNum}"
+            text = "hanziNum: ${hanziNum} numericNum: ${numericNum}"
         )
         Text(
             text = "variantNum: ${variantNum} readingNum: ${readingNum}"
@@ -94,14 +94,6 @@ fun Home(
         }
         
         Button(
-            onClick = { vm.renew("numeric") }
-        ){
-            Text(
-                text = "RenewNumeric"
-            )
-        }
-        
-        Button(
             onClick = { vm.renew("variant") },
             enabled = !updating
         ){
@@ -111,7 +103,16 @@ fun Home(
         }
         
         Button(
-            onClick = { vm.renew("reading") }
+            onClick = { vm.renew("numeric") }
+        ){
+            Text(
+                text = "RenewNumeric"
+            )
+        }
+        
+        Button(
+            onClick = { vm.renew("reading") },
+            enabled = !updating
         ){
             Text(
                 text = "RenewReading"

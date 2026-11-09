@@ -148,6 +148,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val idList = noteRepo.getIds(102L)
+                var idx: Int = 1
                 for(noteId in idList){
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) return@launch
@@ -183,8 +184,12 @@ class HomeViewModel @Inject constructor(
                     if(itemList.isEmpty()) continue
                     val newContent = itemList.joinToString("\n\n")
                     itemList.clear()
-                    val updatedNote = note.copy(content = newContent)
+                    val updatedNote = note.copy(
+                        title = "numeric $idx [$noteId]"
+                        content = newContent
+                    )
                     noteRepo.update(updatedNote)
+                    idx += 1
                 }
 
             } catch (e: Exception) {
@@ -199,6 +204,7 @@ class HomeViewModel @Inject constructor(
             _updating.value = true
             try {
                 val idList = noteRepo.getIds(103L)
+                var idx: Int = 1
                 for(noteId in idList) {
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) return@launch
@@ -255,12 +261,17 @@ class HomeViewModel @Inject constructor(
                         itemList.add(newStr)
                     }
                     if(itemList.isEmpty()) continue
+                    
                     val newContent = itemList.joinToString("\n\n")
                     itemList.clear()
-                    val updatedNote = note.copy(content = newContent)
+                    val updatedNote = note.copy(
+                        title = "variant $idx [$noteId]"
+                        content = newContent
+                    )
                     noteRepo.update(updatedNote)
-                    _updating.value = false
+                    idx += 1
                 }
+                _updating.value = false
             } catch (e: Exception) {
                 // e.printStackTrace()
             } finally {
@@ -270,9 +281,12 @@ class HomeViewModel @Inject constructor(
     }
 
     fun renewReading() {
+        if(_updating.value == true) return
         viewModelScope.launch {
+            _updating.value = true
             try {
                 val idList = noteRepo.getIds(105L)
+                var idx: Int = 1
                 for(noteId in idList){
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) return@launch
@@ -305,15 +319,22 @@ class HomeViewModel @Inject constructor(
                         }
                         itemList.add(newStr)
                     }
+                    
                     if(itemList.isEmpty()) continue
                     val newContent = itemList.joinToString("\n")
                     itemList.clear()
-                    val updatedNote = note.copy(content = newContent)
+                    val updatedNote = note.copy(
+                        title = "reading $idx [$noteId]"
+                        content = newContent
+                    )
                     noteRepo.update(updatedNote)
+                    idx += 1
                 }
-
+                _updating.value = false
             } catch (e: Exception) {
                 e.printStackTrace()
+            } finally {
+                _updating.value = false
             }
         }
     }
