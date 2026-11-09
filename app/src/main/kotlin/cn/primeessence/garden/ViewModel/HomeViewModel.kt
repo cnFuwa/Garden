@@ -298,15 +298,15 @@ class HomeViewModel @Inject constructor(
                             append(hanzi)
                             append("(")
                             append(code)
-                            append(")\n")
+                            append(");;")
                             append(tag)
-                            append("\n")
+                            append(";;")
                             append(textContent)
                         }
                         itemList.add(newStr)
                     }
                     if(itemList.isEmpty()) continue
-                    val newContent = itemList.joinToString("\n\n")
+                    val newContent = itemList.joinToString("\n")
                     itemList.clear()
                     val updatedNote = note.copy(content = newContent)
                     noteRepo.update(updatedNote)
