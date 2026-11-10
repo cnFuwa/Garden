@@ -77,7 +77,7 @@ fun NoteRead(
             )
 
             Text(
-                text = "content:\n ${item.content}",
+                text = "content:\n${item.content}",
                 fontFamily = misanHan,
                 lineHeight = 24.sp
             )

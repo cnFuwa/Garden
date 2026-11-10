@@ -41,16 +41,18 @@ fun Home(
     }
     
     val scrollState = rememberScrollState()
-    val noteNum = metaMap["note"] ?: 0L
+    val noteMaxNum = metaMap["note"] ?: 0L
     
     val hanziCateId: Long = 101L
     val numericCateId: Long = 102L
     val variantCateId: Long = 103L
+    val wordToCodeCateId: Long = 104L
     val readingCateId: Long = 105L
     
     val numericNum = noteMap[numericCateId] ?: 0L
     val hanziNum = noteMap[hanziCateId] ?: 0L
     val variantNum = noteMap[variantCateId] ?: 0L
+    val wordToCodeNum = noteMap[wordToCodeCateId] ?: 0L
     val readingNum = noteMap[readingCateId] ?: 0L
     
     Column(
@@ -66,7 +68,7 @@ fun Home(
         )
         
         Text(
-            text = "noteNum: ${noteNum} "
+            text = "noteMaxNum: ${noteMaxNum} wordToCodeNum: ${wordToCodeNum}"
         )
         
         Text(
@@ -94,28 +96,36 @@ fun Home(
         }
         
         Button(
-            onClick = { vm.renew("variant") },
+            onClick = { vm.update("variant") },
             enabled = !updating
         ){
             Text(
-                text = "RenewVariant"
+                text = "UpdateVariant"
             )
         }
         
         Button(
-            onClick = { vm.renew("numeric") }
+            onClick = { vm.update("numeric") }
         ){
             Text(
-                text = "RenewNumeric"
+                text = "UpdateNumeric"
             )
         }
         
         Button(
-            onClick = { vm.renew("reading") },
+            onClick = { vm.update("wordToCode") }
+        ){
+            Text(
+                text = "UpdateWordToCode"
+            )
+        }
+        
+        Button(
+            onClick = { vm.update("reading") },
             enabled = !updating
         ){
             Text(
-                text = "RenewReading"
+                text = "UpdateReading"
             )
         }
         

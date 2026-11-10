@@ -34,11 +34,12 @@ class HomeViewModel @Inject constructor(
 
     fun load() {
         _metaMap.value = mutableMapOf(
-            "note" to 256L
+            "note" to 1024L
         )
         getNoteCount(101L)
         getNoteCount(102L)
         getNoteCount(103L)
+        getNoteCount(104L)
         getNoteCount(105L)
     }
     
@@ -135,23 +136,76 @@ class HomeViewModel @Inject constructor(
             ""
         }
     }
+    
+    fun getCodePointFromText(text: String): String {
+        val codeList: List<String> = text.codePoints().map { cp ->
+            if(cp == 32 || cp == 12288) {
+                " "
+            } else{
+                buildString {
+                    append(getHanzi(cp))
+                    append("(")
+                    append("U+%04X".format(cp))
+                    append(")")
+                }
+            }
+        }
+        return codeList.joinToString("\n")
+    }
 
-    fun renew(cate: String) {
+    fun update(cate: String) {
         when (cate) {
-            "numeric" -> renewNumeric()
-             "variant" -> renewVariant()
-             "reading" -> renewReading()
+            "numeric" -> updateNumeric()
+             "variant" -> updateVariant()
+             "reading" -> updateReading()
+             "wordToCode" -> updateWordToCode()
         }
     }
     
-    fun renewNumeric() {
+    fun updateWordToCode(){
+        viewModelScope.launch {
+            try {
+                val idList = noteRepo.getIds(104L)
+                var idx: Int = 1
+                for(noteId in idList){
+                    val note: Note? = noteRepo.getById(noteId)
+                    if (note == null) continue
+        
+                    val itemList = mutableListOf<String>()
+                    val noteContent = note.content.trim()
+                    val lines = noteContent.split("\n").map { it.trim() }
+        
+                    for (line in lines) {
+                        if (line.isEmpty()) continue
+                        val newStr = getCodePointFromText(line)
+                        itemList.add(newStr)
+                    }
+                    
+                    if(itemList.isEmpty()) continue
+                    val newContent = itemList.joinToString("\n\n")
+                    itemList.clear()
+                    val updatedNote = note.copy(
+                        title = "wordToCodePoint $idx [$noteId]",
+                        content = newContent
+                    )
+                    noteRepo.update(updatedNote)
+                    idx += 1
+                }
+
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
+    }
+
+    fun updateNumeric() {
         viewModelScope.launch {
             try {
                 val idList = noteRepo.getIds(102L)
                 var idx: Int = 1
                 for(noteId in idList){
                     val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) return@launch
+                    if (note == null) continue
         
                     val itemList = mutableListOf<String>()
                     val noteContent = note.content.trim()
@@ -198,7 +252,7 @@ class HomeViewModel @Inject constructor(
         }
     }
         
-    fun renewVariant() {
+    fun updateVariant() {
         if(_updating.value == true) return
         viewModelScope.launch {
             _updating.value = true
@@ -207,7 +261,7 @@ class HomeViewModel @Inject constructor(
                 var idx: Int = 1
                 for(noteId in idList) {
                     val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) return@launch
+                    if (note == null) continue
         
                     val itemList = mutableListOf<String>()
                     val noteContent = note.content.trim()
@@ -280,7 +334,7 @@ class HomeViewModel @Inject constructor(
         }
     }
 
-    fun renewReading() {
+    fun updateReading() {
         if(_updating.value == true) return
         viewModelScope.launch {
             _updating.value = true
@@ -289,7 +343,7 @@ class HomeViewModel @Inject constructor(
                 var idx: Int = 1
                 for(noteId in idList){
                     val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) return@launch
+                    if (note == null) continue
         
                     val itemList = mutableListOf<String>()
                     val noteContent = note.content.trim()
