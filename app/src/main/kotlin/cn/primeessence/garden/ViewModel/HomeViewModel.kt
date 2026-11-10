@@ -188,6 +188,7 @@ class HomeViewModel @Inject constructor(
             } finally {
                 _updating.value == false
             }
+        }
     }
     
     fun updatePinyin(){
