@@ -96,6 +96,15 @@ fun Home(
         }
         
         Button(
+            onClick = { vm.update("clear") },
+            enabled = !updating
+        ){
+            Text(
+                text = "clear"
+            )
+        }
+        
+        Button(
             onClick = { vm.update("pinyin") },
             enabled = !updating
         ){

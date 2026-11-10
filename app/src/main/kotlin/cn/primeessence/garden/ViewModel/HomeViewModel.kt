@@ -161,7 +161,33 @@ class HomeViewModel @Inject constructor(
              "reading" -> updateReading()
              "pinyin" -> updatePinyin()
              "wordToCode" -> updateWordToCode()
+             "clear" -> clearNote()
         }
+    }
+    
+    fun clearNote(){
+        if(_updating.value == true) return
+        viewModelScope.launch {
+            _updating.value == true
+            try {
+                val idList = noteRepo.getIds(4L)
+                var idx: Int = 1
+                for(noteId in idList){
+                    val note: Note? = noteRepo.getById(noteId)
+                    if (note == null) continue
+                    val updatedNote = note.copy(
+                        title = "clear [$noteId]",
+                        content = ""
+                    )
+                    noteRepo.update(updatedNote)
+                    idx += 1
+                }
+                _updating.value == false
+            } catch (e: Exception) {
+                
+            } finally {
+                _updating.value == false
+            }
     }
     
     fun updatePinyin(){
@@ -215,7 +241,7 @@ class HomeViewModel @Inject constructor(
                     val newContent = itemList.joinToString("\n")
                     itemList.clear()
                     
-                    val targetId: Long = (noteId / 100L) + 1L
+                    val targetId: Long = (noteId / 5L) + 650L
                     
                     val orginNote: Note? = noteRepo.getById(targetId)
 
