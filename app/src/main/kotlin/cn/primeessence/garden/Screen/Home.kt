@@ -96,19 +96,10 @@ fun Home(
         }
         
         Button(
-            onClick = { vm.update("variant") },
-            enabled = !updating
+            onClick = { vm.update("pinyin") }
         ){
             Text(
-                text = "UpdateVariant"
-            )
-        }
-        
-        Button(
-            onClick = { vm.update("numeric") }
-        ){
-            Text(
-                text = "UpdateNumeric"
+                text = "savePinyin"
             )
         }
         
@@ -120,14 +111,6 @@ fun Home(
             )
         }
         
-        Button(
-            onClick = { vm.update("reading") },
-            enabled = !updating
-        ){
-            Text(
-                text = "UpdateReading"
-            )
-        }
         
         if(numericNum == 0L){
             Button(

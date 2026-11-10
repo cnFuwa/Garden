@@ -159,10 +159,82 @@ class HomeViewModel @Inject constructor(
             "numeric" -> updateNumeric()
              "variant" -> updateVariant()
              "reading" -> updateReading()
+             "pinyin" -> updatePinyin()
              "wordToCode" -> updateWordToCode()
         }
     }
     
+    fun updatePinyin(){
+        viewModelScope.launch {
+            try {
+                val idList = noteRepo.getIds(105L)
+                var idx: Int = 1
+                for(noteId in idList){
+                    val note: Note? = noteRepo.getById(noteId)
+                    if (note == null) continue
+        
+                    val itemList = mutableListOf<String>()
+                    val noteContent = note.content.trim()
+                    val lines = noteContent.split("\n").map { it.trim() }
+        
+                    for (line in lines) {
+                        if (line.isEmpty()) continue
+                        val item = line.split(";;").map { it.trim() }
+                        if (item.size < 3) continue
+        
+                        val code: String = item[0]
+                        val tag: String = item[1]
+                        val textContent: String = item[2]
+                        
+                        val newStr: String = if(
+                            tag == "kTGHZ2013" ||
+                            tag == "kHanyuPinyin" ||
+                            tag == "kFanqie" ||
+                            tag == "kDefinition" ||
+                            tag == "kMandarin"
+                        ){
+                            buildString {
+                                append(hanzi)
+                                append("(")
+                                append(code)
+                                append(")\n")
+                                append(tag)
+                                append("\n")
+                                append(textContent)
+                            }
+                        } else {
+                            ""
+                        }
+                        
+                        if(newStr != ""){
+                            itemList.add(newStr)
+                        }
+                    }
+                    
+                    if(itemList.isEmpty()) continue
+                    
+                    val newContent = itemList.joinToString("\n\n")
+                    itemList.clear()
+                    
+                    val targetId: Long = (noteId / 100L) + 1L
+
+                    val targetNote: Note = Note(
+                        id = targetId,
+                        cateId = 101L,
+                        title = "pinyin $targetId",
+                        content = newContent,
+                        enabled = 1
+                    )
+                    noteRepo.update(updatedNote)
+                    idx += 1
+                }
+
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
+    }
+
     fun updateWordToCode(){
         viewModelScope.launch {
             try {
