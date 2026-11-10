@@ -138,21 +138,22 @@ class HomeViewModel @Inject constructor(
     }
     
     fun getCodePointFromText(text: String): String {
-        val codeList: List<String> = text.codePoints().map { cp ->
-            if(cp == 32 || cp == 12288) {
-                " "
-            } else{
-                buildString {
-                    append(getHanzi(cp))
-                    append("(")
-                    append("U+%04X".format(cp))
-                    append(")")
+        val codeList = buildList<String> {
+            var i = 0
+            while (i < text.length) {
+                val cp = text.codePointAt(i)
+                i += Character.charCount(cp)
+                val item = if (cp == 32 || cp == 12288) {
+                    " "
+                } else {
+                    "${getHanzi(cp)}(U+%04X)".format(cp)
                 }
+                add(item)
             }
         }
         return codeList.joinToString("\n")
     }
-
+    
     fun update(cate: String) {
         when (cate) {
             "numeric" -> updateNumeric()
