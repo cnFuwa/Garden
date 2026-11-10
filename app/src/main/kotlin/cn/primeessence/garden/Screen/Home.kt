@@ -96,7 +96,8 @@ fun Home(
         }
         
         Button(
-            onClick = { vm.update("pinyin") }
+            onClick = { vm.update("pinyin") },
+            enabled = !updating
         ){
             Text(
                 text = "savePinyin"

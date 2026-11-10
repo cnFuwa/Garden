@@ -165,7 +165,9 @@ class HomeViewModel @Inject constructor(
     }
     
     fun updatePinyin(){
+        if(_updating.value == true) return
         viewModelScope.launch {
+            _updating.value == true
             try {
                 val idList = noteRepo.getIds(105L)
                 var idx: Int = 1
@@ -228,9 +230,11 @@ class HomeViewModel @Inject constructor(
                     noteRepo.update(updatedNote)
                     idx += 1
                 }
-
+                _updating.value == false
             } catch (e: Exception) {
-                e.printStackTrace()
+                //e.printStackTrace()
+            } finally {
+                _updating.value == false
             }
         }
     }
