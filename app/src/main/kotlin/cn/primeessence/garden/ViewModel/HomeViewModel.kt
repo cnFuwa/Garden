@@ -196,12 +196,10 @@ class HomeViewModel @Inject constructor(
                             tag == "kMandarin"
                         ){
                             buildString {
-                                append(hanzi)
-                                append("(")
                                 append(code)
-                                append(")\n")
+                                append(";;")
                                 append(tag)
-                                append("\n")
+                                append(";;")
                                 append(textContent)
                             }
                         } else {
@@ -212,22 +210,32 @@ class HomeViewModel @Inject constructor(
                             itemList.add(newStr)
                         }
                     }
-                    
                     if(itemList.isEmpty()) continue
                     
-                    val newContent = itemList.joinToString("\n\n")
+                    val newContent = itemList.joinToString("\n")
                     itemList.clear()
                     
                     val targetId: Long = (noteId / 100L) + 1L
+                    
+                    val orginNote: Note? = noteRepo.getById(targetId)
 
-                    val targetNote: Note = Note(
-                        id = targetId,
-                        cateId = 101L,
-                        title = "pinyin $targetId",
-                        content = newContent,
-                        enabled = 1
-                    )
-                    noteRepo.update(updatedNote)
+                    val targetNote: Note = if(orginNote == null){
+                        Note(
+                            id = targetId,
+                            cateId = 101L,
+                            title = "pinyin $targetId",
+                            content = newContent,
+                            enabled = 1
+                        )
+                    } else {
+                        orginNote.copy(
+                            cateId = 101L,
+                            title = "pinyin $targetId",
+                            content = orginNote.content + "\n" + newContent,
+                            enabled = 1
+                        )
+                    }
+                    noteRepo.update(targetNote)
                     idx += 1
                 }
                 _updating.value == false
