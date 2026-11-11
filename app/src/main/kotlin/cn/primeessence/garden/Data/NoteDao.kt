@@ -2,7 +2,6 @@
 package cn.primeessence.garden
 
 import androidx.room.Dao
-//import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.Query
 import androidx.room.Update
@@ -10,7 +9,7 @@ import androidx.room.OnConflictStrategy
 
 @Dao
 interface NoteDao {
-    @Query("SELECT * FROM note ORDER BY id ASC")
+    @Query("SELECT id,cateId,title FROM note ORDER BY id ASC")
     suspend fun getLatest(): List<Note>
 
     @Query("SELECT COUNT(*) FROM note")

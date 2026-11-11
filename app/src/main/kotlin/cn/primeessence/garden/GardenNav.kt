@@ -21,9 +21,12 @@ fun GardenNav(
             entry<HomeRoute> {
                 Home(
                     gotoNoteList = { backStack.add(NoteListRoute) },
+                    gotoMusicList = { backStack.add(MusicListRoute) },
+                    gotoMetaList = { backStack.add(MetaListRoute) }
                 )
             }
-          
+            
+            // Note
             entry<NoteListRoute> {
                 NoteList(
                     gotoNoteEdit = { id -> backStack.add(NoteEditRoute(id)) },
@@ -44,7 +47,72 @@ fun GardenNav(
                     gotoBack = { backStack.removeLastOrNull() }
                 )
             }
- 
+            
+            // Mate
+            entry<MataListRoute> {
+                MateList(
+                    gotoMateEdit = { id -> backStack.add(MateEditRoute(id)) },
+                    gotoMateRead = { id -> backStack.add(MateReadRoute(id)) }
+                )
+            }
+
+            entry<MateEditRoute> { route ->
+                MateEdit(
+                    mateId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            entry<MateReadRoute> { route ->
+                MateRead(
+                    mateId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+
+            // Music
+            entry<MusicListRoute> {
+                MusicList(
+                    gotoMusicEdit = { id -> backStack.add(MusicEditRoute(id)) },
+                    gotoMusicRead = { id -> backStack.add(MusicReadRoute(id)) }
+                )
+            }
+
+            entry<MusicEditRoute> { route ->
+                MusicEdit(
+                    musicId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            entry<MusicReadRoute> { route ->
+                MusicRead(
+                    musicId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+
+            // Meta
+            entry<MetaListRoute> {
+                MetaList(
+                    gotoMetaEdit = { id -> backStack.add(MetaEditRoute(id)) },
+                    gotoMetaRead = { id -> backStack.add(MetaReadRoute(id)) }
+                )
+            }
+
+            entry<MetaEditRoute> { route ->
+                MetaEdit(
+                    metaId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            entry<MetaReadRoute> { route ->
+                MetaRead(
+                    metaId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
         }
     )
 }

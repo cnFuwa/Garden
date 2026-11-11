@@ -20,19 +20,29 @@ import androidx.navigation3.runtime.NavKey
 import androidx.navigation3.runtime.rememberNavBackStack
 
 enum class Tab {
-    Home, Note
+    Home,
+    Note,
+    Mate,
+    Music,
+    Meta
 }
 
 @Composable
 fun MainScreen() {
     val homeStack: NavBackStack<NavKey> = rememberNavBackStack(HomeRoute)
     val noteStack: NavBackStack<NavKey> = rememberNavBackStack(NoteListRoute)
+    val mateStack: NavBackStack<NavKey> = rememberNavBackStack(MateListRoute)
+    val musicStack: NavBackStack<NavKey> = rememberNavBackStack(MusicListRoute)
+    val metaStack: NavBackStack<NavKey> = rememberNavBackStack(MetaListRoute)
     
     var selectedTab by remember { mutableStateOf(Tab.Home) }
 
     val currentBackStack = when(selectedTab){
         Tab.Home -> homeStack
         Tab.Note -> noteStack
+        Tab.Mate -> mateStack
+        Tab.Music -> musicStack
+        Tab.Meta -> metaStack
     }
 
     BackHandler(enabled = currentBackStack.size > 1) {
@@ -54,6 +64,24 @@ fun MainScreen() {
                     label = { Text("Note") },
                     icon = {}
                 )
+                NavigationBarItem(
+                    selected = selectedTab == Tab.Mate,
+                    onClick = { selectedTab = Tab.Mate },
+                    label = { Text("Mate") },
+                    icon = {}
+                )
+                NavigationBarItem(
+                    selected = selectedTab == Tab.Music,
+                    onClick = { selectedTab = Tab.Music },
+                    label = { Text("Music") },
+                    icon = {}
+                )
+                NavigationBarItem(
+                    selected = selectedTab == Tab.Meta,
+                    onClick = { selectedTab = Tab.Meta },
+                    label = { Text("Meta") },
+                    icon = {}
+                )
             }
         }
     ) { innerPadding ->
@@ -61,6 +89,9 @@ fun MainScreen() {
             when (selectedTab) {
                 Tab.Home -> GardenNav(homeStack)
                 Tab.Note -> GardenNav(noteStack)
+                Tab.Mate -> GardenNav(mateStack)
+                Tab.Music -> GardenNav(musicStack)
+                Tab.Meta -> GardenNav(metaStack)
             }
         }
     }

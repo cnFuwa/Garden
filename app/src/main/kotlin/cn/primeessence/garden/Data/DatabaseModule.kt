@@ -28,4 +28,13 @@ object DatabaseModule {
     @Provides
     fun provideNoteDao(db: GardenData): NoteDao = db.noteDao()
 
+    @Provides
+    fun provideMateDao(db: GardenData): MateDao = db.mateDao()
+
+    @Provides
+    fun provideMusicDao(db: GardenData): MusicDao = db.musicDao()
+
+    @Provides
+    fun provideMetaDao(db: GardenData): MetaDao = db.metaDao()
+
 }

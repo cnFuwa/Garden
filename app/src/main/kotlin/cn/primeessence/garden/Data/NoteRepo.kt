@@ -1,7 +1,6 @@
 // NoteRepo
 package cn.primeessence.garden
 
-//import dagger.hilt.android.lifecycle.HiltViewModel
 import javax.inject.Inject
 import android.content.Context
 import android.content.res.AssetManager
@@ -35,7 +34,7 @@ class NoteRepo @Inject constructor(
                 var line: String?
                 while (reader.readLine().also { line = it } != null) {
                     if (line.isNullOrBlank()) continue
-                    val rep = line.trim().replace("\t", " | ")
+                    val rep = line.trim()
                     bufferList.add(rep)
                     if (bufferList.size >= BATCH_SIZE) {
                         val text: String = bufferList.joinToString("\n")

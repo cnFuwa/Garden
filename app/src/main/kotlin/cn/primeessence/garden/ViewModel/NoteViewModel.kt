@@ -1,7 +1,6 @@
 // Note ViewModel
 package cn.primeessence.garden
 
-//import androidx.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel

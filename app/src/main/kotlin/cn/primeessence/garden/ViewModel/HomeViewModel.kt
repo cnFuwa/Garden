@@ -17,14 +17,16 @@ import kotlin.text.Regex
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     private val noteRepo: NoteRepo,
+    private val musicRepo: MusicRepo,
+    private val metaRepo: MetaRepo,
     private val application: Application
 ) : ViewModel() {
 
     private val _metaMap = MutableStateFlow<Map<String, Long>>(emptyMap())
     val metaMap: StateFlow<Map<String, Long>> = _metaMap.asStateFlow()
 
-    private val _noteMap = MutableStateFlow<Map<Long, Long>>(emptyMap())
-    val noteMap: StateFlow<Map<Long, Long>> = _noteMap.asStateFlow()
+    private val _countMap = MutableStateFlow<Map<String, Long>>(emptyMap())
+    val countMap: StateFlow<Map<String, Long>> = _countMap.asStateFlow()
 
     private val _loading = MutableStateFlow<Boolean>(false)
     val loading: StateFlow<Boolean> = _loading.asStateFlow()
@@ -33,22 +35,53 @@ class HomeViewModel @Inject constructor(
     val updating: StateFlow<Boolean> = _updating.asStateFlow()
 
     fun load() {
-        _metaMap.value = mutableMapOf(
-            "note" to 2048L
-        )
-        getNoteCount(111L)
-        getNoteCount(102L)
-        getNoteCount(103L)
-        getNoteCount(104L)
-        getNoteCount(105L)
+        getMetaList()
+        getNoteTotal()
+        getMusicTotal()
+        getMetaTotal()
     }
     
-    fun getNoteCount(cateId: Long) {
+    fun getMetaList(){
         viewModelScope.launch {
             try {
-                val total: Long = noteRepo.getCount(cateId)
-                _noteMap.value = _noteMap.value.toMutableMap().apply {
-                    put(cateId, total)
+                val metaItems: List<Meta> = metaRepo.getLatest()
+
+                var noteMaxNum: Long = AppNumItem.NOTE_MAX_NUM
+                var musicMaxNum: Long = AppNumItem.MUSIC_MAX_NUM
+                var metaMaxNum: Long = AppNumItem.META_MAX_NUM
+            
+                if(metaItems.isNotEmpty){
+                    for(item in metaItems){
+                        val title = item.title.trim()
+                        val num = item.content.trim().toLongOrNull() ?: 0L
+                        when(title) {
+                            "note" -> noteMaxNum =  maxOf(noteMaxNum, num)
+                            "music" -> musicMaxNum =  maxOf(musicMaxNum, num)
+                            "meta" -> metaMaxNum =  maxOf(metaMaxNum, num)
+                        }
+                    }
+
+                    _countMap.value = _countMap.value.toMutableMap().apply {
+                        put("note", noteMaxNum)
+                        put("music", musicMaxNum)
+                        put("meta", MetaMaxNum)
+                    }
+                }
+                
+            } catch (e: Exception) {
+
+            } finally {
+
+            }
+        }
+    }
+    
+    fun getNoteTotal() {
+        viewModelScope.launch {
+            try {
+                val total: Long = noteRepo.getTotal()
+                _countMap.value = _countMap.value.toMutableMap().apply {
+                    put("note", total)
                 }
             } catch (e: Exception) {
 
@@ -57,10 +90,40 @@ class HomeViewModel @Inject constructor(
             }
         }
     }
-        
-    fun createNote() {
+    
+    fun getMusicTotal() {
+        viewModelScope.launch {
+            try {
+                val total: Long = musicRepo.getTotal()
+                _countMap.value = _countMap.value.toMutableMap().apply {
+                    put("music", total)
+                }
+            } catch (e: Exception) {
+
+            } finally {
+
+            }
+        }
+    }
+    
+    fun getMetaTotal() {
+        viewModelScope.launch {
+            try {
+                val total: Long = metaRepo.getTotal()
+                _countMap.value = _countMap.value.toMutableMap().apply {
+                    put("meta", total)
+                }
+            } catch (e: Exception) {
+
+            } finally {
+
+            }
+        }
+    }
+    
+    fun addNote() {
         val metaMap = _metaMap.value
-        val available: Long = metaMap["note"] ?: 128L
+        val available: Long = metaMap["note"] ?: AppNumItem.NOTE_MAX_NUM
         viewModelScope.launch {
             try {
                 val total: Long  = noteRepo.getTotal()
@@ -83,18 +146,90 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun loadNote(name: String, cateId: Long){
-        val fileName: String = "unihan/$name.txt"
+    fun addMusic() {
+        val metaMap = _metaMap.value
+        val available: Long = metaMap["music"] ?: AppNumItem.MUSIC_MAX_NUM
+        viewModelScope.launch {
+            try {
+                val total: Long  = musicRepo.getTotal()
+                if(total >= available) {
+                    return@launch
+                } else {
+                    musicRepo.insert(
+                        Music(
+                            title = MusicItem.TITLE,
+                            cateId = MusicItem.CATE_ID,
+                            content = MusicItem.CONTENT,
+                            enabled = MusicItem.ENABLED,
+                            isDeleted = MusicItem.IS_DELETED
+                        )
+                    )
+                }
+            } catch (e: Exception) {
+
+            }
+        }
+    }
+
+    fun addMeta() {
+        val metaMap = _metaMap.value
+        val available: Long = metaMap["meta"] ?: AppNumItem.META_MAX_NUM
+        viewModelScope.launch {
+            try {
+                val total: Long  = metaRepo.getTotal()
+                if(total >= available) {
+                    return@launch
+                } else {
+                    metaRepo.insert(
+                        Meta(
+                            title = MetaItem.TITLE,
+                            content = MetaItem.CONTENT,
+                            enabled = MetaItem.ENABLED,
+                            isDeleted = MetaItem.IS_DELETED
+                        )
+                    )
+                }
+            } catch (e: Exception) {
+
+            }
+        }
+    }
+
+    fun loadNote(){
         if(_loading.value) return
         viewModelScope.launch {
             _loading.value = true
+
             try{
-                noteRepo.loadAssetsFile(
-                    application,
-                    fileName,
-                    cateId
-                )
-                getNoteCount(cateId)
+                val noteItem: Note? = noteRepo.getById(1L)
+                if(noteItem == null) return@launch
+                
+                val content: String = noteItem.content.trim()
+                if(content.isEmpty()) return@launch
+                
+                val lines = content.split("\n").map{ it.trim() }
+                
+                for(line in lines){
+                    val item = line.split(";").map{ it.trim() }
+                    if (item.size < 2) continue
+                    val tag = item[0]
+                    val fn = item[1]
+                    val cateId: Long = when(tag) {
+                        "hanzi" -> CateIdItem.HANZI
+                        "guoxue" -> CateIdItem.GUOXUE
+                        "numeric" -> CateIdItem.NUMERIC
+                        "variant" -> CateIdItem.VARIANT
+                        "readx" -> CateIdItem.READX
+                        else -> 2001L
+                    }
+                    val fileName: String = "docs/$fn"
+                    noteRepo.loadAssetsFile(
+                        application,
+                        fileName,
+                        cateId
+                    )
+                }
+                getNoteTotal()
             } catch (e: Exception) {
             
             } finally {
@@ -103,22 +238,9 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun loadHanzi(){
-        loadNote("hanzi", 101L)
+    fun loadMusic() {
+        
     }
-    
-    fun loadNumeric(){
-        loadNote("numeric", 102L)
-    }
-    
-    fun loadVariant(){
-        loadNote("variant", 103L)
-    }
-    
-    fun loadReading(){
-        loadNote("reading", 105L)
-    }
-    
     
     fun getCodePoint(hexStr: String): Int{
         return try {
@@ -128,7 +250,7 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun getHanzi(codePoint: Int): String {
+    fun getWord(codePoint: Int): String {
         if (codePoint <= 0) return ""
         return try {
             String(Character.toChars(codePoint))
@@ -154,32 +276,41 @@ class HomeViewModel @Inject constructor(
         return codeList.joinToString("\n")
     }
     
-    fun update(cate: String) {
+    fun clear(cate: String) {
         when (cate) {
-            "numeric" -> updateNumeric()
-             "variant" -> updateVariant()
-             "reading" -> updateReading()
-             "pinyin" -> updatePinyin()
-             "wordToCode" -> updateWordToCode()
-             "clear" -> clearNote()
+             "note" -> clearNote()
+             "music" -> clearMusic()
         }
     }
     
-    fun clearNote(){
+    fun clearMusic() {}
+    
+    fun clearNote() {
         if(_updating.value == true) return
         viewModelScope.launch {
             _updating.value == true
+            val metaItem: Meta? = metaRepo.getById(1L)
+            var cateId: Long = 0L
+            if(metaItem != null) {
+                cateId = metaItem.content.trim().toLongOrNull() ?: 0L
+            }
+            
+            if(cateId <= 10L) return@launch
+    
             try {
-                val idList = noteRepo.getIds(101L)
+                val idList = noteRepo.getIds(cateId)
                 var idx: Int = 1
                 for(noteId in idList){
                     val note: Note? = noteRepo.getById(noteId)
                     if (note == null) continue
-                    val updatedNote = note.copy(
-                        title = "clear [$noteId]",
-                        content = ""
+                    val targetNote = Note(
+                        id = noteId,
+                        cateId = 1,
+                        title = "clear $idx",
+                        content = "",
+                        enabled = 0
                     )
-                    noteRepo.update(updatedNote)
+                    noteRepo.update(targetNote)
                     idx += 1
                 }
                 _updating.value == false
@@ -191,317 +322,4 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun updatePinyin(){
-        if(_updating.value == true) return
-        viewModelScope.launch {
-            _updating.value == true
-            try {
-                val idList = noteRepo.getIds(105L)
-                var idx: Int = 1
-                for(noteId in idList){
-                    val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) continue
-        
-                    val itemList = mutableListOf<String>()
-                    val noteContent = note.content.trim()
-                    val lines = noteContent.split("\n").map { it.trim() }
-        
-                    for (line in lines) {
-                        if (line.isEmpty()) continue
-                        val item = line.split(";;").map { it.trim() }
-                        if (item.size < 3) continue
-        
-                        val code: String = item[0]
-                        val tag: String = item[1]
-                        val textContent: String = item[2]
-                        
-                        val newStr: String = if(
-                            tag == "kTGHZ2013" ||
-                            tag == "kHanyuPinyin" ||
-                            tag == "kFanqie" ||
-                            tag == "kDefinition" ||
-                            tag == "kMandarin"
-                        ){
-                            buildString {
-                                append(code)
-                                append(";;")
-                                append(tag)
-                                append(";;")
-                                append(textContent)
-                            }
-                        } else {
-                            ""
-                        }
-                        
-                        if(newStr != ""){
-                            itemList.add(newStr)
-                        }
-                    }
-                    if(itemList.isEmpty()) continue
-                    
-                    val newContent = itemList.joinToString("\n")
-                    itemList.clear()
-                    
-                    val targetId: Long = noteId + 648L
-                    
-                    val orginNote: Note? = noteRepo.getById(targetId)
-
-                    val targetNote: Note = if(orginNote == null){
-                        Note(
-                            id = targetId,
-                            cateId = 101L,
-                            title = "pinyin $idx [$targetId]",
-                            content = newContent,
-                            enabled = 1
-                        )
-                    } else {
-                        orginNote.copy(
-                            cateId = 101L,
-                            title = "pinyin $idx [$targetId]",
-                            content = newContent,
-                            enabled = 1
-                        )
-                    }
-                    noteRepo.update(targetNote)
-                    idx += 1
-                }
-                _updating.value == false
-            } catch (e: Exception) {
-                //e.printStackTrace()
-            } finally {
-                _updating.value == false
-            }
-        }
-    }
-
-    fun updateWordToCode(){
-        viewModelScope.launch {
-            try {
-                val idList = noteRepo.getIds(104L)
-                var idx: Int = 1
-                for(noteId in idList){
-                    val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) continue
-        
-                    val itemList = mutableListOf<String>()
-                    val noteContent = note.content.trim()
-                    val lines = noteContent.split("\n").map { it.trim() }
-        
-                    for (line in lines) {
-                        if (line.isEmpty()) continue
-                        val newStr = getCodePointFromText(line)
-                        itemList.add(newStr)
-                    }
-                    
-                    if(itemList.isEmpty()) continue
-                    val newContent = itemList.joinToString("\n\n")
-                    itemList.clear()
-                    val updatedNote = note.copy(
-                        title = "wordToCodePoint $idx [$noteId]",
-                        content = newContent
-                    )
-                    noteRepo.update(updatedNote)
-                    idx += 1
-                }
-
-            } catch (e: Exception) {
-                e.printStackTrace()
-            }
-        }
-    }
-
-    fun updateNumeric() {
-        viewModelScope.launch {
-            try {
-                val idList = noteRepo.getIds(102L)
-                var idx: Int = 1
-                for(noteId in idList){
-                    val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) continue
-        
-                    val itemList = mutableListOf<String>()
-                    val noteContent = note.content.trim()
-                    val lines = noteContent.split("\n").map { it.trim() }
-        
-                    for (line in lines) {
-                        if (line.isEmpty()) continue
-                        val item = line.split(",").map { it.trim() }
-                        if (item.size < 3) continue
-        
-                        val code: String = item[0]
-                        val tag: String = item[1]
-                        val textContent: String = item[2]
-        
-                        val hexStr: String = code.removePrefix("U+")
-                        val codePoint: Int = getCodePoint(hexStr)
-                        val hanzi: String = getHanzi(codePoint)
-                        
-                        val newStr = buildString {
-                            append(hanzi)
-                            append("(")
-                            append(code)
-                            append(")\n")
-                            append(tag)
-                            append("\n")
-                            append(textContent)
-                        }
-                        itemList.add(newStr)
-                    }
-                    if(itemList.isEmpty()) continue
-                    val newContent = itemList.joinToString("\n\n")
-                    itemList.clear()
-                    val updatedNote = note.copy(
-                        title = "numeric $idx [$noteId]",
-                        content = newContent
-                    )
-                    noteRepo.update(updatedNote)
-                    idx += 1
-                }
-
-            } catch (e: Exception) {
-                e.printStackTrace()
-            }
-        }
-    }
-        
-    fun updateVariant() {
-        if(_updating.value == true) return
-        viewModelScope.launch {
-            _updating.value = true
-            try {
-                val idList = noteRepo.getIds(103L)
-                var idx: Int = 1
-                for(noteId in idList) {
-                    val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) continue
-        
-                    val itemList = mutableListOf<String>()
-                    val noteContent = note.content.trim()
-                    val lines = noteContent.split("\n").map { it.trim() }
-        
-                    for (line in lines) {
-                        if (line.isEmpty()) continue
-                        val item = line.split("|").map { it.trim() }
-                        if (item.size < 3) continue
-        
-                        val code: String = item[0]
-                        val tag: String = item[1]
-                        val textContent: String = item[2]
-        
-                        val hexStr = code.removePrefix("U+")
-                        val codePoint: Int = getCodePoint(hexStr)
-                        val hanzi: String = getHanzi(codePoint)
-
-                        val variant: String = textContent.split(" ").map {
-                            part ->
-                                val regex = Regex("""U\+([0-9A-Fa-f]+)(?:<(.*))?""")
-                                val match = regex.matchEntire(part.trim())
-                                if (match != null) {
-                                    val variantHexStr = match.groupValues[1]
-                                    val variantSuffix = match.groupValues[2]
-                                    val variantCodePoint = getCodePoint(variantHexStr)
-                                    val variantHanzi = getHanzi(variantCodePoint)
-                                    buildString {
-                                        append(variantHanzi)
-                                        append("(")
-                                        append("U+")
-                                        append(variantHexStr)
-                                        append(") ")
-                                        append(variantSuffix)
-                                    }
-                                } else {
-                                    ""
-                                }
-                        }.joinToString("\n")
-                        
-                        val newStr = buildString {
-                            append(hanzi)
-                            append("(")
-                            append(code)
-                            append(")\n")
-                            append(tag)
-                            append("\n")
-                            append(variant)
-                        }
-                        
-                        itemList.add(newStr)
-                    }
-                    if(itemList.isEmpty()) continue
-                    
-                    val newContent = itemList.joinToString("\n\n")
-                    itemList.clear()
-                    val updatedNote = note.copy(
-                        title = "variant $idx [$noteId]",
-                        content = newContent
-                    )
-                    noteRepo.update(updatedNote)
-                    idx += 1
-                }
-                _updating.value = false
-            } catch (e: Exception) {
-                // e.printStackTrace()
-            } finally {
-                _updating.value = false
-            }
-        }
-    }
-
-    fun updateReading() {
-        if(_updating.value == true) return
-        viewModelScope.launch {
-            _updating.value = true
-            try {
-                val idList = noteRepo.getIds(105L)
-                var idx: Int = 1
-                for(noteId in idList){
-                    val note: Note? = noteRepo.getById(noteId)
-                    if (note == null) continue
-        
-                    val itemList = mutableListOf<String>()
-                    val noteContent = note.content.trim()
-                    val lines = noteContent.split("\n").map { it.trim() }
-        
-                    for (line in lines) {
-                        if (line.isEmpty()) continue
-                        val item = line.split("|").map { it.trim() }
-                        if (item.size < 3) continue
-        
-                        val code: String = item[0]
-                        val tag: String = item[1]
-                        val textContent: String = item[2]
-        
-                        val hexStr: String = code.removePrefix("U+")
-                        val codePoint: Int = getCodePoint(hexStr)
-                        val hanzi: String = getHanzi(codePoint)
-                        
-                        val newStr = buildString {
-                            append(hanzi)
-                            append("(")
-                            append(code)
-                            append(");;")
-                            append(tag)
-                            append(";;")
-                            append(textContent)
-                        }
-                        itemList.add(newStr)
-                    }
-                    
-                    if(itemList.isEmpty()) continue
-                    val newContent = itemList.joinToString("\n")
-                    itemList.clear()
-                    val updatedNote = note.copy(
-                        title = "reading $idx [$noteId]",
-                        content = newContent
-                    )
-                    noteRepo.update(updatedNote)
-                    idx += 1
-                }
-                _updating.value = false
-            } catch (e: Exception) {
-                e.printStackTrace()
-            } finally {
-                _updating.value = false
-            }
-        }
-    }
 }

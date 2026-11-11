@@ -10,7 +10,7 @@ import androidx.compose.foundation.verticalScroll
 
 import androidx.compose.material3.Button
 import androidx.compose.material3.Text
-//import androidx.compose.material3.HorizontalDivider
+import androidx.compose.material3.HorizontalDivider
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -25,13 +25,15 @@ import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 
 @Composable
 fun Home(
-    gotoNoteList: () -> Unit
+    gotoNoteList: () -> Unit,
+    gotoMusicList: () -> Unit,
+    gotoMetaList: () -> Unit
 ) {
     val vm: HomeViewModel = hiltViewModel()
     
     val metaMap by vm.metaMap.collectAsStateWithLifecycle()
     
-    val noteMap by vm.noteMap.collectAsStateWithLifecycle()
+    val countMap by vm.countMap.collectAsStateWithLifecycle()
 
     val loading by vm.loading.collectAsStateWithLifecycle()
     val updating by vm.updating.collectAsStateWithLifecycle()
@@ -40,21 +42,16 @@ fun Home(
         vm.load()
     }
     
-    val scrollState = rememberScrollState()
     val noteMaxNum = metaMap["note"] ?: 0L
-    
-    val hanziCateId: Long = 111L
-    val numericCateId: Long = 102L
-    val variantCateId: Long = 103L
-    val wordToCodeCateId: Long = 104L
-    val readingCateId: Long = 105L
-    
-    val numericNum = noteMap[numericCateId] ?: 0L
-    val hanziNum = noteMap[hanziCateId] ?: 0L
-    val variantNum = noteMap[variantCateId] ?: 0L
-    val wordToCodeNum = noteMap[wordToCodeCateId] ?: 0L
-    val readingNum = noteMap[readingCateId] ?: 0L
-    
+    val musicMaxNum = metaMap["music"] ?: 0L
+    val metaMaxNum = metaMap["meta"] ?: 0L
+
+    val noteNum = countMap["note"] ?: 0L
+    val musicNum = countMap["music"] ?: 0L
+    val metaNum = countMap["meta"] ?: 0L
+
+    val scrollState = rememberScrollState()
+
     Column(
         modifier = Modifier
             .fillMaxSize()
@@ -67,115 +64,174 @@ fun Home(
             text = "Home"
         )
         
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
+
         Text(
-            text = "noteMaxNum: ${noteMaxNum} wordToCodeNum: ${wordToCodeNum}"
+            text = "Note: total = ${noteNum}, MaxNum = ${noteMaxNum}"
         )
         
         Text(
-            text = "hanziNum: ${hanziNum} numericNum: ${numericNum}"
+            text = "Music: total = ${musicNum}, MaxNum: ${musicMaxNum}"
         )
         Text(
-            text = "variantNum: ${variantNum} readingNum: ${readingNum}"
+            text = "Meta: total = ${metaNum}, MaxNum: ${metaMaxNum}"
         )
-        Button(
-            onClick = { gotoNoteList() }
+
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
+        
+        // Note
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
+            Button(
+                onClick = { gotoNoteList() }
+            ){
+                
+                Text(
+                    text = "Note"
+                )
+            }
             
-            Text(
-                text = "NoteList"
-            )
+            Button(
+                onClick = { vm.addNote() },
+                enabled = (noteNum < noteMaxNum)
+            ){
+                
+                Text(
+                    text = "Add"
+                )
+            }
         }
         
-        Button(
-            onClick = { vm.createNote() }
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
+            Button(
+                onClick = { vm.loadNote() },
+                enabled = !loading
+            ){
+                
+                Text(
+                    text = "Load"
+                )
+            }
             
-            Text(
-                text = "Create"
-            )
+            Button(
+                onClick = { vm.clear("note") },
+                enabled = !updating
+            ){
+                
+                Text(
+                    text = "Clear"
+                )
+            }
         }
         
-        Button(
-            onClick = { vm.update("clear") },
-            enabled = !updating
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
+        
+        // Music
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
-            Text(
-                text = "clear"
-            )
+            Button(
+                onClick = { gotoMusicList() }
+            ){
+                
+                Text(
+                    text = "Music"
+                )
+            }
+            
+            Button(
+                onClick = { vm.addMusic() },
+                enabled = (musicNum < musicMaxNum)
+            ){
+                
+                Text(
+                    text = "Add"
+                )
+            }
         }
-        
-        Button(
-            onClick = { vm.update("pinyin") },
-            enabled = !updating
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
-            Text(
-                text = "savePinyin"
-            )
+            Button(
+                onClick = { vm.loadMusic() },
+                enabled = !loading
+            ){
+                
+                Text(
+                    text = "Load"
+                )
+            }
+            
+            Button(
+                onClick = { vm.clear("music") },
+                enabled = !updating
+            ){
+                
+                Text(
+                    text = "Clear"
+                )
+            }
         }
-        
-        Button(
-            onClick = { vm.update("wordToCode") }
+
+        // Meta
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
-            Text(
-                text = "UpdateWordToCode"
+            Button(
+                onClick = { gotoMetaList() }
+            ){
+                
+                Text(
+                    text = "Meta"
+                )
+            }
+            
+            Button(
+                onClick = { vm.addMeta() },
+                enabled = (metaNum < metaMaxNum)
+            ){
+                
+                Text(
+                    text = "Add"
+                )
+            }
+        }
+
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
             )
-        }
-        
-        
-        if(numericNum == 0L){
-            Button(
-                onClick = {
-                    vm.loadNumeric()
-                },
-                enabled = !loading
-            ){
-                Text(
-                    text = "Numeric"
-                )
-            }
-        }
-        
-        
-        if(hanziNum == 0L){
-            Button(
-                onClick = {
-                    vm.loadHanzi()
-                },
-                enabled = !loading
-            ){
-                Text(
-                    text = "Hanzi"
-                )
-            }
-        }
-        
-        
-        if(variantNum == 0L){
-            Button(
-                onClick = {
-                    vm.loadVariant()
-                },
-                enabled = !loading
-            ){
-                Text(
-                    text = "Variant"
-                )
-            }
-        }
-        
-        
-        if(readingNum == 0L){
-            Button(
-                onClick = {
-                    vm.loadReading()
-                },
-                enabled = !loading
-            ){
-                Text(
-                    text = "Reading"
-                )
-            }
-        }
-        
+        )
+
     }
 }

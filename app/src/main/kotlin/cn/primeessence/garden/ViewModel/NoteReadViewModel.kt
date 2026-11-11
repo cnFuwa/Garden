@@ -19,8 +19,8 @@ class NoteReadViewModel @Inject constructor(
     private val _note = MutableStateFlow<Note?>(null)
     val note: StateFlow<Note?> = _note.asStateFlow()
 
-    fun load(noteId: Long) {
-        getById(noteId)
+    fun load(id: Long) {
+        getById(id)
     }
     
     fun getById(id: Long) {
