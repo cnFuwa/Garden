@@ -38,7 +38,13 @@ class NoteRepo @Inject constructor(
                     bufferList.add(rep)
                     if (bufferList.size >= BATCH_SIZE) {
                         val text: String = bufferList.joinToString("\n")
-                        dao.insert(Note(cateId = cateId, content = text))
+                        dao.insert(
+                            Note(
+                                title = fileName
+                                cateId = cateId,
+                                content = text
+                            )
+                        )
                         bufferList.clear()
                     }
                 }
