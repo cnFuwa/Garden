@@ -12,9 +12,9 @@ import java.io.InputStreamReader
 class MusicRepo @Inject constructor(
     private val dao: MusicDao
 ) {
-    suspend fun getLatest(): List<Music> = dao.getLatest()
+    suspend fun getLatest(): List<LiteMusic> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
-    suspend fun getCount(musicId: Long): Long = dao.getCount(cateId)
+    suspend fun getCount(cateId: Long): Long = dao.getCount(cateId)
     suspend fun getIds(cateId: Long): List<Long> = dao.getIds(cateId)
     suspend fun getById(musicId: Long): Music? = dao.getById(musicId)
     suspend fun insert(item: Music): Long = dao.insert(item)

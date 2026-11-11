@@ -49,7 +49,7 @@ fun GardenNav(
             }
             
             // Mate
-            entry<MataListRoute> {
+            entry<MateListRoute> {
                 MateList(
                     gotoMateEdit = { id -> backStack.add(MateEditRoute(id)) },
                     gotoMateRead = { id -> backStack.add(MateReadRoute(id)) }

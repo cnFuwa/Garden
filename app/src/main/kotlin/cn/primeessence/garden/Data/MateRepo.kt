@@ -12,7 +12,7 @@ import java.io.InputStreamReader
 class MateRepo @Inject constructor(
     private val dao: MateDao
 ) {
-    suspend fun getLatest(): List<Mate> = dao.getLatest()
+    suspend fun getLatest(): List<LiteMate> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
     suspend fun getCount(cateId: Long): Long = dao.getCount(cateId)
     suspend fun getIds(cateId: Long): List<Long> = dao.getIds(cateId)

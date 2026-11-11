@@ -14,7 +14,7 @@ class NoteRepo @Inject constructor(
 ) {
     val BATCH_SIZE = 500
 
-    suspend fun getLatest(): List<Note> = dao.getLatest()
+    suspend fun getLatest(): List<LiteNote> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
     suspend fun getCount(cateId: Long): Long = dao.getCount(cateId)
     suspend fun getIds(cateId: Long): List<Long> = dao.getIds(cateId)

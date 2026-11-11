@@ -50,7 +50,7 @@ class HomeViewModel @Inject constructor(
                 var musicMaxNum: Long = AppNumItem.MUSIC_MAX_NUM
                 var metaMaxNum: Long = AppNumItem.META_MAX_NUM
             
-                if(metaItems.isNotEmpty){
+                if(metaItems.isNotEmpty()){
                     for(item in metaItems){
                         val title = item.title.trim()
                         val num = item.content.trim().toLongOrNull() ?: 0L
@@ -64,7 +64,7 @@ class HomeViewModel @Inject constructor(
                     _countMap.value = _countMap.value.toMutableMap().apply {
                         put("note", noteMaxNum)
                         put("music", musicMaxNum)
-                        put("meta", MetaMaxNum)
+                        put("meta", metaMaxNum)
                     }
                 }
                 
@@ -268,7 +268,7 @@ class HomeViewModel @Inject constructor(
                 val item = if (cp == 32 || cp == 12288) {
                     " "
                 } else {
-                    "${getHanzi(cp)}(U+%04X)".format(cp)
+                    "${getWord(cp)}(U+%04X)".format(cp)
                 }
                 add(item)
             }

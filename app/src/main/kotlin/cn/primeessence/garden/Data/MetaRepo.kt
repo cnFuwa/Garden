@@ -12,7 +12,7 @@ import java.io.InputStreamReader
 class MetaRepo @Inject constructor(
     private val dao: MetaDao
 ) {
-    suspend fun getLatest(): List<Meta> = dao.getLatest()
+    suspend fun getLatest(): List<LiteMeta> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()
     suspend fun getById(metaId: Long): Meta? = dao.getById(metaId)
     suspend fun insert(item: Meta): Long = dao.insert(item)
