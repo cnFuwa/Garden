@@ -34,9 +34,9 @@ class HomeViewModel @Inject constructor(
 
     fun load() {
         _metaMap.value = mutableMapOf(
-            "note" to 1024L
+            "note" to 2048L
         )
-        getNoteCount(101L)
+        getNoteCount(111L)
         getNoteCount(102L)
         getNoteCount(103L)
         getNoteCount(104L)
@@ -170,7 +170,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             _updating.value == true
             try {
-                val idList = noteRepo.getIds(4L)
+                val idList = noteRepo.getIds(101L)
                 var idx: Int = 1
                 for(noteId in idList){
                     val note: Note? = noteRepo.getById(noteId)
@@ -242,7 +242,7 @@ class HomeViewModel @Inject constructor(
                     val newContent = itemList.joinToString("\n")
                     itemList.clear()
                     
-                    val targetId: Long = (noteId / 5L) + 650L
+                    val targetId: Long = noteId + 648L
                     
                     val orginNote: Note? = noteRepo.getById(targetId)
 
@@ -250,15 +250,15 @@ class HomeViewModel @Inject constructor(
                         Note(
                             id = targetId,
                             cateId = 101L,
-                            title = "pinyin $targetId",
+                            title = "pinyin $idx [$targetId]",
                             content = newContent,
                             enabled = 1
                         )
                     } else {
                         orginNote.copy(
                             cateId = 101L,
-                            title = "pinyin $targetId",
-                            content = orginNote.content + "\n" + newContent,
+                            title = "pinyin $idx [$targetId]",
+                            content = newContent,
                             enabled = 1
                         )
                     }
