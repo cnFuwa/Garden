@@ -34,7 +34,6 @@ fun Home(
     val vm: HomeViewModel = hiltViewModel()
     
     val metaMap by vm.metaMap.collectAsStateWithLifecycle()
-    
     val countMap by vm.countMap.collectAsStateWithLifecycle()
 
     val loading by vm.loading.collectAsStateWithLifecycle()

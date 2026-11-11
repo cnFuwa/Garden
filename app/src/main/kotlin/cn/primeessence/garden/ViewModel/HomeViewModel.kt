@@ -58,12 +58,11 @@ class HomeViewModel @Inject constructor(
                         "meta" -> metaMaxNum =  maxOf(metaMaxNum, num)
                     }
                 }
-
-                _countMap.value = _countMap.value.toMutableMap().apply {
-                    put("note", noteMaxNum)
-                    put("music", musicMaxNum)
-                    put("meta", metaMaxNum)
-                }
+                _metaMap.value = mapOf(
+                    "note" to noteMaxNum,
+                    "music" to musicMaxNum,
+                    "meta" to metaMaxNum
+                )
             
             } catch (e: Exception) {
 
