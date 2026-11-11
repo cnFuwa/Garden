@@ -40,7 +40,7 @@ class NoteRepo @Inject constructor(
                         val text: String = bufferList.joinToString("\n")
                         dao.insert(
                             Note(
-                                title = fileName
+                                title = fileName,
                                 cateId = cateId,
                                 content = text
                             )
