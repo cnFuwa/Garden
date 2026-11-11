@@ -13,3 +13,9 @@ data class Mate(
     val enabled: Int = 0,
     val isDeleted: Int = 0
 )
+
+data class LiteMate(
+    val id: Long = 0L,
+    val cateId: Long = 0L,
+    val title: String = ""
+)

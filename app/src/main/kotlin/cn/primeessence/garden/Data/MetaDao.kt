@@ -10,7 +10,7 @@ import androidx.room.OnConflictStrategy
 @Dao
 interface MetaDao {
     @Query("SELECT id,title,content FROM meta ORDER BY id ASC")
-    suspend fun getLatest(): List<Meta>
+    suspend fun getLatest(): List<LiteMeta>
 
     @Query("SELECT COUNT(*) FROM meta")
     suspend fun getTotal(): Long

@@ -19,8 +19,8 @@ class MateViewModel @Inject constructor(
     private val repo: MateRepo
 ) : ViewModel() {
 
-    private val _mateList = MutableStateFlow<List<Mate>>(emptyList())
-    val mateList: StateFlow<List<Mate>> = _mateList.asStateFlow()
+    private val _mateList = MutableStateFlow<List<LiteMate>>(emptyList())
+    val mateList: StateFlow<List<LiteMate>> = _mateList.asStateFlow()
 
     fun load() {
         viewModelScope.launch {

@@ -10,7 +10,7 @@ import androidx.room.OnConflictStrategy
 @Dao
 interface MateDao {
     @Query("SELECT id,cateId,title FROM mate ORDER BY id ASC")
-    suspend fun getLatest(): List<Mate>
+    suspend fun getLatest(): List<LiteMate>
 
     @Query("SELECT COUNT(*) FROM mate")
     suspend fun getTotal(): Long

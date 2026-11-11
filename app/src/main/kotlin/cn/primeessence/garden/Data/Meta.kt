@@ -12,3 +12,9 @@ data class Meta(
     val enabled: Int = 0,
     val isDeleted: Int = 0
 )
+
+data class LiteMeta(
+    val id: Long = 0L,
+    val title: String = "",
+    val content: String = ""
+)

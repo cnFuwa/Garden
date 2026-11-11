@@ -19,8 +19,8 @@ class MetaViewModel @Inject constructor(
     private val repo: MetaRepo
 ) : ViewModel() {
 
-    private val _metaList = MutableStateFlow<List<Meta>>(emptyList())
-    val metaList: StateFlow<List<Meta>> = _metaList.asStateFlow()
+    private val _metaList = MutableStateFlow<List<LiteMeta>>(emptyList())
+    val metaList: StateFlow<List<LiteMeta>> = _metaList.asStateFlow()
 
     fun load() {
         viewModelScope.launch {

@@ -19,8 +19,8 @@ class NoteViewModel @Inject constructor(
     private val repo: NoteRepo
 ) : ViewModel() {
 
-    private val _noteList = MutableStateFlow<List<Note>>(emptyList())
-    val noteList: StateFlow<List<Note>> = _noteList.asStateFlow()
+    private val _noteList = MutableStateFlow<List<LiteNote>>(emptyList())
+    val noteList: StateFlow<List<LiteNote>> = _noteList.asStateFlow()
 
     fun load() {
         viewModelScope.launch {

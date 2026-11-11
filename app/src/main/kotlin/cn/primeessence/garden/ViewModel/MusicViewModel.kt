@@ -19,8 +19,8 @@ class MusicViewModel @Inject constructor(
     private val repo: MusicRepo
 ) : ViewModel() {
 
-    private val _musicList = MutableStateFlow<List<Music>>(emptyList())
-    val musicList: StateFlow<List<Music>> = _musicList.asStateFlow()
+    private val _musicList = MutableStateFlow<List<LiteMusic>>(emptyList())
+    val musicList: StateFlow<List<LiteMusic>> = _musicList.asStateFlow()
 
     fun load() {
         viewModelScope.launch {
