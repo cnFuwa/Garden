@@ -44,8 +44,7 @@ class HomeViewModel @Inject constructor(
     fun getMetaList(){
         viewModelScope.launch {
             try {
-                val metaItems: List<Meta> = metaRepo.getLatest()
-
+                val metaItems: List<LiteMeta> = metaRepo.getLatest()
                 var noteMaxNum: Long = AppNumItem.NOTE_MAX_NUM
                 var musicMaxNum: Long = AppNumItem.MUSIC_MAX_NUM
                 var metaMaxNum: Long = AppNumItem.META_MAX_NUM
