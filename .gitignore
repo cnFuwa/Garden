@@ -14,4 +14,4 @@ build/
 keystore/
 .git/
 000/
-docs/
+local/
