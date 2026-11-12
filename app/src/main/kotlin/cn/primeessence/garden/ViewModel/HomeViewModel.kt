@@ -225,17 +225,58 @@ class HomeViewModel @Inject constructor(
                         cateId
                     )
                 }
-                getNoteTotal()
+                
             } catch (e: Exception) {
             
             } finally {
+                getNoteTotal()
                 _loading.value = false
             }
         }
     }
     
     fun loadMusic() {
-        
+        if(_loading.value) return
+        viewModelScope.launch {
+            _loading.value = true
+
+            try{
+                val musicItem: Music? = musicRepo.getById(1L)
+                if(musicItem == null) return@launch
+                
+                val content: String = musicItem.content.trim()
+                if(content.isEmpty()) return@launch
+                
+                val lines = content.split("\n").map{ it.trim() }
+                
+                for(line in lines){
+                    val item = line.split(";").map{ it.trim() }
+                    if (item.size < 2) continue
+                    val tag = item[0]
+                    val fn = item[1]
+                    val cateId: Long = when(tag) {
+                        "children" -> CateIdItem.CHILDREN
+                        "young" -> CateIdItem.YOUNG
+                        "classic" -> CateIdItem.CLASSIC
+                        "work" -> CateIdItem.WORK
+                        "soft" -> CateIdItem.SOFT
+                        else -> 2001L
+                    }
+                    val fileName: String = "music/$fn"
+                    musicRepo.loadAssetsFile(
+                        application,
+                        fileName,
+                        cateId
+                    )
+                }
+                
+            } catch (e: Exception) {
+            
+            } finally {
+                getMusicTotal()
+                _loading.value = false
+            }
+        }
     }
     
     fun getCodePoint(hexStr: String): Int{
@@ -279,8 +320,6 @@ class HomeViewModel @Inject constructor(
         }
     }
     
-    fun clearMusic() {}
-    
     fun clearNote() {
         if(_updating.value == true) return
         viewModelScope.launch {
@@ -318,4 +357,40 @@ class HomeViewModel @Inject constructor(
         }
     }
     
+    fun clearMusic() {
+        if(_updating.value == true) return
+        viewModelScope.launch {
+            _updating.value == true
+            val metaItem: Meta? = metaRepo.getById(2L)
+            var cateId: Long = 0L
+            if(metaItem != null) {
+                cateId = metaItem.content.trim().toLongOrNull() ?: 0L
+            }
+            
+            if(cateId <= 10L) return@launch
+    
+            try {
+                val idList = musicRepo.getIds(cateId)
+                var idx: Int = 1
+                for(musicId in idList){
+                    val music: Music? = musicRepo.getById(musicId)
+                    if (music == null) continue
+                    val targetMusic = Music(
+                        id = musicId,
+                        cateId = 1,
+                        title = "clear $idx",
+                        content = "",
+                        enabled = 0
+                    )
+                    musicRepo.update(targetMusic)
+                    idx += 1
+                }
+                _updating.value == false
+            } catch (e: Exception) {
+                
+            } finally {
+                _updating.value == false
+            }
+        }
+    }
 }

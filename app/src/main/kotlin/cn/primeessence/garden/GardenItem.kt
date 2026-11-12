@@ -12,6 +12,11 @@ object CateIdItem {
     val NUMERIC: Long = 102L
     val VARIANT: Long = 103L
     val READX: Long = 105L
+    val CHILDREN: Long = 101L
+    val YOUNG: Long = 102L
+    val CLASSIC: Long = 99L
+    val WORK: Long = 103L
+    val SOFT: Long = 105L
 }
 
 object NoteItem {
