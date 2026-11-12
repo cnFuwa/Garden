@@ -432,6 +432,7 @@ class HomeViewModel @Inject constructor(
     fun clear(cate: String) {
         when (cate) {
              "note" -> clearNote()
+             "mate" -> clearMate()
              "music" -> clearMusic()
         }
     }
@@ -464,7 +465,42 @@ class HomeViewModel @Inject constructor(
                     noteRepo.update(targetNote)
                     idx += 1
                 }
+            } catch (e: Exception) {
+                
+            } finally {
                 _updating.value == false
+            }
+        }
+    }
+    
+    fun clearMate() {
+        if(_updating.value == true) return
+        viewModelScope.launch {
+            _updating.value == true
+            val mateItem: Mate? = mateRepo.getById(2L)
+            var cateId: Long = 0L
+            if(mateItem != null) {
+                cateId = mateItem.content.trim().toLongOrNull() ?: 0L
+            }
+            
+            if(cateId <= 10L) return@launch
+    
+            try {
+                val idList = mateRepo.getIds(cateId)
+                var idx: Int = 1
+                for(mateId in idList){
+                    val mate: Mate? = mateRepo.getById(mateId)
+                    if (mate == null) continue
+                    val targetMate = Mate(
+                        id = mateId,
+                        cateId = 1,
+                        title = "clear $idx",
+                        content = "",
+                        enabled = 0
+                    )
+                    mateRepo.update(targetMate)
+                    idx += 1
+                }
             } catch (e: Exception) {
                 
             } finally {
@@ -501,7 +537,6 @@ class HomeViewModel @Inject constructor(
                     musicRepo.update(targetMusic)
                     idx += 1
                 }
-                _updating.value == false
             } catch (e: Exception) {
                 
             } finally {
