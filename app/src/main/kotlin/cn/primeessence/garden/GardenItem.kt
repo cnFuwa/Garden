@@ -11,6 +11,7 @@ object AppColor {
 object AppNumItem {
     val BATCH_SIZE = 500
     val NOTE_MAX_NUM: Long = 512L
+    val MATE_MAX_NUM: Long = 256L
     val MUSIC_MAX_NUM: Long = 256L
     val META_MAX_NUM: Long = 32L
 }
@@ -25,7 +26,7 @@ object NoteCateItem {
 
 object MateCateItem {
     val SHENHUA: Long = 99L
-    val History: Long = 101L
+    val HISTORY: Long = 101L
     val MODERN: Long = 102L
     val STAR: Long = 103L
     val CREATOR: Long = 105L
