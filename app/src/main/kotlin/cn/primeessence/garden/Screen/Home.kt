@@ -30,6 +30,7 @@ import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 @Composable
 fun Home(
     gotoNoteList: () -> Unit,
+    gotoMateList: () -> Unit,
     gotoMusicList: () -> Unit,
     gotoMetaList: () -> Unit
 ) {
@@ -46,17 +47,20 @@ fun Home(
     }
     
     val noteMaxNum = metaMap["note"] ?: 0L
+    val mateMaxNum = metaMap["mate"] ?: 0L
     val musicMaxNum = metaMap["music"] ?: 0L
     val metaMaxNum = metaMap["meta"] ?: 0L
 
     val noteNum = countMap["note"] ?: 0L
+    val mateNum = countMap["mate"] ?: 0L
     val musicNum = countMap["music"] ?: 0L
     val metaNum = countMap["meta"] ?: 0L
     
     val canAddNote = (noteNum < noteMaxNum)
+    val canAddMate = (mateNum < mateMaxNum)
     val canAddMusic = (musicNum < musicMaxNum)
     val canAddMeta = (metaNum < metaMaxNum)
-    
+
     val scrollState = rememberScrollState()
 
     Column(
@@ -82,8 +86,13 @@ fun Home(
         )
         
         Text(
+            text = "Mate: total = ${mateNum}, MaxNum: ${mateMaxNum}"
+        )
+
+        Text(
             text = "Music: total = ${musicNum}, MaxNum: ${musicMaxNum}"
         )
+
         Text(
             text = "Meta: total = ${metaNum}, MaxNum: ${metaMaxNum}"
         )

@@ -22,6 +22,7 @@ fun GardenNav(
                 Home(
                     gotoNoteList = { backStack.add(NoteListRoute) },
                     gotoMusicList = { backStack.add(MusicListRoute) },
+                    gotoMateList = { backStack.add(MateListRoute) },
                     gotoMetaList = { backStack.add(MetaListRoute) }
                 )
             }
