@@ -12,7 +12,6 @@ import java.io.InputStreamReader
 class NoteRepo @Inject constructor(
     private val dao: NoteDao
 ) {
-    val BATCH_SIZE = 500
 
     suspend fun getLatest(): List<LiteNote> = dao.getLatest()
     suspend fun getTotal(): Long = dao.getTotal()

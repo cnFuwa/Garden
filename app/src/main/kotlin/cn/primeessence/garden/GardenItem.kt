@@ -1,5 +1,7 @@
 package cn.primeessence.garden
 
+const val BATCH_SIZE = 500
+
 object AppNumItem {
     val NOTE_MAX_NUM: Long = 2048L
     val MUSIC_MAX_NUM: Long = 1024L
