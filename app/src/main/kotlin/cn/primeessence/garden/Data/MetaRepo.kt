@@ -20,8 +20,8 @@ class MetaRepo @Inject constructor(
     suspend fun update(item: Meta): Int = dao.update(item)
     suspend fun deleteById(metaId: Long): Int = dao.deleteById(metaId)
     
-        suspend fun loadAssetsFile(
-         context: Context, fileName: String, cateId: Long
+    suspend fun loadAssetsFile(
+         context: Context, fileName: String
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->

@@ -1,5 +1,7 @@
 package cn.primeessence.garden
 
+import androidx.compose.ui.graphics.Color
+
 const val BATCH_SIZE = 500
 
 const val CHINA_RED = Color(0xFFDE2910)
