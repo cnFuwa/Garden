@@ -4,9 +4,11 @@ import androidx.compose.ui.graphics.Color
 
 const val BATCH_SIZE = 500
 
-const val CHINA_RED = Color(0xFFDE2910)
-const val CHINA_BLUE = Color(0xFF0052CC)
-const val GRASS_GREEN = Color(0xFF4CAF50)
+object AppColor {
+    val CHINA_RED = Color(0xFFDE2910)
+    val CHINA_BLUE = Color(0xFF0052CC)
+    val GRASS_GREEN = Color(0xFF4CAF50)
+}
 
 object AppNumItem {
     val NOTE_MAX_NUM: Long = 512L

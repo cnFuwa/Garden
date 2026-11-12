@@ -112,7 +112,7 @@ fun Home(
             
             Text(
                 text = "Add",
-                color = if (canAddNote) CHINA_BLUE else Color.Gray,
+                color = if (canAddNote) AppColor.CHINA_BLUE else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = canAddNote){
@@ -122,7 +122,7 @@ fun Home(
             
             Text(
                 text = "Load",
-                color = if (!loading) CHINA_BLUE else Color.Gray,
+                color = if (!loading) AppColor.CHINA_BLUE else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = !loading){
@@ -132,7 +132,7 @@ fun Home(
             
             Text(
                 text = "Clear",
-                color = if (!updating) CHINA_RED else Color.Gray,
+                color = if (!updating) AppColor.CHINA_RED else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = !updating){
@@ -166,7 +166,7 @@ fun Home(
             
             Text(
                 text = "Add",
-                color = if (canAddMusic) CHINA_BLUE else Color.Gray,
+                color = if (canAddMusic) AppColor.CHINA_BLUE else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = canAddMusic){
@@ -176,7 +176,7 @@ fun Home(
             
             Text(
                 text = "Load",
-                color = if (!loading) CHINA_BLUE else Color.Gray,
+                color = if (!loading) AppColor.CHINA_BLUE else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = !loading){
@@ -186,7 +186,7 @@ fun Home(
             
             Text(
                 text = "Clear",
-                color = if (!updating) CHINA_RED else Color.Gray,
+                color = if (!updating) AppColor.CHINA_RED else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = !updating){
@@ -220,7 +220,7 @@ fun Home(
             
             Text(
                 text = "Add",
-                color = if (canAddMeta) CHINA_BLUE else Color.Gray,
+                color = if (canAddMeta) AppColor.CHINA_BLUE else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = canAddMeta){
@@ -230,7 +230,7 @@ fun Home(
             
             Text(
                 text = "Load",
-                color = if (!loading) CHINA_BLUE else Color.Gray,
+                color = if (!loading) AppColor.CHINA_BLUE else Color.Gray,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = !loading){
