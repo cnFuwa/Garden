@@ -10,9 +10,9 @@ object AppColor {
 
 object AppNumItem {
     val BATCH_SIZE = 500
-    val NOTE_MAX_NUM: Long = 512L
-    val MATE_MAX_NUM: Long = 256L
-    val MUSIC_MAX_NUM: Long = 256L
+    val NOTE_MAX_NUM: Long = 100L
+    val MATE_MAX_NUM: Long = 100L
+    val MUSIC_MAX_NUM: Long = 100L
     val META_MAX_NUM: Long = 32L
 }
 

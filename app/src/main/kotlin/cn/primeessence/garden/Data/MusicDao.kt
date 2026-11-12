@@ -9,7 +9,7 @@ import androidx.room.OnConflictStrategy
 
 @Dao
 interface MusicDao {
-    @Query("SELECT id,cateId,title FROM music ORDER BY id DESC")
+    @Query("SELECT id,cateId,title FROM music ORDER BY id ASC")
     suspend fun getLatest(): List<LiteMusic>
 
     @Query("SELECT COUNT(*) FROM music")

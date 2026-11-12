@@ -164,67 +164,6 @@ fun Home(
                 vertical = 8.dp
             )
         )
-        
-        // Music
-        Row(
-            modifier = Modifier
-            .fillMaxWidth(),
-            verticalAlignment = Alignment.Top,
-            horizontalArrangement = Arrangement.spacedBy(8.dp)
-        ){
-            Text(
-                text = "Music",
-                modifier = Modifier
-                .padding(vertical=4.dp,horizontal=8.dp)
-            )
-            
-            Text(
-                text = "List",
-                color = AppColor.CHINA_BLUE,
-                modifier = Modifier
-                .padding(vertical=4.dp,horizontal=8.dp)
-                .clickable {
-                    gotoMusicList()
-                }
-            )
-            
-            Text(
-                text = "Add",
-                color = if (canAddMusic) AppColor.CHINA_BLUE else Color.Gray,
-                modifier = Modifier
-                .padding(vertical=4.dp,horizontal=8.dp)
-                .clickable(enabled = canAddMusic){
-                    vm.addMusic()
-                }
-            )
-            
-            Text(
-                text = "Load",
-                color = if (!loading) AppColor.CHINA_BLUE else Color.Gray,
-                modifier = Modifier
-                .padding(vertical=4.dp,horizontal=8.dp)
-                .clickable(enabled = !loading){
-                    vm.loadMusic()
-                }
-            )
-            
-            Text(
-                text = "Clear",
-                color = if (!updating) AppColor.CHINA_RED else Color.Gray,
-                modifier = Modifier
-                .padding(vertical=4.dp,horizontal=8.dp)
-                .clickable(enabled = !updating){
-                    vm.clear("music")
-                }
-            )
-            
-        }
-
-        HorizontalDivider(
-            modifier = Modifier.padding(
-                vertical = 8.dp
-            )
-        )
 
         // Mate
         Row(
@@ -276,6 +215,67 @@ fun Home(
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable(enabled = !updating){
                     vm.clear("mate")
+                }
+            )
+            
+        }
+
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
+
+        // Music
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ){
+            Text(
+                text = "Music",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "List",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoMusicList()
+                }
+            )
+            
+            Text(
+                text = "Add",
+                color = if (canAddMusic) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canAddMusic){
+                    vm.addMusic()
+                }
+            )
+            
+            Text(
+                text = "Load",
+                color = if (!loading) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !loading){
+                    vm.loadMusic()
+                }
+            )
+            
+            Text(
+                text = "Clear",
+                color = if (!updating) AppColor.CHINA_RED else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !updating){
+                    vm.clear("music")
                 }
             )
             
