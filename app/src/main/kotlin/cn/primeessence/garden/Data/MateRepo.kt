@@ -22,4 +22,43 @@ class MateRepo @Inject constructor(
     suspend fun update(item: Mate): Int = dao.update(item)
     suspend fun deleteById(mateId: Long): Int = dao.deleteById(mateId)
     
+    suspend fun loadAssetsFile(
+         context: Context, fileName: String, cateId: Long
+    ) = withContext(Dispatchers.IO) {
+        val assetManager: AssetManager = context.assets
+        assetManager.open(fileName).use { inputStream ->
+            BufferedReader(InputStreamReader(inputStream, Charsets.UTF_8)).use { reader ->
+                val bufferList = mutableListOf<String>()
+                var line: String?
+                while (reader.readLine().also { line = it } != null) {
+                    if (line.isNullOrBlank()) continue
+                    val rep = line.trim()
+                    bufferList.add(rep)
+                    if (bufferList.size >= AppNumItem.BATCH_SIZE) {
+                        val text: String = bufferList.joinToString("\n")
+                        dao.insert(
+                            Mate(
+                                title = fileName,
+                                cateId = cateId,
+                                content = text
+                            )
+                        )
+                        bufferList.clear()
+                    }
+                }
+                if (bufferList.isNotEmpty()) {
+                    val text2: String = bufferList.joinToString("\n")
+                    dao.insert(
+                        Mate(
+                            title = fileName,
+                            cateId = cateId,
+                            content = text2
+                        )
+                    )
+                    bufferList.clear()
+                }
+            }
+        }
+    }
+
 }

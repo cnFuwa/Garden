@@ -35,7 +35,7 @@ class NoteRepo @Inject constructor(
                     if (line.isNullOrBlank()) continue
                     val rep = line.trim()
                     bufferList.add(rep)
-                    if (bufferList.size >= BATCH_SIZE) {
+                    if (bufferList.size >= AppNumItem.BATCH_SIZE) {
                         val text: String = bufferList.joinToString("\n")
                         dao.insert(
                             Note(
@@ -48,15 +48,15 @@ class NoteRepo @Inject constructor(
                     }
                 }
                 if (bufferList.isNotEmpty()) {
-                        val text2: String = bufferList.joinToString("\n")
-                        dao.insert(
-                            Note(
-                                title = fileName,
-                                cateId = cateId,
-                                content = text2
-                            )
+                    val text2: String = bufferList.joinToString("\n")
+                    dao.insert(
+                        Note(
+                            title = fileName,
+                            cateId = cateId,
+                            content = text2
                         )
-                        bufferList.clear()
+                    )
+                    bufferList.clear()
                 }
             }
         }

@@ -2,8 +2,6 @@ package cn.primeessence.garden
 
 import androidx.compose.ui.graphics.Color
 
-const val BATCH_SIZE = 500
-
 object AppColor {
     val CHINA_RED = Color(0xFFDE2910)
     val CHINA_BLUE = Color(0xFF0052CC)
@@ -11,20 +9,32 @@ object AppColor {
 }
 
 object AppNumItem {
+    val BATCH_SIZE = 500
     val NOTE_MAX_NUM: Long = 512L
     val MUSIC_MAX_NUM: Long = 256L
     val META_MAX_NUM: Long = 32L
 }
 
-object CateIdItem {
+object NoteCateItem {
     val HANZI: Long = 99L
     val GUOXUE: Long = 101L
     val NUMERIC: Long = 102L
     val VARIANT: Long = 103L
     val READX: Long = 105L
+}
+
+object MateCateItem {
+    val SHENHUA: Long = 99L
+    val History: Long = 101L
+    val MODERN: Long = 102L
+    val STAR: Long = 103L
+    val CREATOR: Long = 105L
+}
+
+object MusicCateItem {
+    val CLASSIC: Long = 99L
     val CHILDREN: Long = 101L
     val YOUNG: Long = 102L
-    val CLASSIC: Long = 99L
     val WORK: Long = 103L
     val SOFT: Long = 105L
 }

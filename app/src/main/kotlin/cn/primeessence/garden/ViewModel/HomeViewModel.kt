@@ -17,6 +17,7 @@ import kotlin.text.Regex
 @HiltViewModel
 class HomeViewModel @Inject constructor(
     private val noteRepo: NoteRepo,
+    private val mateRepo: MateRepo,
     private val musicRepo: MusicRepo,
     private val metaRepo: MetaRepo,
     private val application: Application
@@ -38,6 +39,7 @@ class HomeViewModel @Inject constructor(
         getMetaList()
         getNoteTotal()
         getMusicTotal()
+        getMateTotal()
         getMetaTotal()
     }
     
@@ -46,6 +48,7 @@ class HomeViewModel @Inject constructor(
             try {
                 val metaItems: List<LiteMeta> = metaRepo.getLatest()
                 var noteMaxNum: Long = AppNumItem.NOTE_MAX_NUM
+                var mateMaxNum: Long = AppNumItem.MATE_MAX_NUM
                 var musicMaxNum: Long = AppNumItem.MUSIC_MAX_NUM
                 var metaMaxNum: Long = AppNumItem.META_MAX_NUM
             
@@ -54,12 +57,14 @@ class HomeViewModel @Inject constructor(
                     val num = item.content.trim().toLongOrNull() ?: 0L
                     when(title) {
                         "note" -> noteMaxNum =  maxOf(noteMaxNum, num)
+                        "mate" -> mateMaxNum =  maxOf(mateMaxNum, num)
                         "music" -> musicMaxNum =  maxOf(musicMaxNum, num)
                         "meta" -> metaMaxNum =  maxOf(metaMaxNum, num)
                     }
                 }
                 _metaMap.value = mapOf(
                     "note" to noteMaxNum,
+                    "mate" to mateMaxNum,
                     "music" to musicMaxNum,
                     "meta" to metaMaxNum
                 )
@@ -87,6 +92,21 @@ class HomeViewModel @Inject constructor(
         }
     }
     
+    fun getMateTotal() {
+        viewModelScope.launch {
+            try {
+                val total: Long = mateRepo.getTotal()
+                _countMap.value = _countMap.value.toMutableMap().apply {
+                    put("mate", total)
+                }
+            } catch (e: Exception) {
+
+            } finally {
+
+            }
+        }
+    }
+
     fun getMusicTotal() {
         viewModelScope.launch {
             try {
@@ -123,9 +143,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val total: Long  = noteRepo.getTotal()
-                if(total >= available) {
-                    return@launch
-                } else {
+                if(total < available) {
                     noteRepo.insert(
                         Note(
                             title = NoteItem.TITLE,
@@ -142,15 +160,36 @@ class HomeViewModel @Inject constructor(
         }
     }
     
+    fun addMate() {
+        val metaMap = _metaMap.value
+        val available: Long = metaMap["mate"] ?: AppNumItem.MATE_MAX_NUM
+        viewModelScope.launch {
+            try {
+                val total: Long  = mateRepo.getTotal()
+                if(total < available) {
+                    mateRepo.insert(
+                        Mate(
+                            title = MateItem.TITLE,
+                            cateId = MateItem.CATE_ID,
+                            content = MateItem.CONTENT,
+                            enabled = MateItem.ENABLED,
+                            isDeleted = MateItem.IS_DELETED
+                        )
+                    )
+                }
+            } catch (e: Exception) {
+
+            }
+        }
+    }
+
     fun addMusic() {
         val metaMap = _metaMap.value
         val available: Long = metaMap["music"] ?: AppNumItem.MUSIC_MAX_NUM
         viewModelScope.launch {
             try {
                 val total: Long  = musicRepo.getTotal()
-                if(total >= available) {
-                    return@launch
-                } else {
+                if(total < available) {
                     musicRepo.insert(
                         Music(
                             title = MusicItem.TITLE,
@@ -173,9 +212,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val total: Long  = metaRepo.getTotal()
-                if(total >= available) {
-                    return@launch
-                } else {
+                if(total < available) {
                     metaRepo.insert(
                         Meta(
                             title = MetaItem.TITLE,
@@ -197,10 +234,10 @@ class HomeViewModel @Inject constructor(
             _loading.value = true
 
             try{
-                val noteItem: Note? = noteRepo.getById(1L)
-                if(noteItem == null) return@launch
+                val theItem: Note? = noteRepo.getById(1L)
+                if(theItem == null) return@launch
                 
-                val content: String = noteItem.content.trim()
+                val content: String = theItem.content.trim()
                 if(content.isEmpty()) return@launch
                 
                 val lines = content.split("\n").map{ it.trim() }
@@ -211,12 +248,12 @@ class HomeViewModel @Inject constructor(
                     val tag = item[0]
                     val fn = item[1]
                     val cateId: Long = when(tag) {
-                        "hanzi" -> CateIdItem.HANZI
-                        "guoxue" -> CateIdItem.GUOXUE
-                        "numeric" -> CateIdItem.NUMERIC
-                        "variant" -> CateIdItem.VARIANT
-                        "readx" -> CateIdItem.READX
-                        else -> 2001L
+                        "hanzi" -> NoteCateItem.HANZI
+                        "guoxue" -> NoteCateItem.GUOXUE
+                        "numeric" -> NoteCateItem.NUMERIC
+                        "variant" -> NoteCateItem.VARIANT
+                        "readx" -> NoteCateItem.READX
+                        else -> 2011L
                     }
                     val fileName: String = "docs/$fn"
                     noteRepo.loadAssetsFile(
@@ -234,17 +271,17 @@ class HomeViewModel @Inject constructor(
             }
         }
     }
-    
-    fun loadMusic() {
+
+    fun loadMate(){
         if(_loading.value) return
         viewModelScope.launch {
             _loading.value = true
 
             try{
-                val musicItem: Music? = musicRepo.getById(1L)
-                if(musicItem == null) return@launch
+                val theItem: Mate? = mateRepo.getById(1L)
+                if(theItem == null) return@launch
                 
-                val content: String = musicItem.content.trim()
+                val content: String = theItem.content.trim()
                 if(content.isEmpty()) return@launch
                 
                 val lines = content.split("\n").map{ it.trim() }
@@ -255,12 +292,56 @@ class HomeViewModel @Inject constructor(
                     val tag = item[0]
                     val fn = item[1]
                     val cateId: Long = when(tag) {
-                        "children" -> CateIdItem.CHILDREN
-                        "young" -> CateIdItem.YOUNG
-                        "classic" -> CateIdItem.CLASSIC
-                        "work" -> CateIdItem.WORK
-                        "soft" -> CateIdItem.SOFT
-                        else -> 2001L
+                        "history" -> MateCateItem.HISTORY
+                        "shenhua" -> MateCateItem.SHENHUA
+                        "modern" -> MateCateItem.MODERN
+                        "star" -> MateCateItem.STAR
+                        "creator" -> MateCateItem.CREATOR
+                        else -> 2011L
+                    }
+                    val fileName: String = "person/$fn"
+                    mateRepo.loadAssetsFile(
+                        application,
+                        fileName,
+                        cateId
+                    )
+                }
+                
+            } catch (e: Exception) {
+            
+            } finally {
+                getMateTotal()
+                _loading.value = false
+            }
+        }
+    }
+
+    fun loadMusic() {
+        if(_loading.value) return
+        viewModelScope.launch {
+            _loading.value = true
+
+            try{
+                val theItem: Music? = musicRepo.getById(1L)
+                if(theItem == null) return@launch
+                
+                val content: String = theItem.content.trim()
+                if(content.isEmpty()) return@launch
+                
+                val lines = content.split("\n").map{ it.trim() }
+                
+                for(line in lines){
+                    val item = line.split(":").map{ it.trim() }
+                    if (item.size < 2) continue
+                    val tag = item[0]
+                    val fn = item[1]
+                    val cateId: Long = when(tag) {
+                        "children" -> MusicCateItem.CHILDREN
+                        "young" -> MusicCateItem.YOUNG
+                        "classic" -> MusicCateItem.CLASSIC
+                        "work" -> MusicCateItem.WORK
+                        "soft" -> MusicCateItem.SOFT
+                        else -> 2011L
                     }
                     val fileName: String = "music/$fn"
                     musicRepo.loadAssetsFile(
@@ -285,10 +366,10 @@ class HomeViewModel @Inject constructor(
             _loading.value = true
 
             try{
-                val metaItem: Meta? = metaRepo.getById(1L)
-                if(metaItem == null) return@launch
+                val theItem: Meta? = metaRepo.getById(1L)
+                if(theItem == null) return@launch
                 
-                val content: String = metaItem.content.trim()
+                val content: String = theItem.content.trim()
                 if(content.isEmpty()) return@launch
                 
                 val lines = content.split("\n").map{ it.trim() }

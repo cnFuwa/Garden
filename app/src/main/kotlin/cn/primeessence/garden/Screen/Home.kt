@@ -101,15 +101,23 @@ fun Home(
             verticalAlignment = Alignment.Top,
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
+
             Text(
                 text = "Note",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "List",
+                color = AppColor.CHINA_BLUE,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable {
                     gotoNoteList()
                 }
             )
-            
+
             Text(
                 text = "Add",
                 color = if (canAddNote) AppColor.CHINA_BLUE else Color.Gray,
@@ -159,6 +167,13 @@ fun Home(
                 text = "Music",
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "List",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable {
                     gotoMusicList()
                 }
@@ -202,6 +217,67 @@ fun Home(
             )
         )
 
+        // Mate
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ){
+            Text(
+                text = "Mate",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "List",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoMateList()
+                }
+            )
+            
+            Text(
+                text = "Add",
+                color = if (canAddMate) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canAddMate){
+                    vm.addMate()
+                }
+            )
+            
+            Text(
+                text = "Load",
+                color = if (!loading) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !loading){
+                    vm.loadMate()
+                }
+            )
+            
+            Text(
+                text = "Clear",
+                color = if (!updating) AppColor.CHINA_RED else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !updating){
+                    vm.clear("mate")
+                }
+            )
+            
+        }
+
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
+
         // Meta
         Row(
             modifier = Modifier
@@ -211,6 +287,13 @@ fun Home(
         ){
             Text(
                 text = "Meta",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "List",
+                color = AppColor.CHINA_BLUE,
                 modifier = Modifier
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable {
