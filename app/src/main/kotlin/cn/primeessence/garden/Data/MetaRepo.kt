@@ -19,4 +19,42 @@ class MetaRepo @Inject constructor(
     suspend fun insertAll(items: List<Meta>) = dao.insertAll(items)
     suspend fun update(item: Meta): Int = dao.update(item)
     suspend fun deleteById(metaId: Long): Int = dao.deleteById(metaId)
+    
+        suspend fun loadAssetsFile(
+         context: Context, fileName: String, cateId: Long
+    ) = withContext(Dispatchers.IO) {
+        val assetManager: AssetManager = context.assets
+        assetManager.open(fileName).use { inputStream ->
+            BufferedReader(InputStreamReader(inputStream, Charsets.UTF_8)).use { reader ->
+                val bufferList = mutableListOf<String>()
+                var line: String?
+                while (reader.readLine().also { line = it } != null) {
+                    if (line.isNullOrBlank()) continue
+                    val rep = line.trim()
+                    bufferList.add(rep)
+                    if (bufferList.size >= BATCH_SIZE) {
+                        val text: String = bufferList.joinToString("\n")
+                        dao.insert(
+                            Meta(
+                                title = fileName,
+                                content = text
+                            )
+                        )
+                        bufferList.clear()
+                    }
+                }
+                if (bufferList.isNotEmpty()) {
+                        val text2: String = bufferList.joinToString("\n")
+                        dao.insert(
+                            Meta(
+                                title = fileName,
+                                content = text2
+                            )
+                        )
+                        bufferList.clear()
+                }
+            }
+        }
+    }
+
 }

@@ -206,7 +206,7 @@ class HomeViewModel @Inject constructor(
                 val lines = content.split("\n").map{ it.trim() }
                 
                 for(line in lines){
-                    val item = line.split(";").map{ it.trim() }
+                    val item = line.split(":").map{ it.trim() }
                     if (item.size < 2) continue
                     val tag = item[0]
                     val fn = item[1]
@@ -250,7 +250,7 @@ class HomeViewModel @Inject constructor(
                 val lines = content.split("\n").map{ it.trim() }
                 
                 for(line in lines){
-                    val item = line.split(";").map{ it.trim() }
+                    val item = line.split(":").map{ it.trim() }
                     if (item.size < 2) continue
                     val tag = item[0]
                     val fn = item[1]
@@ -279,6 +279,41 @@ class HomeViewModel @Inject constructor(
         }
     }
     
+    fun loadMeta() {
+        if(_loading.value) return
+        viewModelScope.launch {
+            _loading.value = true
+
+            try{
+                val metaItem: Meta? = metaRepo.getById(1L)
+                if(metaItem == null) return@launch
+                
+                val content: String = metaItem.content.trim()
+                if(content.isEmpty()) return@launch
+                
+                val lines = content.split("\n").map{ it.trim() }
+                
+                for(line in lines){
+                    val item = line.split(":").map{ it.trim() }
+                    if (item.size < 2) continue
+                    val tag = item[0]
+                    val fn = item[1]
+                    val fileName: String = "meta/$fn"
+                    metaRepo.loadAssetsFile(
+                        application,
+                        fileName
+                    )
+                }
+                
+            } catch (e: Exception) {
+            
+            } finally {
+                getMetaTotal()
+                _loading.value = false
+            }
+        }
+    }
+
     fun getCodePoint(hexStr: String): Int{
         return try {
             hexStr.toInt(16)
@@ -324,10 +359,10 @@ class HomeViewModel @Inject constructor(
         if(_updating.value == true) return
         viewModelScope.launch {
             _updating.value == true
-            val metaItem: Meta? = metaRepo.getById(1L)
+            val noteItem: Note? = noteRepo.getById(2L)
             var cateId: Long = 0L
-            if(metaItem != null) {
-                cateId = metaItem.content.trim().toLongOrNull() ?: 0L
+            if(noteItem != null) {
+                cateId = noteItem.content.trim().toLongOrNull() ?: 0L
             }
             
             if(cateId <= 10L) return@launch
@@ -361,14 +396,14 @@ class HomeViewModel @Inject constructor(
         if(_updating.value == true) return
         viewModelScope.launch {
             _updating.value == true
-            val metaItem: Meta? = metaRepo.getById(2L)
+            val musicItem: Music? = musicRepo.getById(2L)
             var cateId: Long = 0L
-            if(metaItem != null) {
-                cateId = metaItem.content.trim().toLongOrNull() ?: 0L
+            if(musicItem != null) {
+                cateId = musicItem.content.trim().toLongOrNull() ?: 0L
             }
             
             if(cateId <= 10L) return@launch
-    
+
             try {
                 val idList = musicRepo.getIds(cateId)
                 var idx: Int = 1

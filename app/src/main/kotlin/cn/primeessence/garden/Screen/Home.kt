@@ -50,7 +50,11 @@ fun Home(
     val noteNum = countMap["note"] ?: 0L
     val musicNum = countMap["music"] ?: 0L
     val metaNum = countMap["meta"] ?: 0L
-
+    
+    val canAddNote = (noteNum < noteMaxNum)
+    val canAddMusic = (musicNum < musicMaxNum)
+    val canAddMeta = (metaNum < metaMaxNum)
+    
     val scrollState = rememberScrollState()
 
     Column(
@@ -95,53 +99,47 @@ fun Home(
             verticalAlignment = Alignment.Top,
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
-            Button(
-                onClick = { gotoNoteList() }
-            ){
-                
-                Text(
-                    text = "Note"
-                )
-            }
+            Text(
+                text = "Note",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoNoteList()
+                }
+            )
             
-            Button(
-                onClick = { vm.addNote() },
-                enabled = (noteNum < noteMaxNum)
-            ){
-                
-                Text(
-                    text = "Add"
-                )
-            }
-        }
-        
-        Row(
-            modifier = Modifier
-            .fillMaxWidth(),
-            verticalAlignment = Alignment.Top,
-            horizontalArrangement = Arrangement.spacedBy(8.dp)
-        ){
-            Button(
-                onClick = { vm.loadNote() },
-                enabled = !loading
-            ){
-                
-                Text(
-                    text = "Load"
-                )
-            }
+            Text(
+                text = "Add",
+                color = if (canAddNote) CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canAddNote){
+                    vm.addNote()
+                }
+            )
             
-            Button(
-                onClick = { vm.clear("note") },
-                enabled = !updating
-            ){
-                
-                Text(
-                    text = "Clear"
-                )
-            }
+            Text(
+                text = "Load",
+                color = if (!loading) CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !loading){
+                    vm.loadNote()
+                }
+            )
+            
+            Text(
+                text = "Clear",
+                color = if (!updating) CHINA_RED else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !updating){
+                    vm.clear("note")
+                }
+            )
+            
         }
-        
+
         HorizontalDivider(
             modifier = Modifier.padding(
                 vertical = 8.dp
@@ -155,51 +153,52 @@ fun Home(
             verticalAlignment = Alignment.Top,
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
-            Button(
-                onClick = { gotoMusicList() }
-            ){
-                
-                Text(
-                    text = "Music"
-                )
-            }
+            Text(
+                text = "Music",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoMusicList()
+                }
+            )
             
-            Button(
-                onClick = { vm.addMusic() },
-                enabled = (musicNum < musicMaxNum)
-            ){
-                
-                Text(
-                    text = "Add"
-                )
-            }
-        }
-        Row(
-            modifier = Modifier
-            .fillMaxWidth(),
-            verticalAlignment = Alignment.Top,
-            horizontalArrangement = Arrangement.spacedBy(8.dp)
-        ){
-            Button(
-                onClick = { vm.loadMusic() },
-                enabled = !loading
-            ){
-                
-                Text(
-                    text = "Load"
-                )
-            }
+            Text(
+                text = "Add",
+                color = if (canAddMusic) CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canAddMusic){
+                    vm.addMusic()
+                }
+            )
             
-            Button(
-                onClick = { vm.clear("music") },
-                enabled = !updating
-            ){
-                
-                Text(
-                    text = "Clear"
-                )
-            }
+            Text(
+                text = "Load",
+                color = if (!loading) CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !loading){
+                    vm.loadMusic()
+                }
+            )
+            
+            Text(
+                text = "Clear",
+                color = if (!updating) CHINA_RED else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !updating){
+                    vm.clear("music")
+                }
+            )
+            
         }
+
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
 
         // Meta
         Row(
@@ -208,24 +207,34 @@ fun Home(
             verticalAlignment = Alignment.Top,
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ){
-            Button(
-                onClick = { gotoMetaList() }
-            ){
-                
-                Text(
-                    text = "Meta"
-                )
-            }
+            Text(
+                text = "Meta",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoMetaList()
+                }
+            )
             
-            Button(
-                onClick = { vm.addMeta() },
-                enabled = (metaNum < metaMaxNum)
-            ){
-                
-                Text(
-                    text = "Add"
-                )
-            }
+            Text(
+                text = "Add",
+                color = if (canAddMeta) CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canAddMeta){
+                    vm.addMeta()
+                }
+            )
+            
+            Text(
+                text = "Load",
+                color = if (!loading) CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = !loading){
+                    vm.loadMeta()
+                }
+            )
         }
 
         HorizontalDivider(
