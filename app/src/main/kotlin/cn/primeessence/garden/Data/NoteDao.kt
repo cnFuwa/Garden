@@ -9,7 +9,7 @@ import androidx.room.OnConflictStrategy
 
 @Dao
 interface NoteDao {
-    @Query("SELECT id,cateId,title FROM note ORDER BY id ASC")
+    @Query("SELECT id,cateId,title,enabled FROM note ORDER BY id ASC")
     suspend fun getLatest(): List<LiteNote>
 
     @Query("SELECT COUNT(*) FROM note")

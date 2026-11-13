@@ -43,7 +43,8 @@ class MusicRepo @Inject constructor(
                             Music(
                                 title = title,
                                 cateId = cateId,
-                                content = text
+                                content = text,
+                                enabled = 1
                             )
                         )
                         bufferList.clear()
@@ -55,7 +56,8 @@ class MusicRepo @Inject constructor(
                         Music(
                             title = title,
                             cateId = cateId,
-                            content = text2
+                            content = text2,
+                            enabled = 1
                         )
                     )
                     bufferList.clear()

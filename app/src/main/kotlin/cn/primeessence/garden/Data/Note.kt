@@ -17,5 +17,6 @@ data class Note(
 data class LiteNote(
     val id: Long = 0L,
     val cateId: Long = 0L,
-    val title: String = ""
+    val title: String = "",
+    val enabled: Int = 0
 )

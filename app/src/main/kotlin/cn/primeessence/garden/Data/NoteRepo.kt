@@ -44,7 +44,8 @@ class NoteRepo @Inject constructor(
                             Note(
                                 title = title,
                                 cateId = cateId,
-                                content = text
+                                content = text,
+                                enabled = 1
                             )
                         )
                         bufferList.clear()
@@ -56,7 +57,8 @@ class NoteRepo @Inject constructor(
                         Note(
                             title = title,
                             cateId = cateId,
-                            content = text2
+                            content = text2,
+                            enabled = 1
                         )
                     )
                     bufferList.clear()

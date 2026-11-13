@@ -39,7 +39,8 @@ class MetaRepo @Inject constructor(
                         dao.insert(
                             Meta(
                                 title = title,
-                                content = text
+                                content = text,
+                                enabled = 1
                             )
                         )
                         bufferList.clear()
@@ -50,7 +51,8 @@ class MetaRepo @Inject constructor(
                     dao.insert(
                         Meta(
                             title = title,
-                            content = text2
+                            content = text2,
+                            enabled = 1
                         )
                     )
                     bufferList.clear()

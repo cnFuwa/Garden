@@ -9,7 +9,7 @@ import androidx.room.OnConflictStrategy
 
 @Dao
 interface MetaDao {
-    @Query("SELECT id,title,content FROM meta ORDER BY id ASC")
+    @Query("SELECT id,title,content,enabled FROM meta ORDER BY id ASC")
     suspend fun getLatest(): List<LiteMeta>
 
     @Query("SELECT COUNT(*) FROM meta")

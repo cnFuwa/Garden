@@ -115,7 +115,7 @@ fun NoteList(
                     horizontalArrangement = Arrangement.spacedBy(8.dp)
                 ) {
                     Text(
-                        text = "${item.id} [${item.cateId}]${item.title}",
+                        text = "${item.id} [${item.cateId}]${item.title} ${if(item.enabled==1) ✅}",
                         style = MaterialTheme.typography.titleSmall,
                         color = if (targetId == item.id) {
                             Color(0xFF2196F3)

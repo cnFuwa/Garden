@@ -16,5 +16,6 @@ data class Meta(
 data class LiteMeta(
     val id: Long = 0L,
     val title: String = "",
-    val content: String = ""
+    val content: String = "",
+    val enabled: Int = 0
 )
