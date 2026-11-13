@@ -243,10 +243,12 @@ class HomeViewModel @Inject constructor(
                 val lines = content.split("\n").map{ it.trim() }
                 
                 for(line in lines){
-                    val item = line.split(":").map{ it.trim() }
-                    if (item.size < 2) continue
+                    val item = line.split("、").map{ it.trim() }
+                    if (item.size < 3) continue
                     val tag = item[0]
-                    val fn = item[1]
+                    val title = item[1]
+                    val fn = item[2]
+                    if(fn.isEmpty()) continue
                     val cateId: Long = when(tag) {
                         "xueke" -> NoteCateItem.XUEKE
                         "hanzi" -> NoteCateItem.HANZI
@@ -260,6 +262,7 @@ class HomeViewModel @Inject constructor(
                     noteRepo.loadAssetsFile(
                         application,
                         fileName,
+                        title,
                         cateId
                     )
                 }
@@ -288,10 +291,13 @@ class HomeViewModel @Inject constructor(
                 val lines = content.split("\n").map{ it.trim() }
                 
                 for(line in lines){
-                    val item = line.split(":").map{ it.trim() }
-                    if (item.size < 2) continue
+                    val item = line.split("、").map{ it.trim() }
+                    if (item.size < 3) continue
                     val tag = item[0]
-                    val fn = item[1]
+                    val title = item[1]
+                    val fn = item[2]
+                    if(fn.isEmpty()) continue
+                    
                     val cateId: Long = when(tag) {
                         "person" -> MateCateItem.PERSON
                         "history" -> MateCateItem.HISTORY
@@ -305,6 +311,7 @@ class HomeViewModel @Inject constructor(
                     mateRepo.loadAssetsFile(
                         application,
                         fileName,
+                        title,
                         cateId
                     )
                 }
@@ -333,10 +340,13 @@ class HomeViewModel @Inject constructor(
                 val lines = content.split("\n").map{ it.trim() }
                 
                 for(line in lines){
-                    val item = line.split(":").map{ it.trim() }
-                    if (item.size < 2) continue
+                    val item = line.split("、").map{ it.trim() }
+                    if (item.size < 3) continue
                     val tag = item[0]
-                    val fn = item[1]
+                    val title = item[1]
+                    val fn = item[2]
+                    if(fn.isEmpty()) continue
+                    
                     val cateId: Long = when(tag) {
                         "music" -> MusicCateItem.MUSIC
                         "classic" -> MusicCateItem.CLASSIC
@@ -350,6 +360,7 @@ class HomeViewModel @Inject constructor(
                     musicRepo.loadAssetsFile(
                         application,
                         fileName,
+                        title,
                         cateId
                     )
                 }
@@ -378,14 +389,18 @@ class HomeViewModel @Inject constructor(
                 val lines = content.split("\n").map{ it.trim() }
                 
                 for(line in lines){
-                    val item = line.split(":").map{ it.trim() }
-                    if (item.size < 2) continue
+                    val item = line.split("、").map{ it.trim() }
+                    if (item.size < 3) continue
                     val tag = item[0]
-                    val fn = item[1]
+                    val title = item[1]
+                    val fn = item[2]
+                    if(fn.isEmpty()) continue
+                    
                     val fileName: String = "meta/$fn"
                     metaRepo.loadAssetsFile(
                         application,
-                        fileName
+                        fileName,
+                        title
                     )
                 }
                 

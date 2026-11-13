@@ -23,7 +23,10 @@ class MusicRepo @Inject constructor(
     suspend fun deleteById(musicId: Long): Int = dao.deleteById(musicId)
     
     suspend fun loadAssetsFile(
-         context: Context, fileName: String, cateId: Long
+         context: Context,
+         fileName: String,
+         title: String,
+         cateId: Long
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->
@@ -38,7 +41,7 @@ class MusicRepo @Inject constructor(
                         val text: String = bufferList.joinToString("\n")
                         dao.insert(
                             Music(
-                                title = fileName,
+                                title = title,
                                 cateId = cateId,
                                 content = text
                             )
@@ -50,7 +53,7 @@ class MusicRepo @Inject constructor(
                     val text2: String = bufferList.joinToString("\n")
                     dao.insert(
                         Music(
-                            title = fileName,
+                            title = title,
                             cateId = cateId,
                             content = text2
                         )

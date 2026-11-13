@@ -21,7 +21,9 @@ class MetaRepo @Inject constructor(
     suspend fun deleteById(metaId: Long): Int = dao.deleteById(metaId)
     
     suspend fun loadAssetsFile(
-         context: Context, fileName: String
+         context: Context,
+         fileName: String,
+         title: String
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->
@@ -36,7 +38,7 @@ class MetaRepo @Inject constructor(
                         val text: String = bufferList.joinToString("\n")
                         dao.insert(
                             Meta(
-                                title = fileName,
+                                title = title,
                                 content = text
                             )
                         )
@@ -47,7 +49,7 @@ class MetaRepo @Inject constructor(
                     val text2: String = bufferList.joinToString("\n")
                     dao.insert(
                         Meta(
-                            title = fileName,
+                            title = title,
                             content = text2
                         )
                     )

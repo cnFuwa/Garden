@@ -24,7 +24,10 @@ class NoteRepo @Inject constructor(
     suspend fun deleteById(noteId: Long): Int = dao.deleteById(noteId)
     
     suspend fun loadAssetsFile(
-         context: Context, fileName: String, cateId: Long
+         context: Context,
+         fileName: String,
+         title: String,
+         cateId: Long
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
         assetManager.open(fileName).use { inputStream ->
@@ -39,7 +42,7 @@ class NoteRepo @Inject constructor(
                         val text: String = bufferList.joinToString("\n")
                         dao.insert(
                             Note(
-                                title = fileName,
+                                title = title,
                                 cateId = cateId,
                                 content = text
                             )
@@ -51,7 +54,7 @@ class NoteRepo @Inject constructor(
                     val text2: String = bufferList.joinToString("\n")
                     dao.insert(
                         Note(
-                            title = fileName,
+                            title = title,
                             cateId = cateId,
                             content = text2
                         )
