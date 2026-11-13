@@ -26,7 +26,7 @@ object NoteCateItem {
 }
 
 object MateCateItem {
-    val PERSION: Long = 99L
+    val PERSON: Long = 99L
     val SHENHUA: Long = 100L
     val HISTORY: Long = 101L
     val MODERN: Long = 102L
