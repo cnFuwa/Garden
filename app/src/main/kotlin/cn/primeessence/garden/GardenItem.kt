@@ -9,15 +9,16 @@ object AppColor {
 }
 
 object AppNumItem {
-    val BATCH_SIZE = 500
-    val NOTE_MAX_NUM: Long = 100L
-    val MATE_MAX_NUM: Long = 100L
-    val MUSIC_MAX_NUM: Long = 100L
+    val BATCH_SIZE = 5000
+    val NOTE_MAX_NUM: Long = 32L
+    val MATE_MAX_NUM: Long = 32L
+    val MUSIC_MAX_NUM: Long = 32L
     val META_MAX_NUM: Long = 32L
 }
 
 object NoteCateItem {
-    val HANZI: Long = 99L
+    val XUEKE: Long = 99L
+    val HANZI: Long = 100L
     val GUOXUE: Long = 101L
     val NUMERIC: Long = 102L
     val VARIANT: Long = 103L
@@ -25,7 +26,8 @@ object NoteCateItem {
 }
 
 object MateCateItem {
-    val SHENHUA: Long = 99L
+    val PERSION: Long = 99L
+    val SHENHUA: Long = 100L
     val HISTORY: Long = 101L
     val MODERN: Long = 102L
     val STAR: Long = 103L
@@ -33,7 +35,8 @@ object MateCateItem {
 }
 
 object MusicCateItem {
-    val CLASSIC: Long = 99L
+    val MUSIC: Long = 99L
+    val CLASSIC: Long = 100L
     val CHILDREN: Long = 101L
     val YOUNG: Long = 102L
     val WORK: Long = 103L

@@ -248,6 +248,7 @@ class HomeViewModel @Inject constructor(
                     val tag = item[0]
                     val fn = item[1]
                     val cateId: Long = when(tag) {
+                        "xueke" -> NoteCateItem.XUEKE
                         "hanzi" -> NoteCateItem.HANZI
                         "guoxue" -> NoteCateItem.GUOXUE
                         "numeric" -> NoteCateItem.NUMERIC
@@ -292,6 +293,7 @@ class HomeViewModel @Inject constructor(
                     val tag = item[0]
                     val fn = item[1]
                     val cateId: Long = when(tag) {
+                        "person" -> MateCateItem.PERSON
                         "history" -> MateCateItem.HISTORY
                         "shenhua" -> MateCateItem.SHENHUA
                         "modern" -> MateCateItem.MODERN
@@ -336,9 +338,10 @@ class HomeViewModel @Inject constructor(
                     val tag = item[0]
                     val fn = item[1]
                     val cateId: Long = when(tag) {
+                        "music" -> MusicCateItem.MUSIC
+                        "classic" -> MusicCateItem.CLASSIC
                         "children" -> MusicCateItem.CHILDREN
                         "young" -> MusicCateItem.YOUNG
-                        "classic" -> MusicCateItem.CLASSIC
                         "work" -> MusicCateItem.WORK
                         "soft" -> MusicCateItem.SOFT
                         else -> 2011L
@@ -458,7 +461,7 @@ class HomeViewModel @Inject constructor(
                     val targetNote = Note(
                         id = noteId,
                         cateId = 1,
-                        title = "clear $idx",
+                        title = "",
                         content = "",
                         enabled = 0
                     )
@@ -494,7 +497,7 @@ class HomeViewModel @Inject constructor(
                     val targetMate = Mate(
                         id = mateId,
                         cateId = 1,
-                        title = "clear $idx",
+                        title = "",
                         content = "",
                         enabled = 0
                     )
@@ -530,7 +533,7 @@ class HomeViewModel @Inject constructor(
                     val targetMusic = Music(
                         id = musicId,
                         cateId = 1,
-                        title = "clear $idx",
+                        title = "",
                         content = "",
                         enabled = 0
                     )

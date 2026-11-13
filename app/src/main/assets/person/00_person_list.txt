@@ -1,0 +1,6 @@
+person list
+01 shenhua,神话人物
+02 history,历史人物
+03 modern，大咖人物
+05 star，未来之星
+06 creator，创造者
