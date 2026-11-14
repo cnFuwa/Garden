@@ -29,7 +29,10 @@ import cn.primeessence.garden.LocalMusicViewModel
 
 @OptIn(ExperimentalPermissionsApi::class)
 @Composable
-fun LocalMusicScreen() {
+fun LocalMusicScreen(
+gotoBack: () -> Unit,
+    modifier: Modifier = Modifier
+) {
     val vm: LocalMusicViewModel = hiltViewModel()
     val musicList by vm.musicList.collectAsStateWithLifecycle()
     val currentIndex by vm.currentPlayIndex.collectAsStateWithLifecycle()
