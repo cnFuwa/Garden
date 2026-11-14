@@ -53,7 +53,13 @@ fun Read(
             Button(onClick = { pickFolderLauncher.launch(null) }) {
                 Text("Select(SAF)")
             }
-
+            
+            Button(
+                onClick = { gotoBack() }
+            ) {
+                Text("Back")
+            }
+            
             Text(text = "txt number：${txtList.size}", modifier = Modifier.padding(vertical = 8.dp))
 
             LazyColumn(
@@ -87,11 +93,8 @@ fun Read(
                 }
             }
         }
-        Button(
-            onClick = { gotoBack() }
-        ) {
-            Text("Select(SAF)")
-        }
+        
+        
         
     }
 }
