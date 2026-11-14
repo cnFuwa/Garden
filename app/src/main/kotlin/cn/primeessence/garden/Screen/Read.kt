@@ -1,5 +1,6 @@
 package cn.primeessence.garden
 
+import androidx.compose.foundation.clickable
 import android.net.Uri
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
@@ -26,6 +27,8 @@ import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 
 @Composable
 fun Read(
+    gotoBack: () -> Unit,
+    modifier: Modifier = Modifier
 ) {
     val vm: ReadViewModel = hiltViewModel()
     val context = LocalContext.current
@@ -62,8 +65,8 @@ fun Read(
                     Row(
                         modifier = Modifier
                             .fillMaxWidth()
-                            .padding(4.dp),
-                        onClick = { vm.readTxt(context, item.uri) },
+                            .padding(4.dp)
+                            clickable = { vm.readTxt(context, item.uri) },
                     ) {
                         Text(
                             text = item.name
@@ -84,5 +87,11 @@ fun Read(
                 }
             }
         }
+        Button(
+            onClick = { gotoBack() }
+        ) {
+            Text("Select(SAF)")
+        }
+        
     }
 }
