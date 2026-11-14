@@ -43,7 +43,9 @@ fun Read(
         vm.scanFolder(context, uri)
     }
 
-    Box(modifier = Modifier.fillMaxSize()) {
+    Box(
+        modifier = Modifier.fillMaxSize()
+    ) {
         Column(
             modifier = Modifier
                 .fillMaxSize()
@@ -51,7 +53,7 @@ fun Read(
             verticalArrangement = Arrangement.Top
         ) {
             Button(onClick = { pickFolderLauncher.launch(null) }) {
-                Text("Select(SAF)")
+                Text("Select")
             }
             
             Button(
@@ -60,7 +62,10 @@ fun Read(
                 Text("Back")
             }
             
-            Text(text = "txt number：${txtList.size}", modifier = Modifier.padding(vertical = 8.dp))
+            Text(
+                text = "txt number：${txtList.size}",
+                modifier = Modifier.padding(vertical = 8.dp)
+            )
 
             LazyColumn(
                 modifier = Modifier
@@ -82,6 +87,7 @@ fun Read(
             }
 
             Text("===== txt content =====", modifier = Modifier.padding(top = 8.dp))
+            
             LazyColumn(
                 modifier = Modifier
                     .fillMaxWidth()
