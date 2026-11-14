@@ -16,7 +16,9 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
-android.content.ContentUris
+import android.content.ContentUris
+import android.database.Cursor
+import android.provider.MediaStore
 
 @HiltViewModel
 class LocalMusicViewModel @Inject constructor() : ViewModel() {
@@ -79,7 +81,8 @@ class LocalMusicViewModel @Inject constructor() : ViewModel() {
         mediaController = null
         super.onCleared()
     }
-}
+
+
 
 fun queryLocalAudio(context: Context): List<LocalMusic> {
     val list = mutableListOf<LocalMusic>()
@@ -111,4 +114,6 @@ fun queryLocalAudio(context: Context): List<LocalMusic> {
         }
     }
     return list
+}
+
 }
