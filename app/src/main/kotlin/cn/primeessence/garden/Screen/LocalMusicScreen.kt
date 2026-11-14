@@ -2,7 +2,9 @@ package cn.primeessence.garden
 
 import android.Manifest
 import android.content.Intent
+import android.content.pm.PackageManager
 import android.net.Uri
+import android.os.Build
 import android.provider.Settings
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
@@ -22,14 +24,14 @@ import androidx.compose.material3.ripple
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
-import androidx.compose.runtime.remember
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import androidx.core.content.PermissionChecker
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import cn.primeessence.garden.LocalMusicViewModel
@@ -44,12 +46,18 @@ fun LocalMusicScreen(
     val currentIndex by vm.currentPlayIndex.collectAsStateWithLifecycle()
     val context = LocalContext.current
 
-    val audioPermission = Manifest.permission.READ_MEDIA_AUDIO
+    val audioPermission = remember {
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
+            Manifest.permission.READ_MEDIA_AUDIO
+        } else {
+            Manifest.permission.READ_EXTERNAL_STORAGE
+        }
+    }
+
     var hasAudioPermission by mutableStateOf(
-        ContextCompat.checkSelfPermission(context, audioPermission) == PermissionChecker.PERMISSION_GRANTED
+        ContextCompat.checkSelfPermission(context, audioPermission) == PackageManager.PERMISSION_GRANTED
     )
 
-    // 原生权限请求器
     val permissionLauncher = rememberLauncherForActivityResult(
         contract = ActivityResultContracts.RequestPermission()
     ) { granted ->
@@ -72,19 +80,29 @@ fun LocalMusicScreen(
         if (!hasAudioPermission) {
             Column(modifier = Modifier.padding(12.dp)) {
                 Text("需要读取音频权限才能加载本地音乐")
-                Button(onClick = {
-                    permissionLauncher.launch(audioPermission)
-                }) {
-                    Text("申请权限")
+
+                val needRationale = remember {
+                    ActivityCompat.shouldShowRequestPermissionRationale(
+                        context as androidx.activity.ComponentActivity,
+                        audioPermission
+                    )
                 }
-                Text("如果之前选择了「不再询问」，需要去系统设置手动开启", modifier = Modifier.padding(top = 8.dp))
-                Button(onClick = {
-                    val intent = Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS).apply {
-                        data = Uri.fromParts("package", context.packageName, null)
+
+                if (needRationale) {
+                    Text("你之前拒绝过权限，需要授予才能读取本地音频")
+                    Button(onClick = { permissionLauncher.launch(audioPermission) }) {
+                        Text("重新申请权限")
                     }
-                    context.startActivity(intent)
-                }) {
-                    Text("前往设置")
+                } else {
+                    Text("权限已被永久拒绝，系统不会再弹出申请框，请去设置手动开启")
+                    Button(onClick = {
+                        val intent = Intent(Settings.ACTION_APPLICATION_DETAILS_SETTINGS).apply {
+                            data = Uri.fromParts("package", context.packageName, null)
+                        }
+                        context.startActivity(intent)
+                    }) {
+                        Text("前往应用设置")
+                    }
                 }
             }
         } else {
