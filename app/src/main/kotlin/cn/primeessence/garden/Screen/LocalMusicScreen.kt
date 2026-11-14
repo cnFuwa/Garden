@@ -1,4 +1,4 @@
-package cn.primeessence.garden.Screen
+package cn.primeessence.garden
 
 import androidx.activity.compose.rememberLauncherForActivityResult
 import androidx.activity.result.contract.ActivityResultContracts
