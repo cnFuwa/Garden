@@ -66,7 +66,7 @@ fun Read(
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(4.dp)
-                            clickable = { vm.readTxt(context, item.uri) },
+                            clickable{ vm.readTxt(context, item.uri) }
                     ) {
                         Text(
                             text = item.name
