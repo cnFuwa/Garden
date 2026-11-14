@@ -16,6 +16,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
+android.content.ContentUris
 
 @HiltViewModel
 class LocalMusicViewModel @Inject constructor() : ViewModel() {
@@ -85,21 +86,27 @@ fun queryLocalAudio(context: Context): List<LocalMusic> {
     val projection = arrayOf(
         android.provider.MediaStore.Audio.Media._ID,
         android.provider.MediaStore.Audio.Media.TITLE,
-        android.provider.MediaStore.Audio.Media.ARTIST
+        android.provider.MediaStore.Audio.Media.ARTIST,
+        android.provider.MediaStore.Audio.Media.DURATION
     )
+    // 去掉 IS_MUSIC=1 过滤，先全量查询，方便调试；查到数据后再加过滤
     val cursor = context.contentResolver.query(
         android.provider.MediaStore.Audio.Media.EXTERNAL_CONTENT_URI,
         projection,
-        android.provider.MediaStore.Audio.Media.IS_MUSIC + " = 1",
+        null,
         null,
         android.provider.MediaStore.Audio.Media.DATE_ADDED + " DESC"
     )
     cursor?.use {
+        val idIdx = it.getColumnIndex(android.provider.MediaStore.Audio.Media._ID)
+        val titleIdx = it.getColumnIndex(android.provider.MediaStore.Audio.Media.TITLE)
+        val artistIdx = it.getColumnIndex(android.provider.MediaStore.Audio.Media.ARTIST)
         while (it.moveToNext()) {
-            val id = it.getLong(0)
-            val title = it.getString(1) ?: "未知歌曲"
-            val artist = it.getString(2) ?: "未知歌手"
-            val uri = Uri.withAppendedPath(android.provider.MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, id.toString())
+            val id = it.getLong(idIdx)
+            val title = it.getString(titleIdx) ?: "未知歌曲"
+            val artist = it.getString(artistIdx) ?: "未知歌手"
+            // ✅ 官方标准构造Uri
+            val uri = ContentUris.withAppendedId(android.provider.MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, id)
             list.add(LocalMusic(id, title, artist, uri))
         }
     }
