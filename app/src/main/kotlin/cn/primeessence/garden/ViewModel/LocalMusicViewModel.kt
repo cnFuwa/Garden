@@ -2,26 +2,31 @@ package cn.primeessence.garden
 
 import android.content.ComponentName
 import android.content.Context
+import android.content.Intent
+import android.media.MediaMetadataRetriever
 import android.net.Uri
+import androidx.documentfile.provider.DocumentFile
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import dagger.hilt.android.lifecycle.HiltViewModel
 import androidx.media3.common.MediaItem
 import androidx.media3.common.Player
 import androidx.media3.session.MediaController
 import androidx.media3.session.SessionToken
 import com.google.common.util.concurrent.MoreExecutors
+import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.hilt.android.qualifiers.ApplicationContext
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
-import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import javax.inject.Inject
-import android.content.ContentUris
-import android.database.Cursor
-import android.provider.MediaStore
 
 @HiltViewModel
-class LocalMusicViewModel @Inject constructor() : ViewModel() {
+class LocalMusicViewModel @Inject constructor(
+    @ApplicationContext private val appContext: Context
+) : ViewModel() {
+
     private var mediaController: MediaController? = null
 
     private val _musicList = MutableStateFlow<List<LocalMusic>>(emptyList())
@@ -30,12 +35,25 @@ class LocalMusicViewModel @Inject constructor() : ViewModel() {
     private val _currentPlayIndex = MutableStateFlow<Int>(-1)
     val currentPlayIndex: StateFlow<Int> = _currentPlayIndex.asStateFlow()
 
-    fun connectService(context: Context) {
-        val sessionToken = SessionToken(context, ComponentName(context, PlaybackService::class.java))
-        val controllerFuture = MediaController.Builder(context, sessionToken).buildAsync()
+    private val prefs = appContext.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
+
+    init {
+        // 重启 App 后恢复上次授权的音乐目录
+        prefs.getString(KEY_TREE_URI, null)?.let { saved ->
+            try {
+                loadFromTreeUri(Uri.parse(saved))
+            } catch (e: Exception) {
+                e.printStackTrace()
+            }
+        }
+    }
+
+    fun connectService() {
+        val sessionToken = SessionToken(appContext, ComponentName(appContext, PlaybackService::class.java))
+        val controllerFuture = MediaController.Builder(appContext, sessionToken).buildAsync()
         controllerFuture.addListener({
             try {
-                mediaController = controllerFuture.get()
+mediaController = controllerFuture.get()
                 mediaController?.addListener(object : Player.Listener {
                     override fun onMediaItemTransition(mediaItem: MediaItem?, reason: Int) {
                         val index = mediaController?.currentMediaItemIndex ?: -1
@@ -48,17 +66,91 @@ class LocalMusicViewModel @Inject constructor() : ViewModel() {
         }, MoreExecutors.directExecutor())
     }
 
-    fun loadLocalMusic(context: Context) {
-        viewModelScope.launch {
-            val list = queryLocalAudio(context)
+    /** 用户通过系统目录选择器选中音乐目录后回调。 */
+    fun onTreeSelected(treeUri: Uri) {
+        // 持久化目录读权限，App 重启后依然可访问
+        try {
+            appContext.contentResolver.takePersistableUriPermission(
+                treeUri,
+                Intent.FLAG_GRANT_READ_URI_PERMISSION
+            )
+        } catch (e: Exception) {
+            e.printStackTrace()
+        }
+        prefs.edit().putString(KEY_TREE_URI, treeUri.toString()).apply()
+        loadFromTreeUri(treeUri)
+    }
+private fun loadFromTreeUri(treeUri: Uri) {
+        viewModelScope.launch(Dispatchers.IO) {
+            val root = DocumentFile.fromTreeUri(appContext, treeUri)
+            if (root == null || !root.canRead()) {
+                _musicList.value = emptyList()
+                return@launch
+            }
+
+            val files = mutableListOf<DocumentFile>()
+            collectAudioFiles(root, files)
+
+            val list = files.mapIndexed { index, file ->
+                val fallbackName = stripExtension(file.name ?: "未知歌曲")
+                val (title, artist) = readMetadata(file.uri, fallbackName)
+                LocalMusic(
+                    id = index.toLong(),
+                    title = title,
+                    artist = artist,
+                    uri = file.uri
+                )
+            }
             _musicList.value = list
         }
     }
 
-    fun playListFromIndex(musicList: List<LocalMusic>, startIndex: Int) {
-        val mediaItems = musicList.map { music ->
-            MediaItem.fromUri(music.uri)
+    private fun collectAudioFiles(folder: DocumentFile, out: MutableList<DocumentFile>) {
+        val children = folder.listFiles() ?: return
+for (child in children) {
+            if (child.isDirectory) {
+                collectAudioFiles(child, out)
+            } else if (isAudioFile(child)) {
+                out.add(child)
+            }
         }
+    }
+
+    private fun isAudioFile(file: DocumentFile): Boolean {
+        val mime = file.type
+        if (mime != null && mime.startsWith("audio/")) return true
+        val name = file.name ?: return false
+        return AUDIO_EXTENSIONS.any { name.endsWith(it, ignoreCase = true) }
+    }
+
+    private fun readMetadata(uri: Uri, fallbackName: String): Pair<String, String> {
+        var title = fallbackName
+        var artist = "未知歌手"
+        val retriever = MediaMetadataRetriever()
+        try {
+            retriever.setDataSource(appContext, uri)
+            retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_TITLE)
+                ?.takeIf { it.isNotBlank() }?.let { title = it }
+            retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_ARTIST)
+                ?.takeIf { it.isNotBlank() }?.let { artist = it }
+} catch (e: Exception) {
+            // 无法解析元数据时使用文件名兜底
+        } finally {
+            try {
+                retriever.release()
+            } catch (_: Exception) {
+            }
+        }
+        return title to artist
+    }
+
+    private fun stripExtension(name: String): String {
+        val dot = name.lastIndexOf('.')
+        return if (dot > 0) name.substring(0, dot) else name
+    }
+
+    fun playListFromIndex(musicList: List<LocalMusic>, startIndex: Int) {
+        val mediaItems = musicList.map { music -> MediaItem.fromUri(music.uri) }
         mediaController?.setMediaItems(mediaItems, startIndex, 0)
         mediaController?.prepare()
         mediaController?.play()
@@ -82,38 +174,11 @@ class LocalMusicViewModel @Inject constructor() : ViewModel() {
         super.onCleared()
     }
 
-
-
-fun queryLocalAudio(context: Context): List<LocalMusic> {
-    val list = mutableListOf<LocalMusic>()
-    val projection = arrayOf(
-        android.provider.MediaStore.Audio.Media._ID,
-        android.provider.MediaStore.Audio.Media.TITLE,
-        android.provider.MediaStore.Audio.Media.ARTIST,
-        android.provider.MediaStore.Audio.Media.DURATION
-    )
-    // 去掉 IS_MUSIC=1 过滤，先全量查询，方便调试；查到数据后再加过滤
-    val cursor = context.contentResolver.query(
-        android.provider.MediaStore.Audio.Media.EXTERNAL_CONTENT_URI,
-        projection,
-        null,
-        null,
-        android.provider.MediaStore.Audio.Media.DATE_ADDED + " DESC"
-    )
-    cursor?.use {
-        val idIdx = it.getColumnIndex(android.provider.MediaStore.Audio.Media._ID)
-        val titleIdx = it.getColumnIndex(android.provider.MediaStore.Audio.Media.TITLE)
-        val artistIdx = it.getColumnIndex(android.provider.MediaStore.Audio.Media.ARTIST)
-        while (it.moveToNext()) {
-            val id = it.getLong(idIdx)
-            val title = it.getString(titleIdx) ?: "未知歌曲"
-            val artist = it.getString(artistIdx) ?: "未知歌手"
-            // ✅ 官方标准构造Uri
-            val uri = ContentUris.withAppendedId(android.provider.MediaStore.Audio.Media.EXTERNAL_CONTENT_URI, id)
-            list.add(LocalMusic(id, title, artist, uri))
-        }
+    companion object {
+        private const val PREFS_NAME = "saf_music_prefs"
+        private const val KEY_TREE_URI = "key_tree_uri"
+        private val AUDIO_EXTENSIONS = listOf(
+            ".mp3", ".m4a", ".flac", ".wav", ".ogg", ".aac", ".opus", ".wma"
+        )
     }
-    return list
-}
-
 }
