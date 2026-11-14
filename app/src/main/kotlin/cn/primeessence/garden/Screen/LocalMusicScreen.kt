@@ -22,7 +22,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import com.google.accompanist.permissions.rememberPermissionState
 import cn.primeessence.garden.LocalMusicViewModel
-import com.google.accompanist.permissions.PermissionStatus.isGranted
+ import com.google.accompanist.permissions.isGranted
 
 @OptIn(ExperimentalPermissionsApi::class)
 @Composable
