@@ -24,6 +24,7 @@ fun GardenNav(
                     gotoMusicList = { backStack.add(MusicListRoute) },
                     gotoMateList = { backStack.add(MateListRoute) },
                     gotoMetaList = { backStack.add(MetaListRoute) }
+                    gotoRead = { backStack.add(ActionReadRoute) }
                 )
             }
             
@@ -114,6 +115,14 @@ fun GardenNav(
                     gotoBack = { backStack.removeLastOrNull() }
                 )
             }
+
+            //Action Read
+            entry<ActionReadRoute> { route ->
+                Read(
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+
         }
     )
 }

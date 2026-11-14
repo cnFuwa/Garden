@@ -35,3 +35,6 @@ data object MetaListRoute : NavKey
 data class MetaReadRoute(val id: Long) : NavKey
 @Serializable
 data class MetaEditRoute(val id: Long) : NavKey
+
+@Serializable
+data object ActionReadRoute : NavKey

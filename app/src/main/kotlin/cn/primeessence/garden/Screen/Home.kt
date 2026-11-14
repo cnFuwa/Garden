@@ -32,7 +32,8 @@ fun Home(
     gotoNoteList: () -> Unit,
     gotoMateList: () -> Unit,
     gotoMusicList: () -> Unit,
-    gotoMetaList: () -> Unit
+    gotoMetaList: () -> Unit,
+    gotoRead: () -> Unit
 ) {
     val vm: HomeViewModel = hiltViewModel()
     
@@ -336,6 +337,29 @@ fun Home(
                 vertical = 8.dp
             )
         )
-
+        
+        // Action
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ){
+            Text(
+                text = "Action",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "Read",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoRead()
+                }
+            )
+        }
     }
 }
