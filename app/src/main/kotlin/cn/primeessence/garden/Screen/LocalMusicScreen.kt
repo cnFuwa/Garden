@@ -1,4 +1,4 @@
-package cn.primeessence.garden.Screen
+package cn.primeessence.garden
 
 import android.Manifest
 import androidx.compose.foundation.clickable
