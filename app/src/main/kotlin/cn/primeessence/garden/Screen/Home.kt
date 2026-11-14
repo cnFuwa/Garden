@@ -360,6 +360,16 @@ fun Home(
                     gotoRead()
                 }
             )
+            
+            Text(
+                text = "Music",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoLocalMusic()
+                }
+            )
         }
     }
 }

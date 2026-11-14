@@ -1,10 +1,14 @@
 package cn.primeessence.garden
 
 import android.Manifest
+import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.material3.ListItem
 import androidx.compose.material3.ListItemButton
+import androidx.compose.material3.ListItemButtonDefaults
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -12,14 +16,19 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
+import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import com.google.accompanist.permissions.rememberPermissionState
+import cn.primeessence.garden.LocalMusicViewModel
 
 @OptIn(ExperimentalPermissionsApi::class)
 @Composable
-fun MusicListPage() {
+fun LocalMusicScreen(
+    gotoBack: () -> Unit,
+    modifier: Modifier = Modifier
+) {
     val vm: LocalMusicViewModel = hiltViewModel()
     val musicList by vm.musicList.collectAsStateWithLifecycle()
     val currentIndex by vm.currentPlayIndex.collectAsStateWithLifecycle()
@@ -28,21 +37,19 @@ fun MusicListPage() {
     val audioPermission = Manifest.permission.READ_MEDIA_AUDIO
     val permissionState = rememberPermissionState(audioPermission)
 
-    // 连接播放器服务
     LaunchedEffect(Unit) {
         vm.connectService(context)
     }
 
-    // 权限逻辑：授予后加载音乐
-    LaunchedEffect(permissionState.status) {
-        if (permissionState.status.isGranted) {
+    LaunchedEffect(permissionState) {
+        if (permissionState.hasPermission) {
             vm.loadLocalMusic(context)
         } else {
             permissionState.launchPermissionRequest()
         }
     }
 
-    androidx.compose.foundation.layout.Column(
+    Column(
         modifier = Modifier.fillMaxSize()
     ) {
         Text(
@@ -54,15 +61,14 @@ fun MusicListPage() {
         } else {
             LazyColumn {
                 itemsIndexed(musicList) { index, music ->
-                    // ✅ M3：ListItemButton 负责点击 + 选中色
                     ListItemButton(
                         onClick = { vm.playListFromIndex(musicList, index) },
                         colors = if (index == currentIndex) {
-                            androidx.compose.material3.ListItemButtonDefaults.colors(
+                            ListItemButtonDefaults.colors(
                                 containerColor = MaterialTheme.colorScheme.primaryContainer
                             )
                         } else {
-                            androidx.compose.material3.ListItemButtonDefaults.colors()
+                            ListItemButtonDefaults.colors()
                         }
                     ) {
                         ListItem(
