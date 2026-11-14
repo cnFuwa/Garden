@@ -79,10 +79,10 @@ dependencies {
     implementation("com.google.android.material:material:1.14.0")
     implementation("androidx.documentfile:documentfile:1.0.1")
 
-    implementation "com.google.accompanist:accompanist-permissions:0.37.0"
-    implementation "androidx.media3:media3-exoplayer:1.4.0"
-    implementation "androidx.media3:media3-session:1.4.0"
-    implementation "androidx.media3:media3-ui:1.4.0"
+    implementation("com.google.accompanist:accompanist-permissions:0.37.0")
+    implementation("androidx.media3:media3-exoplayer:1.4.0")
+    implementation("androidx.media3:media3-session:1.4.0")
+    implementation("androidx.media3:media3-ui:1.4.0")
 
     // Compose BOM
     implementation(platform("androidx.compose:compose-bom:2026.08.00"))
