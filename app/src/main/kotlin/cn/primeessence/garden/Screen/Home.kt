@@ -33,7 +33,8 @@ fun Home(
     gotoMateList: () -> Unit,
     gotoMusicList: () -> Unit,
     gotoMetaList: () -> Unit,
-    gotoRead: () -> Unit
+    gotoRead: () -> Unit,
+    gotoLocalMusic: () -> Unit
 ) {
     val vm: HomeViewModel = hiltViewModel()
     

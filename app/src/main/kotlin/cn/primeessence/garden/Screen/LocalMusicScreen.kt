@@ -22,6 +22,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.google.accompanist.permissions.ExperimentalPermissionsApi
 import com.google.accompanist.permissions.rememberPermissionState
 import cn.primeessence.garden.LocalMusicViewModel
+import com.google.accompanist.permissions.PermissionStatus.isGranted
 
 @OptIn(ExperimentalPermissionsApi::class)
 @Composable
@@ -42,7 +43,8 @@ fun LocalMusicScreen(
     }
 
     LaunchedEffect(permissionState) {
-        if (permissionState.hasPermission) {
+        
+        if (permissionState.status.isGranted) {
             vm.loadLocalMusic(context)
         } else {
             permissionState.launchPermissionRequest()

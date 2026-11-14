@@ -38,3 +38,6 @@ data class MetaEditRoute(val id: Long) : NavKey
 
 @Serializable
 data object ActionReadRoute : NavKey
+
+@Serializable
+data object LocalMusicRoute : NavKey
