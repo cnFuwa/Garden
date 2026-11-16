@@ -32,6 +32,7 @@ fun LocalMusicScreen(
     val vm: LocalMusicViewModel = hiltViewModel()
     val musicList by vm.musicList.collectAsStateWithLifecycle()
     val currentIndex by vm.currentPlayIndex.collectAsStateWithLifecycle()
+    val loading by vm.loading.collectAsStateWithLifecycle()
 
     val treeLauncher = rememberLauncherForActivityResult(
         contract = ActivityResultContracts.OpenDocumentTree()
@@ -43,43 +44,43 @@ fun LocalMusicScreen(
         vm.connectService()
     }
 
-    Column(modifier = Modifier.fillMaxSize()) {
+    Column(
+        modifier = Modifier.fillMaxSize()
+    ) {
         Text(
             text = "本地音乐",
             modifier = Modifier.padding(12.dp)
         )
 
-        if (musicList.isEmpty()) {
-            Column(modifier = Modifier.padding(12.dp)) {
-                Text("尚未选择音乐文件夹，授权后将读取该目录及子目录中的音频")
-Button(
-                    onClick = { treeLauncher.launch(null) },
-                    modifier = Modifier.padding(top = 12.dp)
-                ) {
-                    Text("选择音乐文件夹")
-                }
-            }
-        } else {
-            LazyColumn {
-                itemsIndexed(musicList) { index, music ->
-                    val interactionSource = remember { MutableInteractionSource() }
-                    ListItem(
-                        headlineContent = { Text(music.title) },
-                        supportingContent = { Text(music.artist) },
-                        modifier = Modifier.clickable(
-                            interactionSource = interactionSource,
-                            indication = ripple(),
-                            onClick = { vm.playListFromIndex(musicList, index) }
-                        ),
-                        colors = if (index == currentIndex) {
-                            ListItemDefaults.colors(
-                                containerColor = MaterialTheme.colorScheme.primaryContainer
-                            )
-                        } else {
-                            ListItemDefaults.colors()
-                        }
-                    )
-                }
+        Text("选择音乐文件夹，授权后将读取该目录及子目录中的音频")
+        
+        Button(
+            onClick = { treeLauncher.launch(null) },
+            enabled = !loading,
+            modifier = Modifier.padding(top = 12.dp)
+        ) {
+            Text("选择音乐文件夹")
+        }
+                
+        LazyColumn {
+            itemsIndexed(musicList) { index, music ->
+                val interactionSource = remember { MutableInteractionSource() }
+                ListItem(
+                    headlineContent = { Text(music.title) },
+                    supportingContent = { Text(music.artist) },
+                    modifier = Modifier.clickable(
+                        interactionSource = interactionSource,
+                        indication = ripple(),
+                        onClick = { vm.playListFromIndex(musicList, index) }
+                    ),
+                    colors = if (index == currentIndex) {
+                        ListItemDefaults.colors(
+                            containerColor = MaterialTheme.colorScheme.primaryContainer
+                        )
+                    } else {
+                        ListItemDefaults.colors()
+                    }
+                )
             }
         }
     }

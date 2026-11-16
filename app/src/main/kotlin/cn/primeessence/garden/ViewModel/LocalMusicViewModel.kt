@@ -35,6 +35,9 @@ class LocalMusicViewModel @Inject constructor(
     private val _currentPlayIndex = MutableStateFlow<Int>(-1)
     val currentPlayIndex: StateFlow<Int> = _currentPlayIndex.asStateFlow()
 
+    private val _loading = MutableStateFlow<Boolean>(-1)
+    val loading: StateFlow<Boolean> = _loading.asStateFlow()
+
     private val prefs = appContext.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
 
     init {
@@ -79,8 +82,10 @@ class LocalMusicViewModel @Inject constructor(
         prefs.edit().putString(KEY_TREE_URI, treeUri.toString()).apply()
         loadFromTreeUri(treeUri)
     }
-private fun loadFromTreeUri(treeUri: Uri) {
+    
+    private fun loadFromTreeUri(treeUri: Uri) {
         viewModelScope.launch(Dispatchers.IO) {
+            _loading.value = true
             val root = DocumentFile.fromTreeUri(appContext, treeUri)
             if (root == null || !root.canRead()) {
                 _musicList.value = emptyList()
@@ -101,12 +106,13 @@ private fun loadFromTreeUri(treeUri: Uri) {
                 )
             }
             _musicList.value = list
+            _loading.value = false
         }
     }
 
     private fun collectAudioFiles(folder: DocumentFile, out: MutableList<DocumentFile>) {
         val children = folder.listFiles() ?: return
-for (child in children) {
+        for (child in children) {
             if (child.isDirectory) {
                 collectAudioFiles(child, out)
             } else if (isAudioFile(child)) {
@@ -132,7 +138,7 @@ for (child in children) {
                 ?.takeIf { it.isNotBlank() }?.let { title = it }
             retriever.extractMetadata(MediaMetadataRetriever.METADATA_KEY_ARTIST)
                 ?.takeIf { it.isNotBlank() }?.let { artist = it }
-} catch (e: Exception) {
+        } catch (e: Exception) {
             // 无法解析元数据时使用文件名兜底
         } finally {
             try {

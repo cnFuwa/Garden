@@ -78,7 +78,7 @@ class ReadViewModel @Inject constructor(
                             var line: String?
                             var idx = 1
                             while (reader.readLine().also { line = it } != null) {
-                                if(line != null){ lines.add() }
+                                if(line != null){ lines.add(line) }
                                 if(idx > 3000) break
                                 idx += 1
                             }
