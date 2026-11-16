@@ -43,7 +43,7 @@ class LocalMusicViewModel @Inject constructor(
             try {
                 loadFromTreeUri(Uri.parse(saved))
             } catch (e: Exception) {
-                e.printStackTrace()
+                //e.printStackTrace()
             }
         }
     }
@@ -53,7 +53,7 @@ class LocalMusicViewModel @Inject constructor(
         val controllerFuture = MediaController.Builder(appContext, sessionToken).buildAsync()
         controllerFuture.addListener({
             try {
-mediaController = controllerFuture.get()
+                mediaController = controllerFuture.get()
                 mediaController?.addListener(object : Player.Listener {
                     override fun onMediaItemTransition(mediaItem: MediaItem?, reason: Int) {
                         val index = mediaController?.currentMediaItemIndex ?: -1
@@ -61,21 +61,20 @@ mediaController = controllerFuture.get()
                     }
                 })
             } catch (e: Exception) {
-                e.printStackTrace()
+                //e.printStackTrace()
             }
         }, MoreExecutors.directExecutor())
     }
 
-    /** 用户通过系统目录选择器选中音乐目录后回调。 */
     fun onTreeSelected(treeUri: Uri) {
-        // 持久化目录读权限，App 重启后依然可访问
+        
         try {
             appContext.contentResolver.takePersistableUriPermission(
                 treeUri,
                 Intent.FLAG_GRANT_READ_URI_PERMISSION
             )
         } catch (e: Exception) {
-            e.printStackTrace()
+            //e.printStackTrace()
         }
         prefs.edit().putString(KEY_TREE_URI, treeUri.toString()).apply()
         loadFromTreeUri(treeUri)

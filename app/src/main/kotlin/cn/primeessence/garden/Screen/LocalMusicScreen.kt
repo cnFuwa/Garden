@@ -23,7 +23,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
-import cn.primeessence.garden.LocalMusicViewModel
 
 @Composable
 fun LocalMusicScreen(
@@ -34,7 +33,6 @@ fun LocalMusicScreen(
     val musicList by vm.musicList.collectAsStateWithLifecycle()
     val currentIndex by vm.currentPlayIndex.collectAsStateWithLifecycle()
 
-    // SAF 目录选择器：用户选择一个音乐文件夹，授权后遍历其中的音频
     val treeLauncher = rememberLauncherForActivityResult(
         contract = ActivityResultContracts.OpenDocumentTree()
     ) { treeUri ->
@@ -47,7 +45,7 @@ fun LocalMusicScreen(
 
     Column(modifier = Modifier.fillMaxSize()) {
         Text(
-            text = "本地音乐（SAF 目录授权）",
+            text = "本地音乐",
             modifier = Modifier.padding(12.dp)
         )
 

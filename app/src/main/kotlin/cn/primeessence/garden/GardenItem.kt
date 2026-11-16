@@ -14,6 +14,7 @@ object AppNumItem {
     val MATE_MAX_NUM: Long = 32L
     val MUSIC_MAX_NUM: Long = 32L
     val META_MAX_NUM: Long = 32L
+    val DRAFT_CATE_ID: Long = 2001L 
 }
 
 object NoteCateItem {

@@ -66,7 +66,12 @@ fun Read(
                 text = "txt number：${txtList.size}",
                 modifier = Modifier.padding(vertical = 8.dp)
             )
-
+            
+            Text(
+                text = "load：$loading",
+                modifier = Modifier.padding(vertical = 8.dp)
+            )
+            
             LazyColumn(
                 modifier = Modifier
                     .fillMaxWidth()
@@ -77,7 +82,7 @@ fun Read(
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(4.dp)
-                            .clickable{ vm.readTxt(context, item.uri) }
+                            .clickable(enabled=!loading){ vm.readTxt(context, item.uri) }
                     ) {
                         Text(
                             text = item.name
@@ -99,8 +104,5 @@ fun Read(
                 }
             }
         }
-        
-        
-        
     }
 }

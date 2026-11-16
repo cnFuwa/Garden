@@ -25,7 +25,11 @@ data class TxtFileItem(
 
 @HiltViewModel
 class ReadViewModel @Inject constructor(
-    
+    private val noteRepo: NoteRepo,
+    private val mateRepo: MateRepo,
+    private val musicRepo: MusicRepo,
+    private val metaRepo: MetaRepo
+
 ): ViewModel() {
     private val _txtList = MutableStateFlow<List<TxtFileItem>>(emptyList())
     val txtList: StateFlow<List<TxtFileItem>> = _txtList.asStateFlow()
@@ -66,23 +70,54 @@ class ReadViewModel @Inject constructor(
     fun readTxt(context: Context, uri: Uri) {
         viewModelScope.launch {
             _loading.value = true
-            val text = withContext(Dispatchers.IO) {
-                buildString {
+            try {
+                val trimmedLines = withContext(Dispatchers.IO) {
+                    val lines = mutableListOf<String>()
                     context.contentResolver.openInputStream(uri)?.use { input ->
                         BufferedReader(InputStreamReader(input)).use { reader ->
                             var line: String?
+                            var idx = 1
                             while (reader.readLine().also { line = it } != null) {
-                                appendLine(line)
+                                lines.add(line)
+                                if(idx > 3000) break
+                                idx += 1
                             }
                         }
                     }
+                    lines.dropWhile { it.isBlank() }
+                        .dropLastWhile { it.isBlank() }
                 }
+                
+                if(trimmedLines.isNotEmpty()){
+                    val firstLine = trimmedLines.first().trim()
+                    val items = firstLine.split(";")
+                    var cate = "note"
+                    var cateId = AppNumItem.DRAFT_CATE_ID
+                    var title = "draft"
+                    if(items.size > 2){
+                        cate = items[0].trim()
+                        cateId = items[1].toLongOrNull() ? AppNumItem.DRAFT_CATE_ID
+                        title = item[2].trim()
+                    }
+                    val text = trimmedLines.joinToString("\n")
+                    when(cate) {
+                        "meta" -> metaRepo.insert(Meta(title = title,content = content,enabled = 1))
+                        "mate" -> mateRepo.insert(Mate(cateId = cateId, title = title,content = text,enabled = 1))
+                        "music" -> mateRepo.insert(Music(cateId = cateId, title = title,content = text,enabled = 1))
+                        else -> mateRepo.insert(Note(cateId = cateId, title = title,content = text,enabled = 1))
+                    }
+                    _content.value = text
+                } else {
+                    _content.value = "empty text"
+                }
+            } catch(e: Exception) {
+                
+            } finally {
+                _loading.value = false
             }
-            _content.value = text
-            _loading.value = false
         }
     }
-
+    
     fun clearContent() {
         _content.value = ""
     }
