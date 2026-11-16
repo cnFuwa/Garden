@@ -78,7 +78,7 @@ class ReadViewModel @Inject constructor(
                             var line: String?
                             var idx = 1
                             while (reader.readLine().also { line = it } != null) {
-                                lines.add(line)
+                                if(line != null){ lines.add() }
                                 if(idx > 3000) break
                                 idx += 1
                             }
@@ -96,15 +96,15 @@ class ReadViewModel @Inject constructor(
                     var title = "draft"
                     if(items.size > 2){
                         cate = items[0].trim()
-                        cateId = items[1].toLongOrNull() ? AppNumItem.DRAFT_CATE_ID
-                        title = item[2].trim()
+                        cateId = items[1].toLongOrNull() ?: AppNumItem.DRAFT_CATE_ID
+                        title = items[2].trim()
                     }
                     val text = trimmedLines.joinToString("\n")
                     when(cate) {
-                        "meta" -> metaRepo.insert(Meta(title = title,content = content,enabled = 1))
+                        "meta" -> metaRepo.insert(Meta(title = title,content = text,enabled = 1))
                         "mate" -> mateRepo.insert(Mate(cateId = cateId, title = title,content = text,enabled = 1))
-                        "music" -> mateRepo.insert(Music(cateId = cateId, title = title,content = text,enabled = 1))
-                        else -> mateRepo.insert(Note(cateId = cateId, title = title,content = text,enabled = 1))
+                        "music" -> musicRepo.insert(Music(cateId = cateId, title = title,content = text,enabled = 1))
+                        else -> noteRepo.insert(Note(cateId = cateId, title = title,content = text,enabled = 1))
                     }
                     _content.value = text
                 } else {
