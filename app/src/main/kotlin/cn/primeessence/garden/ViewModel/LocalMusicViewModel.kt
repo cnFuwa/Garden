@@ -35,7 +35,7 @@ class LocalMusicViewModel @Inject constructor(
     private val _currentPlayIndex = MutableStateFlow<Int>(-1)
     val currentPlayIndex: StateFlow<Int> = _currentPlayIndex.asStateFlow()
 
-    private val _loading = MutableStateFlow<Boolean>(-1)
+    private val _loading = MutableStateFlow<Boolean>(false)
     val loading: StateFlow<Boolean> = _loading.asStateFlow()
 
     private val prefs = appContext.getSharedPreferences(PREFS_NAME, Context.MODE_PRIVATE)
