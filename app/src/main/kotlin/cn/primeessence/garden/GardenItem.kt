@@ -22,8 +22,8 @@ object NoteCateItem {
     val HANZI: Long = 100L
     val GUOXUE: Long = 101L
     val NUMERIC: Long = 102L
-    val VARIANT: Long = 103L
-    val READX: Long = 105L
+    val VARIANT: Long = 105L
+    val READX: Long = 106L
 }
 
 object MateCateItem {
@@ -31,8 +31,8 @@ object MateCateItem {
     val SHENHUA: Long = 100L
     val HISTORY: Long = 101L
     val MODERN: Long = 102L
-    val STAR: Long = 103L
-    val CREATOR: Long = 105L
+    val STAR: Long = 105L
+    val CREATOR: Long = 106L
 }
 
 object MusicCateItem {
@@ -40,8 +40,8 @@ object MusicCateItem {
     val CLASSIC: Long = 100L
     val CHILDREN: Long = 101L
     val YOUNG: Long = 102L
-    val WORK: Long = 103L
-    val SOFT: Long = 105L
+    val WORK: Long = 105L
+    val SOFT: Long = 106L
 }
 
 object NoteItem {
