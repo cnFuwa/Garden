@@ -74,14 +74,9 @@ class LocalSaveViewModel @Inject constructor(
                     // os.write(bom)
                     os.write(content.toByteArray(StandardCharsets.UTF_8))
                 }
-
-                withContext(Dispatchers.Main.immediate) {
-                    _uiState.value = SaveUiState.Success(uri)
-                }
+                _uiState.value = SaveUiState.Success(uri)
             } catch (ex: Exception) {
-                withContext(Dispatchers.Main.immediate) {
-                    _uiState.value = SaveUiState.Failed(ex.message ?: "未知错误")
-                }
+                _uiState.value = SaveUiState.Failed(ex.message ?: "未知错误")
             }
         }
     }

@@ -100,7 +100,7 @@ fun LocalSaveScreen(
                     modifier = Modifier.padding(top = 12.dp),
                     style = MaterialTheme.typography.bodyMedium
                 )
-                vm.resetState()
+                // vm.resetState()
             }
             is SaveUiState.Failed -> {
                 val msg = (uiState as SaveUiState.Failed).message
@@ -110,7 +110,7 @@ fun LocalSaveScreen(
                     color = MaterialTheme.colorScheme.error,
                     style = MaterialTheme.typography.bodyMedium
                 )
-                vm.resetState()
+                // vm.resetState()
             }
         }
     }
