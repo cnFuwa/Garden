@@ -24,6 +24,8 @@ import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 @Composable
 fun LocalSaveScreen(
+    gotoBack: () -> Unit,
+    modifier: Modifier = Modifier
 ) {
     val vm: LocalSaveViewModel = hiltViewModel()
     val context = LocalContext.current

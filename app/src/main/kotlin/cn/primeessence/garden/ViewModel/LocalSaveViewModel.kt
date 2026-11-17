@@ -1,7 +1,7 @@
 package cn.primeessence.garden
 
-import android.app.Application
 import android.content.ContentValues
+import android.content.Context
 import android.net.Uri
 import android.os.Build
 import android.os.Environment
@@ -9,6 +9,7 @@ import android.provider.MediaStore
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
+import dagger.hilt.android.qualifiers.ApplicationContext
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
@@ -28,7 +29,7 @@ sealed class SaveUiState {
 
 @HiltViewModel
 class LocalSaveViewModel @Inject constructor(
-    private val application: Application
+    @ApplicationContext private val appContext: Context
 ) : ViewModel {
 
     private val _uiState = MutableStateFlow<SaveUiState>(SaveUiState.Idle)
@@ -60,12 +61,12 @@ class LocalSaveViewModel @Inject constructor(
                     put(MediaStore.Downloads.RELATIVE_PATH, relativePath)
                 }
 
-                val uri = application.contentResolver.insert(
+                val uri = appContext.contentResolver.insert(
                     MediaStore.Downloads.EXTERNAL_CONTENT_URI,
                     contentValues
                 ) ?: throw RuntimeException("无法创建文件Uri")
 
-                val outputStream: OutputStream = application.contentResolver.openOutputStream(uri)
+                val outputStream: OutputStream = appContext.contentResolver.openOutputStream(uri)
                     ?: throw RuntimeException("打开输出流失败")
 
                 outputStream.use { os ->
@@ -77,7 +78,6 @@ class LocalSaveViewModel @Inject constructor(
                 withContext(Dispatchers.Main.immediate) {
                     _uiState.value = SaveUiState.Success(uri)
                 }
-
             } catch (ex: Exception) {
                 withContext(Dispatchers.Main.immediate) {
                     _uiState.value = SaveUiState.Failed(ex.message ?: "未知错误")
