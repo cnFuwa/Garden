@@ -30,7 +30,7 @@ sealed class SaveUiState {
 @HiltViewModel
 class LocalSaveViewModel @Inject constructor(
     @ApplicationContext private val appContext: Context
-) : ViewModel {
+) : ViewModel() {
 
     private val _uiState = MutableStateFlow<SaveUiState>(SaveUiState.Idle)
     val uiState: StateFlow<SaveUiState> = _uiState.asStateFlow()
