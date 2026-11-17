@@ -1,4 +1,3 @@
-// LoacalSave ViewModel
 package cn.primeessence.garden
 
 import android.app.Application
@@ -30,7 +29,7 @@ sealed class SaveUiState {
 @HiltViewModel
 class LocalSaveViewModel @Inject constructor(
     private val application: Application
-) : ViewModel{
+) : ViewModel {
 
     private val _uiState = MutableStateFlow<SaveUiState>(SaveUiState.Idle)
     val uiState: StateFlow<SaveUiState> = _uiState.asStateFlow()
@@ -61,12 +60,12 @@ class LocalSaveViewModel @Inject constructor(
                     put(MediaStore.Downloads.RELATIVE_PATH, relativePath)
                 }
 
-                val uri = getApplication<Application>().contentResolver.insert(
+                val uri = application.contentResolver.insert(
                     MediaStore.Downloads.EXTERNAL_CONTENT_URI,
                     contentValues
                 ) ?: throw RuntimeException("无法创建文件Uri")
 
-                val outputStream = getApplication<Application>().contentResolver.openOutputStream(uri)
+                val outputStream: OutputStream = application.contentResolver.openOutputStream(uri)
                     ?: throw RuntimeException("打开输出流失败")
 
                 outputStream.use { os ->

@@ -1,4 +1,4 @@
-// Home ViewModel
+// LocalSave Screen
 package cn.primeessence.garden
 
 import androidx.compose.foundation.layout.Arrangement
@@ -23,7 +23,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.hilt.lifecycle.viewmodel.compose.hiltViewModel
 @Composable
-fun SaveTextScreen(
+fun LocalSaveScreen(
 ) {
     val vm: LocalSaveViewModel = hiltViewModel()
     val context = LocalContext.current
