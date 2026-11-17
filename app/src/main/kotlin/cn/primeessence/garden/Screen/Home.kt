@@ -34,7 +34,8 @@ fun Home(
     gotoMusicList: () -> Unit,
     gotoMetaList: () -> Unit,
     gotoRead: () -> Unit,
-    gotoLocalMusic: () -> Unit
+    gotoLocalMusic: () -> Unit,
+    gotoLocalSave: () -> Unit
 ) {
     val vm: HomeViewModel = hiltViewModel()
     
@@ -362,6 +363,7 @@ fun Home(
                 }
             )
             
+            //Music
             Text(
                 text = "Music",
                 color = AppColor.CHINA_BLUE,
@@ -369,6 +371,17 @@ fun Home(
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable {
                     gotoLocalMusic()
+                }
+            )
+            
+            //Save
+            Text(
+                text = "Save",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoLocalSave()
                 }
             )
         }

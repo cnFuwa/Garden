@@ -25,7 +25,8 @@ fun GardenNav(
                     gotoMateList = { backStack.add(MateListRoute) },
                     gotoMetaList = { backStack.add(MetaListRoute) },
                     gotoRead = { backStack.add(ActionReadRoute) },
-                    gotoLocalMusic = { backStack.add(LocalMusicRoute) }
+                    gotoLocalMusic = { backStack.add(LocalMusicRoute) },
+                    gotoLocalSave = { backStack.add(LocalSaveRoute) }
                 )
             }
             
@@ -127,6 +128,13 @@ fun GardenNav(
             //LocalMusic
             entry<LocalMusicRoute> { route ->
                 LocalMusicScreen(
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            //LocalSave
+            entry<LocalSaveRoute> { route ->
+                LocalSaveScreen(
                     gotoBack = { backStack.removeLastOrNull() }
                 )
             }

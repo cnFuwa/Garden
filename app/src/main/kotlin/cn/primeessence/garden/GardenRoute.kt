@@ -41,3 +41,6 @@ data object ActionReadRoute : NavKey
 
 @Serializable
 data object LocalMusicRoute : NavKey
+
+@Serializable
+data object LocalSaveRoute : NavKey

@@ -79,7 +79,6 @@ dependencies {
     implementation("com.google.android.material:material:1.14.0")
     implementation("androidx.documentfile:documentfile:1.0.1")
 
-
     implementation("androidx.media3:media3-exoplayer:1.4.0")
     implementation("androidx.media3:media3-session:1.4.0")
     implementation("androidx.media3:media3-ui:1.4.0")
@@ -88,8 +87,8 @@ dependencies {
     implementation(platform("androidx.compose:compose-bom:2026.08.00"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-graphics")
-    //implementation("androidx.compose.material3:material3")
-    implementation("androidx.compose.material3:material3:1.4.0")
+    implementation("androidx.compose.material3:material3")
+    //implementation("androidx.compose.material3:material3:1.4.0")
     implementation("androidx.compose.foundation:foundation")
 
     // lifecycle compose
@@ -107,7 +106,6 @@ dependencies {
     ksp("com.google.dagger:hilt-android-compiler:2.60.1")
     implementation("androidx.hilt:hilt-navigation-compose:1.4.0")
     implementation("androidx.hilt:hilt-lifecycle-viewmodel:1.4.0")
-    
 
     implementation("androidx.room:room-runtime:2.8.5")
     implementation("androidx.room:room-ktx:2.8.5")
