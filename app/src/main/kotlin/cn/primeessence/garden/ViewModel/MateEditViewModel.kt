@@ -74,7 +74,6 @@ class MateEditViewModel @Inject constructor(
                     old?.copy(
                         cateId = cateId,
                         title = title,
-                        title = title,
                         content = content.trim(),
                         enabled = enabled,
                         isDeleted = isDeleted
