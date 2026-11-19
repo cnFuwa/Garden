@@ -33,6 +33,12 @@ class FavorViewModel @Inject constructor(
     private val _loading = MutableStateFlow<Boolean>(false)
     val loading: StateFlow<Boolean> = _loading.asStateFlow()
 
+    private val _proc = MutableStateFlow<String>("init")
+    val proc: StateFlow<String> = _proc.asStateFlow()
+
+    private val _updating = MutableStateFlow<String>("init")
+    val updating: StateFlow<String> = _updating.asStateFlow()
+
     fun load() {
         viewModelScope.launch {
             _favorList.value = repo.getLatest()
@@ -63,6 +69,7 @@ class FavorViewModel @Inject constructor(
     
     suspend fun fetchHtml(url: String): String = withContext(Dispatchers.IO) {
         return@withContext try {
+            _proc.value = "start fetch html"
             val req = Request.Builder()
                 .url(url)
                 .get()
@@ -79,11 +86,14 @@ class FavorViewModel @Inject constructor(
                 .build()
             val resp = okHttpClient.newCall(req).execute()
             if (resp.isSuccessful) {
+                _proc.value = "success"
                 resp.body?.string() ?: "empty"
             } else {
+                _proc.value = "failed"
                 "failed"
             }
         } catch (e: Exception) {
+            _proc.value = "exception"
             "exception"
         }
     }
@@ -93,33 +103,41 @@ class FavorViewModel @Inject constructor(
             _loading.value = true
             try {
                 val favor = repo.getById(favorId)
-                favor?.let {
-                    val startUrl = it.startUrl.trim()
+                if(favor != null) {
+                    _updating.value = "favor is not null"
+                    val startUrl = favor.startUrl.trim()
                     if (startUrl.isNotEmpty() && startUrl.startsWith("https://")) {
+                        _updating.value = "url is ok"
                         val html = fetchHtml(startUrl)
-                        var content = "init"
+                        var newContent = "init"
                         if (
                             html == "empty"
                             || html == "failed"
                             || html=="exception"
                             || html.isBlank()
                         ) {
-                            content = "null: " + html
+                            newContent = "null: " + html
                         } else {
                             val doc = Jsoup.parse(html)
                             val infoTitle = doc.select("div.info_title").text()
                             val infoDetail = doc.select("div.info_detail").text()
-                            content = buildString {
+                            newContent = buildString {
                                 append(infoTitle)
                                 append("\n")
                                 append(infoDetail)
                             }
                         }
-                        val targetItem = it.copy(content = content)
+                        _updating.value = newContent
+                        val targetItem = favor.copy(content = newContent)
                         repo.update(targetItem)
+                    } else {
+                        _updating.value = "url is error"
                     }
+                } else {
+                    _updating.value = "favor is null"
                 }
             } catch (ex: Exception) {
+                _updating.value = "grab exception"
                 //ex.printStackTrace()
             } finally {
                 _loading.value = false

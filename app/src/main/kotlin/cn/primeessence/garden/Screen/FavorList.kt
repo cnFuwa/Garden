@@ -40,13 +40,16 @@ fun FavorList(
 
     val favorList by vm.favorList.collectAsStateWithLifecycle()
     val loading by vm.loading.collectAsStateWithLifecycle()
+    val proc by vm.proc.collectAsStateWithLifecycle()
+    val updating by vm.updating.collectAsStateWithLifecycle()
     
     var targetId: Long by remember{ mutableStateOf(0L) }
 
     LaunchedEffect(Unit) {
         vm.load()
     }
-
+    val procText = proc
+    val updatingText = updating
     Column(
         modifier = modifier
             .padding(8.dp)
@@ -97,6 +100,16 @@ fun FavorList(
             ) {
                 Text("grab")
             }
+        }
+        Column(
+            modifier = Modifier
+                .fillMaxWidth()
+                .padding(8.dp),
+            horizontalAlignment = Alignment.Start,
+            verticalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            Text("proc: $procText")
+            Text("updating: $updatingText")
         }
 
         LazyColumn(
