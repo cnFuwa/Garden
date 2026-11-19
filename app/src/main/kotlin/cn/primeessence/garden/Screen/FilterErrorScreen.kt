@@ -88,8 +88,8 @@ fun FilterErrorScreen(
                 onValueChange = { content = it },
                 label = { Text("content") },
                 singleLine = false,
-                minLines = 5,
-                maxLines = 7,
+                minLines = 11,
+                maxLines = 15,
                 modifier = Modifier
                     .fillMaxWidth(),
                 textStyle = TextStyle(
