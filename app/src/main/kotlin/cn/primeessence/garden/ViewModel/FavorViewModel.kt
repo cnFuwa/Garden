@@ -19,6 +19,8 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
+import java.lang.StringBuilder
+
 
 @HiltViewModel
 class FavorViewModel @Inject constructor(
@@ -124,16 +126,48 @@ class FavorViewModel @Inject constructor(
                         } else {
                             _updating.value = "start parse html"
                             val doc = Jsoup.parse(html)
-                            val infoTitle = doc.select("div.info_title").text()
-                            val infoDetail = doc.select("div.info_detail").text()
+                            
+                            val plat = doc.select("div#subscribe-wrapper").text()
+                            val author = doc.select("span.author").text()
+                            val uptime = doc.select("div.summary > span.time").text()
+                            
+                            //val editorList = doc.select("div.edit-info-line")
+                            
+                            val nums = doc.select("a#open_sections_list").text()
+                            val info = doc.select("div.info-detail").text()
+                            
+                            val videoList = mutableListOf<String>()
+                            val liList = doc.select("o.sections-list > li")
+                            liList.forEach { li ->
+                                val a = li.selectFirst("a") ?: return@forEach
+                                val href = a.attr("href")
+                                val tit = a.selectFirst("h1.title")?.text() ?: ""
+                                val tim = a.selectFirst("span.time")?.text() ?: ""
+                                val lineText = "${tim.trim()}|${tit.trim()}|${href.trim()}"
+                                videoList.add(lineText)
+                            }
+                            val videoText = videoList.joinToString("\n")
+                            
                             newContent = buildString {
-                                append("parse")
+                                append("平台：")
+                                append(plat)
                                 append("\n")
-                                append("title: ")
-                                append(infoTitle)
-                                append("detail:")
+                                append("作者：")
+                                append(author)
                                 append("\n")
-                                append(infoDetail)
+                                append("时间：")
+                                append(uptime)
+                                append("\n")
+                                append("期数：")
+                                append(nums)
+                                append("\n")
+                                append("简介: ")
+                                append(info)
+                                append("\n")
+                                append("列表")
+                                append("\n")
+                                append(videoText)
+                                append("\n")
                             }
                         }
                         _updating.value = "save new content"
