@@ -117,7 +117,9 @@ class FavorViewModel @Inject constructor(
                             || html.isBlank()
                         ) {
                             newContent = "null: " + html
+                            _updating.value = "null" + html
                         } else {
+                            _updating.value = "start parse html"
                             val doc = Jsoup.parse(html)
                             val infoTitle = doc.select("div.info_title").text()
                             val infoDetail = doc.select("div.info_detail").text()
@@ -127,7 +129,7 @@ class FavorViewModel @Inject constructor(
                                 append(infoDetail)
                             }
                         }
-                        _updating.value = newContent
+                        _updating.value = "save new content"
                         val targetItem = favor.copy(content = newContent)
                         repo.update(targetItem)
                     } else {
