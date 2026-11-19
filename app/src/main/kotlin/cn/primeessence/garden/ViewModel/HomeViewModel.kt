@@ -16,6 +16,7 @@ import kotlin.text.Regex
 
 @HiltViewModel
 class HomeViewModel @Inject constructor(
+    private val favorRepo: FavorRepo,
     private val noteRepo: NoteRepo,
     private val mateRepo: MateRepo,
     private val musicRepo: MusicRepo,
@@ -37,6 +38,7 @@ class HomeViewModel @Inject constructor(
 
     fun load() {
         getMetaList()
+        getFavorTotal()
         getNoteTotal()
         getMusicTotal()
         getMateTotal()
@@ -47,6 +49,7 @@ class HomeViewModel @Inject constructor(
         viewModelScope.launch {
             try {
                 val metaItems: List<LiteMeta> = metaRepo.getLatest()
+                var favorMaxNum: Long = AppNumItem.FAVOR_MAX_NUM
                 var noteMaxNum: Long = AppNumItem.NOTE_MAX_NUM
                 var mateMaxNum: Long = AppNumItem.MATE_MAX_NUM
                 var musicMaxNum: Long = AppNumItem.MUSIC_MAX_NUM
@@ -56,6 +59,7 @@ class HomeViewModel @Inject constructor(
                     val title = item.title.trim()
                     val num = item.content.trim().toLongOrNull() ?: 0L
                     when(title) {
+                        "favor" -> favorMaxNum =  maxOf(favorMaxNum, num)
                         "note" -> noteMaxNum =  maxOf(noteMaxNum, num)
                         "mate" -> mateMaxNum =  maxOf(mateMaxNum, num)
                         "music" -> musicMaxNum =  maxOf(musicMaxNum, num)
@@ -63,6 +67,7 @@ class HomeViewModel @Inject constructor(
                     }
                 }
                 _metaMap.value = mapOf(
+                    "favor" to favorMaxNum,
                     "note" to noteMaxNum,
                     "mate" to mateMaxNum,
                     "music" to musicMaxNum,
@@ -77,6 +82,21 @@ class HomeViewModel @Inject constructor(
         }
     }
     
+    fun getFavorTotal() {
+        viewModelScope.launch {
+            try {
+                val total: Long = favorRepo.getTotal()
+                _countMap.value = _countMap.value.toMutableMap().apply {
+                    put("favor", total)
+                }
+            } catch (e: Exception) {
+
+            } finally {
+
+            }
+        }
+    }
+
     fun getNoteTotal() {
         viewModelScope.launch {
             try {
@@ -137,6 +157,30 @@ class HomeViewModel @Inject constructor(
         }
     }
     
+    fun addFavor() {
+        val metaMap = _metaMap.value
+        val available: Long = metaMap["favor"] ?: AppNumItem.FAVOR_MAX_NUM
+        viewModelScope.launch {
+            try {
+                val total: Long  = favorRepo.getTotal()
+                if(total < available) {
+                    favorRepo.insert(
+                        Favor(
+                            title = FavorItem.TITLE,
+                            cateId = FavorItem.CATE_ID,
+                            startUrl = FavorItem.START_URL,
+                            content = FavorItem.CONTENT,
+                            enabled = FavorItem.ENABLED,
+                            isDeleted = FavorItem.IS_DELETED
+                        )
+                    )
+                }
+            } catch (e: Exception) {
+
+            }
+        }
+    }
+
     fun addNote() {
         val metaMap = _metaMap.value
         val available: Long = metaMap["note"] ?: AppNumItem.NOTE_MAX_NUM

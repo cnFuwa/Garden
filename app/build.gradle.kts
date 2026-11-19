@@ -78,6 +78,7 @@ dependencies {
     implementation("androidx.activity:activity-compose:1.10.1")
     implementation("com.google.android.material:material:1.14.0")
     implementation("androidx.documentfile:documentfile:1.0.1")
+    implementation("org.jsoup:jsoup:1.17.2")
 
     implementation("androidx.media3:media3-exoplayer:1.4.0")
     implementation("androidx.media3:media3-session:1.4.0")

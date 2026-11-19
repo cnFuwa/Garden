@@ -27,7 +27,8 @@ fun GardenNav(
                     gotoRead = { backStack.add(ActionReadRoute) },
                     gotoLocalMusic = { backStack.add(LocalMusicRoute) },
                     gotoLocalSave = { backStack.add(LocalSaveRoute) },
-                    gotoFilterError = { backStack.add(FilterErrorRoute) }
+                    gotoFilterError = { backStack.add(FilterErrorRoute) },
+                    gotoFavorList = { backStack.add(FavorListRoute) }
                 )
             }
             
@@ -143,6 +144,28 @@ fun GardenNav(
             //FilterError
             entry<FilterErrorRoute> { route ->
                 FilterErrorScreen(
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            // Favor
+            entry<FavorListRoute> {
+                FavorList(
+                    gotoFavorEdit = { id -> backStack.add(FavorEditRoute(id)) },
+                    gotoFavorRead = { id -> backStack.add(FavorReadRoute(id)) }
+                )
+            }
+
+            entry<FavorEditRoute> { route ->
+                FavorEdit(
+                    favorId = route.id,
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            entry<FavorReadRoute> { route ->
+                FavorRead(
+                    favorId = route.id,
                     gotoBack = { backStack.removeLastOrNull() }
                 )
             }

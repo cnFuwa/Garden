@@ -32,6 +32,7 @@ fun Home(
     gotoNoteList: () -> Unit,
     gotoMateList: () -> Unit,
     gotoMusicList: () -> Unit,
+    gotoFavorList: () -> Unit,
     gotoMetaList: () -> Unit,
     gotoRead: () -> Unit,
     gotoLocalMusic: () -> Unit,
@@ -53,16 +54,19 @@ fun Home(
     val noteMaxNum = metaMap["note"] ?: 0L
     val mateMaxNum = metaMap["mate"] ?: 0L
     val musicMaxNum = metaMap["music"] ?: 0L
+    val favorMaxNum = metaMap["favor"] ?: 0L
     val metaMaxNum = metaMap["meta"] ?: 0L
 
     val noteNum = countMap["note"] ?: 0L
     val mateNum = countMap["mate"] ?: 0L
     val musicNum = countMap["music"] ?: 0L
+    val favorNum = countMap["favor"] ?: 0L
     val metaNum = countMap["meta"] ?: 0L
     
     val canAddNote = (noteNum < noteMaxNum)
     val canAddMate = (mateNum < mateMaxNum)
     val canAddMusic = (musicNum < musicMaxNum)
+    val canAddFavor = (favorNum < favorMaxNum)
     val canAddMeta = (metaNum < metaMaxNum)
 
     val scrollState = rememberScrollState()
@@ -283,6 +287,47 @@ fun Home(
                 }
             )
             
+        }
+
+        HorizontalDivider(
+            modifier = Modifier.padding(
+                vertical = 8.dp
+            )
+        )
+
+        // Favor
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ){
+
+            Text(
+                text = "Favor",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "List",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoFavorList()
+                }
+            )
+
+            Text(
+                text = "Add",
+                color = if (canAddFavor) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canAddFavor){
+                    vm.addFavor()
+                }
+            )
         }
 
         HorizontalDivider(

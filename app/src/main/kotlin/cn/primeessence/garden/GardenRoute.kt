@@ -47,3 +47,12 @@ data object LocalSaveRoute : NavKey
 
 @Serializable
 data object FilterErrorRoute : NavKey
+
+@Serializable
+data object FavorListRoute : NavKey
+@Serializable
+data class FavorReadRoute(val id: Long) : NavKey
+@Serializable
+data class FavorEditRoute(val id: Long) : NavKey
+
+

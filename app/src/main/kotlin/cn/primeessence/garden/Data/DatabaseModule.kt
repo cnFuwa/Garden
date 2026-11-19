@@ -35,6 +35,9 @@ object DatabaseModule {
     fun provideMusicDao(db: GardenData): MusicDao = db.musicDao()
 
     @Provides
+    fun provideFavorDao(db: GardenData): FavorDao = db.favorDao()
+
+    @Provides
     fun provideMetaDao(db: GardenData): MetaDao = db.metaDao()
 
 }

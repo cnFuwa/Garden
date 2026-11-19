@@ -14,8 +14,10 @@ object AppNumItem {
     val MATE_MAX_NUM: Long = 32L
     val MUSIC_MAX_NUM: Long = 32L
     val META_MAX_NUM: Long = 32L
+    val FAVOR_MAX_NUM: Long = 32L
     val DRAFT_CATE_ID: Long = 2001L 
 }
+
 
 object NoteCateItem {
     val XUEKE: Long = 99L
@@ -43,6 +45,24 @@ object MusicCateItem {
     val WORK: Long = 105L
     val SOFT: Long = 106L
 }
+
+object FavorCateItem {
+    val MATH: Long = 99L
+    val COMPUTER: Long = 100L
+    val NONGXUE: Long = 101L
+    val GONGXUE: Long = 102L
+    val ZHEXUE: Long = 103L
+}
+
+object FavorItem {
+    val TITLE: String = ""
+    val CATE_ID: Long = 1L
+    val START_URL: String = ""
+    val CONTENT: String = ""
+    val ENABLED: Int = 0
+    val IS_DELETED: Int = 0
+}
+
 
 object NoteItem {
     val TITLE: String = ""

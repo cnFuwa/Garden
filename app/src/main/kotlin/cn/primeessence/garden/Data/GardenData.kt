@@ -8,6 +8,7 @@ import android.content.Context
 
 @Database(
     entities = [
+        Favor::class,
         Note::class,
         Mate::class,
         Music::class,
@@ -17,6 +18,7 @@ import android.content.Context
     exportSchema = false
 )
 abstract class GardenData : RoomDatabase() {
+    abstract fun favorDao(): FavorDao
     abstract fun noteDao(): NoteDao
     abstract fun mateDao(): MateDao
     abstract fun musicDao(): MusicDao
