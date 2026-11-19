@@ -104,12 +104,14 @@ class FavorViewModel @Inject constructor(
             _loading.value = true
             try {
                 val favor = repo.getById(favorId)
-                if(favor != null) {
+                val htmlItem = repo.getById(2L)
+                if(favor != null && htmlItem != null) {
                     _updating.value = "favor is not null"
                     val startUrl = favor.startUrl.trim()
                     if (startUrl.isNotEmpty() && startUrl.startsWith("https://")) {
                         _updating.value = "url is ok"
-                        val html = fetchHtml(startUrl)
+                        //val html = fetchHtml(startUrl)
+                        val html = htmlItem.content
                         var newContent = "init"
                         if (
                             html == "empty"
@@ -136,16 +138,7 @@ class FavorViewModel @Inject constructor(
                         }
                         _updating.value = "save new content"
                         val targetItem = favor.copy(content = newContent)
-                        
-                        val originItem = Favor(
-                            id = 1L,
-                            cateId = 1,
-                            title = "Save Html",
-                            content = html,
-                            enabled = 1
-                        )
                         repo.update(targetItem)
-                        repo.update(originItem)
                     } else {
                         _updating.value = "url is error"
                     }
