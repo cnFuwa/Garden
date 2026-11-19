@@ -120,7 +120,7 @@ fun FilterErrorScreen(
                         vm.submit(
                             title = title,
                             content = content,
-                            enabled = 1
+                            enabled = 1,
                             isDeleted = 0
                         )
                     }
