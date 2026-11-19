@@ -124,14 +124,27 @@ class FavorViewModel @Inject constructor(
                             val infoTitle = doc.select("div.info_title").text()
                             val infoDetail = doc.select("div.info_detail").text()
                             newContent = buildString {
+                                append("parse")
+                                append("\n")
+                                append("title: ")
                                 append(infoTitle)
+                                append("detail:")
                                 append("\n")
                                 append(infoDetail)
                             }
                         }
                         _updating.value = "save new content"
                         val targetItem = favor.copy(content = newContent)
+                        
+                        val originItem = Favor(
+                            id = 1L,
+                            cateId = 1,
+                            title = "Save Html",
+                            content = html,
+                            enabled = 1
+                        )
                         repo.update(targetItem)
+                        repo.update(originItem)
                     } else {
                         _updating.value = "url is error"
                     }
