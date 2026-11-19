@@ -19,8 +19,6 @@ import org.jsoup.Jsoup
 import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
-import java.lang.StringBuilder
-
 
 @HiltViewModel
 class FavorViewModel @Inject constructor(
@@ -137,7 +135,7 @@ class FavorViewModel @Inject constructor(
                             val info = doc.select("div.info-detail").text()
                             
                             val videoList = mutableListOf<String>()
-                            val liList = doc.select("o.sections-list > li")
+                            val liList = doc.select("ol.sections-list > li")
                             liList.forEach { li ->
                                 val a = li.selectFirst("a") ?: return@forEach
                                 val href = a.attr("href")
