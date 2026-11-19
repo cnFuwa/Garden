@@ -127,7 +127,7 @@ class FavorViewModel @Inject constructor(
                             
                             val plat = doc.select("div#subscribe-wrapper").text()
                             val author = doc.select("span.author").text()
-                            val uptime = doc.select("div.summary > span.time").text()
+                            val uptime = doc.select("div.summary span.time").text()
                             
                             //val editorList = doc.select("div.edit-info-line")
                             
