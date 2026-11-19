@@ -11,13 +11,20 @@ import kotlinx.coroutines.flow.StateFlow
 
 import kotlinx.coroutines.launch
 import javax.inject.Inject
+import okhttp3.Request
+import org.jsoup.Jsoup
+import org.jsoup.nodes.Document
+import org.jsoup.nodes.Element
+import org.jsoup.select.Elements
 
 
 @HiltViewModel
 class FavorViewModel @Inject constructor(
     private val repo: FavorRepo
 ) : ViewModel() {
-
+    
+    private val okHttpClient = okhttp3.OkHttpClient()
+    
     private val _favorList = MutableStateFlow<List<LiteFavor>>(emptyList())
     val favorList: StateFlow<List<LiteFavor>> = _favorList.asStateFlow()
 
@@ -48,7 +55,60 @@ class FavorViewModel @Inject constructor(
             }
         }
     }
-
+    
+    suspend fun fetchHtml(url: String): String? = withContext(Dispatchers.IO) {
+        return@withContext try {
+            val req = Request.Builder()
+                .url(url)
+                .get()
+                .header("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
+                .header("Accept", "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8")
+                .header("Accept-Language", "zh-CN,zh;q=0.9")
+                .header("Accept-Encoding", "gzip, deflate, br")
+                .header("Connection", "keep-alive")
+                .header("Upgrade-Insecure-Requests", "1")
+                .header("Sec-Fetch-Dest", "document")
+                .header("Sec-Fetch-Mode", "navigate")
+                .header("Sec-Fetch-Site", "none")
+                .header("Sec-Fetch-User", "?1")
+                .build()
+            val resp = okHttpClient.newCall(req).execute()
+            if (resp.isSuccessful) {
+                resp.body?.string()
+            } else null
+        } catch (e: Exception) {
+            null
+        }
+    }
+    
+    fun grab(favorId: Long) {
+        viewModelScope.launch {
+            try {
+                val favor = repo.getById(favorId)
+                favor?.let {
+                    val startUrl = it.startUrl.trim()
+                    if (startUrl.isNotEmpty() && startUrl.startsWith("https://")) {
+                        val html = fetchHtml(startUrl)
+                        if (html != null && html.isNotBlank()) {
+                            val doc = Jsoup.parse(html)
+                            val infoTitle = doc.select("div.info_title").text()
+                            val infoDetail = doc.select("div.info_detail").text()
+                            val content = buildString {
+                                append(infoTitle)
+                                append("\n")
+                                append(infoDetail)
+                            }
+                            val targetItem = it.copy(content = content)
+                            repo.update(targetItem)
+                        }
+                    }
+                }
+            } catch (ex: Exception) {
+                ex.printStackTrace()
+            }
+        }
+    }
+    
     fun deleteById(favorId: Long) {
         viewModelScope.launch {
             try {

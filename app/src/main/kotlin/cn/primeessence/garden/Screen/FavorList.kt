@@ -88,11 +88,11 @@ fun FavorList(
             Button(
                 onClick = {
                     if(targetId > 0){
-                        vm.deleteById(targetId)
+                        vm.grab(targetId)
                     }
                 }
             ) {
-                Text("delete")
+                Text("grab")
             }
         }
 

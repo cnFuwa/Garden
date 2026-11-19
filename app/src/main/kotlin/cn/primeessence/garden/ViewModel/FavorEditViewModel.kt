@@ -39,19 +39,19 @@ class FavorEditViewModel @Inject constructor(
 
     fun updateTitle(title: String) {
         _favor.update { old ->
-            old?.copy(title = title)
+            old?.copy(title = title.trim())
         }
     }
 
     fun updateStartUrl(startUrl: String) {
         _favor.update { old ->
-            old?.copy(startUrl = startUrl)
+            old?.copy(startUrl = startUrl.trim())
         }
     }
 
     fun updateContent(content: String) {
         _favor.update { old ->
-            old?.copy(content = content)
+            old?.copy(content = content.trim())
         }
     }
     
@@ -66,7 +66,9 @@ class FavorEditViewModel @Inject constructor(
             old?.copy(isDeleted = isDeleted)
         }
     }
-
+    
+    
+    
     fun submit(
         cateId: Long,
         title: String,
@@ -80,8 +82,8 @@ class FavorEditViewModel @Inject constructor(
                 _favor.update { old ->
                     old?.copy(
                         cateId = cateId,
-                        title = title,
-                        startUrl = startUrl,
+                        title = title.trim(),
+                        startUrl = startUrl.trim(),
                         content = content.trim(),
                         enabled = enabled,
                         isDeleted = isDeleted
