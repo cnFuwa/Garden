@@ -44,3 +44,6 @@ data object LocalMusicRoute : NavKey
 
 @Serializable
 data object LocalSaveRoute : NavKey
+
+@Serializable
+data object FilterErrorRoute : NavKey

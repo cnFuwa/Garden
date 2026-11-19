@@ -35,7 +35,8 @@ fun Home(
     gotoMetaList: () -> Unit,
     gotoRead: () -> Unit,
     gotoLocalMusic: () -> Unit,
-    gotoLocalSave: () -> Unit
+    gotoLocalSave: () -> Unit,
+    gotoFilterError: () -> Unit
 ) {
     val vm: HomeViewModel = hiltViewModel()
     
@@ -382,6 +383,29 @@ fun Home(
                 .padding(vertical=4.dp,horizontal=8.dp)
                 .clickable {
                     gotoLocalSave()
+                }
+            )
+        }
+        
+        Row(
+            modifier = Modifier
+            .fillMaxWidth(),
+            verticalAlignment = Alignment.Top,
+            horizontalArrangement = Arrangement.spacedBy(8.dp)
+        ){
+            Text(
+                text = "Test",
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+            )
+            
+            Text(
+                text = "Filter",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoFilterError()
                 }
             )
         }

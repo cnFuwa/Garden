@@ -30,7 +30,7 @@ class MateEditViewModel @Inject constructor(
             _mate.value = repo.getById(id)
         }
     }
-
+    
     fun updateCateId(cateId: Long) {
         _mate.update { old ->
             old?.copy(cateId = cateId)
@@ -73,6 +73,7 @@ class MateEditViewModel @Inject constructor(
                 _mate.update { old ->
                     old?.copy(
                         cateId = cateId,
+                        title = title,
                         title = title,
                         content = content.trim(),
                         enabled = enabled,

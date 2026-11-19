@@ -26,7 +26,8 @@ fun GardenNav(
                     gotoMetaList = { backStack.add(MetaListRoute) },
                     gotoRead = { backStack.add(ActionReadRoute) },
                     gotoLocalMusic = { backStack.add(LocalMusicRoute) },
-                    gotoLocalSave = { backStack.add(LocalSaveRoute) }
+                    gotoLocalSave = { backStack.add(LocalSaveRoute) },
+                    gotoFilterError = { backStack.add(FilterErrorRoute) }
                 )
             }
             
@@ -135,6 +136,13 @@ fun GardenNav(
             //LocalSave
             entry<LocalSaveRoute> { route ->
                 LocalSaveScreen(
+                    gotoBack = { backStack.removeLastOrNull() }
+                )
+            }
+            
+            //FilterError
+            entry<FilterErrorRoute> { route ->
+                FilterErrorScreen(
                     gotoBack = { backStack.removeLastOrNull() }
                 )
             }
