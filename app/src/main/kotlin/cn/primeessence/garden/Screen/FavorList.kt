@@ -39,6 +39,8 @@ fun FavorList(
     val vm: FavorViewModel = hiltViewModel()
 
     val favorList by vm.favorList.collectAsStateWithLifecycle()
+    val loading by vm.loading.collectAsStateWithLifecycle()
+    
     var targetId: Long by remember{ mutableStateOf(0L) }
 
     LaunchedEffect(Unit) {
@@ -90,7 +92,8 @@ fun FavorList(
                     if(targetId > 0){
                         vm.grab(targetId)
                     }
-                }
+                },
+                enabled = !loading
             ) {
                 Text("grab")
             }

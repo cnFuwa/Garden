@@ -20,7 +20,6 @@ import org.jsoup.nodes.Document
 import org.jsoup.nodes.Element
 import org.jsoup.select.Elements
 
-
 @HiltViewModel
 class FavorViewModel @Inject constructor(
     private val repo: FavorRepo
@@ -30,6 +29,9 @@ class FavorViewModel @Inject constructor(
     
     private val _favorList = MutableStateFlow<List<LiteFavor>>(emptyList())
     val favorList: StateFlow<List<LiteFavor>> = _favorList.asStateFlow()
+
+    private val _loading = MutableStateFlow<Boolean>(false)
+    val loading: StateFlow<Boolean> = _loading.asStateFlow()
 
     fun load() {
         viewModelScope.launch {
@@ -59,7 +61,7 @@ class FavorViewModel @Inject constructor(
         }
     }
     
-    suspend fun fetchHtml(url: String): String? = withContext(Dispatchers.IO) {
+    fun fetchHtml(url: String): String = withContext(Dispatchers.IO) {
         return@withContext try {
             val req = Request.Builder()
                 .url(url)
@@ -77,37 +79,50 @@ class FavorViewModel @Inject constructor(
                 .build()
             val resp = okHttpClient.newCall(req).execute()
             if (resp.isSuccessful) {
-                resp.body?.string()
-            } else null
+                resp.body?.string() ?: "empty"
+            } else {
+                "failed"
+            }
         } catch (e: Exception) {
-            null
+            "exception"
         }
     }
     
     fun grab(favorId: Long) {
         viewModelScope.launch {
+            _loading.value = true
             try {
                 val favor = repo.getById(favorId)
                 favor?.let {
                     val startUrl = it.startUrl.trim()
                     if (startUrl.isNotEmpty() && startUrl.startsWith("https://")) {
                         val html = fetchHtml(startUrl)
-                        if (html != null && html.isNotBlank()) {
+                        var content = "init"
+                        if (
+                            html == "empty"
+                            || html == "failed"
+                            || html=="exception"
+                            || html.isBlank()
+                        ) {
+                            content = "null: " + html
+                        } else {
                             val doc = Jsoup.parse(html)
                             val infoTitle = doc.select("div.info_title").text()
                             val infoDetail = doc.select("div.info_detail").text()
-                            val content = buildString {
+                            content = buildString {
                                 append(infoTitle)
                                 append("\n")
                                 append(infoDetail)
                             }
-                            val targetItem = it.copy(content = content)
-                            repo.update(targetItem)
                         }
+                        val targetItem = it.copy(content = content)
+                        repo.update(targetItem)
                     }
                 }
             } catch (ex: Exception) {
-                ex.printStackTrace()
+                //ex.printStackTrace()
+            } finally {
+                _loading.value = false
             }
         }
     }
