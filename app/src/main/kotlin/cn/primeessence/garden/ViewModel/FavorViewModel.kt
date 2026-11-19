@@ -61,7 +61,7 @@ class FavorViewModel @Inject constructor(
         }
     }
     
-    fun fetchHtml(url: String): String = withContext(Dispatchers.IO) {
+    suspend fun fetchHtml(url: String): String = withContext(Dispatchers.IO) {
         return@withContext try {
             val req = Request.Builder()
                 .url(url)
