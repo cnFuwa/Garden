@@ -205,6 +205,13 @@ class FavorViewModel @Inject constructor(
                     if(urls.isNotEmpty()){
                         for(url in urls) {
                             val html = fetchHtml(url)
+                            noteRepo.insert(
+                                Note(
+                                    title = favor.title,
+                                    content = html,
+                                    enabled = 1
+                                )
+                            )
                             val doc = Jsoup.parse(html)
                             val videoSrc = doc.selectFirst("video")?.attr("src") ?: ""
                             if(videoSrc.isNotEmpty()){ videoList.add(videoSrc) }
