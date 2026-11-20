@@ -130,12 +130,18 @@ class FavorViewModel @Inject constructor(
                             val uptime = doc.select("div.summary span.time").text()
                             
                             //val editorList = doc.select("div.edit-info-line")
-                            
-                            val nums = doc.select("a#open_sections_list").text()
+                            val numsA = doc.select("span.section-count").text().trim()
+                            val numsB = doc.select("#open_sections_list").text().trim()
+                            val nums = if(numsA.isBlank) numsB else numsA
                             val info = doc.select("div.info-detail").text()
                             
                             val videoList = mutableListOf<String>()
-                            val liList = doc.select("ol.sections-list > li")
+                            //val liListA = doc.select(".sections-list > li")
+                            //val liListB = doc.select(".sec-setions > li")
+                            //val liList = if(liListA.isEmpty()) liListB else liListA
+                            
+                            val liList = doc.select(".sec-bd li")
+                            
                             liList.forEach { li ->
                                 val a = li.selectFirst("a") ?: return@forEach
                                 val href = a.attr("href")
