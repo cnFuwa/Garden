@@ -44,6 +44,8 @@ fun FavorList(
     val updating by vm.updating.collectAsStateWithLifecycle()
     
     var targetId: Long by remember{ mutableStateOf(0L) }
+    
+    var canLoad: Boolean = if(targetId>0 && !loading) {true} else {false}
 
     LaunchedEffect(Unit) {
         vm.load()
@@ -70,36 +72,46 @@ fun FavorList(
             verticalAlignment = Alignment.Top,
             horizontalArrangement = Arrangement.spacedBy(8.dp)
         ) {
-            Button(
-                onClick = {
-                    if(targetId > 0){
-                        gotoFavorRead(targetId)
-                    }
+            
+            Text(
+                text = "read",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoFavorRead(targetId)
                 }
-            ) {
-                Text("read")
-            }
-
-            Button(
-                onClick = {
-                    if(targetId > 0){
-                        gotoFavorEdit(targetId)
-                    }
+            )
+            
+            Text(
+                text = "edit",
+                color = AppColor.CHINA_BLUE,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable {
+                    gotoFavorEdit(targetId)
                 }
-            ) {
-                Text("edit")
-            }
-
-            Button(
-                onClick = {
-                    if(targetId > 0){
-                        vm.grab(targetId)
-                    }
-                },
-                enabled = !loading
-            ) {
-                Text("grab")
-            }
+            )
+            
+            Text(
+                text = "grab",
+                color = if (canLoad) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canLoad) {
+                    vm.grab(targetId)
+                }
+            )
+            
+            Text(
+                text = "grab",
+                color = if (canLoad) AppColor.CHINA_BLUE else Color.Gray,
+                modifier = Modifier
+                .padding(vertical=4.dp,horizontal=8.dp)
+                .clickable(enabled = canLoad) {
+                    vm.fetchVideo(targetId)
+                }
+            )
         }
         Column(
             modifier = Modifier
