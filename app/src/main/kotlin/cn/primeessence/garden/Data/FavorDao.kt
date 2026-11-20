@@ -9,7 +9,7 @@ import androidx.room.OnConflictStrategy
 
 @Dao
 interface FavorDao {
-    @Query("SELECT id,cateId,title,enabled FROM favor ORDER BY id ASC")
+    @Query("SELECT id,cateId,noteId,title,enabled FROM favor ORDER BY id ASC")
     suspend fun getLatest(): List<LiteFavor>
 
     @Query("SELECT COUNT(*) FROM favor")

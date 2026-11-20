@@ -75,7 +75,7 @@ fun Read(
             LazyColumn(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .weight(0.4f)
+                    .weight(0.8f)
             ) {
                 items(txtList) { item ->
                     Row(
@@ -96,7 +96,7 @@ fun Read(
             LazyColumn(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .weight(0.6f)
+                    .weight(0.2f)
                     .padding(top = 4.dp)
             ) {
                 item {
