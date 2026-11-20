@@ -132,7 +132,7 @@ class FavorViewModel @Inject constructor(
                             //val editorList = doc.select("div.edit-info-line")
                             val numsA = doc.select("span.section-count").text().trim()
                             val numsB = doc.select("#open_sections_list").text().trim()
-                            val nums = if(numsA.isBlank) numsB else numsA
+                            val nums = if(numsA.isBlank()) numsB else numsA
                             val info = doc.select("div.info-detail").text()
                             
                             val videoList = mutableListOf<String>()
