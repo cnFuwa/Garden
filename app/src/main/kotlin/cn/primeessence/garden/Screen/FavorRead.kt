@@ -74,7 +74,7 @@ fun FavorRead(
             )
 
             Text(
-                text = "startUrl: ${item.startUrl}",
+                text = "noteId: ${item.noteId}",
                 style = MaterialTheme.typography.bodyLarge
             )
 

@@ -27,7 +27,7 @@ class FavorRepo @Inject constructor(
          context: Context,
          fileName: String,
          title: String,
-         startUrl: String,
+         noteId: Long,
          cateId: Long
     ) = withContext(Dispatchers.IO) {
         val assetManager: AssetManager = context.assets
@@ -45,7 +45,7 @@ class FavorRepo @Inject constructor(
                             Favor(
                                 title = title,
                                 cateId = cateId,
-                                startUrl = startUrl,
+                                noteId = noteId,
                                 content = text,
                                 enabled = 1
                             )
@@ -59,7 +59,7 @@ class FavorRepo @Inject constructor(
                         Favor(
                             title = title,
                             cateId = cateId,
-                            startUrl = startUrl,
+                            noteId = noteId,
                             content = text2,
                             enabled = 1
                         )

@@ -72,7 +72,7 @@ fun FavorEdit(
 
             var cateIdText by remember(item.id) { mutableStateOf(item.cateId.toString()) }
             var title by remember(item.id) { mutableStateOf(item.title) }
-            var startUrl by remember(item.id) { mutableStateOf(item.startUrl) }
+            var noteIdText by remember(item.id) { mutableStateOf(item.noteId.toString()) }
             var content by remember(item.id) { mutableStateOf(item.content) }
             var enabledText by remember(item.id) { mutableStateOf(item.enabled.toString()) }
             var isDeletedText by remember(item.id) { mutableStateOf(item.isDeleted.toString()) }
@@ -100,9 +100,9 @@ fun FavorEdit(
             )
 
             OutlinedTextField(
-                value = startUrl,
-                onValueChange = { startUrl = it },
-                label = { Text("url") },
+                value = noteIdText,
+                onValueChange = { noteIdText = it },
+                label = { Text("noteId") },
                 modifier = Modifier
                     .fillMaxWidth(),
                 keyboardOptions = KeyboardOptions(
@@ -167,10 +167,11 @@ fun FavorEdit(
                 Button(
                     onClick = {
                         val cateId: Long = cateIdText.toLongOrNull() ?: 0L
+                        val noteId: Long = noteIdText.toLongOrNull() ?: 0L
                         vm.submit(
                             cateId = cateId,
                             title = title,
-                            startUrl = startUrl,
+                            noteId = noteId,
                             content = content,
                             enabled = enabledText.toIntOrNull() ?: 0,
                             isDeleted = isDeletedText.toIntOrNull() ?: 0

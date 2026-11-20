@@ -22,7 +22,8 @@ import org.jsoup.select.Elements
 
 @HiltViewModel
 class FavorViewModel @Inject constructor(
-    private val repo: FavorRepo
+    private val repo: FavorRepo,
+    private val noteRepo: NoteRepo
 ) : ViewModel() {
     
     private val okHttpClient = okhttp3.OkHttpClient()
@@ -104,21 +105,14 @@ class FavorViewModel @Inject constructor(
             _loading.value = true
             try {
                 val favor = repo.getById(favorId)
-                val htmlItem = repo.getById(2L)
-                if(favor != null && htmlItem != null) {
+                if(favor != null && favor.noteId > 0) {
                     _updating.value = "favor is not null"
-                    val startUrl = favor.startUrl.trim()
-                    if (startUrl.isNotEmpty() && startUrl.startsWith("https://")) {
-                        _updating.value = "url is ok"
-                        //val html = fetchHtml(startUrl)
-                        val html = htmlItem.content
+                    val note = noteRepo.getById(favor.noteId)
+                    if (note != null) {
+                        _updating.value = "note is ok"
+                        val html = note.content.trim()
                         var newContent = "init"
-                        if (
-                            html == "empty"
-                            || html == "failed"
-                            || html=="exception"
-                            || html.isBlank()
-                        ) {
+                        if (html.isBlank()) {
                             newContent = "null: " + html
                             _updating.value = "null" + html
                         } else {
@@ -147,7 +141,7 @@ class FavorViewModel @Inject constructor(
                                 val href = a.attr("href")
                                 val tit = a.selectFirst("h1.title")?.text() ?: ""
                                 val tim = a.selectFirst("span.time")?.text() ?: ""
-                                val lineText = "${tim.trim()}|${tit.trim()}|${href.trim()}"
+                                val lineText = "${tim.trim()}|${tit.trim()}\n${href.trim()}"
                                 videoList.add(lineText)
                             }
                             val videoText = videoList.joinToString("\n")
@@ -192,6 +186,52 @@ class FavorViewModel @Inject constructor(
         }
     }
     
+    fun fetchVideo(favorId: Long) {
+        viewModelScope.launch {
+            _loading.value = true
+            try {
+                val favor = repo.getById(favorId)
+                if(favor != null) {
+                    _updating.value = "favor is not null"
+                    val content = favor.content.trim()
+                    val lines = content.split("\n").map {it.trim()}
+                    val urls = mutableListOf<String>()
+                    for(line in lines) {
+                        if(line.startsWith("https://")){
+                            urls.add(line) 
+                        }
+                    }
+                    val videoList = mutableListOf<String>()
+                    if(urls.isNotEmpty()){
+                        for(url in urls) {
+                            val html = fetchHtml(url)
+                            val doc = Jsoup.parse(html)
+                            val videoSrc = doc.selectFirst("video")?.attr("src") ?: ""
+                            if(videoSrc.isNotEmpty()){ videoList.add(videoSrc) }
+                        }
+                    }
+                    _updating.value = "save video list"
+                    val targetContent = videoList.joinToString("\n")
+                    repo.insert(
+                        Favor(
+                            cateId = 1023L,
+                            noteId = favor.noteId,
+                            title = favor.title
+                            content = targetContent,
+                            enabled = 1
+                        )
+                    )
+                } else {
+                    _updating.value = "favor is null"
+                }
+            } catch (ex: Exception) {
+                _updating.value = "grab exception"
+            } finally {
+                _loading.value = false
+            }
+        }
+    }
+
     fun deleteById(favorId: Long) {
         viewModelScope.launch {
             try {

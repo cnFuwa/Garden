@@ -9,7 +9,7 @@ data class Favor(
     @PrimaryKey(autoGenerate = true) val id: Long = 0L,
     val cateId: Long = 0L,
     val title: String = "",
-    val startUrl: String = "",
+    val noteId: Long = 0L,
     val content: String = "",
     val enabled: Int = 0,
     val isDeleted: Int = 0
@@ -18,6 +18,7 @@ data class Favor(
 data class LiteFavor(
     val id: Long = 0L,
     val cateId: Long = 0L,
+    val noteId: Long = 0L,
     val title: String = "",
     val enabled: Int = 0
 )

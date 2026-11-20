@@ -168,7 +168,7 @@ class HomeViewModel @Inject constructor(
                         Favor(
                             title = FavorItem.TITLE,
                             cateId = FavorItem.CATE_ID,
-                            startUrl = FavorItem.START_URL,
+                            noteId = FavorItem.NOTE_ID,
                             content = FavorItem.CONTENT,
                             enabled = FavorItem.ENABLED,
                             isDeleted = FavorItem.IS_DELETED

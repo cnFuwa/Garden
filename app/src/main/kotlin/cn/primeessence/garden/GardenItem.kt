@@ -57,7 +57,7 @@ object FavorCateItem {
 object FavorItem {
     val TITLE: String = ""
     val CATE_ID: Long = 1L
-    val START_URL: String = ""
+    val NOTE_ID: Long = 0L
     val CONTENT: String = ""
     val ENABLED: Int = 0
     val IS_DELETED: Int = 0
