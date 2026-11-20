@@ -48,7 +48,7 @@ class FavorViewModel @Inject constructor(
 
     fun add() {
         val cateId: Long = 0L
-        val startUrl: String = ""
+        val noteId: Long = 0L
         val title: String = ""
         val content: String = ""
         
@@ -57,7 +57,7 @@ class FavorViewModel @Inject constructor(
                 repo.insert(
                     Favor(
                         cateId = cateId,
-                        startUrl = startUrl,
+                        noteId = noteId,
                         title = title,
                         content = content
                     )
@@ -216,7 +216,7 @@ class FavorViewModel @Inject constructor(
                         Favor(
                             cateId = 1023L,
                             noteId = favor.noteId,
-                            title = favor.title
+                            title = favor.title,
                             content = targetContent,
                             enabled = 1
                         )
